@@ -405,7 +405,7 @@ def geocode_zip(zipcode):
         r = _nominatim_search(zipcode)
         return r
 
-    return _cached_lookup(key, _fetch, "zip_centroid", sleep_after=NOMINATIM_SLEEP)
+    return _cached_lookup(key, _fetch, "zip_center", sleep_after=NOMINATIM_SLEEP)
 
 
 def geocode_city_county(city, county, state="TX"):
@@ -420,7 +420,7 @@ def geocode_city_county(city, county, state="TX"):
         return {
             "lat": coords[city]["lat"],
             "lon": coords[city]["lon"],
-            "source": "city_centroid",
+            "source": "city_center",
             "matched_address": f"{city}, {state}",
         }
 
@@ -431,7 +431,7 @@ def geocode_city_county(city, county, state="TX"):
         r = _nominatim_search(f"{city}, {county} County, {state}")
         return r
 
-    result = _cached_lookup(key, _fetch_county, "city_centroid",
+    result = _cached_lookup(key, _fetch_county, "city_center",
                             sleep_after=NOMINATIM_SLEEP)
     if result is not None:
         return result
@@ -443,7 +443,7 @@ def geocode_city_county(city, county, state="TX"):
         r = _nominatim_search(f"{city}, {state}")
         return r
 
-    return _cached_lookup(key2, _fetch_state, "city_centroid",
+    return _cached_lookup(key2, _fetch_state, "city_center",
                           sleep_after=NOMINATIM_SLEEP)
 
 
@@ -458,7 +458,7 @@ def geocode_county(county, state="TX"):
         r = _nominatim_search(f"{county} County, {state}")
         return r
 
-    return _cached_lookup(key, _fetch, "county_centroid", sleep_after=NOMINATIM_SLEEP)
+    return _cached_lookup(key, _fetch, "county_center", sleep_after=NOMINATIM_SLEEP)
 
 
 def _available_sources():

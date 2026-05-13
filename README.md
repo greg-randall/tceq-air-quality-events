@@ -16,7 +16,7 @@ lot of things the state would rather you didn't think about.
 The only columns we add are `latitude`, `longitude`, and
 `geocode_source`. Everything else comes straight from TCEQ. Coordinates
 are geocoded at the best precision the source address allows — street
-level when we can get it, city or county centroid when the address was
+level when we can get it, city or county center when the address was
 a highway intersection or a lease road.
 
 Source: [TCEQ Air Emission Event Reports](https://www2.tceq.texas.gov/oce/eer/index.cfm)
@@ -63,7 +63,7 @@ can have embedded newlines.
 | `basis` | Narrative text |
 | `latitude` | Decimal degrees |
 | `longitude` | Decimal degrees |
-| `geocode_source` | census, mapbox, nominatim_city, zip_centroid, city_centroid, county_centroid |
+| `geocode_source` | census, mapbox, nominatim_city, zip_center, city_center, county_center |
 
 ### incident_contaminants.csv (21 columns)
 
@@ -137,18 +137,18 @@ looks roughly like:
 ## Geocoding
 
 Geocoding runs inline during parsing. Each address gets up to six
-attempts, from street address to county centroid. The fallback chain
+attempts, from street address to county center. The fallback chain
 means everything resolves, but the less specific tiers give you city
-or county centroids rather than exact coordinates.
+or county centers rather than exact coordinates.
 
 | Tier | Source | Notes |
 |---|---|---|
 | 1 | Census Bureau | Free, no key. Catches ~28% of street addresses |
 | 2 | Mapbox v6 | Set `MAPBOX_TOKEN` to enable. Another ~23% |
 | 3 | Nominatim | Bare city names with ", Texas" tacked on |
-| 4 | ZIP centroid | Nominatim lookup by Texas ZIP code |
-| 5 | City centroid | Local DB of 1,841 Texas places, instant |
-| 6 | County centroid | Last resort. Low precision but covers everything |
+| 4 | ZIP center | Nominatim lookup by Texas ZIP code |
+| 5 | City center | Local DB of 1,841 Texas places, instant |
+| 6 | County center | Last resort. Low precision but covers everything |
 
 Results land in `geocode_cache.jsonl`. Negative results track which
 sources were tried (`sources_tried`), so adding a new geocoder later
