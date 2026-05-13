@@ -3,13 +3,12 @@
 TCEQ publishes air emission event reports on their website, but the
 data is split across 102,551 individual pages and Excel files with no
 bulk download. This pipeline scrapes, parses, and geocodes all of it
-into clean CSVs.
+into clean CSVs and JSONL.
 
 The reports cover incidents from 2004 to 2025: an oil refinery flare in
 Harris County, a compressor station upset in Ector County, a chemical
 plant shutdown in Gray County. Some addresses are street-level ("1221
-FULWILER RD; ABILENE, TX 79603"), others are driving directions
-("TURN LEFT ONTO W UNIVERSITY BLVD..."). There are 1,373 operators,
+FULWILER RD; ABILENE, TX 79603"), others are driving directions for places with no street address. There are 1,373 operators,
 2,108 distinct contaminants, and events range from under an hour to
 several weeks.
 

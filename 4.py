@@ -20,6 +20,48 @@ def _xls_to_csv(xls_path, csv_path):
     df.to_csv(csv_path, index=False)
 
 
+def _write_contaminants_md(output_dir):
+    """Generate CONTAMINANTS.md from the contaminant CSV."""
+    from collections import defaultdict
+
+    cont_csv = output_dir / "incident_contaminants.csv"
+    if not cont_csv.exists():
+        print("incident_contaminants.csv not found, run 4.py first")
+        return
+
+    data = defaultdict(lambda: {"count": 0, "total": 0, "units": set()})
+    with cont_csv.open() as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            name = row.get("contaminant", "")
+            data[name]["count"] += 1
+            data[name]["units"].add(row.get("units", ""))
+            try:
+                data[name]["total"] += float(row.get("est_quantity", 0) or 0)
+            except (ValueError, TypeError):
+                pass
+
+    top = sorted(data.items(), key=lambda x: x[1]["count"], reverse=True)
+
+    lines = [
+        "# Contaminants",
+        "",
+        f"{len(data)} unique compounds tracked across {sum(v['count'] for v in data.values()):,} emission records.",
+        "",
+        "| Contaminant | Records | Total Quantity | Units |",
+        "|---|---|---|---|",
+    ]
+    for name, info in top:
+        units = ", ".join(sorted(info["units"] - {""}))
+        qty = f"{info['total']:,.0f}" if info["total"] > 0 else ""
+        lines.append(f"| {name} | {info['count']} | {qty} | {units} |")
+
+    lines.append("")
+    md_path = Path("CONTAMINANTS.md")
+    md_path.write_text("\n".join(lines))
+    print(f"Wrote {len(data)} contaminants to {md_path}")
+
+
 def get_text(td):
     """Extract stripped text from a BeautifulSoup tag, return None if empty/nbsp."""
     if td is None:
@@ -261,10 +303,14 @@ def parse_html(filepath):
 
 
 def process_all():
-    # CLI: --debug (random 10), --limit N, --force-regen
+    output_dir = Path("output")
+    output_dir.mkdir(exist_ok=True)
+
+    # CLI: --debug (random 10), --limit N, --force-regen, --contaminants
     limit = None
     debug = False
     force_regen = "--force-regen" in sys.argv
+    gen_contaminants = "--contaminants" in sys.argv
     args = sys.argv[1:]
     if "--debug" in args:
         limit = 10
@@ -277,11 +323,12 @@ def process_all():
             break
     if force_regen:
         print("[--force-regen] ignoring cached .html.json and .xls.csv\n")
+    if gen_contaminants:
+        # Just regenerate CONTAMINANTS.md from existing output, then exit
+        _write_contaminants_md(output_dir)
+        return
 
     input_dir = Path("incident_full_data")
-    output_dir = Path("output")
-    output_dir.mkdir(exist_ok=True)
-
     html_files = sorted(input_dir.rglob("*.html"))
 
     if not html_files:
