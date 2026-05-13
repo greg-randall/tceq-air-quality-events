@@ -13,6 +13,13 @@ well pads and pipeline segments that don't have one. 1,373 operators.
 several weeks. It's a lot of sulfur dioxide, a lot of benzene, and a
 lot of things the state would rather you didn't think about.
 
+A note on data quality: some of the reported numbers are clearly
+wrong. Sulfur dioxide is listed with an opacity of 127,807%. A few
+tons of xylene somehow became a single opacity percentage. Whether
+this is carelessness, an underfunded agency, or something less
+charitable — you'll have to decide for yourself. We pass the data
+through as TCEQ published it.
+
 The only columns we add are `latitude`, `longitude`, and
 `geocode_source`. Everything else comes straight from TCEQ. Coordinates
 are geocoded at the best precision the source address allows — street
