@@ -1,0 +1,26 @@
+# Canonical name -> list of aliases found in TCEQ data.
+# The generator merges all aliases into the canonical name.
+# Add new variants as you find them.
+
+Carbon Monoxide:
+  - CO
+
+Sulfur dioxide:
+  - SO2
+  - SULFER DIOXIDE
+
+Ethylene (gaseous):
+  - Ethylene, gaseous
+
+Nitrogen Oxides (NOx):
+  - NOX
+  - Nitrogen Oxides
+  - Oxides of Nitrogen (NOx)
+
+Nitrogen oxide:
+  - Nitrogen monoxide
+
+VOC:
+  - VOC (Unspecified)
+  - VOC (unspeciated)
+  - VOC( unspeciated)

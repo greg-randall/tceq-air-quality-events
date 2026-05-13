@@ -14,6 +14,13 @@ from tqdm import tqdm
 from geocode import extract_city_zip, geocode_address, geocode_city_county, geocode_county, geocode_zip, get_cache_stats
 
 
+def _clean_field(val):
+    """Collapse newlines and whitespace in a CSV field."""
+    if val is None:
+        return None
+    return " ".join(str(val).split())
+
+
 def _xls_to_csv(xls_path, csv_path):
     """Convert a TCEQ emissions XLS file to CSV."""
     import pandas as pd
@@ -27,6 +34,17 @@ def _write_contaminants_md(output_dir):
     if not cont_csv.exists():
         print("incident_contaminants.csv not found, run 4.py first")
         return
+
+    # Load aliases
+    aliases = {}
+    alias_path = Path("contaminant_aliases.yaml")
+    if alias_path.exists():
+        import yaml
+        with alias_path.open() as f:
+            raw = yaml.safe_load(f) or {}
+        for canonical, variants in raw.items():
+            for v in variants:
+                aliases[v] = canonical
 
     # {name: {count, by_unit: {unit: {count, total, min, max}},
     #          by_year: {year: {count, by_unit: {unit: {...}}}}}}
@@ -43,6 +61,7 @@ def _write_contaminants_md(output_dir):
         reader = csv.DictReader(f)
         for row in reader:
             name = row.get("contaminant", "")
+            name = aliases.get(name, name)  # canonicalize
             unit = row.get("units", "").strip()
             data[name]["count"] += 1
             # Overall unit stats
@@ -572,6 +591,9 @@ def process_all():
         writer = csv.DictWriter(f, fieldnames=flat_fields, extrasaction='ignore')
         writer.writeheader()
         for inc in incidents:
+            for col in ("cause", "actions", "basis", "physical_location"):
+                if col in inc:
+                    inc[col] = _clean_field(inc[col])
             writer.writerow(inc)
     print(f"CSV  -> {inc_csv_path} ({len(incidents)} rows)")
 
@@ -612,7 +634,7 @@ def process_all():
                         'units': cont.get('units'),
                         'emission_limit': cont.get('emission_limit'),
                         'limit_units': cont.get('limit_units'),
-                        'authorization': cont.get('authorization'),
+                        'authorization': _clean_field(cont.get('authorization')),
                         'latitude': inc.get('latitude'),
                         'longitude': inc.get('longitude'),
                         'geocode_source': inc.get('geocode_source'),
