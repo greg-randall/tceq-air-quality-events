@@ -1,99 +1,102 @@
 # Canonical name -> list of aliases found in TCEQ data.
 # Only merge names that refer to the exact same chemical/substance.
-# Spelling variants, abbreviations, and formatting differences are fair game.
-# Different chemicals or different measurement methods stay separate.
+# Spelling variants, abbreviations, isomer mixes, and formatting
+# differences are fair game. Different chemicals stay separate.
+#
+# Regenerate CONTAMINANTS.md with: python3 4.py --contaminants
+# Full version:                 python3 4.py --contaminants-full
+
+# ── Simple formulas ──────────────────────────────────────────────
 
 Carbon Monoxide:
   - CO
+  - CO (Startup/Shutdown)
   - Carbon Monoxide (Startup/Shutdown)
 
 Sulfur dioxide:
   - SO2
   - SULFER DIOXIDE
   - Sulfur dioxide (anhydrous)
+  - SOx
+
+Hydrogen Sulfide:
+  - H2S
+  - Dihydrogen Sulfide
+  - HPV HYDROGEN SULFIDE
+  - total reduced sulfur
+  - TRS
+
+Ammonia:
+  - NH3
+  - Anhydrous ammonia
+  - Ammonia, anhydrous
+
+Hydrogen Cyanide:
+  - HCN
+  - Hydrocyanic acid
+
+Hydrogen Chloride:
+  - HCl
+  - Hydrochloric acid
+  - Hydrocloric Acid
+  - Hydrogen chloride
+
+Vinyl Chloride:
+  - VCM
+  - Vinyl Chloride Monomer
 
 Nitrogen Oxides (NOx):
   - NOX
-  - Nitrogen Oxides
-  - Oxides of Nitrogen (NOx)
+  - NOx
   - NOx (Startup/Shutdown)
+  - Nitrogen Oxides
+  - Nirogen Oxides
+  - Nitrous Oxides
+  - Oxides of Nitrogen (NOx)
+
+Nitrous Oxide:
+  - N2O
+
+# ── VOC variants ─────────────────────────────────────────────────
 
 VOC:
   - VOCs
   - Volatile Organic Compounds
+  - HPV VOLATILE ORGANIC COMPOUNDS
   - VOC (Unspecified)
   - VOC (unspeciated)
   - VOC( unspeciated)
   - VOC (unclassified)
   - VOC-unclassified
+  - VOC (C4's)
+  - VOC (C5's)
+  - VOC (C6+)
+  - VOC (C7+)
+  - VOC (C10)
+  - VOC (C11)
+  - VOC (C12)
+  - VOC (C13)
+  - VOC (C14)
+  - VOC (C15)
+  - VOC (C16)
+  - VOC exempt solvent (trade secret)
+  - VOC MIXTURE
+  - VOC - Crude
   - Unspeciated VOCs
+  - Unspeciated Flare Gas
   - Other VOCs
+  - Other (VOCs)
   - Misc. VOC
-  - HPV VOLATILE ORGANIC COMPOUNDS
+  - VOC (unspeciated)
+
+# ── Olefins / Alkenes ────────────────────────────────────────────
 
 Ethylene:
   - Ethylene (gaseous)
   - Ethylene, gaseous
+  - Ethylene (liquid)
   - Ethene
-
-Propane:
-  - Propane, N-
-  - n-propane
-
-Butanes:
-  - Butane
-  - Butane, N-
-  - n-butane
-  - Butane, i
-  - i-butane
-  - Isobutane
-  - Butanes
-
-Hydrogen Sulfide:
-  - H2S
-  - Hydrogen sulfide
-  - Dihydrogen Sulfide
-
-Particulate Matter:
-  - PM10
-  - PM (unspeciated)
-  - PM10 Silica,crystalline
-  - PM10 Carbon black
-  - PM10 Cement(Portland)
-  - PM10 Plastics
-  - PM10 part.aromatic
-  - PM10 Aluminum oxide- Al203
-  - PM10 Calcium carbonate-CaCO3
-  - PM10 Sand
-  - PM10 Wood dust (nonallergenic)
-  - PM2.5
-  - PM 2.5
-  - Cement Dust
-  - Cement (wet or dry)
-
-Xylenes:
-  - Xylene
-  - Xylene (mixed isomers)
-  - m,p-Xylene
-  - Mixed Xylene
-  - Xylene, m-
-  - Xylene, o-
-  - Xylene, p-
-  - M-Xylene
-  - O-Xylene
-  - P-Xylene
-  - metaxylene
-  - orthoxylene
-  - paraxylene
-  - meta-xylene
-  - ortho-xylene
-  - para-xylene
-
-Toluene:
-  - Methylbenzene
-
-Ethylbenzene:
-  - Ethyl Benzene
+  - Ethyne
 
 Propylene:
   - Propylene (Propene)
@@ -104,96 +107,119 @@ Butadiene:
   - Butadiene
   - 1,3 Butadiene
   - Butadiene, 1-3
+  - 1,3 Butadiene
+  - "1,3-Butadiene,2-methyl-"
 
 Isobutylene:
   - Isobutene
+  - Isobutylene Oxide
   - 2-Methyl propene
+  - Iso-Butene
 
-Pentanes:
-  - Pentane
-  - Pentane, N-
-  - n-pentane
-  - Isopentane
-  - pentane, iso-
-  - i-pentane
-  - Pentanes
+Butenes:
+  - Butene
+  - Butene1_Isobutene
+  - Butenes, All Isomers
+  - butenes
+  - 1-Butene
+  - 2-Butene
+  - 1-butane
+  - 2MBUTENE1
+  - "Butene, n-"
+  - Butylene
+  - Butylene Isomers
+  - Butene/Isobutene
+  - Cis-butene-2
+  - Trans-butene-2
+  - cis butene
+  - trans butene
+  - c-butene-2
+  - t-butene-2
+  - T-2 butene
+  - Cis-Butene
+  - Trans-Butene
+  - "trans-2-butene"
+  - "cis-2-butene"
+  - butene c-2
+  - butene-1
+  - C-2 butene
 
-Hexanes:
-  - Hexane
-  - Hexane, n
-  - n-Hexane
-  - N-Hexane
-  - Hexane, i
-  - Hexanes
-  - hexanes +
-  - Hexane Plus
+Pentenes:
+  - Pentene
+  - Pentenes
+  - 1-Pentene
+  - 2-Pentene
+  - c-pentene
+  - t-pentene
+  - cis-2-Pentene
+  - trans-2-pentene
+  - CISPENTENE
+  - Trans-Pentene
+  - "Pentene (CIS), 2-"
+  - "2-Pentene,(E)"
+  - "2-Pentene,(Z)"
+  - Amylene
+  - Amylenes
+  - pentene-1
+  - isopentene
+  - 2-methylbutene-1
+  - 2-methylbutene-2
+  - 3-methylbutene-1
+  - methylbutene
 
-Heptane:
-  - Heptane (or n-)
-  - Heptane,-n
-  - n-Heptane
-  - HEPTANE (OR N-)
+Hexenes:
+  - Hexene
+  - Hexenes
+  - 1-hexene
+  - 2-hexane
+  - 2-hexene
+  - c-hexene-2
+  - c-hexene-3
+  - t-hexene-2
+  - t-hexene-3
+  - hexene-1
+  - cis-2-hexane
+  - trans-2-hexene
+  - 4-methyl-1-pentene
 
-Ammonia:
-  - NH3
-  - Anhydrous ammonia
-  - Ammonia, anhydrous
+Heptenes:
+  - Heptene
+  - Heptenes
+  - 1-heptene
+  - c-heptene-2
+  - c-heptene-3
+  - t-heptene-3
+  - Isoheptene
 
-Hydrogen Chloride:
-  - Hydrochloric acid
-  - Hydrogen chloride
-  - Hydrocloric Acid
+Octenes:
+  - Octene
+  - Octenes
+  - 1-octene
+  - t-octene-2
+  - t-octene-4
+  - Isooctene
 
-Hydrogen Fluoride:
-  - Hydrofluoric acid
-  - Hydrogen fluoride
-  - Hydrogen fluoride (anhydrous)
+Nonenes:
+  - Nonene
+  - Nonenes
+  - 1-Nonene
+  - t-nonene-3
+  - Isononene
+  - iso-nonylene
 
-Methanol:
-  - Methyl alcohol
+Decenes:
+  - Decene
+  - Decenes
+  - 1-Decene
+  - decene-1
+  - Isodecanes
 
-Ethanol:
-  - Ethyl alcohol
+Undecenes:
+  - Undecene
+  - 1-Undecene
+  - undecene-1
 
-MEK:
-  - Methyl ethyl ketone
-  - Methyl ethyl ketone (MEK)
-  - 2-Butanone
-
-MTBE:
-  - Methyl tert-butyl ether
-
-Vinyl Chloride:
-  - VCM
-  - Vinyl Chloride Monomer
-
-Hydrogen Cyanide:
-  - HCN
-  - Hydrogen cyanide
-
-Styrene:
-  - Styrene
-
-Cyclohexane:
-  - Cyclohexane
-
-Cumene:
-  - Cumene
-  - Isopropyl Benzene
-  - Isopropylbenzene
-
-Benzene:
-  - Benzene
-
-Naphthalene:
-  - Napthalene
-  - Naphthalene
-
-Formaldehyde:
-  - Formaldehyde
-
-Acetone:
-  - Acetone
+# ── Paraffins / Alkanes ──────────────────────────────────────────
 
 Methane:
   - Methane
@@ -201,24 +227,540 @@ Methane:
 Ethane:
   - Ethane
 
-Nitrogen:
-  - NITROGEN
+Propane:
+  - Propane
+  - Propane, N-
+  - n-propane
 
-Chlorine:
-  - Chlorine
+Butanes:
+  - Butane
+  - Butane, N-
+  - Butane, i
+  - n-butane
+  - i-butane
+  - iso-Butane
+  - Isobutane
+  - Butanes
+  - "Butane, 2-methyl"
+  - "Butane, 2-methyl-"
+  - Neopentane
+  - "2,2-Dimethylpropane"
+  - 2-methylpropane
+  - 2-methylbutane
+  - 2-methyl-butane
+  - 2-methylbutene-1
+  - 2-methylbutene-2
+  - 3-methylbutene-1
 
-Acrylonitrile:
-  - Acrylonitrile
+Pentanes:
+  - Pentane
+  - Pentane, N-
+  - Pentanes
+  - n-pentane
+  - i-pentane
+  - Isopentane
+  - pentane, iso-
+  - neo-pentane
+  - Pentane Plus
+  - Methylpentane
+  - Methylpentanes
+  - Dimethylpentanes
+  - Dimethylpentane
+  - "2,2-dimethylpentane"
+  - "2,3-dimethylpentane"
+  - "2,4-dimethylpentane"
+  - "3,3-Dimethylpentane"
+  - 2-2-dimethylpentane
+  - 2-methylpentane
+  - 3-methylpentane
+  - 2-Methyl-Pentane
+  - "Pentane, 2-methyl"
+  - "Pentane, 3-methyl-"
+  - 3-Methyl-Pentane
+  - 2,2-dimethylbutane
+  - 2,3-dimethylbutane
+  - "2,2 - Dimethyl butane"
+  - "2,3 - Dimethyl butane"
+  - dimethyl butane
+  - Dimethyl Butanes
+  - "2,2-DIMETHYLBUTANE"
+  - "2,3-Dimethylbutane"
+  - "2,3-dimethyl-1-butene"
+  - "3,3-dimethyl-1-butene"
+  - 3,3-dimethylpentene-1
 
-Carbon Dioxide:
-  - Carbon Dioxide
+Hexanes:
+  - Hexane
+  - Hexane, n
+  - Hexane, i
+  - Hexanes
+  - n-Hexane
+  - N-Hexane
+  - i-hexane
+  - Iso-Hexane
+  - Isohexane
+  - hexanes +
+  - Hexane Plus
+  - Hexanes (any isomer)
+  - "Hexane, all isomers"
+  - Methylhexanes
+  - "Hexane, 2-methyl-"
+  - "Hexane, 3-methyl-"
+  - 2-methylhexane
+  - 2-methyl hexane
+  - 2-Methylhexane
+  - 3-methylhexane
+  - "2,2-dimethylhexane"
+  - "2,3-dimethylhexane"
+  - "2,4-dimethylhexane"
+  - "2,4-Dimethylhexane"
+  - "2,5-dimethylhexane"
+  - "2, 5-dimethylhexane"
+  - "2,5-Dimethylhexane"
+  - "2,2,3-trimethylpentane"
+  - "2,2,4-trimethylpentane"
+  - "2,3,4-trimethylpentane"
+  - "Trimethylpentane, 2,2,4-"
+  - Trimethylpentanes
+  - "2,2,3-Trimethyl Pentane"
+  - 3-methylhexane
+  - 3-Methylhexane
+  - 2-methylpentane
+  - 3-methylpentane
+  - 2-Methylpentane
+  - 3-Methylpentane
+  - 3 methylpentane
+  - Neohexane
+  - NEOHEXANE
+
+Heptanes:
+  - Heptane
+  - Heptane (or n-)
+  - Heptane,-n
+  - HEPTANE (OR N-)
+  - n-Heptane
+  - Heptanes
+  - Heptanes/C7 Hydrocarbons
+  - Methylheptane
+  - Methyl heptane
+  - 2-methylheptane
+  - 3-methylheptane
+  - 4-methylheptane
+  - 2-Methylheptane
+  - 3-Methylheptane
+  - 4-Methylheptane
+  - Methylheptanes
+  - "2-methyl-3-ethylpentane"
+  - Dimethylheptanes
+  - "2,3-dimethylheptane"
+  - "2,4-dimethylheptane"
+  - "2,5-dimethylheptane"
+  - "2,6-dimethylheptane"
+  - "3,4-dimethylheptane"
+  - "4,4-dimethylheptane"
+  - "2,2-dimethylheptane"
+  - "2,3- dimethylheptane"
+  - "2,4dimethylheptane"
+  - "3,4dimethylheptane"
+  - dimethylheptane
+  - Isoheptane
+  - 3-ethylpentane
+
+Octanes:
+  - Octane
+  - Octanes
+  - Octanes/C8 Hydrocarbons
+  - n-octane
+  - Isooctane
+  - Methyloctanes
+  - 2-methyloctane
+  - 3-methyloctane
+  - 4-methyloctane
+  - "Octane, 2-methyl"
+  - "Octane, all isomers"
+  - n-octane +octenes
+  - "2,3-dimethyloctane"
+  - "2,4-dimethyloctane"
+  - "2,5-dimethyloctane"
+  - "2,6-dimethyloctane"
+  - "2,2-dimethyloctane"
+  - "3,6 dimethyloctane"
+  - Trimethyloctanes
+  - "2,3,3-trimethyloctane"
+
+Nonanes:
+  - Nonane
+  - Nonanes
+  - Nonanes/C9 Hydrocarbons
+  - n-Nonane
+  - n-nonane
+  - Isononane
+  - 2-methylnonane
+  - 3-methylnonane
+  - 4-methylnonane
+  - 5-methylnonane
+  - "3,7-dimethylnonane"
+
+Decanes:
+  - Decane
+  - Decanes
+  - Decanes/C10 Hydrocarbons
+  - n-Decane
+  - decane-n
+  - "Decane, 2-methyl-"
+  - "Decane, 3-methyl-"
+  - "Decane, 4-methyl-"
+  - "Decane, 3,7-dimethyl"
+  - 2-methyldecane
+
+Undecanes:
+  - Undecane
+  - Undecanes
+  - Undecanes/C11 Hydrocarbons
+  - n-undecane
+  - "Undecane, 2-methyl"
+  - "Undecane, 2,6-dimethyl-"
+  - "Undecane, 3,6-dimethyl"
+  - "Undecane, 6-methyl-"
+
+Dodecanes:
+  - Dodecane
+  - Dodecanes
+  - Dodecanes/C12 Hydrocarbons
+  - n-dodecane
+  - Dodecene
+
+Tridecanes:
+  - Tridecane
+  - Tridecanes
+  - Tridecanes/C13 Hydrocarbons
+  - n-tridecane
+  - tridecene-1
+
+Tetradecanes:
+  - Tetradecane
+  - Tetradecanes
+  - Tetradecanes/C14 Hydrocarbons
+  - n-Tetradecane
+  - 1-tetradecene
+  - Tetradecene
+
+Pentadecanes:
+  - Pentadecane
+  - Pentadecanes/C15 Hydrocarbons
+  - n-Pentadecane
+
+Hexadecanes:
+  - Hexadecane
+  - Hexadecanes/C16 Hydrocarbons
+  - n-Hexadecane
+  - Hexadecene
+
+Heptadecanes:
+  - Heptadecane
+  - Heptadecanes/C17 Hydrocarbons
+  - n-Heptadecane
+  - Heptadecene
+  - 1-heptadecene
+
+Octadecanes:
+  - Octadecane
+  - Octadecanes/C18 Hydrocarbons
+  - n-Octadecane
+  - octadecene
+
+Nonadecanes:
+  - Nonadecane
+  - Nonadecanes/C19 Hydrocarbons
+  - n-Nonadecane
+
+Eicosanes:
+  - Eicosene
+  - Icosanes/C20 Hydrocarbons
+  - n-Eicosane
+
+Henicosanes:
+  - Henicosanes/C21+ Hydrocarbons
+
+# ── Cyclic hydrocarbons ──────────────────────────────────────────
+
+Cyclohexane:
+  - Cyclohexane
+  - Cyclo Hexane
+  - Cyclo Pentane
+
+Methylcyclohexane:
+  - Methylcyclohexane
+  - methyl cyclohexane
+  - Mcyclohexane
+
+Cyclopentane:
+  - Cyclopentane
+  - cyclopentane
+
+Cyclopropane:
+  - Cyclopropane
+  - cyclopropane
+
+# ── Aromatics ─────────────────────────────────────────────────────
+
+Benzene:
+  - Benzene
+  - "Benzene, methyl-"
+
+Toluene:
+  - Toluene
+  - Methylbenzene
+  - "Toluene, 2,4-Diamine"
+  - Toluenediamine
+
+Ethylbenzene:
+  - Ethylbenzene
+  - Ethyl Benzene
+  - ethylebenzene
+
+Xylenes:
+  - Xylene
+  - Xylenes
+  - Xylene (mixed isomers)
+  - Mixed Xylene
+  - m,p-Xylene
+  - "Xylene, m-"
+  - "Xylene, o-"
+  - "Xylene, p-"
+  - M-Xylene
+  - O-Xylene
+  - P-Xylene
+  - meta-xylene
+  - ortho-xylene
+  - para-xylene
+  - metaxylene
+  - orthoxylene
+  - paraxylene
+  - Orthoxylene
+  - p-xylene
+  - para xylene
+  - m-xylene
+  - o-xylene
+
+Cumene:
+  - Cumene
+  - Isopropyl Benzene
+  - Isopropylbenzene
+  - i-propylbenzene
+
+Styrene:
+  - Styrene
+  - Methyl Styrene
+  - methylstyrene
+  - Vinyl-toluene
+  - Alpha-methyl styrene
+  - Beta-methyl styrene
+  - alpha-methyl-styrene
+  - p-methylstyrene
+  - 4-Vinylcyclohexene
+  - vinylcyclohexene
+  - VinylCyclohexane
+  - Vinylnorbornene
+  - "Cyclohexene, 4-ethenyl-"
+  - 4-ethenyl-Cyclohexene
+  - Vinylcyclohexene
+
+Naphthalene:
+  - Naphthalene
+  - Napthalene
+  - Naphtha
+  - Naptha
+
+Trimethylbenzenes:
+  - Trimethylbenzene
+  - Trimethyl benzene
+  - "1,2,3-trimethylbenzene"
+  - "1,2,4-Trimethylbenzene"
+  - "1,3,5-trimethylbenzene"
+  - "1,2,3 trimethylbenzene"
+  - "1,2,4 Trimethylbenzene"
+  - "1,2,4-trimethyl-5-ethyl benzene"
+  - "Trimethylbenzene, 1,2,4-"
+  - "Benzene, 1,2,3-trimethyl"
+  - Pseudocumene
+  - Mesitylene
+
+Tetramethylbenzenes:
+  - "1,2,3,4-tetramethylbenzene"
+  - "1,2,3,5-tetramethylbenzene"
+  - "1,2,4,5-tetramethylbenzene"
+  - "1,2,4,5 tetramethylbenzene"
+  - "1,2,3,5 tetramethylbenzene"
+  - Tetramethyl benzene
+  - "1, 2, 3, 4-tetramethylbenzene"
+  - "1,2,3,5-Tetramethyl Benzene"
+  - "1,2,4,5-Tetramethyl Benzene"
+
+# ── Alcohols ──────────────────────────────────────────────────────
+
+Methanol:
+  - Methanol
+  - Methyl alcohol
+
+Ethanol:
+  - Ethanol
+  - Ethyl alcohol
+  - Denatured Alcohol
+
+Isopropanol:
+  - Isopropanol
+  - Isopropyl alcohol
+  - 2-Propanol
+  - Propan-2-ol
+
+Butanol:
+  - Butanol
+  - n-Butanol
+  - n-butanol
+  - "Butyl alcohol, n-"
+  - "Butyl Alcohol, n-"
+  - 1-Butanol
+  - sec-Butanol
+  - sec-butanol
+  - "Butyl alcohol, sec-"
+  - "Butyl alcohol, tert-"
+  - Tert Butanol
+  - t-Butyl Alcohol
+  - tert-Butyl Alcohol
+  - tertiary butyl alcohol
+  - Tertiary-amyl alcohol
+
+# ── Ketones ───────────────────────────────────────────────────────
+
+Acetone:
+  - Acetone
+  - 2-Propanone
+
+MEK:
+  - MEK
+  - Methyl ethyl ketone
+  - Methyl ethyl ketone (MEK)
+  - 2-Butanone
+  - sec-butanone
+
+MIBK:
+  - Methyl isobutyl ketone
+  - Methyl isobutyl carbinol
+
+# ── Aldehydes ─────────────────────────────────────────────────────
+
+Formaldehyde:
+  - Formaldehyde
+
+Acetaldehyde:
+  - Acetaldehyde
+  - "Acetaldehyde, trichloro-"
+  - Chloroacetaldehyde
+  - Dichloroacetaldehyde
+  - Trichloroacetaldehyde
+
+# ── Acids ─────────────────────────────────────────────────────────
+
+Acetic acid:
+  - Acetic acid
+
+Formic acid:
+  - Formic acid
+
+Hydrogen Fluoride:
+  - Hydrogen fluoride
+  - Hydrogen fluoride (anhydrous)
+  - Hydrofluoric acid
+  - Fluohydric acid
+
+# ── Particulate Matter ───────────────────────────────────────────
+
+Particulate Matter:
+  - PM10
+  - PM (unspeciated)
+  - PM30
+  - PM2.5
+  - PM 2.5
+  - PM 2.5 Sand
+  - PM10 Silica,crystalline
+  - "PM10 Carbon black"
+  - PM10 Carbon-C
+  - PM10 Cement(Portland)
+  - PM10 Cement(portand)
+  - PM10 Plastics
+  - PM10 part.aromatic
+  - "PM10 Aluminum oxide- Al203"
+  - "PM10 Calcium carbonate-CaCO3"
+  - PM10 Sand
+  - "PM10 Wood dust (nonallergenic)"
+  - PM10 C.I. DIRECT BLACK 38
+  - HPV PARTICULATE MATTER < 10 UM
+  - HPV PARTICULATE MATTER < 2.5 UM
+  - Particulate Matter
+  - Cement Dust
+  - Cement (wet or dry)
+  - Cement Kiln Dust
+  - Soda Ash
+  - Sand
+  - "PM10 Silica,crystalline"
+  - Alumina
+  - Alumina Hydrate Dust
+  - Calcined Alumina Dust
+  - Alumina (Boehmite)
+  - FLY ASH
+  - Fly ash combustion residue
+  - CARBON BLACK
+  - Carbon Black Oil
+  - Carbon Soot
+  - Lime
+  - Quick lime
+  - Limestone
+  - Calcium Carbonate
+  - PM Calcium Carbonate
+  - Calcium oxide
+  - Calcium hydroxide
+  - Silica
+  - Silicon dioxide (PM)
+  - Talc
+  - Ground Talc
+  - talcum powder
+  - Graphite
+  - Diatomaceous Earth
+  - Mica
+  - Perlite
+  - asbestos
+  - Asbestos (friable)
+  - Baghouse Dust (K061)
+  - Dust
+  - Balsa Wood Dust
+  - Wood dust (nonallergenic)
+  - Green Petroleum Coke Fly Ash
+  - Coke
+  - Activated carbon
+  - Rust scale
+  - CONCRETE
+  - Protein Powder (dust)
+
+# ── Opacity / visible emissions ──────────────────────────────────
 
 Opacity:
+  - Opacity
   - Opacity No.1 - 2323
+  - Visible Emissions
+  - HPV VISIBLE EMISSIONS
+  - Smoke
+  - Smoking Emission
 
-Condensate:
-  - CONDENSATE
+# ── Fuels / petroleum cuts ───────────────────────────────────────
+
+Natural Gas:
+  - NATURAL GAS
+  - sweet natural gas
+  - Natural Gas Liquid (Mixture)
   - Natural Gas Condensate
+  - Natural gasoline
+  - Natural (casing head) gasoline
 
 Crude Oil:
   - Crude Oil
@@ -226,6 +768,9 @@ Crude Oil:
   - Crude oil heavy
   - Light crude oil
   - Heavy crude oil
+  - Crude oil / Produced Water
+  - Crude Condensate
+  - Crude Isoprene
 
 Diesel:
   - Diesel
@@ -233,12 +778,428 @@ Diesel:
   - Diesel fuel 2-D
   - Diesel #2
   - Diesel (unspeciated)
+  - Heavy diesel oil
+  - diesel and gsoline mixture
 
 Gasoline:
   - Gasoline
   - GASOLINE, AUTOMOTIVE OR AVIATION
   - Automotive Unleaded gasoline
+  - Gasoline Blendstock
+  - Gasoline Vapor
+  - Gasoline Blend Stock
+  - Other gasoline constituents
+  - Natural (casing head) gasoline
 
 LPG:
   - LPG (liquified petroleum gas)
   - Liquefied petroleum gas (LPG)
+  - Unspeciated LPG
+
+CONDENSATE:
+  - CONDENSATE
+  - Natural Gas Condensate
+  - Crude Condensate
+
+# ── Refinery streams ─────────────────────────────────────────────
+
+Gas Oil:
+  - Gas Oil
+  - Atmospheric Gas Oil, Unspeciated
+  - Gas Oil VOC's - Unspeciated
+  - Process Gas Oil
+  - Vacuum Gas Oil
+  - Paraffinic Gas Oil
+  - Aromatic Gas Oil
+  - Olefinic Gas Oil
+  - Sweet Gas Oil
+
+Light Cycle Oil:
+  - Light Cycle Oil
+  - Light Cycle Oil - Unspeciated
+
+Slop Oil:
+  - Slop Oil
+  - Slop Oil - Unspeciated
+
+Slurry Oil:
+  - Slurry Oil
+  - Slurry Oil - unspeciated
+
+Naphtha:
+  - Naphtha
+  - "Naphtha (petroleum), catalytic reformed"
+  - "Naphtha (Petroleum), Hydrotreated Heavy"
+  - aromatic naphtha
+  - VM&P naptha
+
+# ── Glycols / Ethers ─────────────────────────────────────────────
+
+Ethylene glycol:
+  - Ethylene glycol
+
+Propylene glycol:
+  - Propylene glycol
+  - Monopropylene Glycol
+
+Glycol ethers:
+  - Glycol ethers
+
+# ── Refrigerants ──────────────────────────────────────────────────
+
+HFC-134a:
+  - "1,1,1,2-Tetrafluoroethane"
+  - "1,1,1,2 - Tetrafluoroethane"
+  - R-134A Refrigerant
+  - "Ethane, 1,1,1,2-Tetrafluoro-(HFC-134a)"
+  - "1,1,1,2-tetrafluoroethane  (HFC- 134a)"
+  - HCFC 134A
+  - HFC-134
+  - "Ethane, 1,1,1,2-tetrafluoro"
+  - Tetrafluoroethane
+
+HCFC-22:
+  - HCFC-22
+  - Freon 22 (Chlorodifluoromethane)
+  - Chlorodifluoromethane
+  - R-22 (Monochlorodifluoromethane)
+
+# ── Other specific chemicals ──────────────────────────────────────
+
+MTBE:
+  - MTBE
+  - Methyl tert-butyl ether
+  - methyl tert-butyl ether (MTBE)
+  - Methyl tertiary butyl ether
+
+Acrylonitrile:
+  - Acrylonitrile
+  - Propenenitrile
+
+Acrolein:
+  - Acrolein
+  - "Propenal, 2-"
+
+Adiponitrile:
+  - Adiponitrile
+
+Benzonitrile:
+  - Benzonitrile
+
+Maleic anhydride:
+  - Maleic anhydride
+
+Phthalic anhydride:
+  - Phthalic anhydride
+
+Methyl mercaptan:
+  - Methyl mercaptan
+  - Methanethiol
+
+Ethyl mercaptan:
+  - Ethyl mercaptan
+  - Ethanethiol
+
+Propyl mercaptan:
+  - n-Propyl Mercaptan
+  - Isopropyl Mercaptan -
+
+Butyl mercaptan:
+  - tert-Butyl Mercaptan 75-66-1
+  - secondary butyl mercaptan
+
+Dimethyl sulfide:
+  - Dimethyl sulfide
+
+Dimethyl disulfide:
+  - Dimethyl Disulfide
+
+Carbon disulfide:
+  - Carbon disulfide
+
+Carbonyl sulfide:
+  - Carbonyl sulfide
+
+Sulfuric acid:
+  - Sulfuric acid
+  - "Sulfuric acid,  mixture with sulfurtrioxide"
+  - Oleum (fuming sulfuric acid)
+  - Spent Sulfuric Acid
+
+Perchloroethylene:
+  - Perchloroethylene
+  - Tetrachloroethylene
+  - Tetrachloroethene
+
+Trichloroethylene:
+  - Trichloroethylene
+
+Methylene chloride:
+  - Methylene chloride
+  - Dichloromethane
+
+Chloroform:
+  - Chloroform
+
+Carbon tetrachloride:
+  - Carbon tetrachloride
+
+Ethylene dichloride:
+  - Ethylene dichloride
+  - "1,2-Dichloroethane"
+  - Ethylene chloride
+  - Dichloroethane
+
+Vinyl acetate:
+  - Vinyl acetate
+  - Vinyl acetate monomer
+  - VAC
+
+Methyl methacrylate:
+  - Methyl methacrylate
+
+Butyl acrylate:
+  - Butyl acrylate
+  - N-Butyl acrylate
+
+Ethyl acrylate:
+  - Ethyl acrylate
+
+Acrylic acid:
+  - Acrylic acid
+  - Methacrylic Acid
+
+Phenol:
+  - Phenol
+
+Cresols:
+  - Cresol(s) (mixed isomers)
+  - "Cresol, o-"
+  - "Cresol, m-"
+  - 3-Cresol
+  - P-Cresol
+
+Bisphenol A:
+  - "4,4 Cyclohexylidenebis-phenol"
+  - "4,4'-Isopropylidenediphenol"
+  - Bisphenol-A-(epichlorhydrin)
+
+Dimethylformamide:
+  - Dimethylformamide
+  - "N,N-Dimethylformamide"
+
+N-Methylpyrrolidone:
+  - N-Methylpyrrolidone
+  - N-Methyl-2-pyrrolidone
+  - N-Methyl-2-pyrrolidine
+  - N-METHYLPYRROLIDINONE
+  - 1-METHYL-2-PYRROLIDINONE
+  - 2-Pyrrolidone
+  - Vinylpyrrolidone
+
+Sodium hypochlorite:
+  - Sodium hypochlorite
+  - Sodium hypochlorite 2
+  - Sodium hypochlorite (Chlorox)
+
+Chlorine:
+  - Chlorine
+
+Hydrogen peroxide:
+  - Hydrogen peroxide
+
+Nitrogen:
+  - NITROGEN
+
+Carbon Dioxide:
+  - Carbon Dioxide
+
+Carbon Disulfide:
+  - Carbon disulfide
+
+Mercury:
+  - Mercury
+
+Lead:
+  - Lead
+  - "Lead, tetraethyl (TEL)"
+
+Acetylene:
+  - Acetylene
+  - Ethyne
+
+Methyl acetylene:
+  - Methyl Acetylene
+  - Methylacetylene
+  - Propyne
+
+Propadiene:
+  - Propadiene
+
+Methylacetylene Propadiene:
+  - Methyl acetylene propadiene
+  - Methylacetylene Propadiene
+
+Ethylene oxide:
+  - Ethylene oxide
+  - Ethene oxide
+  - Oxirane
+
+Propylene oxide:
+  - Propylene oxide
+
+Epichlorohydrin:
+  - Epichlorohydrin
+
+Acetone cyanohydrin:
+  - Acetone cyanohydrin
+
+Cyclohexanone:
+  - Cyclohexanone
+
+Cyclohexanol:
+  - Cyclohexanol
+
+Isophorone:
+  - Isophorone
+
+Tetrahydrofuran:
+  - Tetrahydrofuran
+  - "Furan, tetrahydro-"
+
+Furfural:
+  - Furfural
+  - "Furaldehyde, 2-"
+  - furfuraldehyde
+
+Phosgene:
+  - Phosgene
+
+Aniline:
+  - Aniline
+
+Nitrobenzene:
+  - Nitrobenzene
+
+Titanium dioxide:
+  - Titanium dioxide
+
+Zinc:
+  - Zinc
+
+Copper:
+  - Copper
+
+Nickel:
+  - Nickel
+  - Nickel compounds
+
+Chromium:
+  - Chromium
+  - Chromium compounds
+
+Cadmium:
+  - Cadmium
+  - Cadmium compounds
+
+Arsenic:
+  - Arsenic
+  - Arsenic compounds
+
+Vanadium:
+  - Vanadium (fume or dust)
+  - Vanadium pentoxide
+
+Antimony:
+  - Antimony
+
+Beryllium:
+  - Beryllium
+
+Selenium:
+  - Selenium
+
+Silver:
+  - Silver
+
+Manganese:
+  - Manganese
+  - Manganese and compounds
+
+Cobalt:
+  - Cobalt
+
+Molybdenum:
+  - Molybdenum
+  - Molydenum
+
+Barium:
+  - Barium and compounds
+  - Barium sulfate
+
+Polyethylene:
+  - Polyethylene
+  - polyethylene powder
+  - Polypropylene
+  - Polymer
+  - polymer fines
+  - polycarbonate
+  - Polyphenylene Sulfide
+  - PVC powder
+  - polyethylbenzene
+  - polyethylbenzene  (PEB)
+  - polyethylbenzene (PEB)
+  - Poly Alpha Olefin
+  - Polyisobutylene byproduct
+  - Polyolefin Anhydride
+  - Polyesters
+  - Polydimethylsiloxane
+  - Dimethypolysiloxane
+  - Dimethicone
+  - vinyl resin
+
+# ── Generic / mixture categories ──────────────────────────────────
+
+Hydrocarbons:
+  - Hydrocarbons
+  - Hydrocarbon
+  - hydrocarbon
+
+C5s:
+  - C5
+  - C5s
+  - C5+ (not including benzene)
+
+C6s:
+  - C6
+  - C6s
+
+C7s:
+  - C7s
+
+C8s:
+  - C8
+  - C8s
+
+C9s:
+  - C9s
+
+Unknown:
+  - Unknown
+  - Unknown or other oil
+  - Unknown light oil
+  - Other
+  - Other material
+  - Other Organics
+  - Other C5's
+  - Other C5's +
+  - Other C4's
+  - Other C5s
+  - Other C6s
+  - Other C6-C9s
+  - Other C7s
+  - Other C8s
+  - Other C9s
+  - Other C10's Aromatic
+  - Other gasoline constituents
+  - Other oligomers
