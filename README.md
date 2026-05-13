@@ -1,10 +1,14 @@
 # TCEQ Air Emission Event Reports
 
-Downloads and parses air quality emission event reports from the
-Texas Commission on Environmental Quality (TCEQ). Covers 102,551
-incidents across 211 counties, Jan 2004 to Dec 2025.
+TCEQ publishes air emission event reports on their website, but the
+data is split across 102,551 individual pages and Excel files with no
+bulk download. This pipeline scrapes, parses, and geocodes all of it
+into clean CSVs you can actually work with.
 
-Every incident is geocoded. Not most of them. All of them. There's a six-tier fallback chain that starts with street addresses and doesn't stop until it hits county centroid.
+Locations are geocoded at varying precision — some are street-level
+hits, others are city or county centroids where the address was a
+driving direction or a rural description. It's the best you can get
+from the source data, but don't expect survey-grade coordinates.
 
 ## Scope
 
@@ -16,7 +20,7 @@ Every incident is geocoded. Not most of them. All of them. There's a six-tier fa
 | **Event types** | 5 (air startup, air shutdown, emissions event, excess opacity, maintenance) |
 | **Operators** | 1,373 |
 | **Contaminants** | 2,108 unique compounds |
-| **Geocode coverage** | 100% |
+| **Geocode coverage** | All incidents have lat/lon; precision varies by address quality |
 | **Source** | [TCEQ Air Emission Event Reports](https://www2.tceq.texas.gov/oce/eer/index.cfm) |
 
 ## Pipeline
@@ -82,8 +86,10 @@ Every incident is geocoded. Not most of them. All of them. There's a six-tier fa
 
 ## Geocoding
 
-The geocoding chain runs inside the parse step. Each address gets up to
-six attempts:
+Geocoding runs inline during parsing. Each address gets up to six
+attempts, from street address to county centroid. The fallback chain
+means everything resolves, but the less specific tiers give you city
+or county centroids rather than exact coordinates.
 
 | Tier | Source | Notes |
 |---|---|---|
@@ -92,7 +98,7 @@ six attempts:
 | 3 | Nominatim | Bare city names with ", Texas" tacked on |
 | 4 | ZIP centroid | Nominatim lookup by Texas ZIP code |
 | 5 | City centroid | Local DB of 1,841 Texas places — instant, no API call |
-| 6 | County centroid | Every incident has a county, so this always works |
+| 6 | County centroid | Last resort. Low precision but covers everything |
 
 Results land in `geocode_cache.jsonl`. Negative results track which
 sources were tried (`sources_tried`), so if someone adds a new
