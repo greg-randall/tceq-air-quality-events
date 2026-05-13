@@ -1,26 +1,244 @@
 # Canonical name -> list of aliases found in TCEQ data.
-# The generator merges all aliases into the canonical name.
-# Add new variants as you find them.
+# Only merge names that refer to the exact same chemical/substance.
+# Spelling variants, abbreviations, and formatting differences are fair game.
+# Different chemicals or different measurement methods stay separate.
 
 Carbon Monoxide:
   - CO
+  - Carbon Monoxide (Startup/Shutdown)
 
 Sulfur dioxide:
   - SO2
   - SULFER DIOXIDE
-
-Ethylene (gaseous):
-  - Ethylene, gaseous
+  - Sulfur dioxide (anhydrous)
 
 Nitrogen Oxides (NOx):
   - NOX
   - Nitrogen Oxides
   - Oxides of Nitrogen (NOx)
-
-Nitrogen oxide:
-  - Nitrogen monoxide
+  - NOx (Startup/Shutdown)
 
 VOC:
+  - VOCs
+  - Volatile Organic Compounds
   - VOC (Unspecified)
   - VOC (unspeciated)
   - VOC( unspeciated)
+  - VOC (unclassified)
+  - VOC-unclassified
+  - Unspeciated VOCs
+  - Other VOCs
+  - Misc. VOC
+  - HPV VOLATILE ORGANIC COMPOUNDS
+
+Ethylene:
+  - Ethylene (gaseous)
+  - Ethylene, gaseous
+  - Ethene
+
+Propane:
+  - Propane, N-
+  - n-propane
+
+Butanes:
+  - Butane
+  - Butane, N-
+  - n-butane
+  - Butane, i
+  - i-butane
+  - Isobutane
+  - Butanes
+
+Hydrogen Sulfide:
+  - H2S
+  - Hydrogen sulfide
+  - Dihydrogen Sulfide
+
+Particulate Matter:
+  - PM10
+  - PM (unspeciated)
+  - PM10 Silica,crystalline
+  - PM10 Carbon black
+  - PM10 Cement(Portland)
+  - PM10 Plastics
+  - PM10 part.aromatic
+  - PM10 Aluminum oxide- Al203
+  - PM10 Calcium carbonate-CaCO3
+  - PM10 Sand
+  - PM10 Wood dust (nonallergenic)
+  - PM2.5
+  - PM 2.5
+  - Cement Dust
+  - Cement (wet or dry)
+
+Xylenes:
+  - Xylene
+  - Xylene (mixed isomers)
+  - m,p-Xylene
+  - Mixed Xylene
+  - Xylene, m-
+  - Xylene, o-
+  - Xylene, p-
+  - M-Xylene
+  - O-Xylene
+  - P-Xylene
+  - metaxylene
+  - orthoxylene
+  - paraxylene
+  - meta-xylene
+  - ortho-xylene
+  - para-xylene
+
+Toluene:
+  - Methylbenzene
+
+Ethylbenzene:
+  - Ethyl Benzene
+
+Propylene:
+  - Propylene (Propene)
+  - Propene
+
+Butadiene:
+  - 1,3-BUTADIENE
+  - Butadiene
+  - 1,3 Butadiene
+  - Butadiene, 1-3
+
+Isobutylene:
+  - Isobutene
+  - 2-Methyl propene
+
+Pentanes:
+  - Pentane
+  - Pentane, N-
+  - n-pentane
+  - Isopentane
+  - pentane, iso-
+  - i-pentane
+  - Pentanes
+
+Hexanes:
+  - Hexane
+  - Hexane, n
+  - n-Hexane
+  - N-Hexane
+  - Hexane, i
+  - Hexanes
+  - hexanes +
+  - Hexane Plus
+
+Heptane:
+  - Heptane (or n-)
+  - Heptane,-n
+  - n-Heptane
+  - HEPTANE (OR N-)
+
+Ammonia:
+  - NH3
+  - Anhydrous ammonia
+  - Ammonia, anhydrous
+
+Hydrogen Chloride:
+  - Hydrochloric acid
+  - Hydrogen chloride
+  - Hydrocloric Acid
+
+Hydrogen Fluoride:
+  - Hydrofluoric acid
+  - Hydrogen fluoride
+  - Hydrogen fluoride (anhydrous)
+
+Methanol:
+  - Methyl alcohol
+
+Ethanol:
+  - Ethyl alcohol
+
+MEK:
+  - Methyl ethyl ketone
+  - Methyl ethyl ketone (MEK)
+  - 2-Butanone
+
+MTBE:
+  - Methyl tert-butyl ether
+
+Vinyl Chloride:
+  - VCM
+  - Vinyl Chloride Monomer
+
+Hydrogen Cyanide:
+  - HCN
+  - Hydrogen cyanide
+
+Styrene:
+  - Styrene
+
+Cyclohexane:
+  - Cyclohexane
+
+Cumene:
+  - Cumene
+  - Isopropyl Benzene
+  - Isopropylbenzene
+
+Benzene:
+  - Benzene
+
+Naphthalene:
+  - Napthalene
+  - Naphthalene
+
+Formaldehyde:
+  - Formaldehyde
+
+Acetone:
+  - Acetone
+
+Methane:
+  - Methane
+
+Ethane:
+  - Ethane
+
+Nitrogen:
+  - NITROGEN
+
+Chlorine:
+  - Chlorine
+
+Acrylonitrile:
+  - Acrylonitrile
+
+Carbon Dioxide:
+  - Carbon Dioxide
+
+Opacity:
+  - Opacity No.1 - 2323
+
+Condensate:
+  - CONDENSATE
+  - Natural Gas Condensate
+
+Crude Oil:
+  - Crude Oil
+  - Crude oil light
+  - Crude oil heavy
+  - Light crude oil
+  - Heavy crude oil
+
+Diesel:
+  - Diesel
+  - Diesel fuel
+  - Diesel fuel 2-D
+  - Diesel #2
+  - Diesel (unspeciated)
+
+Gasoline:
+  - Gasoline
+  - GASOLINE, AUTOMOTIVE OR AVIATION
+  - Automotive Unleaded gasoline
+
+LPG:
+  - LPG (liquified petroleum gas)
+  - Liquefied petroleum gas (LPG)

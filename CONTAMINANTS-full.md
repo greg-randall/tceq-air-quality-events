@@ -1,6 +1,6 @@
 # Contaminants
 
-2097 unique compounds tracked across 568,670 reported releases, 2003 to 2026.
+1989 unique compounds tracked across 568,670 reported releases, 2003 to 2026.
 
 ## By year
 
@@ -39,204 +39,150 @@ Total mass released across all events. Each row shows the sum of all reported qu
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 54475 | 570,305,921 |
+| Sulfur dioxide | 54595 | 570,858,283 |
 | Carbon Dioxide | 1343 | 273,984,745 |
 | Carbon Monoxide | 62599 | 254,256,264 |
 | NATURAL GAS | 13361 | 102,018,548 |
-| Propane | 23422 | 60,231,599 |
+| Propane | 24662 | 68,104,057 |
 | Non-Methane Non-Ethane Natural Gas | 9841 | 49,529,663 |
+| Butanes | 36666 | 48,395,824 |
 | Methane | 2639 | 47,634,562 |
-| Nitrogen Oxides (NOx) | 44649 | 38,798,174 |
+| VOC | 15802 | 43,494,016 |
+| Nitrogen Oxides (NOx) | 44834 | 38,961,713 |
+| Ethylene | 12993 | 31,269,074 |
 | Natural Gas VOCs | 3453 | 29,432,747 |
-| VOC | 12019 | 28,374,662 |
-| Ethylene (gaseous) | 11433 | 28,064,143 |
-| Particulate Matter | 5328 | 18,195,430 |
-| Nitrogen oxide | 16263 | 14,565,687 |
-| Butane | 8641 | 14,216,386 |
-| Propylene (Propene) | 8699 | 12,601,088 |
-| Isobutane | 10676 | 11,592,946 |
-| Hydrogen Sulfide | 48484 | 10,595,052 |
-| Butanes | 1960 | 10,296,695 |
-| CONDENSATE | 5 | 9,539,301 |
+| Particulate Matter | 7029 | 19,334,249 |
+| Pentanes | 25450 | 18,372,702 |
+| Propylene | 12403 | 16,041,814 |
+| Nitrogen oxide | 13508 | 13,674,977 |
+| Hexanes | 13622 | 11,963,428 |
+| Hydrogen Sulfide | 49340 | 10,692,976 |
+| Condensate | 9 | 9,675,532 |
 | Ethane | 2911 | 9,497,969 |
-| Butane, N- | 10366 | 8,917,970 |
-| VOCs | 1762 | 7,934,625 |
-| Propane, N- | 1240 | 7,872,458 |
-| Pentane | 6800 | 6,245,402 |
-| Isopentane | 5642 | 5,262,599 |
-| Hexane | 6570 | 4,527,636 |
-| NITROGEN | 771 | 4,377,867 |
+| Nitrogen | 771 | 4,377,867 |
 | Nitrogen dioxide | 13304 | 4,160,454 |
 | VOC GAS MIXTURE | 934 | 4,101,214 |
 | VOC - NONMETHANE | 2059 | 4,084,956 |
-| Pentane, N- | 6830 | 3,367,265 |
-| Propylene | 3571 | 3,356,262 |
-| VOC (unclassified) | 413 | 3,123,882 |
-| Ethylene | 1496 | 2,943,039 |
-| Hexane, n | 1133 | 2,803,670 |
+| Butadiene | 6234 | 2,767,283 |
 | Benzene | 11234 | 2,761,978 |
-| Toluene | 6338 | 2,406,283 |
-| 1,3-BUTADIENE | 4381 | 2,155,886 |
+| Toluene | 6339 | 2,406,287 |
+| Xylenes | 5245 | 2,058,649 |
 | Natural Gas Liquid (Mixture) | 18 | 1,718,310 |
-| Butane, i | 3867 | 1,545,853 |
-| pentane, iso- | 3761 | 1,527,768 |
-| Hexanes | 1923 | 1,526,200 |
-| Pentanes | 1463 | 1,505,900 |
-| n-butane | 876 | 1,499,558 |
-| Volatile Organic Compounds | 786 | 1,467,090 |
-| Unspeciated VOCs | 440 | 1,462,260 |
-| hexanes + | 2723 | 1,425,267 |
 | Propylene Glycol Monomethyl Ether Acetate | 65 | 1,383,863 |
-| Hexane Plus | 823 | 1,338,179 |
-| Xylene | 3014 | 1,256,851 |
-| VOC-unclassified | 95 | 1,087,462 |
-| Ethanol | 156 | 994,445 |
+| Ammonia | 2153 | 1,120,399 |
+| Heptane | 2788 | 1,090,769 |
+| Ethanol | 163 | 994,533 |
+| Crude Oil | 122 | 954,960 |
 | Cyclohexane | 2379 | 926,578 |
 | Butene | 2677 | 916,339 |
 | Hydrogen | 577 | 893,227 |
+| Nitrogen monoxide | 2755 | 890,709 |
 | n-hexane - 110543 | 105 | 875,592 |
 | Acetylene | 2536 | 849,669 |
 | NMNE Natural Gas | 97 | 800,708 |
-| Ammonia | 1759 | 772,955 |
-| Crude Oil | 90 | 768,226 |
 | Nitric oxide | 1839 | 764,388 |
 | VOC (light hydrocarbons) | 796 | 763,393 |
-| Heptane (or n-) | 1567 | 680,905 |
+| Ethylbenzene | 3493 | 712,100 |
 | 1-Butene | 2296 | 623,771 |
-| Cumene | 280 | 593,049 |
+| Methanol | 762 | 598,082 |
+| Cumene | 310 | 593,260 |
 | Distillates (petroleum), alkylate | 6 | 590,753 |
-| Methanol | 748 | 587,724 |
-| Sulfur dioxide (anhydrous) | 120 | 552,361 |
+| Isobutylene | 3136 | 590,136 |
+| Hydrogen Chloride | 226 | 575,451 |
 | Pentene | 962 | 511,121 |
-| Ethyl Benzene | 287 | 494,583 |
 | Butenes, All Isomers | 1283 | 490,190 |
 | Other | 420 | 489,602 |
 | VOC MIXTURE | 65 | 472,160 |
 | C4+ | 19 | 464,710 |
 | Octane | 2118 | 451,998 |
-| PM (unspeciated) | 309 | 449,721 |
 | Butylene | 555 | 447,859 |
-| Isobutylene | 2087 | 439,599 |
 | Trans-2-butene | 3062 | 434,168 |
 | Ethylene oxide | 587 | 428,553 |
-| Hydrogen chloride | 127 | 407,323 |
+| Naphthalene | 382 | 412,843 |
 | Dicyclopentadiene | 130 | 397,929 |
-| n-pentane | 757 | 394,796 |
 | Catalyst fines | 77 | 392,473 |
 | CO (Startup/Shutdown) | 80 | 388,359 |
 | Nitrous Oxide | 72 | 385,211 |
-| Naphthalene | 315 | 379,352 |
 | Vinyl acetate | 326 | 370,904 |
-| Butadiene, 1-3 | 1371 | 359,443 |
-| Xylene (mixed isomers) | 749 | 334,670 |
-| i-butane | 280 | 326,416 |
+| Gasoline | 88 | 331,631 |
 | Cis-2-butene | 2995 | 316,705 |
 | Heptanes | 653 | 303,739 |
 | Nitrous Oxides | 397 | 289,864 |
+| #NAME? | 129 | 275,233 |
 | Pentane Plus | 225 | 271,018 |
-| Gasoline | 74 | 266,305 |
 | Hydrocarbons | 99 | 263,705 |
-| Ethene | 64 | 261,892 |
 | C5+ (not including benzene) | 1064 | 256,020 |
 | VOC (C7+) | 3 | 248,010 |
-| N-Hexane | 402 | 230,653 |
 | VOC Gas Mixture | 25 | 225,266 |
-| Ethylbenzene | 3206 | 217,517 |
+| Diesel | 28 | 225,067 |
 | Naphtha | 178 | 205,911 |
 | C6+ | 502 | 202,503 |
 | Octanes | 460 | 201,330 |
-| Diesel | 3 | 199,804 |
-| PM2.5 | 185 | 197,783 |
 | Methylene chloride | 19 | 196,737 |
 | VOC-light ends | 84 | 194,824 |
-| PM10 | 1100 | 191,823 |
+| Hydrogen Cyanide | 834 | 191,847 |
 | C5+ | 469 | 191,587 |
 | 2,3-dimethylbutane | 25 | 184,245 |
-| Anhydrous ammonia | 141 | 182,514 |
-| Butadiene | 313 | 181,124 |
 | Acrylonitrile | 276 | 180,833 |
 | Nonane | 1275 | 174,223 |
-| HEPTANE (OR N-) | 677 | 172,528 |
-| Cement (wet or dry) | 17 | 169,223 |
-| Hydrochloric acid | 98 | 168,098 |
 | Methylcyclopentane | 301 | 167,656 |
 | Styrene | 809 | 165,621 |
 | Sweet Gas Oil | 2 | 164,510 |
-| Ammonia, anhydrous | 158 | 164,472 |
 | Pentenes | 449 | 164,467 |
 | Propylene oxide | 312 | 163,880 |
-| NOx (Startup/Shutdown) | 185 | 163,539 |
 | VOC-Sour Light Ends | 63 | 159,726 |
 | Cyclopentane | 440 | 159,014 |
-| P-Xylene | 161 | 158,363 |
 | 2,2,4-Trimethylpentane | 215 | 154,485 |
+| LPG | 36 | 152,573 |
 | VOC (C5's) | 23 | 150,377 |
-| Isobutene | 1045 | 150,151 |
-| Crude oil light | 15 | 142,822 |
+| Vinyl Chloride | 1035 | 149,660 |
 | Mineral Spirit | 39 | 139,951 |
 | i-Pentane | 138 | 139,829 |
-| LPG (liquified petroleum gas) | 24 | 138,794 |
 | Decanes Plus | 174 | 138,643 |
-| +C5 hydrocarbon | 112 | 136,690 |
-| Natural Gas Condensate | 4 | 136,231 |
-| +C6 hydrocarbom | 13 | 135,029 |
 | Vinyl acetate monomer | 10 | 134,874 |
 | Freon 22 (Chlorodifluoromethane) | 43 | 130,640 |
 | 1,2,4-Trimethylbenzene | 299 | 128,050 |
 | decane | 1195 | 125,386 |
-| M-Xylene | 136 | 122,476 |
 | Methylcyclohexane | 319 | 122,450 |
-| Hydrogen cyanide | 757 | 121,436 |
 | Other material | 357 | 117,131 |
 | 2-Methyl-2-Butene | 215 | 115,229 |
-| Hexane, i | 48 | 111,823 |
 | 2-methylpentane | 77 | 110,840 |
 | Heavy Olefins | 15 | 107,464 |
 | Unknown or other oil | 17 | 106,255 |
 | 1,3,5-trimethylbenzene | 57 | 105,958 |
 | Water (H2O) | 109 | 105,682 |
 | 2-Methyl-Pentane | 130 | 105,591 |
-| Heptane,-n | 332 | 104,113 |
 | Hexanes (any isomer) | 156 | 102,868 |
 | Hexene | 515 | 101,105 |
 | 1,2,4-trimethyl-5-ethyl benzene | 5 | 100,163 |
 | Acetaldehyde | 405 | 98,941 |
-| H2S | 842 | 97,888 |
 | CARBON BLACK | 91 | 97,060 |
-| PM10 Cement(Portland) | 23 | 93,607 |
-| VCM | 393 | 91,868 |
 | Natural gasoline | 6 | 90,585 |
-| Heptane | 44 | 89,416 |
 | Trans-butene-2 | 324 | 88,583 |
-| Propene | 133 | 84,464 |
 | C5 | 77 | 81,645 |
 | Natural (casing head) gasoline | 5 | 79,802 |
 | Methyl mercaptan | 73 | 77,324 |
 | 2,3-Dimethylpentane | 41 | 76,214 |
 | 1-octene | 9 | 76,118 |
 | PM10 C.I. DIRECT BLACK 38 | 238 | 76,055 |
+| MTBE | 87 | 75,153 |
 | 2-pentene | 6 | 75,031 |
 | Acetic acid | 293 | 74,009 |
 | 2-Methyl-1-butene | 159 | 73,760 |
 | Methyl Acetate | 184 | 73,272 |
 | tert-butyl alcohol | 57 | 73,265 |
 | 1-Pentene | 252 | 73,034 |
+| Hydrogen Fluoride | 210 | 72,418 |
 | trans-2-pentene | 33 | 72,145 |
 | Cyclopentadiene | 490 | 72,137 |
-| 1,3 Butadiene | 169 | 70,830 |
-| HCN | 77 | 70,410 |
 | butene-1 | 118 | 70,319 |
 | N-Methyl-2-pyrrolidone | 19 | 69,646 |
 | 3,3,4-trimethylhexane | 5 | 69,496 |
-| i-pentane | 197 | 68,972 |
 | C7s | 46 | 68,700 |
 | Heptanes/C7 Hydrocarbons | 73 | 67,620 |
 | t-Butyl Alcohol | 102 | 67,365 |
-| Hydrogen fluoride | 153 | 66,927 |
 | Diesel #2 | 7 | 66,220 |
 | Butyl alcohol, tert- | 62 | 66,082 |
-| GASOLINE, AUTOMOTIVE OR AVIATION | 12 | 63,826 |
-| MTBE | 68 | 63,687 |
 | C9s | 36 | 62,968 |
 | Isoprene | 444 | 62,921 |
 | Cyclopentene | 249 | 62,863 |
@@ -248,7 +194,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Fuel Oil | 30 | 59,910 |
 | 1-METHYL-2-PYRROLIDINONE | 6 | 59,215 |
 | isopropyl acetate | 7 | 57,057 |
-| Vinyl Chloride | 573 | 56,291 |
 | Ethane, 1,1,1,2-Tetrafluoro-(HFC-134a) | 3 | 56,210 |
 | Gas Oil | 23 | 54,665 |
 | Sulfuric acid | 307 | 53,690 |
@@ -265,7 +210,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | butenes/butanes | 16 | 50,075 |
 | Ethylene (liquid) | 55 | 49,838 |
 | Argon | 124 | 49,470 |
-| O-Xylene | 154 | 48,919 |
 | 3- methyl pentane | 151 | 48,547 |
 | Tert Butanol | 71 | 47,474 |
 | 2,2-Dimethylpentane | 56 | 47,075 |
@@ -274,10 +218,8 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | n-Decane | 48 | 44,565 |
 | Isooctene | 4 | 44,207 |
 | 1,1,1,2 - Tetrafluoroethane | 2 | 43,909 |
-| n-Heptane | 168 | 43,807 |
 | Butyraldehyde | 150 | 43,798 |
 | Cis-butene-2 | 329 | 43,709 |
-| Crude oil heavy | 16 | 43,646 |
 | C6 and Heavier | 9 | 43,481 |
 | cis-2-Pentene | 58 | 42,615 |
 | Anhydrous Ammonia | 18 | 42,588 |
@@ -292,9 +234,7 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | 3 methyl hexane | 90 | 37,560 |
 | Chlorotrifluoroethylene (CTFE) | 19 | 36,975 |
 | C6s | 64 | 36,850 |
-| Xylene, m- | 123 | 36,806 |
 | Methyl chloride | 37 | 36,690 |
-| Other VOCs | 275 | 36,135 |
 | 2-methylpentene-2 | 14 | 36,110 |
 | Ethylene glycol | 70 | 35,780 |
 | Butyl acrylate | 47 | 35,466 |
@@ -308,7 +248,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Methyl Acetylene | 370 | 33,841 |
 | 2-Butene-trans | 347 | 33,831 |
 | Dodecane | 30 | 33,755 |
-| Napthalene | 67 | 33,491 |
 | Octene | 148 | 33,221 |
 | Butyric acid | 14 | 33,137 |
 | Butane, 2-methyl | 6 | 32,816 |
@@ -319,7 +258,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | n-undecane | 25 | 30,570 |
 | 2,3,3-Trimethylpentane | 12 | 30,527 |
 | Isohexane | 50 | 30,460 |
-| Xylenes | 546 | 30,243 |
 | C5 Plus | 116 | 30,201 |
 | 1-hexene | 41 | 29,416 |
 | VOC - Sour Cracked Light Ends | 58 | 28,970 |
@@ -340,7 +278,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | N-Butyl alcohol | 48 | 25,191 |
 | Ethyl acetate | 131 | 24,930 |
 | Diethanolamine | 8 | 24,869 |
-| Diesel fuel | 21 | 24,656 |
 | n-tridecane | 30 | 24,250 |
 | Isopropyl Ether | 36 | 24,106 |
 | distillate oil residue | 2 | 23,936 |
@@ -358,7 +295,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Pyrolysis Gasoline | 20 | 21,552 |
 | decanes | 105 | 21,384 |
 | Phenol | 58 | 21,131 |
-| Xylene, p- | 111 | 21,082 |
 | 2-Butene | 25 | 21,069 |
 | N-Methylpyrrolidone | 4 | 21,035 |
 | Ethane, 1,1,1,2-tetrafluoro | 8 | 21,030 |
@@ -392,16 +328,13 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | C6 (not including benzene) | 16 | 15,498 |
 | Methyl formate | 126 | 15,454 |
 | 1,2-Butadiene | 28 | 15,286 |
-| Xylene, o- | 142 | 15,242 |
 | 1-Butene + Isobutylene | 467 | 15,162 |
 | Isopropyl alcohol | 89 | 15,087 |
 | C12s | 34 | 15,015 |
-| PM10 Calcium carbonate-CaCO3 | 26 | 14,850 |
 | Vinyl cyclohexene | 24 | 14,746 |
 | Octane, n- | 92 | 14,581 |
 | t-2-butene | 185 | 14,391 |
 | HCFC-22 | 3 | 13,810 |
-| Liquefied petroleum gas (LPG) | 12 | 13,779 |
 | Carbonyl sulfide | 411 | 13,658 |
 | Dimethyl ether | 95 | 13,459 |
 | 2,2-DIMETHYLBUTANE | 129 | 13,321 |
@@ -410,9 +343,9 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Isoamyl Alcohol | 41 | 13,104 |
 | Jet (Unspeciated) | 4 | 12,986 |
 | Sodium hypochlorite 2 | 1 | 12,887 |
+| MEK | 91 | 12,887 |
 | alkylphenol | 3 | 12,833 |
 | C5 - C9s | 24 | 12,826 |
-| Mixed Xylene | 16 | 12,718 |
 | 3-methylpentane | 49 | 12,677 |
 | C8 Parafins | 19 | 12,669 |
 | Kermac Solvent | 1 | 12,558 |
@@ -431,7 +364,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | butene c-2 | 102 | 11,553 |
 | Naphtha (petroleum), catalytic reformed | 9 | 11,541 |
 | butyl chloride | 1 | 11,473 |
-| Methyl tert-butyl ether | 19 | 11,466 |
 | Naptha | 34 | 11,370 |
 | n Propyl Bromide (over 100# quantity) | 1 | 11,367 |
 | Methylpentane | 18 | 10,750 |
@@ -439,7 +371,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Perlite | 6 | 10,655 |
 | Tetrachloroethylene | 4 | 10,517 |
 | Alkylates | 12 | 10,491 |
-| Methyl alcohol | 14 | 10,358 |
 | 3-methylhexane | 40 | 10,277 |
 | Biphenyl | 64 | 10,227 |
 | Trimethylcyclopentane | 15 | 9,946 |
@@ -464,7 +395,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | 1,2 - Butadiene | 83 | 8,600 |
 | Trimethylamine | 5 | 8,600 |
 | Alkoxylated polyamine | 1 | 8,453 |
-| PM 2.5 | 19 | 8,417 |
 | Halon 1301 (Bromotrifluoromethane) | 29 | 8,414 |
 | Orthoxylene | 39 | 8,345 |
 | n-dodecane | 19 | 8,332 |
@@ -474,12 +404,10 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Acrolein | 297 | 8,231 |
 | Other Organics | 74 | 8,189 |
 | Esters | 12 | 7,996 |
-| PM10 Sand | 11 | 7,970 |
 | 1,1,1,2 Tetrafluoroethane | 4 | 7,940 |
 | Isobutyraldehyde | 140 | 7,732 |
 | FM 200 | 6 | 7,662 |
 | C6 | 30 | 7,633 |
-| metaxylene | 37 | 7,609 |
 | N-Butyl acrylate | 19 | 7,524 |
 | p-ethyltoluene | 5 | 7,406 |
 | Benzyl Alcohol | 1 | 7,286 |
@@ -493,13 +421,10 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Ketones | 10 | 6,706 |
 | Diethylene Glycol Monohexyl Ether | 94 | 6,643 |
 | Adiponitrile | 31 | 6,418 |
-| Methyl ethyl ketone (MEK) | 53 | 6,390 |
 | Ethyl 3-ethoxypropionate | 23 | 6,348 |
 | Polyethylene | 42 | 6,291 |
 | Silicon dioxide (PM) | 35 | 6,244 |
 | TRIOXANE | 13 | 6,240 |
-| paraxylene | 40 | 6,172 |
-| HPV VOLATILE ORGANIC COMPOUNDS | 7 | 6,124 |
 | PM10 Cement(portand) | 1 | 6,000 |
 | Hexenes | 46 | 5,982 |
 | alpha methyl styrene | 11 | 5,978 |
@@ -510,9 +435,7 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | CFC 113  (1,1,2 TRICHLOROTRIFLUOROETHANE) | 13 | 5,879 |
 | Chloroform | 103 | 5,684 |
 | Dimethylformamide | 28 | 5,627 |
-| Methyl ethyl ketone | 20 | 5,607 |
 | Ethyl acrylate | 37 | 5,554 |
-| m,p-Xylene | 8 | 5,513 |
 | Flare Gas | 25 | 5,475 |
 | 2-methyl-butane | 16 | 5,387 |
 | isopentene | 9 | 5,341 |
@@ -524,7 +447,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Light Cycle Oil - Unspeciated | 1 | 5,086 |
 | Monochlorobenzene | 6 | 5,082 |
 | 2,4dimethylheptane | 3 | 5,081 |
-| Cement Dust | 5 | 5,061 |
 | Organic Mineral Spirits | 4 | 5,037 |
 | 4-methyl-cyclopentene | 1 | 5,031 |
 | Ethyl chloride | 74 | 5,025 |
@@ -572,7 +494,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Decanes/C10 Hydrocarbons | 106 | 3,896 |
 | Isoheptane | 20 | 3,892 |
 | Ethylidenenorbornene (ENB) | 6 | 3,858 |
-| Hydrofluoric acid | 51 | 3,837 |
 | Propylene Glycol Monomethyl Ether | 8 | 3,814 |
 | Opacity | 90 | 3,779 |
 | hexene-1 | 62 | 3,763 |
@@ -588,7 +509,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | HPV HYDROGEN SULFIDE | 7 | 3,593 |
 | Crude Condensate | 2 | 3,533 |
 | Tetradecane | 17 | 3,525 |
-| +C7 hydrocarbon | 4 | 3,514 |
 | Methylacetylene | 262 | 3,475 |
 | Sulfur oxide | 28 | 3,456 |
 | 1,1-Di(T-Amylperoxy)Cyclohexane | 1 | 3,450 |
@@ -702,7 +622,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Cumene hydroperoxide | 3 | 1,822 |
 | 2,2,3-trimethylpentane | 8 | 1,813 |
 | 1-butane | 4 | 1,778 |
-| Misc. VOC | 5 | 1,777 |
 | Hydrogen Iodide | 4 | 1,754 |
 | Aromatic 100 | 4 | 1,749 |
 | Iodine | 3 | 1,745 |
@@ -713,7 +632,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Mineral oil | 9 | 1,708 |
 | Propylene Glycol | 25 | 1,682 |
 | C8 Aromatics | 23 | 1,674 |
-| Hydrogen fluoride (anhydrous) | 6 | 1,654 |
 | Other C5's + | 46 | 1,629 |
 | Sec Butyl Alcohol | 3 | 1,613 |
 | Amine | 4 | 1,613 |
@@ -725,8 +643,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Diphenyl ether | 5 | 1,521 |
 | Aluminum (fume or dust) | 49 | 1,519 |
 | Hexane, all isomers | 4 | 1,505 |
-| Vinyl Chloride Monomer | 69 | 1,502 |
-| Automotive Unleaded gasoline | 2 | 1,500 |
 | Hydrocal B Base | 1 | 1,500 |
 | water with industrial waste | 1 | 1,500 |
 | 2 methylbutane | 27 | 1,494 |
@@ -799,7 +715,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Trigonox 101 Cyclic Ether | 1 | 1,031 |
 | C15 | 5 | 1,024 |
 | 4-Vinylcyclohexene | 11 | 1,015 |
-| para-xylene | 2 | 1,010 |
 | Ethyltoluenes | 2 | 1,009 |
 | Dodecylbenzene sulfonic acid (DDBSA) | 1 | 1,005 |
 | Monopropylene Glycol | 18 | 1,004 |
@@ -827,7 +742,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | 2,3 dichloropropanol | 4 | 903 |
 | 4-methylheptane | 6 | 898 |
 | Isoparaffins | 2 | 897 |
-| MEK | 17 | 888 |
 | Trigonox EHP | 1 | 875 |
 | Methylnaphthalene | 3 | 874 |
 | Mixture of Crude Butadiene and Nitrogen | 3 | 868 |
@@ -898,7 +812,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | fumaronitrile | 14 | 617 |
 | C8 Naphthenes | 14 | 611 |
 | Asphalt or road oil | 1 | 610 |
-| Diesel (unspeciated) | 4 | 607 |
 | Calcium oxide | 2 | 601 |
 | Alkoxylated alkyl phenol resin | 1 | 601 |
 | Cyclooctadiene | 2 | 601 |
@@ -917,7 +830,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | 1-cyclohexyltetradecane | 4 | 574 |
 | Tetramethyl benzene | 1 | 573 |
 | OIL | 2 | 570 |
-| meta-xylene | 2 | 570 |
 | Hazardous Air Pollutants | 1 | 570 |
 | petroleum distilate | 2 | 568 |
 | C8 Compounds | 6 | 565 |
@@ -985,7 +897,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Mesityl Oxide | 7 | 461 |
 | n-Nonadecane | 14 | 459 |
 | Jet Fuel | 1 | 459 |
-| NH3 | 95 | 457 |
 | Methylheptane | 10 | 457 |
 | 2-ETHYL-1-HEXENE | 7 | 454 |
 | Maleic acid | 2 | 452 |
@@ -1006,7 +917,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | C10 Aromatics | 11 | 410 |
 | 3-ethylpentene-2 | 3 | 409 |
 | Phenanthrene | 9 | 407 |
-| ortho-xylene | 4 | 404 |
 | 4-methyl-trans-2-pentene | 6 | 403 |
 | 1,4-Difluorobenzene | 1 | 403 |
 | Sodium Bromate | 2 | 400 |
@@ -1020,7 +930,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Non Aromatics | 3 | 387 |
 | antrahecene | 1 | 386 |
 | VAC | 1 | 386 |
-| 2-Methyl propene | 4 | 386 |
 | VOC (C14) | 2 | 385 |
 | Butyl methacrylate | 8 | 385 |
 | DIMETHYLETHYLBENZENE | 4 | 384 |
@@ -1099,7 +1008,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | 2,3 - Dimethyl butane | 1 | 267 |
 | Tert-Butyl Formate | 5 | 266 |
 | C10 Paraffins | 2 | 266 |
-| Light crude oil | 1 | 266 |
 | 1,1-cyclopentane | 2 | 261 |
 | C10+ | 8 | 260 |
 | Diethylenetriamine | 1 | 259 |
@@ -1214,7 +1122,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Henicosanes/C21+ Hydrocarbons | 1 | 170 |
 | Allyl chloride | 7 | 169 |
 | 1-Pentylene | 4 | 168 |
-| PM10 Wood dust (nonallergenic) | 1 | 168 |
 | Ethylene carbonate | 1 | 167 |
 | Chlorocyclohexane | 1 | 167 |
 | Ethanol Amine | 3 | 165 |
@@ -1252,7 +1159,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | 1,2-DIMETHYLCYCLOPENTANE | 2 | 144 |
 | 2 methyl nonane | 6 | 143 |
 | 2,2-dimethylheptane | 1 | 142 |
-| Isopropyl Benzene | 22 | 142 |
 | Nitrogen Trifluoride | 1 | 142 |
 | Chlorothalonil | 5 | 142 |
 | Unspeciated Flare Gas | 1 | 141 |
@@ -1274,7 +1180,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Alumina (Boehmite) | 1 | 131 |
 | C-8 Hydrocarbons | 1 | 131 |
 | 2-Phenol-2-Propanol | 2 | 130 |
-| PM10 Plastics | 2 | 130 |
 | ground frp | 2 | 130 |
 | Neohexene | 1 | 130 |
 | Indane | 9 | 129 |
@@ -1352,7 +1257,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | 2-methylindan | 1 | 91 |
 | t-pentene-2 | 6 | 89 |
 | 1,4-methylethylbenzene | 4 | 88 |
-| Ethyl alcohol | 7 | 87 |
 | Neopentanoic Acid | 3 | 86 |
 | C9 Isoparaffins | 3 | 86 |
 | Tridecyl Alcohol | 16 | 86 |
@@ -1417,7 +1321,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | 5-methylindan | 1 | 69 |
 | bis(aminoethyl) ether | 1 | 69 |
 | 3-methyl-t-hexene-2 | 2 | 68 |
-| Isopropylbenzene | 8 | 68 |
 | 3-Methyl-Pentane | 8 | 68 |
 | C12-C13s | 1 | 68 |
 | Adipic acid | 3 | 68 |
@@ -1463,7 +1366,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | C18-C19s | 1 | 55 |
 | 2-Ethyl Hexyl Acrylate | 2 | 55 |
 | 1,2,3-Trichloropropane, | 11 | 55 |
-| PM10 Silica,crystalline | 1 | 54 |
 | 4-Methyl-2-pentene | 2 | 54 |
 | 2,3-Dichloropropene | 5 | 54 |
 | cis-2-hexane | 1 | 53 |
@@ -1540,7 +1442,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | 1,2-Dichloroethylene | 3 | 36 |
 | propyl-cyclopentane | 1 | 36 |
 | 1-cyclopentylheptane | 6 | 36 |
-| Dihydrogen Sulfide | 14 | 35 |
 | 4,4-dimethylheptane | 1 | 35 |
 | 1-pentene+isomer | 1 | 35 |
 | Heavy Aromatic Solvent | 1 | 35 |
@@ -1581,7 +1482,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | butyl cyclohexane | 3 | 29 |
 | Pyrocatechol | 1 | 29 |
 | Maleic Acid Monoethyl Ester | 11 | 29 |
-| Hydrocloric Acid | 1 | 29 |
 | C7 I-Paraffins | 1 | 29 |
 | Carbon Black Oil | 1 | 28 |
 | 5-methylnonane | 2 | 28 |
@@ -1702,7 +1602,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | 2-ethylsuccinonitrile | 2 | 12 |
 | 1,2-Dimethylhydrazine | 1 | 12 |
 | Methyl disulfide | 3 | 12 |
-| PM10 Aluminum oxide- Al203 | 1 | 12 |
 | 1-HEXYNE | 1 | 12 |
 | POTASSIUM | 3 | 11 |
 | C12 Aromatics | 4 | 11 |
@@ -1814,7 +1713,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | 3-methyl-1,3-butadiene | 1 | 5 |
 | Pentamethylbenzene | 1 | 5 |
 | Crotonaldehyde | 1 | 5 |
-| Methylbenzene | 1 | 5 |
 | Dibutylether | 1 | 4 |
 | Aromatic hydrocarbon | 1 | 4 |
 | 3,3-dimethylpentene-1 | 1 | 4 |
@@ -1892,7 +1790,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Phosphoric acid | 2 | 2 |
 | 3-methyl-c-hexene-3 | 2 | 2 |
 | 1-Nitropropane | 7 | 2 |
-| 2-Butanone | 1 | 2 |
 | Ethyl Silicate | 1 | 2 |
 | Tetrachloroethane, 1,1,2,2- | 2 | 2 |
 | fire water and smoke | 1 | 2 |
@@ -2007,7 +1904,6 @@ Total mass released across all events. Each row shows the sum of all reported qu
 | Indeno(1,2,3-cd)pyrene | 2 | 0 |
 | Hexamethylbenzene | 6 | 0 |
 | 3-methyl-3-ethylpentane | 1 | 0 |
-| PM10 part.aromatic | 1 | 0 |
 | Isophthalonitrile | 1 | 0 |
 | TTP | 1 | 0 |
 | 1-cyclopentyldecane | 4 | 0 |
@@ -2123,49 +2019,42 @@ Instantaneous emission rate in pounds per hour. This is a rate at a moment in ti
 | Carbon Monoxide | 61 | 2,314,156 |
 | Acetylene | 15 | 96,230 |
 | Ethane | 2 | 86,821 |
+| Butanes | 20 | 73,592 |
 | Propane | 9 | 59,642 |
 | Sulfur dioxide | 26 | 58,403 |
 | Hydrogen Sulfide | 23 | 45,710 |
-| Butane | 6 | 36,348 |
 | Isobutylene | 2 | 32,294 |
 | Benzene | 6 | 26,410 |
-| Butane, N- | 5 | 24,380 |
+| Pentanes | 14 | 19,818 |
 | NATURAL GAS | 3 | 16,551 |
-| Isobutane | 5 | 12,687 |
-| Pentane | 5 | 12,204 |
-| Hexane | 4 | 11,907 |
+| VOC | 29 | 16,465 |
+| Hexanes | 7 | 11,908 |
 | Nitrogen Oxides (NOx) | 26 | 10,585 |
-| VOC | 23 | 10,302 |
 | Natural Gas VOCs | 3 | 10,097 |
-| Nitrogen oxide | 26 | 8,068 |
-| Isopentane | 4 | 7,521 |
-| Volatile Organic Compounds | 6 | 6,163 |
-| Ammonia | 8 | 3,999 |
+| Nitrogen oxide | 24 | 6,865 |
+| Ammonia | 9 | 4,176 |
+| Particulate Matter | 26 | 2,805 |
 | Nonane | 2 | 2,286 |
-| Particulate Matter | 21 | 2,093 |
+| Propylene | 7 | 1,699 |
 | Nitrogen dioxide | 25 | 1,482 |
 | Isopar H - Heavy Naphtha | 1 | 1,236 |
-| Propylene (Propene) | 4 | 1,102 |
+| Nitrogen monoxide | 2 | 1,203 |
 | Octane | 1 | 770 |
-| PM10 | 5 | 712 |
 | 3-methyl-Heptane | 1 | 699 |
 | Formaldehyde | 4 | 654 |
-| Propylene | 3 | 597 |
-| HEPTANE (OR N-) | 2 | 553 |
+| Heptane | 2 | 553 |
 | 2,3-dimethyloctane | 1 | 500 |
 | 3 methyl hexane | 1 | 493 |
-| M-Xylene | 1 | 356 |
+| Xylenes | 3 | 359 |
 | PM Tires | 1 | 320 |
 | 2,2,4-Trimethylpentane | 1 | 305 |
-| Ethylene (gaseous) | 4 | 283 |
+| Ethylene | 5 | 303 |
 | Methylcyclopentane | 2 | 275 |
 | 2-Methyl-Pentane | 1 | 230 |
 | 1,2,4-Trimethylbenzene | 2 | 213 |
 | 2,3-dimethylbutane | 1 | 207 |
 | Calcium Carbonate | 1 | 200 |
 | Pentenenitrile | 1 | 190 |
-| Anhydrous ammonia | 1 | 177 |
-| Butanes | 2 | 176 |
 | Cyclohexene | 1 | 171 |
 | Gasoline | 1 | 170 |
 | 3 methylpentane | 1 | 165 |
@@ -2176,7 +2065,6 @@ Instantaneous emission rate in pounds per hour. This is a rate at a moment in ti
 | Methyl formate | 1 | 127 |
 | DIMETHYLETHYLBENZENE | 1 | 125 |
 | 2,2,3-trimethylbutane | 1 | 94 |
-| Pentane, N- | 3 | 92 |
 | 2,5-Dimethylhexane | 1 | 88 |
 | Cyclopentane | 2 | 84 |
 | Acetone | 1 | 83 |
@@ -2186,21 +2074,20 @@ Instantaneous emission rate in pounds per hour. This is a rate at a moment in ti
 | 2-methylbutene-2 | 2 | 55 |
 | Cis-butene-2 | 1 | 48 |
 | C5+ | 1 | 46 |
-| Hydrogen cyanide | 1 | 45 |
+| Hydrogen Cyanide | 1 | 45 |
 | Ethylene oxide | 1 | 33 |
 | 2,3-dimethylhexane | 1 | 32 |
-| Hydrogen fluoride | 8 | 28 |
+| Hydrogen Fluoride | 8 | 28 |
 | Petroleum Distallates | 1 | 27 |
 | Carbon Dioxide | 1 | 26 |
 | 1-hexene | 1 | 25 |
 | Undecane | 1 | 23 |
 | Heptanes | 2 | 22 |
-| Ethylene | 1 | 19 |
 | Toluene | 3 | 18 |
 | 2-methylbutene-1 | 1 | 17 |
 | 2 methyl decane | 1 | 15 |
 | Methane | 1 | 14 |
-| Hydrogen chloride | 2 | 11 |
+| Hydrogen Chloride | 3 | 11 |
 | Cyclohexane | 1 | 9 |
 | Ethyl Lactate | 1 | 9 |
 | Indene | 1 | 8 |
@@ -2214,15 +2101,13 @@ Instantaneous emission rate in pounds per hour. This is a rate at a moment in ti
 | Indan | 1 | 4 |
 | 2-methyl-3-ethylpentane | 1 | 4 |
 | 3,4-dimethylhexane | 1 | 3 |
-| 1,3-BUTADIENE | 2 | 3 |
+| Butadiene | 2 | 3 |
 | Methylcyclohexane | 1 | 3 |
 | methyl tert-butyl ether (MTBE) | 1 | 2 |
-| Xylene (mixed isomers) | 1 | 2 |
 | 1-Butene | 1 | 2 |
 | VOC MIXTURE | 1 | 2 |
 | 2-Pentene,(E) | 1 | 2 |
 | 2-Methyl-1-butene | 1 | 2 |
-| Butane, i | 1 | 2 |
 | 2-Butoxyethanol | 1 | 2 |
 | Ethylene glycol | 1 | 2 |
 | 1,3-diethylbenzene | 1 | 1 |
@@ -2235,30 +2120,22 @@ Instantaneous emission rate in pounds per hour. This is a rate at a moment in ti
 | Trans-2-butene | 1 | 1 |
 | 1t,3-dimethylcyclopentane | 1 | 1 |
 | 1c,2t,4t-trimethylcyclohexane | 1 | 1 |
-| Pentanes | 1 | 1 |
 | Octane, n- | 1 | 1 |
 | Ethanol | 1 | 1 |
-| Hexanes | 1 | 1 |
 | Phosgene | 1 | 0 |
 | 3-Methyl-1-butene | 1 | 0 |
 | Tetradecane | 1 | 0 |
 | 2-methylnaphthalene | 1 | 0 |
 | 1,3-Butadiene,2-methyl- | 1 | 0 |
-| hexanes + | 1 | 0 |
-| n-butane | 1 | 0 |
-| Hexane, n | 1 | 0 |
 | 1,2-ethyl-i-propylbenzene | 1 | 0 |
 | decane-n | 1 | 0 |
-| n-pentane | 1 | 0 |
 | Decanes Plus | 1 | 0 |
 | Octanes | 1 | 0 |
 | 1-Decene | 1 | 0 |
 | 3-methyl-t-hexene-2 | 1 | 0 |
 | 1,3-di-i-propylbenzene | 1 | 0 |
 | Trimethylpentane, 2,2,4- | 1 | 0 |
-| Hydrochloric acid | 1 | 0 |
 | c-heptene-3 | 1 | 0 |
-| Xylenes | 1 | 0 |
 
 ### TONS/YR
 
@@ -2268,15 +2145,15 @@ Annualized estimate in tons per year. A small number here can mean either a smal
 |---|---|---|
 | Carbon Monoxide | 5 | 5,545 |
 | Carbon Dioxide | 1 | 21 |
-| Xylene | 1 | 1 |
+| Xylenes | 1 | 1 |
 | Nitrogen oxide | 1 | 1 |
 | Nitrogen Oxides (NOx) | 2 | 1 |
 | Smoke | 1 | 1 |
 | Sulfur dioxide | 2 | 0 |
 | Particulate Matter | 2 | 0 |
 | VOC | 2 | 0 |
-| Hydrogen fluoride | 1 | 0 |
-| Hydrogen chloride | 1 | 0 |
+| Hydrogen Fluoride | 1 | 0 |
+| Hydrogen Chloride | 1 | 0 |
 
 ### % OPACITY
 
@@ -2284,83 +2161,65 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | Average | Min | Max |
 |---|---|---|---|---|
-| Opacity | 24337 | 47% | 0% | 5458% |
+| Opacity | 24341 | 47% | 0% | 5458% |
 | Visible Emissions | 2640 | 8% | 0% | 100% |
 | Smoke | 876 | 9% | 0% | 100% |
+| Particulate Matter | 128 | 123% | 0% | 7839% |
 | Sulfur dioxide | 108 | 5742% | 0% | 127807% |
-| Particulate Matter | 78 | 180% | 0% | 7839% |
-| Hydrogen Sulfide | 49 | 77% | 0% | 854% |
+| Hydrogen Sulfide | 51 | 78% | 0% | 854% |
 | Carbon Monoxide | 48 | 762% | 0% | 12041% |
-| Nitrogen Oxides (NOx) | 46 | 96% | 0% | 544% |
-| VOC | 28 | 108% | 0% | 1015% |
+| Nitrogen Oxides (NOx) | 47 | 95% | 0% | 544% |
+| VOC | 32 | 405% | 0% | 8739% |
 | VOC - NONMETHANE | 20 | 3% | 0% | 37% |
 | Non-Methane Non-Ethane Natural Gas | 17 | 368% | 34% | 2989% |
-| PM10 | 17 | 27% | 0% | 100% |
-| Nitrogen oxide | 15 | 210% | 0% | 2145% |
-| Cement Dust | 14 | 55% | 20% | 100% |
+| Pentanes | 14 | 212% | 0% | 1206% |
+| Butanes | 13 | 511% | 0% | 3403% |
+| Propane | 13 | 695% | 0% | 7045% |
+| Nitrogen oxide | 13 | 241% | 0% | 2145% |
 | Other material | 13 | 52% | 9% | 100% |
-| Propane | 12 | 166% | 0% | 1027% |
 | NATURAL GAS | 12 | 6008% | 6% | 53777% |
 | Natural Gas VOCs | 12 | 148% | 52% | 595% |
 | Alumina | 12 | 57% | 20% | 100% |
 | VOC GAS MIXTURE | 11 | 371% | 10% | 3351% |
 | Other | 9 | 62% | 15% | 100% |
-| PM10 Silica,crystalline | 9 | 2% | 0% | 10% |
 | Soda Ash | 8 | 39% | 5% | 90% |
-| Pentane | 7 | 206% | 0% | 797% |
+| Propylene | 7 | 122% | 0% | 798% |
 | Alumina Hydrate Dust | 7 | 53% | 0% | 85% |
-| Isobutane | 6 | 34% | 0% | 79% |
-| 1,3-BUTADIENE | 6 | 186% | 1% | 579% |
+| Butadiene | 6 | 186% | 1% | 579% |
 | CARBON BLACK | 6 | 51% | 18% | 70% |
-| Ethylene (gaseous) | 5 | 64% | 0% | 173% |
-| Propylene (Propene) | 5 | 170% | 0% | 798% |
-| PM (unspeciated) | 5 | 49% | 25% | 100% |
-| Diesel fuel 2-D | 5 | 40% | 35% | 49% |
-| Butane | 4 | 710% | 0% | 2093% |
-| Hexane | 4 | 356% | 0% | 892% |
+| Hexanes | 5 | 285% | 0% | 892% |
+| Ethylene | 5 | 64% | 0% | 173% |
+| Diesel | 5 | 40% | 35% | 49% |
 | Calcined Alumina Dust | 4 | 36% | 0% | 86% |
 | Sodium hypochlorite | 4 | 1% | 0% | 1% |
-| Opacity No.1 - 2323 | 4 | 65% | 30% | 100% |
 | Nitrogen dioxide | 3 | 3% | 0% | 8% |
-| Pentane, N- | 3 | 86% | 0% | 205% |
 | Toluene | 3 | 13% | 0% | 38% |
+| Xylenes | 3 | 15% | 0% | 45% |
 | Trans-2-butene | 3 | 4% | 0% | 10% |
 | Ethane | 3 | 6% | 1% | 11% |
 | Ammonia | 3 | 34% | 0% | 101% |
-| VOCs | 3 | 2939% | 1% | 8739% |
 | Carbon Dioxide | 3 | 93% | 90% | 100% |
 | Lead | 3 | 29% | 1% | 80% |
 | Calcium oxide | 3 | 67% | 50% | 100% |
 | fire water and smoke | 3 | 83% | 75% | 100% |
 | Benzene | 2 | 31% | 23% | 40% |
-| Butane, N- | 2 | 99% | 75% | 123% |
-| pentane, iso- | 2 | 27% | 2% | 52% |
-| Propylene | 2 | 0% | 0% | 0% |
 | Ethylbenzene | 2 | 7% | 0% | 13% |
-| Xylene | 2 | 0% | 0% | 0% |
+| Isobutylene | 2 | 1% | 0% | 2% |
+| Nitrogen monoxide | 2 | 9% | 7% | 11% |
 | 1-Butene | 2 | 10% | 5% | 14% |
 | Octane | 2 | 16% | 0% | 32% |
-| Isobutene | 2 | 1% | 0% | 2% |
-| H2S | 2 | 96% | 91% | 102% |
-| PM2.5 | 2 | 42% | 10% | 75% |
+| Crude Oil | 2 | 18% | 10% | 25% |
 | n-butanol | 2 | 51% | 6% | 97% |
 | PM10 Carbon-C | 2 | 35% | 20% | 50% |
 | SULFUR-S | 2 | 100% | 100% | 100% |
 | Dust | 2 | 30% | 25% | 35% |
 | Baghouse Dust (K061) | 2 | 41% | 35% | 46% |
-| Isopentane | 1 | 1206% | 1206% | 1206% |
 | Cis-2-butene | 1 | 18% | 18% | 18% |
+| Heptane | 1 | 1% | 1% | 1% |
 | Butene | 1 | 5% | 5% | 5% |
 | Methane | 1 | 10% | 10% | 10% |
 | Cyclohexane | 1 | 118% | 118% | 118% |
-| Butanes | 1 | 3403% | 3403% | 3403% |
-| Hexanes | 1 | 1% | 1% | 1% |
-| Heptane (or n-) | 1 | 1% | 1% | 1% |
-| Propane, N- | 1 | 7045% | 7045% | 7045% |
-| Volatile Organic Compounds | 1 | 1126% | 1126% | 1126% |
-| Hydrogen cyanide | 1 | 11% | 11% | 11% |
-| n-pentane | 1 | 8% | 8% | 8% |
-| Xylene (mixed isomers) | 1 | 45% | 45% | 45% |
+| Hydrogen Cyanide | 1 | 11% | 11% | 11% |
 | Heptanes | 1 | 914% | 914% | 914% |
 | Ethylene oxide | 1 | 13% | 13% | 13% |
 | Cyclopentane | 1 | 2% | 2% | 2% |
@@ -2370,11 +2229,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methylcyclopentane | 1 | 55% | 55% | 55% |
 | PM10 C.I. DIRECT BLACK 38 | 1 | 35% | 35% | 35% |
 | t-2-butene | 1 | 4% | 4% | 4% |
-| NOx (Startup/Shutdown) | 1 | 30% | 30% | 30% |
 | 2-Methyl-1-butene | 1 | 106% | 106% | 106% |
 | C5 Plus | 1 | 0% | 0% | 0% |
 | Water (H2O) | 1 | 1% | 1% | 1% |
-| Crude Oil | 1 | 10% | 10% | 10% |
 | Gasoline | 1 | 20% | 20% | 20% |
 | Propionitrile | 1 | 0% | 0% | 0% |
 | VOC MIXTURE | 1 | 0% | 0% | 0% |
@@ -2383,7 +2240,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | trans-2-Pentene | 1 | 12% | 12% | 12% |
 | 2-methylbutene-1 | 1 | 2% | 2% | 2% |
 | Gas Oil | 1 | 30% | 30% | 30% |
-| Cement (wet or dry) | 1 | 5% | 5% | 5% |
 | 2-methyl-butane | 1 | 77% | 77% | 77% |
 | Wash Oil | 1 | 20% | 20% | 20% |
 | Butyl Alcohol, n- | 1 | 1% | 1% | 1% |
@@ -2391,17 +2247,14 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | HAPS (5) | 1 | 100% | 100% | 100% |
 | OIL | 1 | 100% | 100% | 100% |
 | Sodium sulfate (solution) | 1 | 1% | 1% | 1% |
-| PM10 Wood dust (nonallergenic) | 1 | 60% | 60% | 60% |
 | Green Petroleum Coke Fly Ash | 1 | 46% | 46% | 46% |
 | Cement Kiln Dust | 1 | 54% | 54% | 54% |
-| PM10 Carbon black | 1 | 40% | 40% | 40% |
 | Wood dust (nonallergenic) | 1 | 2% | 2% | 2% |
 | Paint waste | 1 | 20% | 20% | 20% |
 | Rust scale | 1 | 95% | 95% | 95% |
 | HPV VISIBLE EMISSIONS | 1 | 100% | 100% | 100% |
 | 1,2,3 trimethyl indene | 1 | 10% | 10% | 10% |
 | Smoking Emission | 1 | 5% | 5% | 5% |
-| Heavy crude oil | 1 | 25% | 25% | 25% |
 | Water contaminated by firefighting foam | 1 | 40% | 40% | 40% |
 | Crude oil / Produced Water | 1 | 50% | 50% | 50% |
 | crude oil | 1 | 50% | 50% | 50% |
@@ -2418,125 +2271,105 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon Monoxide | 2545 | 20,227,430 |
 | Carbon Dioxide | 425 | 7,577,163 |
 | Methane | 561 | 5,128,608 |
-| Propane | 1065 | 3,980,957 |
-| VOC | 1126 | 3,376,892 |
-| NITROGEN | 394 | 2,265,391 |
-| Ethylene (gaseous) | 686 | 2,119,689 |
-| Hexane, n | 316 | 2,066,362 |
+| Propane | 1067 | 3,981,669 |
+| VOC | 1130 | 3,380,192 |
+| Hexanes | 883 | 2,721,254 |
+| Nitrogen | 394 | 2,265,391 |
+| Butanes | 1566 | 2,257,403 |
+| Ethylene | 687 | 2,120,789 |
 | NATURAL GAS | 298 | 1,965,968 |
 | Ethane | 530 | 1,560,720 |
-| Butane, N- | 563 | 1,331,823 |
-| Nitrogen oxide | 2342 | 1,249,294 |
-| Propylene (Propene) | 642 | 1,089,099 |
-| Pentane, N- | 470 | 801,117 |
-| Hexane | 526 | 639,751 |
+| Pentanes | 1360 | 1,331,793 |
+| Nitrogen oxide | 2185 | 1,201,269 |
+| Propylene | 649 | 1,091,187 |
 | Hydrogen Sulfide | 1498 | 634,593 |
-| Isobutane | 612 | 581,917 |
 | Acetylene | 127 | 498,297 |
 | Nitrogen dioxide | 2318 | 490,715 |
-| Butane | 386 | 343,540 |
-| Pentane | 384 | 265,154 |
-| Isopentane | 495 | 263,715 |
-| Xylene (mixed isomers) | 76 | 254,462 |
+| Xylenes | 237 | 294,159 |
 | Benzene | 511 | 241,849 |
 | Toluene | 322 | 209,004 |
+| Butadiene | 291 | 167,579 |
 | Butylene | 41 | 145,973 |
 | Sweet Gas Oil | 1 | 143,386 |
 | Mineral Spirit | 6 | 129,124 |
-| 1,3-BUTADIENE | 197 | 127,651 |
 | Nitrogen Oxides (NOx) | 141 | 112,326 |
 | Pentene | 65 | 111,755 |
+| Heptane | 185 | 104,806 |
 | Heavy Olefins | 3 | 96,925 |
 | Butene | 196 | 87,895 |
-| Particulate Matter | 178 | 85,046 |
-| Ethylbenzene | 99 | 80,870 |
+| Ethylbenzene | 108 | 86,769 |
+| Particulate Matter | 187 | 86,101 |
 | PM10 C.I. DIRECT BLACK 38 | 209 | 67,465 |
-| Heptane (or n-) | 59 | 63,323 |
 | Nitric oxide | 221 | 55,308 |
+| Nitrogen monoxide | 157 | 48,025 |
 | VOC-light ends | 10 | 44,979 |
 | Acrylonitrile | 11 | 44,570 |
 | Cyclohexane | 71 | 42,049 |
-| HEPTANE (OR N-) | 112 | 40,144 |
 | Naphtha | 13 | 37,770 |
 | VOC-Sour Light Ends | 8 | 35,180 |
 | Hydrogen | 72 | 30,343 |
 | Alumina | 51 | 27,942 |
 | Ethylene oxide | 33 | 26,871 |
+| Isobutylene | 125 | 22,884 |
 | CARBON BLACK | 10 | 21,915 |
+| Ammonia | 90 | 20,959 |
 | Silica | 11 | 20,726 |
-| Butadiene | 68 | 20,110 |
-| Butadiene, 1-3 | 26 | 19,818 |
-| Ammonia | 86 | 19,292 |
 | Freon 22 (Chlorodifluoromethane) | 12 | 18,918 |
-| Xylene | 129 | 18,746 |
-| Isobutylene | 88 | 17,748 |
+| Crude Oil | 4 | 18,378 |
+| Gasoline | 13 | 16,973 |
 | VOC - Sour Cracked Light Ends | 6 | 16,722 |
-| Crude oil light | 1 | 16,135 |
 | Non-Methane Non-Ethane Natural Gas | 1 | 14,871 |
 | Pentenenitrile | 1 | 13,694 |
-| Diesel fuel | 2 | 13,617 |
-| MTBE | 9 | 13,208 |
+| Diesel | 2 | 13,617 |
+| MTBE | 10 | 13,225 |
 | Acetaldehyde | 32 | 13,199 |
 | Octane | 148 | 13,166 |
 | Sodium hypochlorite 2 | 1 | 12,887 |
 | Hydrocarbons | 8 | 12,637 |
 | Isopropyl Ether | 3 | 12,613 |
 | Vinyl acetate | 25 | 12,177 |
-| Gasoline | 11 | 12,076 |
 | Propylene oxide | 25 | 11,663 |
 | Vinyl cyclohexene | 5 | 11,091 |
 | 1-Butene | 74 | 10,662 |
-| Hydrogen fluoride | 21 | 10,652 |
+| Hydrogen Fluoride | 21 | 10,652 |
 | Isopropyl alcohol | 12 | 9,351 |
-| N-Hexane | 14 | 8,534 |
 | Tert Butanol | 13 | 8,102 |
-| M-Xylene | 6 | 7,908 |
-| P-Xylene | 7 | 7,479 |
 | Isoprene | 28 | 6,981 |
 | Nonane | 26 | 6,966 |
 | N-Butyl alcohol | 10 | 6,830 |
 | R-134A Refrigerant | 3 | 6,704 |
 | Acetonitrile | 14 | 6,263 |
 | Biphenyl | 7 | 6,088 |
-| Ethyl Benzene | 9 | 5,899 |
 | Methanol | 57 | 5,712 |
 | 1-Pentene | 10 | 5,500 |
 | Chlorodifluoromethane | 10 | 5,464 |
 | Water (H2O) | 2 | 5,203 |
 | Octene | 13 | 5,186 |
-| Isobutene | 37 | 5,136 |
 | Isopropanol | 3 | 4,949 |
-| GASOLINE, AUTOMOTIVE OR AVIATION | 2 | 4,896 |
+| Hydrogen Chloride | 15 | 4,816 |
 | Methyl Acetate | 14 | 4,801 |
-| Hydrogen cyanide | 21 | 4,659 |
+| Hydrogen Cyanide | 23 | 4,680 |
 | Styrene | 53 | 4,512 |
-| Hydrogen chloride | 7 | 4,496 |
 | Trans-2-butene | 85 | 4,478 |
 | 1,1,1,2 Tetrafluoroethane | 3 | 4,440 |
 | Sodium bisulfite | 1 | 4,425 |
 | Other Organics | 3 | 4,148 |
-| O-Xylene | 6 | 4,058 |
 | Hexene | 37 | 3,924 |
 | Cyclopentane | 24 | 3,761 |
-| Hexane Plus | 23 | 3,727 |
 | Cis-2-butene | 89 | 3,623 |
 | Cyclopentadiene | 33 | 3,558 |
 | 1,1-Di(T-Amylperoxy)Cyclohexane | 1 | 3,450 |
 | Glycol ethers | 4 | 3,330 |
 | Sulfur trioxide | 7 | 3,305 |
-| Unspeciated VOCs | 4 | 3,300 |
 | Methylcyclohexane | 15 | 3,263 |
 | Phenol | 4 | 3,001 |
-| Hexane, i | 4 | 2,879 |
 | t-2-Pentene | 1 | 2,833 |
 | Terpenes | 2 | 2,792 |
 | Butyl Cellosolve | 2 | 2,699 |
 | Diethylene Glycol Monohexyl Ether | 8 | 2,513 |
 | HCFC 134A | 1 | 2,300 |
-| Crude oil heavy | 3 | 2,243 |
 | Butyl Cellosive | 2 | 2,134 |
 | Methyl formate | 18 | 2,121 |
-| Propene | 7 | 2,088 |
 | Vinyl acetylene | 22 | 2,027 |
 | FLY ASH | 1 | 2,000 |
 | Talc | 1 | 2,000 |
@@ -2549,23 +2382,19 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | CFC 113  (1,1,2 TRICHLOROTRIFLUOROETHANE) | 1 | 1,758 |
 | Methyl methacrylate | 3 | 1,717 |
 | Gasoline Blend Stock | 1 | 1,620 |
+| Vinyl Chloride | 36 | 1,618 |
 | Dimethyl ether | 14 | 1,576 |
 | Trimethylcyclopentane | 6 | 1,414 |
 | Alpha-pinene | 1 | 1,405 |
 | Heptafluoropropane | 2 | 1,382 |
 | Acetic acid isopropyl ester | 1 | 1,372 |
-| Heptane,-n | 14 | 1,339 |
 | c-2-Pentene | 1 | 1,328 |
 | 2-Butoxyethanol | 4 | 1,316 |
 | 2,2,4-Trimethylpentane | 10 | 1,208 |
-| Xylene, o- | 5 | 1,170 |
 | Methyl Acetylene | 29 | 1,134 |
 | Dimethylethanolamine | 7 | 1,134 |
 | Polydimethylsiloxane | 2 | 1,132 |
 | Lube oil | 6 | 1,120 |
-| Ethene | 1 | 1,100 |
-| Anhydrous ammonia | 3 | 1,095 |
-| VCM | 12 | 1,061 |
 | Ethylene (liquid) | 10 | 1,044 |
 | 2-Methyl-Pentane | 11 | 1,034 |
 | Halon 1301 | 1 | 1,025 |
@@ -2575,7 +2404,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butyraldehyde | 6 | 969 |
 | Trimethylpentane, 2,2,4- | 1 | 961 |
 | POM | 5 | 924 |
-| pentane, iso- | 7 | 898 |
 | Polyethylene | 7 | 870 |
 | Chloroform | 3 | 801 |
 | Chlorine | 14 | 797 |
@@ -2584,40 +2412,35 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | HFC-134 | 1 | 763 |
 | Pentadiene | 7 | 746 |
 | Polyisobutylene byproduct | 1 | 725 |
-| Propane, N- | 2 | 713 |
 | Methyl chloride | 4 | 674 |
 | Naptha | 2 | 651 |
 | Argon | 6 | 645 |
 | 2,4-dimethyloctane | 3 | 644 |
 | N-Methyl-2-pyrrolidone | 2 | 641 |
 | Cyclopentene | 7 | 638 |
+| LPG | 4 | 620 |
 | N-Butyl acetate | 2 | 600 |
 | Halon (Bromotriflouromethane) | 2 | 600 |
 | HCFC-123 | 1 | 600 |
+| MEK | 6 | 597 |
 | Alumina Silica Catalyst Fines | 21 | 582 |
 | Acetone | 26 | 580 |
 | 2,3-dimethylhexane | 3 | 579 |
 | Sulfur | 4 | 576 |
-| Ammonia, anhydrous | 1 | 571 |
 | Methyl mercaptan | 10 | 555 |
 | Acrylic acid | 11 | 541 |
 | Process fuel gas | 5 | 531 |
-| Vinyl Chloride | 21 | 527 |
 | 2-Methyl-2-Butene | 8 | 526 |
-| Liquefied petroleum gas (LPG) | 2 | 519 |
+| Naphthalene | 12 | 519 |
 | Nonene | 1 | 513 |
-| Naphthalene | 9 | 512 |
 | Calcined Alumina Dust | 4 | 503 |
 | 1,2-Dichloroethane | 3 | 485 |
-| n-pentane | 1 | 482 |
 | 3,3-dimethyl-1-butene | 3 | 480 |
-| Cement (wet or dry) | 1 | 468 |
 | Beta-pinene | 1 | 458 |
 | Propylene Glycol | 2 | 451 |
 | n-Decane | 3 | 448 |
 | 2-Pentene,(E) | 4 | 444 |
 | 2 -methylpentane | 7 | 433 |
-| i-pentane | 3 | 426 |
 | Ethyl acrylate | 9 | 425 |
 | Methylcyclopentane | 16 | 414 |
 | Halon 1301 (Bromotrifluoromethane) | 2 | 400 |
@@ -2636,13 +2459,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 3- methyl pentane | 9 | 357 |
 | Cadmium compounds | 1 | 344 |
 | Ethyltoluene | 3 | 333 |
-| Hydrochloric acid | 8 | 320 |
-| Xylene, m- | 5 | 318 |
 | Polymer | 4 | 316 |
 | 1,2-Propadiene | 2 | 310 |
 | 1,3 Pentadiene | 2 | 308 |
-| PM10 Cement(Portland) | 1 | 300 |
-| Methyl ethyl ketone | 1 | 300 |
 | n-butyraldehyde | 5 | 299 |
 | butenes | 4 | 299 |
 | Mineral oil | 1 | 290 |
@@ -2666,7 +2485,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Misc. C3s | 3 | 204 |
 | Piperylene | 2 | 204 |
 | 3-Methyl-1-butene | 23 | 203 |
-| Methyl ethyl ketone (MEK) | 2 | 202 |
 | Butyl acrylate | 7 | 200 |
 | butenes/butanes | 2 | 199 |
 | Sulfuric acid | 3 | 198 |
@@ -2681,7 +2499,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | polymer fines | 2 | 162 |
 | Trimethylbenzene | 3 | 159 |
 | Vanadium (fume or dust) | 6 | 158 |
-| PM10 | 5 | 157 |
 | Formaldehyde | 20 | 155 |
 | 2-Methylhexane | 7 | 152 |
 | neo-pentane | 25 | 151 |
@@ -2693,7 +2510,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | methylformate | 1 | 140 |
 | Ethylidene dichloride | 1 | 134 |
 | Acrolein | 19 | 130 |
-| PM10 Plastics | 1 | 129 |
 | Ethylene glycol | 6 | 122 |
 | VOC - NONMETHANE | 1 | 121 |
 | Carbonyl sulfide | 6 | 115 |
@@ -2704,12 +2520,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | N-Butyl acrylate | 1 | 107 |
 | Monoisopropylamine | 1 | 104 |
 | Ethane, 1,1,1,2,-Trifluoro | 1 | 104 |
-| LPG (liquified petroleum gas) | 2 | 101 |
 | Ethanol Amine | 1 | 100 |
 | Alkane | 1 | 99 |
 | Dimethylcyclopentane | 8 | 98 |
-| MEK | 3 | 95 |
-| i-butane | 3 | 91 |
 | 2,2,3-trimethylpentane | 1 | 91 |
 | polyethylene powder | 1 | 91 |
 | 1,4-Pentadiene | 2 | 90 |
@@ -2739,23 +2552,21 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Tert Butylhydroperoxide | 1 | 52 |
 | 2 Methylhexane | 3 | 51 |
 | C4+ | 1 | 51 |
+| Cumene | 18 | 48 |
 | C9+ | 1 | 47 |
 | Dibutylaminoethanol | 3 | 47 |
 | C9 Paraffins | 1 | 45 |
-| Cumene | 15 | 42 |
 | aromatic concentrate | 1 | 42 |
 | 2 methyl pentane | 2 | 41 |
 | iso butyraldehyde | 2 | 40 |
-| Ethanol | 2 | 39 |
+| Ethanol | 4 | 39 |
 | VTMOS | 2 | 38 |
 | Trimethylpentanes | 7 | 37 |
 | Dimethylcyclohexane | 1 | 36 |
 | Naphtha (petroleum), catalytic reformed | 1 | 35 |
 | 1,3-Pentadiene | 1 | 32 |
-| n-butane | 2 | 32 |
 | Dichloroacetaldehyde | 1 | 31 |
 | Methylheptane | 3 | 31 |
-| Vinyl Chloride Monomer | 3 | 30 |
 | Cyclohexanone | 1 | 30 |
 | Antimony | 4 | 30 |
 | Pyrocatechol | 1 | 29 |
@@ -2779,14 +2590,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | t-Butyl Alcohol | 1 | 21 |
 | Isohexane | 2 | 21 |
 | methyl cyclohexane | 1 | 21 |
-| HCN | 2 | 21 |
 | C9 Aromatics | 2 | 20 |
 | Diisopropanol Amine | 1 | 20 |
 | C9 Naphthene | 1 | 20 |
 | Dimethylhexanes | 5 | 19 |
 | Fluorides-inorganic gases | 1 | 19 |
-| Xylene, p- | 3 | 18 |
-| Methyl tert-butyl ether | 1 | 17 |
 | ethyl cyclohexane | 1 | 17 |
 | isopropyl cyclohexane | 1 | 17 |
 | 3-Methylheptane | 1 | 16 |
@@ -2817,7 +2625,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Chloroacetaldehyde | 1 | 9 |
 | 2 methyl nonane | 1 | 8 |
 | Ethane, 1,1,1,2,-Tetrafluoro | 1 | 8 |
-| Napthalene | 3 | 7 |
 | silica catalyst fines | 1 | 7 |
 | Methyl heptane | 1 | 7 |
 | 1,3-cyclopentadiene | 1 | 7 |
@@ -2827,7 +2634,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Tetrahydrofuran | 1 | 6 |
 | butyl cyclohexane | 1 | 6 |
 | 1,2-butadiene | 7 | 6 |
-| Isopropyl Benzene | 3 | 6 |
 | Acetaldehyde, trichloro- | 1 | 5 |
 | Isobutyric Acid | 4 | 5 |
 | 2 methyl propane | 1 | 5 |
@@ -2871,11 +2677,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | polyethylbenzene | 1 | 1 |
 | Ethoxymethyl Polysiloxane | 1 | 1 |
 | chloral | 1 | 0 |
-| Ethyl alcohol | 2 | 0 |
 | Dodecylbenzenesulfonic acid | 1 | 0 |
 | Methyl Cyclopropane | 1 | 0 |
 | Iso-octane | 1 | 0 |
-| PM10 part.aromatic | 1 | 0 |
 | Benzo[j,k]fluorene | 1 | 0 |
 | trans-Piperylene | 1 | 0 |
 | Benzo(a)anthacene | 1 | 0 |
@@ -2906,99 +2710,77 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Non-Methane Non-Ethane Natural Gas | 200 | 4,693,059 |
 | Methane | 270 | 3,023,975 |
 | NATURAL GAS | 259 | 2,925,734 |
-| Propane | 1320 | 2,551,600 |
-| VOC | 608 | 1,706,066 |
-| Ethylene (gaseous) | 819 | 1,314,588 |
-| Propylene (Propene) | 885 | 975,171 |
+| Propane | 1324 | 2,600,649 |
+| Butanes | 1800 | 1,790,898 |
+| VOC | 611 | 1,706,471 |
+| Ethylene | 823 | 1,340,529 |
+| Propylene | 892 | 976,065 |
 | Nitrogen Oxides (NOx) | 236 | 877,405 |
 | Ethane | 316 | 809,275 |
-| Nitrogen oxide | 2049 | 743,020 |
-| Butane, N- | 597 | 679,956 |
-| Butane | 480 | 619,478 |
+| Nitrogen oxide | 1710 | 648,399 |
+| Pentanes | 1363 | 608,818 |
+| Hexanes | 828 | 531,548 |
 | Hydrogen Sulfide | 1453 | 462,103 |
-| Isobutane | 651 | 437,526 |
-| NITROGEN | 81 | 419,424 |
-| Pentane | 515 | 287,387 |
+| Nitrogen | 81 | 419,424 |
 | Nitrogen dioxide | 2333 | 247,739 |
 | Nitric oxide | 423 | 216,281 |
-| Hexane | 524 | 203,828 |
-| Toluene | 284 | 203,117 |
-| Particulate Matter | 307 | 175,080 |
-| Isopentane | 410 | 165,072 |
-| Hexane, n | 147 | 164,675 |
+| Toluene | 285 | 203,122 |
+| Butadiene | 397 | 185,778 |
+| Particulate Matter | 367 | 182,234 |
 | Acetylene | 219 | 158,806 |
 | VOC-light ends | 63 | 147,407 |
-| 1,3-BUTADIENE | 257 | 146,844 |
-| Pentane, N- | 342 | 130,279 |
-| Hexane Plus | 110 | 126,967 |
 | Benzene | 578 | 117,155 |
 | Butylene | 60 | 100,715 |
+| Nitrogen monoxide | 339 | 94,622 |
 | Butene | 294 | 90,867 |
+| Heptane | 122 | 83,055 |
 | VOC-Sour Light Ends | 46 | 79,682 |
 | Natural (casing head) gasoline | 4 | 77,213 |
-| Gasoline | 17 | 68,802 |
+| Ammonia | 124 | 70,786 |
+| Gasoline | 18 | 68,842 |
 | VOC - NONMETHANE | 20 | 68,356 |
 | CARBON BLACK | 15 | 57,101 |
 | Hydrocarbons | 13 | 53,274 |
-| Propane, N- | 4 | 49,049 |
+| Xylenes | 221 | 50,811 |
 | Pentene | 131 | 49,014 |
-| Heptane (or n-) | 87 | 43,703 |
-| Anhydrous ammonia | 24 | 43,099 |
 | 1-Butene | 118 | 40,493 |
-| HEPTANE (OR N-) | 21 | 38,378 |
-| Butadiene, 1-3 | 119 | 38,007 |
 | Naphtha | 21 | 37,099 |
-| N-Hexane | 42 | 36,052 |
-| Hydrogen chloride | 7 | 28,270 |
-| Ammonia | 100 | 27,687 |
-| Ethene | 4 | 25,941 |
+| Hydrogen Chloride | 13 | 31,191 |
 | VOC GAS MIXTURE | 12 | 23,132 |
 | Vinyl acetate | 36 | 22,580 |
 | Methanol | 53 | 22,524 |
 | Propylene oxide | 31 | 22,164 |
-| P-Xylene | 10 | 21,415 |
-| Butanes | 11 | 20,135 |
-| Butane, i | 30 | 20,063 |
+| Isobutylene | 179 | 21,305 |
+| Ethylbenzene | 107 | 19,220 |
 | Calcined Alumina Dust | 66 | 16,659 |
-| Isobutylene | 131 | 16,180 |
-| Ethyl Benzene | 17 | 14,018 |
 | Freon 22 (Chlorodifluoromethane) | 16 | 12,588 |
 | VOC - Sour Cracked Light Ends | 51 | 12,121 |
-| M-Xylene | 6 | 12,024 |
 | Methyl isobutyl ketone | 3 | 11,957 |
 | Tert Butanol | 10 | 11,816 |
 | n Propyl Bromide (over 100# quantity) | 1 | 11,367 |
 | Octane | 54 | 10,663 |
-| Xylene | 157 | 10,439 |
-| i-butane | 14 | 9,966 |
+| Crude Oil | 5 | 10,307 |
 | 2-Butoxyethanol | 52 | 9,572 |
 | Ethane, 1,1,1,2-tetrafluoro | 3 | 9,531 |
 | R-22 (Monochlorodifluoromethane) | 2 | 9,510 |
-| Crude oil heavy | 4 | 9,127 |
 | 1-Pentene | 13 | 9,114 |
 | Cyclohexane | 50 | 8,992 |
-| MTBE | 14 | 8,787 |
+| MTBE | 18 | 8,825 |
 | Hexene | 65 | 8,671 |
 | Styrene | 77 | 8,384 |
 | Nonane | 30 | 7,945 |
-| i-pentane | 21 | 7,430 |
-| n-pentane | 37 | 7,170 |
 | t-Butyl Alcohol | 9 | 7,154 |
 | Methyl Benzyl Alcohol | 9 | 6,924 |
-| PM10 | 57 | 6,827 |
 | N-Butyl alcohol | 21 | 6,750 |
-| Pentanes | 7 | 6,497 |
 | Ethylene oxide | 40 | 6,296 |
 | Trans-2-butene | 112 | 5,718 |
 | Isoprene | 46 | 5,670 |
 | Dimethylethanolamine | 65 | 5,354 |
 | Methacrylic Acid | 22 | 5,341 |
 | Chlorodifluoromethane | 8 | 5,255 |
-| Ethylbenzene | 90 | 5,202 |
-| Isobutene | 48 | 5,125 |
-| pentane, iso- | 31 | 4,984 |
 | Butyraldehyde | 40 | 4,794 |
 | Process fuel gas | 11 | 4,793 |
+| LPG | 12 | 4,702 |
 | Cyclopentene | 29 | 4,632 |
 | Methyl Acetate | 13 | 4,629 |
 | n-butanol | 19 | 4,570 |
@@ -3006,38 +2788,32 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Esters | 3 | 4,430 |
 | Isopropyl alcohol (mfg.-strong acid processes) | 9 | 4,357 |
 | Ethylene dichloride | 9 | 4,346 |
+| Hydrogen Fluoride | 18 | 4,310 |
 | Acetaldehyde | 39 | 4,196 |
 | Ethylene (liquid) | 6 | 4,153 |
 | FM 200 | 3 | 3,831 |
 | Glycol ethers | 13 | 3,824 |
-| n-butane | 17 | 3,774 |
 | Cis-2-butene | 110 | 3,695 |
 | Alcohols | 3 | 3,637 |
 | Ketones | 3 | 3,603 |
 | Silica | 7 | 3,550 |
 | Unspeciated TOCs | 2 | 3,400 |
-| Hydrogen fluoride | 15 | 3,368 |
 | 2-Butene-trans | 17 | 3,260 |
 | Oxygen | 10 | 3,254 |
 | Hydrogen | 22 | 3,067 |
 | Methyl Acetylene | 54 | 3,038 |
 | Sodium | 1 | 2,941 |
-| Hydrochloric acid | 6 | 2,921 |
 | Cumene | 11 | 2,841 |
 | Methyl formate | 26 | 2,826 |
 | Acetone | 33 | 2,776 |
-| Xylene, m- | 5 | 2,761 |
 | Propadiene | 80 | 2,641 |
 | 2-Ethylhexanol | 14 | 2,633 |
 | i-Pentane | 4 | 2,488 |
 | Water (H2O) | 19 | 2,451 |
 | tert-butyl alcohol | 8 | 2,430 |
-| Hydrogen cyanide | 41 | 2,424 |
-| LPG (liquified petroleum gas) | 7 | 2,402 |
+| Hydrogen Cyanide | 41 | 2,424 |
 | Alumina | 11 | 2,390 |
 | Cyclopentane | 27 | 2,323 |
-| Xylene (mixed isomers) | 26 | 2,323 |
-| Liquefied petroleum gas (LPG) | 5 | 2,300 |
 | Octene | 14 | 2,292 |
 | neo-pentane | 14 | 2,209 |
 | Ethyl acrylate | 7 | 2,121 |
@@ -3053,6 +2829,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Acetonitrile | 27 | 1,830 |
 | Alumina Silica Catalyst Fines | 25 | 1,796 |
 | C5 - C9s | 10 | 1,755 |
+| Naphthalene | 21 | 1,739 |
 | Iso-octane | 3 | 1,721 |
 | Acrylonitrile | 26 | 1,720 |
 | Ethyl 3-ethoxypropionate | 2 | 1,685 |
@@ -3068,32 +2845,25 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Calcium hydroxide | 1 | 1,200 |
 | 2-Butene-cis | 21 | 1,187 |
 | Sulfur | 2 | 1,187 |
-| Crude oil light | 1 | 1,180 |
 | 2-Methyl-Pentane | 10 | 1,159 |
 | Propanol, n- | 3 | 1,102 |
 | 1-hexene | 3 | 1,099 |
 | 1,2-Butylene oxide | 2 | 1,098 |
 | Alkylates | 4 | 1,072 |
-| Napthalene | 10 | 1,071 |
 | Chlorine | 6 | 1,065 |
 | butenes/butanes | 1 | 1,041 |
 | Vinyl acetylene | 31 | 1,018 |
 | 2-Methyl-2-Butene | 11 | 1,007 |
 | N-Methyl-2-pyrrolidone | 3 | 977 |
-| Heptane,-n | 14 | 974 |
 | Acetophenone | 10 | 948 |
 | Other Organics | 23 | 933 |
 | Perchloroethylene | 2 | 931 |
-| Butadiene | 21 | 928 |
-| Propene | 7 | 894 |
 | Trigonox EHP | 1 | 875 |
 | Other material | 13 | 873 |
 | Ethyl Lactate | 3 | 859 |
 | Mixture of Crude Butadiene and Nitrogen | 2 | 850 |
 | t-2-Pentene | 3 | 839 |
 | Methyl n-Amyl Ketone | 3 | 839 |
-| Hydrogen fluoride (anhydrous) | 1 | 838 |
-| Xylene, p- | 4 | 827 |
 | JP-8 | 1 | 822 |
 | Alumina Hydrate Dust | 14 | 815 |
 | Methylcyclopentane | 20 | 810 |
@@ -3106,7 +2876,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methylacetylene | 37 | 705 |
 | Isopropanol | 5 | 682 |
 | total reduced sulfur | 8 | 670 |
-| Naphthalene | 11 | 668 |
 | c-2-Pentene | 3 | 650 |
 | Methyl Acrylic Acid | 1 | 639 |
 | Polyisobutylene byproduct | 1 | 633 |
@@ -3114,9 +2883,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butyl acrylate | 10 | 606 |
 | Nitrous Oxides | 6 | 582 |
 | Sulfur trioxide | 4 | 566 |
-| O-Xylene | 10 | 565 |
 | Kerosene | 2 | 561 |
-| Diesel fuel | 2 | 558 |
+| Diesel | 2 | 558 |
 | Acrylic acid | 13 | 552 |
 | Spent Caustic Solution | 1 | 550 |
 | Isopropyl alcohol | 17 | 547 |
@@ -3126,11 +2894,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,2-Propadiene | 3 | 477 |
 | Vinylacetylene | 11 | 470 |
 | Isopropyl Ether | 10 | 470 |
-| Xylene, o- | 3 | 456 |
 | 1,3-Pentadiene | 2 | 444 |
 | Octane, n- | 9 | 421 |
 | Methyl mercaptan | 7 | 415 |
-| Unspeciated VOCs | 3 | 405 |
 | butenes | 23 | 405 |
 | Freon | 1 | 400 |
 | Pyrolysis Gasoline | 1 | 395 |
@@ -3140,7 +2906,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Argon | 6 | 351 |
 | Cis-2-butylene | 2 | 331 |
 | Aluminum oxide | 4 | 330 |
-| Cement (wet or dry) | 2 | 325 |
 | Propionaldehyde | 11 | 323 |
 | Butyl methacrylate | 4 | 303 |
 | Dust | 1 | 300 |
@@ -3149,6 +2914,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Acrolein | 27 | 286 |
 | 1,1-Dimethylcyclohexane | 1 | 283 |
 | Nitrobenzene | 3 | 277 |
+| Vinyl Chloride | 14 | 277 |
 | butene c-2 | 4 | 265 |
 | Carbon disulfide | 7 | 259 |
 | Balsa Wood Dust | 1 | 250 |
@@ -3189,19 +2955,15 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Alpha-pinene | 1 | 111 |
 | Dicyclopentadiene | 6 | 110 |
 | Total Alkylate - non-speciated | 1 | 110 |
-| Hydrofluoric acid | 2 | 104 |
+| MEK | 5 | 102 |
 | FLY ASH | 1 | 100 |
-| Vinyl Chloride | 10 | 99 |
-| Ethanol | 2 | 96 |
-| VCM | 2 | 96 |
+| Ethanol | 3 | 99 |
 | 4-Vinylcyclohexene | 1 | 94 |
 | Propyl alcohol | 2 | 91 |
 | Glycols | 3 | 90 |
 | methylformate | 1 | 90 |
-| MEK | 4 | 88 |
 | 3 methylpentane | 2 | 86 |
 | Vinyl cyclohexene | 10 | 84 |
-| Vinyl Chloride Monomer | 2 | 82 |
 | Methylene chloride | 2 | 79 |
 | 2,2-DIMETHYLBUTANE | 4 | 79 |
 | Butyl ether | 1 | 79 |
@@ -3238,10 +3000,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C20+ | 1 | 41 |
 | Allyl alcohol | 1 | 40 |
 | C9+ | 3 | 40 |
-| GASOLINE, AUTOMOTIVE OR AVIATION | 1 | 40 |
 | 2,5-Dimethylhexane | 1 | 39 |
 | Mineral Spirit | 5 | 39 |
-| Methyl tert-butyl ether | 4 | 38 |
 | 3 methyl hexane | 6 | 38 |
 | Pentadiene | 3 | 38 |
 | n-hexane - 110543 | 3 | 37 |
@@ -3265,7 +3025,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methylcyclohexane | 2 | 25 |
 | 2-methyl-1,3-butadiene | 6 | 24 |
 | Ethyl acetylene | 13 | 24 |
-| hexanes + | 4 | 23 |
 | Halocarbons | 3 | 23 |
 | c-3-Methylethylcyclohexane | 1 | 22 |
 | Phenol | 4 | 22 |
@@ -3289,7 +3048,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butyl alcohol, tert- | 2 | 14 |
 | Mineral oil | 1 | 14 |
 | Pyrrolidones | 3 | 14 |
-| Methyl ethyl ketone (MEK) | 1 | 14 |
 | 2-methyl-butane | 3 | 13 |
 | Propylene Glycol | 2 | 11 |
 | 2-Methylbutene | 1 | 11 |
@@ -3316,7 +3074,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,4-Pentadiene | 6 | 5 |
 | Benzene, dimethyl- | 1 | 5 |
 | Ethenylbenzene | 1 | 5 |
-| Methylbenzene | 1 | 5 |
 | Monoethanolamine | 1 | 4 |
 | Methyl acrylate | 1 | 4 |
 | Methylheptane | 1 | 4 |
@@ -3328,9 +3085,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-methyl-Heptane | 1 | 3 |
 | Visible Emissions | 1 | 3 |
 | Trimethylcyclopentane | 1 | 3 |
-| Hexane, i | 1 | 3 |
 | 1,2-Butadiene | 2 | 3 |
-| Ethyl alcohol | 1 | 3 |
 | cis-Piperylene | 7 | 3 |
 | Methylethanolamine | 1 | 3 |
 | Propylene Glycol Monomethyl Ether | 1 | 3 |
@@ -3361,7 +3116,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | ethyl toluene | 1 | 1 |
 | Furan, tetrahydro- | 1 | 1 |
 | Diethyl benzene | 1 | 1 |
-| PM10 Plastics | 1 | 1 |
 | Texanol Isobutyrate (TXIB) | 1 | 1 |
 | pentabenzene | 1 | 1 |
 | 1,1,2,2-Heptadecafluorodecyl Acrylate | 1 | 1 |
@@ -3428,106 +3182,88 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2012 | 19,265,836 |
+| Sulfur dioxide | 2013 | 19,266,109 |
 | Carbon Monoxide | 2723 | 13,737,955 |
 | Methane | 160 | 4,963,626 |
+| Butanes | 1713 | 2,694,599 |
 | NATURAL GAS | 380 | 2,423,965 |
-| Ethylene (gaseous) | 882 | 2,008,975 |
-| Isobutane | 652 | 1,644,042 |
+| Ethylene | 898 | 2,176,029 |
 | Non-Methane Non-Ethane Natural Gas | 104 | 1,423,153 |
-| Propylene (Propene) | 933 | 1,212,993 |
-| VOC | 502 | 1,190,666 |
-| Propane | 1178 | 1,087,757 |
-| Nitrogen oxide | 1980 | 923,010 |
-| Butane | 460 | 747,891 |
+| Propylene | 939 | 1,214,221 |
+| Propane | 1186 | 1,205,984 |
+| VOC | 508 | 1,191,779 |
+| Nitrogen oxide | 1505 | 731,193 |
+| Hexanes | 612 | 501,185 |
+| Particulate Matter | 365 | 386,746 |
 | Nitrogen Oxides (NOx) | 217 | 350,847 |
-| Particulate Matter | 327 | 340,832 |
-| Hexane | 462 | 316,144 |
+| Pentanes | 1188 | 347,117 |
 | Ethane | 181 | 292,340 |
 | Nitric oxide | 527 | 289,943 |
 | Nitrogen dioxide | 2488 | 269,119 |
 | Hydrogen Sulfide | 1106 | 253,307 |
-| NITROGEN | 12 | 242,794 |
-| Butane, N- | 506 | 234,669 |
-| Ethene | 16 | 167,054 |
-| Pentane | 441 | 137,120 |
+| Nitrogen | 12 | 242,794 |
+| Nitrogen monoxide | 475 | 191,817 |
+| Butadiene | 466 | 173,650 |
 | Benzene | 496 | 129,805 |
 | VOC - NONMETHANE | 31 | 121,270 |
-| Propane, N- | 8 | 118,227 |
 | Carbon Dioxide | 58 | 117,883 |
-| 1,3-BUTADIENE | 319 | 116,550 |
 | Butylene | 64 | 105,526 |
-| Hexane Plus | 39 | 100,975 |
 | Butene | 340 | 98,021 |
-| Isopentane | 416 | 82,928 |
-| Pentane, N- | 238 | 63,265 |
-| Butane, i | 57 | 60,703 |
 | Freon 22 (Chlorodifluoromethane) | 11 | 57,202 |
 | Pentene | 115 | 52,299 |
 | butenes/butanes | 11 | 48,036 |
 | VOC-Sour Light Ends | 8 | 44,851 |
 | Toluene | 285 | 44,768 |
-| hexanes + | 20 | 44,533 |
-| PM10 | 35 | 43,907 |
+| Xylenes | 233 | 42,452 |
 | VOC GAS MIXTURE | 4 | 40,187 |
+| Ammonia | 127 | 38,942 |
 | Methanol | 36 | 38,799 |
-| Hexane, n | 76 | 37,790 |
-| pentane, iso- | 39 | 36,265 |
 | Acetylene | 200 | 33,191 |
 | R-22 (Monochlorodifluoromethane) | 9 | 29,427 |
-| Butadiene | 26 | 29,217 |
-| Butadiene, 1-3 | 121 | 27,882 |
+| LPG | 8 | 27,181 |
 | 1-Butene | 183 | 27,164 |
-| Pentanes | 17 | 26,556 |
 | Vinyl acetate monomer | 1 | 26,130 |
 | Naphtha | 18 | 22,691 |
 | Petroleum | 1 | 20,047 |
 | Residual Oil | 2 | 20,000 |
-| Ammonia | 113 | 19,418 |
 | Aluminum silicate | 1 | 19,314 |
 | Gas Oil | 5 | 19,292 |
-| LPG (liquified petroleum gas) | 4 | 16,399 |
-| Anhydrous ammonia | 9 | 16,264 |
-| Vinyl Chloride | 12 | 15,737 |
+| Heptane | 112 | 17,709 |
+| Isobutylene | 212 | 17,519 |
+| Vinyl Chloride | 21 | 16,086 |
 | Distillates (petroleum), alkylate | 1 | 15,000 |
 | Octane | 79 | 14,659 |
-| Xylene | 171 | 14,293 |
-| Heptane (or n-) | 91 | 14,100 |
-| Isobutylene | 137 | 13,567 |
 | Vinyl acetate | 20 | 12,826 |
+| Ethylbenzene | 143 | 12,662 |
 | Silica | 2 | 12,620 |
-| Ethylbenzene | 135 | 11,872 |
 | Hydrogen | 31 | 11,409 |
-| Hydrogen fluoride | 12 | 11,194 |
+| Hydrogen Fluoride | 12 | 11,194 |
 | Chlorodifluoromethane | 11 | 10,881 |
-| Liquefied petroleum gas (LPG) | 4 | 10,782 |
 | Cyclohexane | 80 | 10,602 |
-| Xylene (mixed isomers) | 12 | 10,063 |
 | 1,1,1,2-tetrafluoroethane  (HFC- 134a) | 1 | 10,004 |
 | Gasoline | 6 | 9,226 |
 | Propylene oxide | 17 | 9,172 |
 | butenes | 9 | 8,970 |
-| Xylene, p- | 7 | 8,811 |
 | CARBON BLACK | 11 | 8,734 |
 | Acrylonitrile | 28 | 8,469 |
 | Butyl acrylate | 6 | 8,421 |
 | 2-Butoxyethanol | 32 | 7,807 |
 | Cyclopentane | 60 | 7,363 |
-| n-butane | 16 | 6,947 |
 | Methyl Acetylene | 64 | 6,940 |
 | Propadiene | 96 | 6,707 |
 | Ethylene (liquid) | 5 | 6,650 |
 | VOC (light hydrocarbons) | 14 | 6,444 |
 | Ethylene oxide | 38 | 6,384 |
-| Hydrogen cyanide | 48 | 6,374 |
+| Hydrogen Cyanide | 48 | 6,374 |
 | t-Butyl Alcohol | 5 | 5,512 |
 | 2-Methyl-Pentane | 36 | 5,426 |
 | TRIOXANE | 5 | 5,410 |
+| MTBE | 13 | 5,322 |
 | Diethanolamine | 1 | 5,306 |
 | Isoprene | 42 | 5,278 |
-| P-Xylene | 6 | 5,223 |
 | Trimethylpentane, 2,2,4- | 2 | 5,220 |
 | Trans-2-butene | 121 | 4,973 |
+| Hydrogen Chloride | 15 | 4,880 |
 | Cis-2-butene | 137 | 4,862 |
 | Hexene | 34 | 4,731 |
 | Process Gas Oil | 5 | 4,720 |
@@ -3536,8 +3272,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Iso-octane | 6 | 4,234 |
 | tert-butyl alcohol | 8 | 4,216 |
 | Perlite | 1 | 4,200 |
-| Hydrogen chloride | 9 | 3,964 |
-| Isobutene | 75 | 3,952 |
 | N-Butyl alcohol | 5 | 3,947 |
 | Butyraldehyde | 31 | 3,730 |
 | Octene | 10 | 3,644 |
@@ -3547,19 +3281,15 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Styrene | 65 | 3,456 |
 | Tetrahydrofuran | 2 | 3,405 |
 | Cyclopentadiene | 50 | 3,285 |
-| Ammonia, anhydrous | 5 | 3,260 |
-| Heptane,-n | 11 | 3,196 |
 | Ammonium hydroxide | 1 | 3,147 |
 | 2-methyl-butane | 2 | 3,091 |
 | Methylene chloride | 1 | 3,026 |
-| MTBE | 9 | 2,985 |
 | n-butanol | 8 | 2,747 |
 | Total Sulfur | 3 | 2,724 |
 | Dimethylethanolamine | 30 | 2,613 |
 | Nonane | 19 | 2,562 |
 | N-Methyl-2-pyrrolidone | 4 | 2,506 |
 | VOC-light ends | 11 | 2,438 |
-| Methyl tert-butyl ether | 4 | 2,338 |
 | Calcined Alumina Dust | 63 | 2,330 |
 | Methyl chloride | 4 | 2,327 |
 | 2-Methylhexane | 37 | 2,242 |
@@ -3567,14 +3297,13 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | HCFC-123 | 3 | 2,100 |
 | 3 methyl hexane | 39 | 2,045 |
 | Orthodichlorobenzene | 3 | 2,041 |
-| PM10 Calcium carbonate-CaCO3 | 3 | 2,007 |
 | 2-Butene-cis | 56 | 1,928 |
 | t-2-butene | 28 | 1,924 |
 | Nitrobenzene | 4 | 1,880 |
 | Tert Butanol | 10 | 1,838 |
-| N-Hexane | 15 | 1,743 |
 | 1-Pentene | 46 | 1,703 |
 | Carbon | 2 | 1,661 |
+| Naphthalene | 18 | 1,661 |
 | Acetaldehyde | 28 | 1,655 |
 | Formaldehyde | 19 | 1,652 |
 | C5 - C9s | 3 | 1,628 |
@@ -3584,44 +3313,36 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methylcyclohexane | 35 | 1,508 |
 | Hydrocal B Base | 1 | 1,500 |
 | Aluminum oxide | 3 | 1,480 |
-| paraxylene | 1 | 1,436 |
-| M-Xylene | 9 | 1,371 |
 | Diethylene Glycol Monohexyl Ether | 23 | 1,360 |
 | 3- methyl pentane | 55 | 1,336 |
 | FM 200 | 1 | 1,277 |
 | Isobutyraldehyde | 29 | 1,277 |
+| Crude Oil | 3 | 1,266 |
 | Fuel Oil | 7 | 1,259 |
 | R-134A Refrigerant | 3 | 1,247 |
-| Propene | 6 | 1,228 |
 | 3-Methyl-1-butene | 42 | 1,201 |
 | Toluene, 2,4-Diamine | 1 | 1,195 |
 | Dimethyl ether | 11 | 1,164 |
 | Acetonitrile | 20 | 1,161 |
 | Sodium hydroxide | 1 | 1,159 |
-| Naphthalene | 13 | 1,106 |
 | 2,2-Dichloro-1,1,1-trifluoroethane | 1 | 1,100 |
 | Sulfur trioxide | 8 | 1,047 |
 | Trigonox 101 Cyclic Ether | 1 | 1,031 |
 | Alumina Hydrate Dust | 28 | 990 |
 | 1,2,4-Trimethylbenzene | 52 | 964 |
-| Diesel fuel | 8 | 954 |
+| Diesel | 8 | 954 |
 | Decanes Plus | 2 | 935 |
 | 2-Methyl-2-Butene | 45 | 934 |
 | Light Cycle Oil | 1 | 922 |
-| Hydrochloric acid | 6 | 916 |
 | Dioxolane | 5 | 908 |
-| n-pentane | 24 | 899 |
 | Methyl mercaptan | 10 | 894 |
 | Polyphenylene Sulfide | 1 | 865 |
 | Halon 1301 | 4 | 861 |
-| Crude oil heavy | 1 | 860 |
 | CFC 113  (1,1,2 TRICHLOROTRIFLUOROETHANE) | 1 | 858 |
 | 2,3 Dimethylbutane | 39 | 857 |
 | Dibutyl phthalate | 1 | 800 |
 | Propylene Glycol Monomethyl Ether | 2 | 799 |
-| Ethyl Benzene | 8 | 790 |
 | Tert Butylhydroperoxide | 6 | 780 |
-| Unspeciated VOCs | 2 | 737 |
 | 2-Pentene,(E) | 33 | 733 |
 | Cyclopentene | 47 | 714 |
 | 1-hexene | 4 | 702 |
@@ -3639,13 +3360,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Ethyl 3-ethoxypropionate | 1 | 610 |
 | Orthoxylene | 1 | 604 |
 | C8 Parafins | 1 | 567 |
-| Napthalene | 5 | 555 |
-| Xylene, m- | 10 | 552 |
 | Vinyl acetylene | 39 | 546 |
 | Butane/Butylene Mix | 1 | 538 |
 | Allyl alcohol | 3 | 536 |
 | Alumina | 17 | 524 |
-| O-Xylene | 7 | 523 |
 | Nickel | 2 | 517 |
 | Biphenyl | 5 | 516 |
 | Diisobutylene | 1 | 511 |
@@ -3659,16 +3377,14 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C11+ (paraffin, olefin & aromatic compounds) | 1 | 451 |
 | Hydrocarbons, C4-12 Naphtha-Cracking Hydrotreated | 1 | 420 |
 | 2-hexene | 32 | 414 |
-| HEPTANE (OR N-) | 10 | 413 |
 | 2-Methyl-1-butene | 8 | 412 |
 | 2 methylbutane | 4 | 397 |
 | Methylacetylene | 30 | 397 |
 | total reduced sulfur | 12 | 394 |
-| VOC (unclassified) | 4 | 376 |
 | HCFC 134A | 2 | 375 |
+| Cumene | 27 | 370 |
 | Propanol, n- | 2 | 368 |
 | Methacrylic Acid | 7 | 366 |
-| Cumene | 18 | 352 |
 | Methyl formate | 12 | 352 |
 | Epichlorohydrin | 1 | 340 |
 | C-9 to C-12 Hydrocarbons | 2 | 331 |
@@ -3682,13 +3398,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Calcium | 1 | 298 |
 | Ethylidene dichloride | 1 | 292 |
 | Dicyclopentadiene | 3 | 290 |
-| VCM | 7 | 288 |
 | Polydimethylsiloxane | 1 | 280 |
-| Sulfur dioxide (anhydrous) | 1 | 272 |
 | Oxamyl | 1 | 270 |
-| Butanes | 9 | 269 |
 | 2-Methylbutene | 1 | 268 |
-| Light crude oil | 1 | 266 |
 | Propane/Propylene Mix | 1 | 261 |
 | Ethane, 1,1,1,2-tetrafluoro | 1 | 260 |
 | Ethyl Lactate | 1 | 257 |
@@ -3726,7 +3438,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | t-2-Pentene | 6 | 147 |
 | C5 | 4 | 142 |
 | Fluorene | 1 | 141 |
-| Crude Oil | 1 | 140 |
 | Chlorobenzene | 2 | 137 |
 | Methyl Pentane | 2 | 136 |
 | 1,4-Pentadiene | 4 | 136 |
@@ -3742,7 +3453,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Aniline | 2 | 118 |
 | Vinylacetylene | 7 | 117 |
 | Isobutanol | 16 | 116 |
-| Xylene, o- | 9 | 115 |
 | isobutyl isobutyrate | 1 | 112 |
 | Isobutyl alcohol | 9 | 111 |
 | diethylbenzene | 1 | 108 |
@@ -3756,21 +3466,17 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Polymer | 1 | 90 |
 | decene | 2 | 87 |
 | Glycol ethers | 1 | 86 |
-| i-pentane | 13 | 82 |
 | 4-methyl-1-pentene | 25 | 81 |
 | Trichloroethylene | 2 | 81 |
 | Benzene, butyl- | 2 | 80 |
-| i-butane | 13 | 78 |
 | Butyl methacrylate | 2 | 74 |
 | Lube oil | 1 | 72 |
 | POM | 7 | 71 |
 | Water (H2O) | 5 | 69 |
 | Tert-Butyl Formate | 1 | 68 |
 | Methyl napthalene | 1 | 66 |
-| metaxylene | 1 | 66 |
 | 2,4-dimethylpentane | 33 | 65 |
 | neo-pentane | 9 | 65 |
-| Vinyl Chloride Monomer | 2 | 62 |
 | C7 Parafins | 1 | 59 |
 | C6 Parafins | 1 | 59 |
 | Hydrocarbons | 3 | 58 |
@@ -3830,7 +3536,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C6 | 1 | 18 |
 | C-2 butene | 2 | 18 |
 | trans-piperylene | 7 | 18 |
-| Isopropyl Benzene | 9 | 17 |
 | C8 Aromatics | 1 | 17 |
 | Perchloroethylene | 3 | 17 |
 | Argon | 1 | 16 |
@@ -3859,12 +3564,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | mercaptan | 1 | 7 |
 | 2,3,4-trimethylpentane | 7 | 7 |
 | 1,2,4 Trimethylbenzene | 4 | 7 |
+| MEK | 2 | 6 |
 | Peroxide, organic | 2 | 5 |
 | Dimethylcyclopentane | 1 | 5 |
 | Heptene | 1 | 5 |
 | 1,2-butadiene | 3 | 5 |
 | Glycols | 2 | 5 |
-| Methyl ethyl ketone (MEK) | 1 | 4 |
 | Dimethyl Disulfide | 1 | 4 |
 | Methyl propionate | 2 | 4 |
 | Technical White Oil | 1 | 4 |
@@ -3894,7 +3599,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Imides | 2 | 1 |
 | trans-2-pentene | 1 | 1 |
 | 1-Butanol | 3 | 1 |
-| MEK | 1 | 1 |
 | Phenyl ethyl alcohol | 1 | 1 |
 | Ethanol Amine | 1 | 1 |
 | Hydrogen peroxide | 1 | 1 |
@@ -3959,128 +3663,103 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon Monoxide | 2353 | 9,050,578 |
 | NATURAL GAS | 481 | 5,470,430 |
 | Methane | 81 | 4,211,555 |
+| Propane | 863 | 2,937,672 |
 | Non-Methane Non-Ethane Natural Gas | 438 | 2,803,711 |
-| Propane | 861 | 2,771,226 |
-| Propylene (Propene) | 762 | 1,451,098 |
-| Ethylene (gaseous) | 820 | 1,316,438 |
-| Pentane | 323 | 822,145 |
-| Butane | 417 | 779,593 |
-| Nitrogen Oxides (NOx) | 1404 | 777,099 |
-| Isobutane | 516 | 694,069 |
-| VOC | 542 | 554,779 |
-| Isopentane | 340 | 458,291 |
+| Butanes | 1329 | 1,940,871 |
+| Pentanes | 892 | 1,565,179 |
+| Propylene | 767 | 1,451,561 |
+| Ethylene | 821 | 1,324,201 |
+| Nitrogen Oxides (NOx) | 1433 | 783,507 |
+| VOC | 557 | 558,823 |
+| Hexanes | 430 | 470,167 |
 | Hydrogen Sulfide | 1602 | 447,808 |
-| Butane, N- | 319 | 354,556 |
 | Ethane | 118 | 283,815 |
-| Hexane | 337 | 265,693 |
-| Nitrogen oxide | 759 | 232,382 |
-| Pentane, N- | 176 | 205,920 |
 | Trans-2-butene | 126 | 204,350 |
-| Particulate Matter | 370 | 174,577 |
-| Propane, N- | 2 | 166,446 |
+| Particulate Matter | 386 | 202,356 |
+| Nitrogen oxide | 606 | 191,513 |
+| Butadiene | 376 | 156,584 |
 | Carbon Dioxide | 45 | 141,626 |
 | Cis-2-butene | 135 | 140,242 |
-| Hexane Plus | 16 | 133,042 |
 | Butene | 239 | 119,298 |
-| 1,3-BUTADIENE | 257 | 116,552 |
+| Heptane | 61 | 115,085 |
 | Nitrogen dioxide | 729 | 109,010 |
 | Benzene | 491 | 107,672 |
 | VOC - NONMETHANE | 43 | 100,916 |
 | Toluene | 199 | 92,004 |
-| Heptane (or n-) | 50 | 89,594 |
 | 2-Methyl-2-Butene | 7 | 81,687 |
-| Butane, i | 29 | 80,096 |
+| Ammonia | 115 | 70,427 |
 | trans-2-pentene | 2 | 68,944 |
-| NITROGEN | 18 | 68,099 |
-| pentane, iso- | 21 | 66,027 |
-| Ammonia | 96 | 63,010 |
-| VCM | 114 | 57,890 |
+| Nitrogen | 18 | 68,099 |
+| Vinyl Chloride | 125 | 58,385 |
 | 2-Methyl-1-butene | 7 | 57,646 |
+| Xylenes | 139 | 56,572 |
 | 1,2,4-Trimethylbenzene | 15 | 56,240 |
+| Hydrogen Chloride | 17 | 54,739 |
 | 2-Methyl-Pentane | 23 | 52,699 |
-| Hydrogen chloride | 11 | 48,965 |
-| Xylene | 82 | 48,211 |
 | VOC GAS MIXTURE | 5 | 47,654 |
-| hexanes + | 36 | 45,543 |
 | Butylene | 36 | 44,471 |
 | Nonane | 22 | 43,242 |
+| Nitrogen monoxide | 153 | 40,869 |
 | Nitric oxide | 147 | 39,831 |
 | 1-Pentene | 16 | 38,908 |
 | Pentene | 69 | 38,872 |
 | cis-2-Pentene | 3 | 38,574 |
+| Isobutylene | 136 | 37,553 |
 | Octane | 36 | 36,850 |
-| LPG (liquified petroleum gas) | 7 | 35,883 |
-| Butadiene, 1-3 | 99 | 33,197 |
-| Isobutylene | 75 | 33,032 |
+| LPG | 8 | 36,061 |
 | 3 methyl hexane | 5 | 31,959 |
-| PM10 Cement(Portland) | 3 | 27,000 |
 | Other material | 138 | 26,577 |
-| Butanes | 20 | 25,812 |
 | Ethyltoluene | 2 | 25,577 |
-| HEPTANE (OR N-) | 8 | 24,899 |
 | Heptene | 3 | 24,868 |
 | Aluminum oxide | 2 | 22,906 |
-| Hexane, n | 26 | 21,408 |
 | 1-Butene | 154 | 19,955 |
 | Ethylene oxide | 31 | 19,754 |
 | Hydrogen | 21 | 18,591 |
 | 3-Methyl-1-butene | 9 | 16,874 |
 | Methylcyclopentane | 21 | 16,839 |
+| Ethylbenzene | 104 | 15,607 |
 | Ethylene dichloride | 17 | 15,585 |
-| Ethylbenzene | 97 | 15,257 |
-| Hydrogen cyanide | 45 | 14,047 |
+| Crude Oil | 11 | 14,619 |
+| Hydrogen Cyanide | 46 | 14,060 |
 | tert-butyl alcohol | 14 | 13,099 |
 | Propadiene | 21 | 12,785 |
 | Acetylene | 137 | 11,725 |
 | Nitrous Oxides | 5 | 11,585 |
 | n-hexane - 110543 | 4 | 10,719 |
-| Cumene | 26 | 10,656 |
-| Crude oil heavy | 3 | 10,437 |
+| Cumene | 28 | 10,678 |
 | Methylcyclohexane | 11 | 10,227 |
-| Pentanes | 13 | 10,126 |
 | Cyclopentane | 27 | 9,779 |
 | Isopropyl Ether | 5 | 9,216 |
 | Dichloromethane | 1 | 8,700 |
 | CO (Startup/Shutdown) | 28 | 8,544 |
 | PM10 C.I. DIRECT BLACK 38 | 28 | 8,490 |
 | Isohexane | 4 | 7,837 |
-| Ethene | 1 | 7,763 |
 | Trimethylcyclopentane | 2 | 7,663 |
 | 2,2-DIMETHYLBUTANE | 12 | 7,614 |
 | Naphtha | 40 | 7,036 |
 | C5 - C9s | 5 | 6,959 |
-| Butadiene | 20 | 6,835 |
 | Cyclohexane | 48 | 6,817 |
-| NOx (Startup/Shutdown) | 29 | 6,408 |
 | Acetic acid | 20 | 5,992 |
 | Vinyl acetate | 31 | 5,900 |
 | Methyl chloride | 5 | 5,868 |
-| Hydrochloric acid | 6 | 5,774 |
 | t-Butyl Alcohol | 1 | 5,455 |
 | HCFC-22 | 1 | 5,185 |
+| MEK | 10 | 5,069 |
 | 4-methyl-cyclopentene | 1 | 5,031 |
-| Methyl ethyl ketone (MEK) | 7 | 4,988 |
 | t-2-butene | 13 | 4,851 |
-| Ammonia, anhydrous | 13 | 4,758 |
-| n-butane | 22 | 4,689 |
 | butenes | 36 | 4,672 |
-| MTBE | 4 | 4,555 |
-| Isobutene | 61 | 4,521 |
-| Hexanes | 9 | 4,351 |
+| MTBE | 5 | 4,571 |
 | 2-methyl-1,3-butadiene | 1 | 4,172 |
 | Methyl methacrylate | 9 | 4,131 |
 | Acetaldehyde | 28 | 4,082 |
 | Hexene | 25 | 3,944 |
-| Unspeciated VOCs | 4 | 3,854 |
 | Propylene oxide | 24 | 3,788 |
 | Methanol | 38 | 3,609 |
 | Butyraldehyde | 26 | 3,604 |
 | decane | 17 | 3,457 |
 | Acetone | 31 | 3,399 |
-| Xylene (mixed isomers) | 16 | 3,261 |
-| Gasoline | 6 | 3,131 |
+| Gasoline | 7 | 3,175 |
 | 2-Butoxyethanol | 6 | 3,020 |
-| Crude oil light | 1 | 2,982 |
 | Ethylene (liquid) | 2 | 2,955 |
 | Isopropanol | 5 | 2,930 |
 | Butenes, All Isomers | 12 | 2,906 |
@@ -4088,27 +3767,24 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butyl alcohol, tert- | 1 | 2,822 |
 | Acrylonitrile | 12 | 2,777 |
 | Monochlorobenzene | 2 | 2,740 |
-| n-pentane | 16 | 2,662 |
-| Anhydrous ammonia | 6 | 2,659 |
 | Calcined Alumina Dust | 76 | 2,633 |
 | Vinyl acetylene | 11 | 2,562 |
 | 2-Butene-cis | 41 | 2,537 |
 | Acetonitrile | 13 | 2,530 |
 | Pentenenitrile | 3 | 2,507 |
 | Paracymene | 2 | 2,456 |
-| M-Xylene | 6 | 2,442 |
 | Methyl Acetylene | 17 | 2,337 |
 | Esters | 3 | 2,245 |
 | Acetyl Acetone | 2 | 2,209 |
 | Unknown light oil | 2 | 2,195 |
 | Perlite | 2 | 2,100 |
 | Pyrolysis Gasoline | 3 | 2,076 |
-| i-butane | 6 | 2,056 |
-| Hydrogen fluoride | 11 | 2,035 |
+| Hydrogen Fluoride | 12 | 2,037 |
 | Ketones | 3 | 1,969 |
 | Alkylates | 4 | 1,880 |
 | 1,2-Dichloroethane | 5 | 1,874 |
 | VOC MIXTURE | 1 | 1,750 |
+| Naphthalene | 23 | 1,701 |
 | NEOHEXANE | 1 | 1,605 |
 | 2-Butene-trans | 37 | 1,583 |
 | Alcohols | 3 | 1,556 |
@@ -4116,14 +3792,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Dimethyl ether | 11 | 1,503 |
 | Sand | 1 | 1,500 |
 | i-Pentane | 1 | 1,487 |
-| Napthalene | 7 | 1,309 |
 | Methacrylic Acid | 4 | 1,264 |
 | C4+ | 1 | 1,245 |
 | Trimethylbenzene, 1,2,4- | 8 | 1,237 |
 | Carbon disulfide | 16 | 1,231 |
 | Naptha | 2 | 1,213 |
 | Butanol | 7 | 1,202 |
-| Crude Oil | 7 | 1,200 |
 | Chloroform | 10 | 1,194 |
 | Dimethylethanolamine | 4 | 1,112 |
 | Isopropyl alcohol | 12 | 1,091 |
@@ -4133,18 +3807,15 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Cyclohexanol | 1 | 987 |
 | Propylene Glycol Monomethyl Ether | 1 | 985 |
 | Styrene | 33 | 968 |
-| P-Xylene | 9 | 965 |
-| O-Xylene | 6 | 958 |
 | 1,2-Dichloropropane | 1 | 923 |
 | 2,3 Dimethylbutane | 18 | 811 |
 | 2 -methylpentane | 10 | 789 |
 | Vinylpyrrolidone | 1 | 782 |
 | Petroleum Naphtha; Light Steam-Cracked Aromatic | 2 | 768 |
-| PM10 | 12 | 768 |
 | Methyl formate | 13 | 759 |
 | Iso-octane | 3 | 721 |
 | Trichloroethylene | 3 | 709 |
-| Ethanol | 5 | 701 |
+| Ethanol | 6 | 702 |
 | Slop oil | 3 | 669 |
 | Halon 1301 (Bromotrifluoromethane) | 3 | 660 |
 | TRIOXANE | 1 | 654 |
@@ -4153,14 +3824,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Nitrobenzene | 4 | 617 |
 | Diethylene Glycol Monohexyl Ether | 4 | 601 |
 | Other | 42 | 595 |
-| Heptane,-n | 3 | 593 |
 | Propane/Propylene Mix | 1 | 559 |
 | C9 Aromatics | 3 | 558 |
 | Cyclopentadiene | 18 | 528 |
 | C5 Plus | 8 | 511 |
 | Paraffins | 9 | 503 |
-| Vinyl Chloride | 10 | 493 |
-| Propene | 5 | 463 |
 | Methyl Benzyl Alcohol | 7 | 449 |
 | Chlorine | 14 | 443 |
 | Orthodichlorobenzene | 3 | 439 |
@@ -4170,12 +3838,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Trimethylpentane, 2,2,4- | 5 | 418 |
 | waste water with chemicals | 1 | 399 |
 | polyethylbenzene  (PEB) | 3 | 398 |
-| Naphthalene | 16 | 392 |
 | 2-Ethylhexanol | 1 | 390 |
 | Cyclopentene | 13 | 375 |
 | Pentenes | 8 | 370 |
-| Xylene, m- | 8 | 355 |
-| Ethyl Benzene | 7 | 350 |
 | Dicyclopentadiene | 9 | 337 |
 | Phenanthrene | 1 | 330 |
 | Anthracene | 1 | 330 |
@@ -4205,12 +3870,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Ground Talc | 1 | 200 |
 | Ethyl acrylate | 3 | 200 |
 | N-Methyl-2-pyrrolidone | 1 | 195 |
-| Xylene, p- | 5 | 194 |
 | neo-pentane | 19 | 191 |
 | Formaldehyde | 7 | 186 |
-| Xylene, o- | 7 | 186 |
-| Other VOCs | 8 | 184 |
-| Liquefied petroleum gas (LPG) | 1 | 178 |
 | Tert Butylhydroperoxide | 6 | 175 |
 | Butyl Alcohol, n- | 1 | 174 |
 | 1,2 - Butadiene | 5 | 170 |
@@ -4224,7 +3885,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | mercaptan | 1 | 140 |
 | bisaminoethylether (BAEE)*1EO | 1 | 139 |
 | Silicon dioxide (PM) | 1 | 135 |
-| N-Hexane | 6 | 130 |
 | Heptafluoropropane | 1 | 129 |
 | C9+ Hydrocarbons | 1 | 125 |
 | Pentadiene | 3 | 121 |
@@ -4241,7 +3901,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Octanes | 3 | 85 |
 | Cyclo Pentane | 2 | 84 |
 | Methyl acetylene propadiene | 2 | 81 |
-| MEK | 2 | 80 |
 | 1,1-Dimethylcyclopentane | 1 | 77 |
 | t-2-Pentene | 3 | 76 |
 | Propyne | 2 | 75 |
@@ -4251,7 +3910,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Polymer | 1 | 72 |
 | Solvent Refined Heavy Naphtha | 1 | 70 |
 | Polyethylene | 7 | 70 |
-| Diesel fuel | 1 | 70 |
+| Diesel | 1 | 70 |
 | Trimethyl benzene | 1 | 70 |
 | Octane, n- | 3 | 70 |
 | Cis-2-butylene | 2 | 68 |
@@ -4273,7 +3932,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | c-2-Pentene | 2 | 46 |
 | 2-hexene | 2 | 45 |
 | C6+ | 2 | 44 |
-| GASOLINE, AUTOMOTIVE OR AVIATION | 1 | 44 |
 | 2-methyl-Heptane | 1 | 42 |
 | Chlorothalonil | 1 | 41 |
 | Organo Siloxanes | 2 | 40 |
@@ -4301,7 +3959,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,2 Butadiene | 6 | 23 |
 | Hydrocarbons | 6 | 23 |
 | trans-2-hexene | 1 | 23 |
-| Isopropyl Benzene | 2 | 22 |
 | Cyclopropane | 4 | 21 |
 | CARBONAL SULFITE | 2 | 20 |
 | 1,2-Butadiene | 3 | 20 |
@@ -4313,7 +3970,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1-Propenylbenzene | 1 | 18 |
 | Light Aromatic Distillate | 1 | 17 |
 | Ethyl acetylene | 6 | 17 |
-| Methyl tert-butyl ether | 1 | 16 |
 | octane+isomers | 1 | 16 |
 | Petroleum | 1 | 15 |
 | trans-1,2-Dichloroethylene | 1 | 15 |
@@ -4323,20 +3979,17 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | dicyclopentadiene | 1 | 13 |
 | VOC-Sour Light Ends | 1 | 13 |
 | Sulfonic Acids | 3 | 13 |
-| HCN | 1 | 12 |
 | Carboxylic Acids | 3 | 12 |
 | Argon | 2 | 12 |
 | Halocarbons | 3 | 12 |
 | 2-methyl-butane | 1 | 12 |
 | 1,2,4-Triazole | 3 | 11 |
 | Ethylene glycol | 1 | 11 |
-| PM10 Sand | 1 | 11 |
 | Amines | 3 | 10 |
 | Benzaldehyde | 4 | 10 |
 | Tert-Butyl Formate | 2 | 9 |
 | Benzene, dimethyl- | 1 | 9 |
 | C5 | 1 | 9 |
-| i-pentane | 3 | 9 |
 | Ethylene dibromide | 1 | 8 |
 | Other C10's Aromatic | 1 | 8 |
 | Propionaldehyde | 6 | 8 |
@@ -4344,7 +3997,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Dimethyl sulfide | 1 | 8 |
 | Isoheptane | 1 | 7 |
 | Peroxide, organic | 1 | 7 |
-| VOC (unclassified) | 3 | 6 |
 | Ethylcyclopentane | 1 | 6 |
 | Sodium cyanide (Na(CN)) | 1 | 6 |
 | 2,3,4-trimethylpentane | 1 | 5 |
@@ -4382,7 +4034,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | trans-Piperylene | 2 | 2 |
 | Monoethanolamine | 1 | 2 |
 | Tetrachloroethane, 1,1,2,2- | 1 | 2 |
-| Vinyl Chloride Monomer | 1 | 2 |
 | C7 Naphthenes | 1 | 2 |
 | 1-propanol | 4 | 2 |
 | Benzo[a]pyrene | 1 | 2 |
@@ -4392,7 +4043,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C10 Naphthenes | 1 | 2 |
 | Lead | 3 | 1 |
 | Isobutyl alcohol | 1 | 1 |
-| Hydrofluoric acid | 1 | 1 |
 | Monopropylene Glycol | 2 | 1 |
 | C13 Alkanes | 1 | 1 |
 | Phosgene | 1 | 1 |
@@ -4407,7 +4057,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Propionitrile | 11 | 1 |
 | Ethylchloride | 1 | 1 |
 | Benzene Azimide | 1 | 0 |
-| Ethyl alcohol | 1 | 0 |
 | P-Cresol | 1 | 0 |
 | N-Trifluoromethanesulfonyloxy-5-nonbornene | 3 | 0 |
 | Dichloroethane | 1 | 0 |
@@ -4416,7 +4065,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Tetrakis(Dimethylamino) Titanium | 3 | 0 |
 | n-butylbenzene | 1 | 0 |
 | n-propyl benzene | 1 | 0 |
-| Methyl ethyl ketone | 1 | 0 |
 | Pseudocumene | 1 | 0 |
 | 1,2,4 Trimethylbenzene | 1 | 0 |
 | Barium and compounds | 1 | 0 |
@@ -4436,105 +4084,82 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Sulfur dioxide | 2052 | 19,232,560 |
 | Carbon Monoxide | 2359 | 4,690,348 |
 | NATURAL GAS | 497 | 2,982,074 |
-| Propane | 910 | 1,110,573 |
-| Ethylene (gaseous) | 852 | 999,311 |
+| Propane | 951 | 1,260,153 |
+| Butanes | 1382 | 1,005,334 |
+| Ethylene | 852 | 999,311 |
 | Non-Methane Non-Ethane Natural Gas | 375 | 985,910 |
-| Nitrogen oxide | 524 | 588,906 |
-| VOC | 625 | 581,603 |
+| VOC | 692 | 755,872 |
 | Nitrogen Oxides (NOx) | 1754 | 574,985 |
-| Propylene (Propene) | 727 | 561,165 |
-| Isobutane | 578 | 335,113 |
-| Particulate Matter | 457 | 330,822 |
+| Propylene | 731 | 563,185 |
+| Nitrogen oxide | 374 | 557,305 |
+| Pentanes | 935 | 399,505 |
+| Particulate Matter | 484 | 387,209 |
 | Natural Gas VOCs | 18 | 306,123 |
-| Butane | 379 | 302,719 |
 | Natural Gas Liquid (Mixture) | 2 | 293,209 |
-| Butane, N- | 351 | 264,206 |
 | Hydrogen Sulfide | 1741 | 244,605 |
 | Nitrogen dioxide | 429 | 195,829 |
-| Crude Oil | 28 | 177,014 |
-| Isopentane | 383 | 160,276 |
-| Propane, N- | 41 | 149,580 |
-| Pentane | 341 | 140,712 |
-| Hydrogen chloride | 6 | 137,257 |
+| Hexanes | 428 | 182,057 |
+| Crude Oil | 29 | 179,130 |
+| Hydrogen Chloride | 8 | 142,257 |
 | Methane | 56 | 135,762 |
 | VOC - NONMETHANE | 78 | 126,213 |
-| VOCs | 39 | 111,399 |
+| Butadiene | 333 | 93,713 |
 | Carbon Dioxide | 21 | 90,158 |
 | Butene | 229 | 78,476 |
 | VOC GAS MIXTURE | 56 | 75,936 |
 | Cyclohexane | 64 | 73,626 |
-| Hexane | 316 | 73,142 |
-| 1,3-BUTADIENE | 232 | 66,392 |
 | Ethane | 83 | 57,878 |
-| Butane, i | 34 | 53,797 |
 | Benzene | 478 | 53,416 |
-| Hexane Plus | 9 | 52,649 |
-| Pentane, N- | 156 | 51,627 |
-| PM10 Cement(Portland) | 3 | 50,500 |
-| Butanes | 31 | 47,513 |
-| VOC-unclassified | 7 | 46,321 |
 | Methylene chloride | 1 | 42,500 |
-| hexanes + | 38 | 40,811 |
 | C6+ | 2 | 37,009 |
-| pentane, iso- | 29 | 35,584 |
+| Isobutylene | 145 | 36,816 |
+| Ammonia | 91 | 36,106 |
 | Other material | 94 | 33,388 |
-| Ammonia | 75 | 27,143 |
-| Isobutylene | 83 | 26,973 |
+| Nitrogen monoxide | 150 | 31,601 |
 | Butenes, All Isomers | 44 | 26,689 |
 | Trans-2-butene | 191 | 24,416 |
 | Toluene | 181 | 22,377 |
 | Freon 22 (Chlorodifluoromethane) | 2 | 20,500 |
 | Ethylene oxide | 42 | 20,172 |
-| Hydrogen fluoride | 46 | 18,846 |
+| Hydrogen Fluoride | 47 | 18,846 |
 | sweet natural gas | 1 | 17,986 |
+| Methanol | 35 | 17,331 |
 | Cis-2-butene | 164 | 16,060 |
-| Butadiene | 19 | 15,825 |
 | Chlorobenzene | 1 | 15,800 |
 | 1-Butene | 164 | 15,636 |
-| NITROGEN | 3 | 15,604 |
+| Nitrogen | 3 | 15,604 |
 | Octane | 37 | 15,416 |
-| Hydrogen cyanide | 61 | 14,622 |
+| Hydrogen Cyanide | 61 | 14,622 |
 | Gas Oil | 2 | 14,414 |
 | Nitric oxide | 69 | 13,457 |
-| Butadiene, 1-3 | 82 | 11,497 |
+| Heptane | 49 | 12,112 |
 | Carbon tetrachloride | 4 | 11,476 |
-| Unspeciated VOCs | 9 | 11,433 |
 | Hydrogen | 13 | 10,851 |
-| Pentanes | 20 | 10,674 |
 | Ethanol | 6 | 10,573 |
 | Decanes Plus | 1 | 10,521 |
 | n-butanol | 1 | 10,500 |
 | Chlorine | 9 | 10,324 |
-| Isobutene | 62 | 9,844 |
 | Propylene oxide | 14 | 9,773 |
-| Methyl alcohol | 3 | 9,534 |
 | Pentenes | 19 | 9,471 |
-| Hexane, n | 42 | 8,756 |
 | Slop oil | 3 | 8,442 |
 | Acetylene | 94 | 8,254 |
-| Methanol | 32 | 7,797 |
 | Naphtha | 16 | 7,791 |
 | Ethylenediamine | 1 | 7,480 |
 | Butylene | 22 | 7,115 |
 | Sulfuric acid | 10 | 6,404 |
 | Ethane, 1,1,1,2-tetrafluoro | 2 | 6,239 |
 | Nitrous Oxides | 6 | 6,084 |
-| Heptane (or n-) | 32 | 6,075 |
-| Hexanes | 10 | 6,044 |
 | Methyl Acetate | 22 | 5,865 |
 | Styrene | 42 | 5,509 |
 | Pentene | 65 | 5,447 |
-| Ammonia, anhydrous | 10 | 5,380 |
-| HEPTANE (OR N-) | 11 | 5,380 |
-| VOC (unclassified) | 12 | 5,115 |
-| Hydrochloric acid | 2 | 5,000 |
-| Diesel fuel | 2 | 4,986 |
+| Xylenes | 145 | 5,164 |
+| Diesel | 2 | 4,986 |
 | Acetaldehyde | 32 | 4,907 |
 | 2-Methyl-Pentane | 13 | 4,890 |
 | Acetic acid | 21 | 4,697 |
 | neo-pentane | 9 | 4,617 |
 | butenes | 16 | 4,584 |
-| +C5 hydrocarbon | 10 | 4,531 |
+| #NAME? | 10 | 4,531 |
 | Carbon disulfide | 47 | 4,321 |
 | Alumina Hydrate Dust | 48 | 4,101 |
 | Butyraldehyde | 14 | 4,025 |
@@ -4544,8 +4169,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | VOC (light hydrocarbons) | 7 | 3,881 |
 | Vinyl acetate | 23 | 3,760 |
 | Carbon | 5 | 3,754 |
-| PM10 | 22 | 3,743 |
-| Anhydrous ammonia | 6 | 3,583 |
+| Gasoline | 4 | 3,619 |
 | Kerosene | 1 | 3,403 |
 | Cyclopentadiene | 27 | 3,288 |
 | N-Methyl-2-pyrrolidone | 2 | 3,254 |
@@ -4563,21 +4187,13 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Acetone | 24 | 2,361 |
 | Hexene | 26 | 2,291 |
 | 2-Butene-trans | 33 | 2,189 |
-| Crude oil heavy | 1 | 2,116 |
-| GASOLINE, AUTOMOTIVE OR AVIATION | 1 | 2,064 |
-| Xylene | 80 | 2,027 |
-| PM10 Calcium carbonate-CaCO3 | 1 | 2,025 |
-| Propene | 4 | 2,020 |
 | C5 | 2 | 2,007 |
+| Ethylbenzene | 85 | 1,993 |
 | Isoprene | 19 | 1,930 |
-| n-butane | 6 | 1,880 |
-| Ethylbenzene | 76 | 1,879 |
 | Acrylonitrile | 9 | 1,769 |
 | 2 methyl pentane | 5 | 1,714 |
-| Xylene (mixed isomers) | 16 | 1,635 |
 | FM200 | 1 | 1,632 |
 | 2,2-Dimethylpentane | 3 | 1,587 |
-| Gasoline | 3 | 1,555 |
 | 1,2 - Butadiene | 2 | 1,542 |
 | Vinyl acetylene | 11 | 1,521 |
 | water with industrial waste | 1 | 1,500 |
@@ -4591,22 +4207,20 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methylcyclopentane | 10 | 886 |
 | Hydrocarbons | 5 | 883 |
 | Methyl parathion | 1 | 864 |
+| MEK | 5 | 863 |
 | 1-Butyne | 2 | 851 |
-| Cumene | 24 | 826 |
-| Methyl ethyl ketone (MEK) | 3 | 813 |
+| Cumene | 25 | 826 |
+| Naphthalene | 21 | 759 |
 | C5+ (not including benzene) | 8 | 723 |
 | Cyclopentane | 19 | 700 |
 | tert-butyl alcohol | 3 | 690 |
 | Pentenenitrile | 8 | 689 |
 | Alpha-pinene | 1 | 669 |
+| Vinyl Chloride | 131 | 666 |
 | VOC (C10) | 5 | 660 |
-| Heptane,-n | 6 | 657 |
-| N-Hexane | 13 | 656 |
 | Calcined Alumina Dust | 39 | 645 |
 | Tert Butanol | 4 | 630 |
-| Naphthalene | 17 | 630 |
 | Other | 34 | 624 |
-| n-pentane | 4 | 618 |
 | VOC (C12) | 2 | 609 |
 | Isobutyraldehyde | 14 | 606 |
 | 2 -methylpentane | 7 | 605 |
@@ -4628,14 +4242,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Octene | 6 | 481 |
 | Methyl Acetylene | 14 | 472 |
 | Methyl methacrylate | 5 | 463 |
-| Vinyl Chloride | 3 | 449 |
 | 1,2,4-Trimethylbenzene | 10 | 447 |
 | Tetrahydrofuran | 2 | 432 |
 | Butyl acrylate | 3 | 431 |
 | Unknown light oil | 1 | 430 |
-| M-Xylene | 8 | 421 |
 | Pentadiene | 5 | 407 |
-| P-Xylene | 8 | 404 |
 | 2 methylbutane | 5 | 403 |
 | 2-Methylhexane | 6 | 401 |
 | Isopropyl Ether | 7 | 400 |
@@ -4666,13 +4277,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2,3-dimethyl-1-butene | 2 | 254 |
 | Methyl Pentane | 2 | 254 |
 | C6 | 2 | 240 |
-| Mixed Xylene | 1 | 239 |
 | Isopropyl Mercaptan - | 1 | 230 |
 | Ethyl acetate | 4 | 222 |
 | cis-2-Pentene | 1 | 222 |
 | Beta-pinene | 1 | 218 |
 | 1,2,3-trimethylbenzene | 2 | 217 |
-| VCM | 128 | 217 |
 | Carbonoxidesulfide (COS) | 3 | 216 |
 | C7/C8 hydrocarbons | 2 | 214 |
 | Methacrylic Acid | 7 | 213 |
@@ -4683,7 +4292,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Orthodichlorobenzene | 1 | 196 |
 | 2-Butene | 1 | 195 |
 | Nickel | 3 | 194 |
-| MTBE | 3 | 193 |
+| MTBE | 4 | 194 |
 | Propyne | 1 | 192 |
 | VOC (C14) | 1 | 190 |
 | Methylacetylene | 13 | 187 |
@@ -4692,7 +4301,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Morpholine | 1 | 176 |
 | Ethylene carbonate | 1 | 167 |
 | Bromochlorodifluoromethane | 1 | 162 |
-| O-Xylene | 7 | 155 |
 | t-2-butene | 18 | 152 |
 | Butyl alcohol, tert- | 1 | 146 |
 | Alkylates | 1 | 137 |
@@ -4700,22 +4308,16 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Unknown or other oil | 2 | 133 |
 | Industrial waste | 1 | 132 |
 | 2,3 Dimethylbutane | 5 | 130 |
-| Napthalene | 4 | 129 |
 | 1-trans-3-pentadiene | 2 | 128 |
 | 2-methylbutene-2 | 2 | 126 |
 | C9+ | 1 | 125 |
-| Xylene, p- | 7 | 124 |
 | PAC | 10 | 123 |
 | Methyl iodide | 1 | 122 |
-| Xylene, o- | 12 | 120 |
-| PM (unspeciated) | 1 | 118 |
 | Propane/Propylene Mix | 1 | 118 |
 | DMEA | 1 | 117 |
 | Methyl acetylene propadiene | 3 | 114 |
-| Ethyl Benzene | 9 | 114 |
 | metylcyclohexane | 1 | 112 |
 | Aniline | 2 | 111 |
-| i-butane | 3 | 106 |
 | Perlite | 1 | 105 |
 | Alkane | 1 | 100 |
 | calcium phospate | 1 | 100 |
@@ -4757,7 +4359,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1-hexene | 1 | 58 |
 | diacetylene | 1 | 56 |
 | C5 Plus | 1 | 53 |
-| MEK | 2 | 51 |
 | Polyethylene | 5 | 50 |
 | Nirogen Oxides | 1 | 48 |
 | methyl cyclohexane | 1 | 47 |
@@ -4808,13 +4409,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,2-dimethylbenzene | 1 | 15 |
 | Diisobutylene | 1 | 15 |
 | 1,3-methylethylbenzene | 1 | 15 |
-| Xylene, m- | 4 | 15 |
 | n-Propyl Mercaptan | 2 | 13 |
 | butyl cyclohexane | 1 | 13 |
 | Amide | 1 | 13 |
-| i-pentane | 2 | 13 |
 | Methylheptane | 1 | 13 |
-| paraxylene | 1 | 13 |
 | Total Sulfur | 2 | 13 |
 | n-propyl benzene | 1 | 12 |
 | trans-Piperylene | 1 | 12 |
@@ -4826,7 +4424,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Formaldehyde | 6 | 10 |
 | Benzaldehyde | 1 | 10 |
 | C14-30 - alkylaromatic derivatives | 1 | 10 |
-| metaxylene | 1 | 10 |
 | Butylene Isomers | 1 | 10 |
 | Cumene hydroperoxide | 1 | 10 |
 | 2-Phenol-2-Propanol | 1 | 10 |
@@ -4947,13 +4544,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Mercury | 7 | 1 |
 | 1,3 Pentadiene | 1 | 1 |
 | Ethylacetylene | 1 | 1 |
-| Methyl tert-butyl ether | 1 | 1 |
 | alpha methyl styrene | 1 | 1 |
 | N-METHYLPYRROLIDINONE | 1 | 1 |
 | tetrahydrothiophene-1,1-dioxide | 1 | 1 |
 | Ethylchloride | 1 | 1 |
 | Manganese | 5 | 0 |
-| Hydrofluoric acid | 1 | 0 |
 | 1,1,2-Trichloroethane | 1 | 0 |
 | Tetrachloroethylene | 1 | 0 |
 | 2-hexene | 1 | 0 |
@@ -4967,7 +4562,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-Methylglutaronitrile | 1 | 0 |
 | Low volatile metals | 1 | 0 |
 | Semi volatile metals | 1 | 0 |
-| Isopropyl Benzene | 1 | 0 |
 | Cadmium | 5 | 0 |
 | polyethylbenzene  (PEB) | 1 | 0 |
 
@@ -4979,55 +4573,44 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon Monoxide | 2869 | 10,837,653 |
 | Methane | 136 | 4,049,027 |
 | Non-Methane Non-Ethane Natural Gas | 483 | 2,459,635 |
-| Propylene (Propene) | 898 | 1,809,458 |
+| VOC | 768 | 1,833,241 |
+| Propylene | 904 | 1,822,946 |
 | NATURAL GAS | 645 | 1,694,208 |
-| Ethylene (gaseous) | 966 | 1,574,431 |
-| Propane | 1097 | 1,493,699 |
-| VOC | 685 | 1,476,921 |
-| Nitrogen Oxides (NOx) | 2149 | 1,073,868 |
-| Particulate Matter | 337 | 663,879 |
-| Nitrogen oxide | 613 | 636,537 |
+| Ethylene | 968 | 1,574,934 |
+| Propane | 1156 | 1,572,400 |
+| Butanes | 1594 | 1,306,922 |
+| Nitrogen Oxides (NOx) | 2162 | 1,075,273 |
+| Particulate Matter | 381 | 679,293 |
+| Nitrogen oxide | 410 | 558,367 |
+| Pentanes | 932 | 464,405 |
 | Hydrogen Sulfide | 2004 | 463,385 |
 | Ethane | 165 | 455,321 |
-| Isobutane | 584 | 416,379 |
-| NITROGEN | 21 | 316,887 |
-| Butanes | 53 | 312,640 |
-| Butane, N- | 414 | 282,281 |
+| Hexanes | 459 | 352,629 |
+| Nitrogen | 21 | 316,887 |
 | VOC - NONMETHANE | 89 | 231,123 |
 | Carbon Dioxide | 34 | 228,538 |
-| Butane | 437 | 201,309 |
-| Unspeciated VOCs | 11 | 159,762 |
-| Hexane | 284 | 158,134 |
-| Pentane | 393 | 138,015 |
-| Pentanes | 57 | 136,786 |
-| VOC (unclassified) | 16 | 125,783 |
+| Butadiene | 431 | 107,413 |
 | Benzene | 601 | 107,321 |
-| hexanes + | 44 | 102,863 |
 | Nitrogen dioxide | 422 | 101,599 |
 | Butene | 294 | 96,863 |
-| Propane, N- | 59 | 78,700 |
-| 1,3-BUTADIENE | 304 | 77,731 |
-| Hydrochloric acid | 14 | 74,229 |
+| Ammonia | 109 | 89,914 |
+| Nitrogen monoxide | 203 | 78,171 |
+| Hydrogen Chloride | 18 | 77,577 |
 | Natural Gas VOCs | 10 | 70,493 |
-| Pentane, N- | 165 | 70,098 |
-| Butane, i | 78 | 69,390 |
 | VOC GAS MIXTURE | 62 | 68,761 |
-| Isopentane | 254 | 66,660 |
-| Ammonia | 88 | 59,826 |
 | Methylcyclopentane | 10 | 58,301 |
 | Toluene | 249 | 56,813 |
-| VOCs | 48 | 52,276 |
-| pentane, iso- | 43 | 50,054 |
-| Hexane Plus | 22 | 49,175 |
+| Isobutylene | 227 | 50,055 |
 | Isooctene | 2 | 43,212 |
 | Hydrocarbons | 33 | 42,712 |
-| Isobutylene | 144 | 36,344 |
+| Xylenes | 196 | 36,061 |
 | Butane, 2-methyl | 3 | 32,744 |
 | 2-Pentene,(E) | 6 | 32,451 |
 | Ethylene glycol | 2 | 30,001 |
+| Heptane | 62 | 29,151 |
 | NMNE Natural Gas | 1 | 28,900 |
 | C5+ (not including benzene) | 48 | 28,189 |
-| Hydrogen cyanide | 67 | 28,047 |
+| Hydrogen Cyanide | 67 | 28,047 |
 | Propylene oxide | 23 | 27,517 |
 | pentane, 2-methyl | 3 | 27,112 |
 | 1-Propene, 2-methyl- | 2 | 26,870 |
@@ -5035,19 +4618,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Acetaldehyde | 21 | 25,013 |
 | Iso-octane | 12 | 23,714 |
 | Nitrous Oxides | 48 | 23,390 |
-| n-butane | 14 | 22,787 |
-| Heptane (or n-) | 43 | 22,685 |
 | Hydrogen | 37 | 22,285 |
-| Butadiene, 1-3 | 105 | 21,627 |
+| Ethylbenzene | 127 | 22,093 |
 | Sweet Gas Oil | 1 | 21,124 |
-| Hexanes | 29 | 20,882 |
-| Hexane, n | 49 | 20,396 |
-| Ethylbenzene | 111 | 20,354 |
 | Cyclopentene, 1-methyl- | 1 | 19,460 |
 | 2-Butene | 3 | 19,324 |
 | Pentene | 87 | 19,230 |
-| Ammonia, anhydrous | 10 | 19,005 |
-| VOC-unclassified | 4 | 18,260 |
 | Nitric oxide | 73 | 17,570 |
 | Cyclopentane, methyl- | 1 | 17,098 |
 | Cyclohexane | 77 | 16,587 |
@@ -5055,29 +4631,22 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Hexane, 3-methyl- | 1 | 15,619 |
 | Pentane, 3-methyl- | 1 | 15,436 |
 | Hexene | 49 | 14,483 |
-| Isobutene | 83 | 13,711 |
-| Propene | 6 | 13,488 |
 | 1-Butene | 169 | 13,369 |
 | Freon 22 (Chlorodifluoromethane) | 1 | 11,930 |
 | Butenes, All Isomers | 72 | 11,339 |
-| Anhydrous ammonia | 11 | 11,083 |
-| Xylene | 112 | 11,068 |
 | Octane | 45 | 9,547 |
 | Ethylene dichloride | 16 | 9,184 |
 | Trans-2-butene | 219 | 9,129 |
 | Carbon disulfide | 44 | 8,670 |
 | Other | 32 | 8,557 |
-| Butadiene | 22 | 8,055 |
 | Naphtha | 9 | 7,945 |
 | Cis-2-butene | 203 | 7,364 |
 | Ethane, 1,1,1,2-Tetrafluoro-(HFC-134a) | 1 | 7,000 |
 | p-DIPB Mono Hydro Peroxide | 2 | 6,965 |
-| Xylene, m- | 2 | 6,861 |
 | Acrylonitrile | 22 | 6,759 |
 | Pentenes | 35 | 6,706 |
-| Hydrogen fluoride | 24 | 6,412 |
-| Vinyl Chloride | 59 | 6,178 |
-| PM10 Cement(Portland) | 3 | 6,000 |
+| Hydrogen Fluoride | 25 | 6,421 |
+| Vinyl Chloride | 128 | 6,320 |
 | PM10 Cement(portand) | 1 | 6,000 |
 | Silicon Tetrafluoride | 2 | 5,778 |
 | Acetone | 36 | 5,693 |
@@ -5085,34 +4654,28 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Acetylene | 188 | 5,499 |
 | Petroleum Naphtha; Light Steam-Cracked Aromatic | 9 | 5,468 |
 | butenes | 23 | 5,457 |
-| m,p-Xylene | 3 | 5,436 |
 | Cyclopentadiene | 45 | 5,320 |
 | MTBE | 4 | 4,972 |
 | R-22 (Monochlorodifluoromethane) | 1 | 4,895 |
-| PM10 | 21 | 4,760 |
 | Diiospropyl Benzene | 1 | 4,577 |
 | Methylcyclohexane | 2 | 4,517 |
 | Crude Oil | 3 | 4,390 |
 | Carbonyl sulfide | 32 | 4,340 |
 | 1,2,4-Trimethylbenzene | 24 | 4,314 |
 | VOC (light hydrocarbons) | 14 | 4,278 |
-| Methanol | 37 | 3,616 |
+| Methanol | 38 | 3,617 |
 | Tert Butanol | 7 | 3,593 |
 | Water (H2O) | 10 | 3,530 |
-| n-Heptane | 3 | 3,364 |
-| Hydrogen chloride | 4 | 3,348 |
-| Xylene (mixed isomers) | 30 | 3,346 |
+| #NAME? | 12 | 3,379 |
 | Octene | 16 | 3,219 |
 | Styrene | 60 | 3,174 |
 | p-hydroxy diisopropylbenzene | 1 | 3,166 |
+| Cumene | 32 | 3,116 |
 | 1,2-Dichloroethane | 5 | 3,116 |
-| Cumene | 31 | 3,116 |
 | 1,2 - Butadiene | 12 | 3,061 |
 | Dimethyl sulfide | 2 | 2,985 |
 | Isoprene | 41 | 2,980 |
 | Pyrolysis Gasoline | 4 | 2,967 |
-| Xylene, p- | 2 | 2,957 |
-| HEPTANE (OR N-) | 10 | 2,953 |
 | Alumina Hydrate Dust | 95 | 2,827 |
 | t-2-butene | 30 | 2,670 |
 | 2-Methyl-Pentane | 11 | 2,659 |
@@ -5120,13 +4683,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Vinyl acetate | 27 | 2,569 |
 | Propanol, n- | 1 | 2,505 |
 | Formaldehyde | 14 | 2,481 |
-| Xylene, o- | 1 | 2,425 |
 | 1,4-Pentadiene | 4 | 2,423 |
 | CARBONAL SULFITE | 14 | 2,419 |
-| +C5 hydrocarbon | 9 | 2,380 |
 | Butyl alcohol, tert- | 7 | 2,225 |
-| i-butane | 14 | 2,136 |
-| O-Xylene | 15 | 2,116 |
 | C5 - C9s | 2 | 1,998 |
 | Oxygen | 7 | 1,951 |
 | Alcohols | 1 | 1,900 |
@@ -5134,32 +4693,23 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C6 | 4 | 1,858 |
 | Butane/Butylene Mix | 1 | 1,822 |
 | Naptha | 4 | 1,814 |
-| Ethyl Benzene | 16 | 1,739 |
 | CO (Startup/Shutdown) | 6 | 1,713 |
-| i-pentane | 8 | 1,625 |
 | waste water | 1 | 1,600 |
 | 1,3,5-trimethylbenzene | 4 | 1,581 |
 | C7/C8 hydrocarbons | 4 | 1,535 |
 | Sulfuric acid | 8 | 1,511 |
-| Automotive Unleaded gasoline | 2 | 1,500 |
+| Gasoline | 2 | 1,500 |
 | Phenol | 4 | 1,482 |
 | Trans-butene-2 | 12 | 1,467 |
 | Acetic acid | 12 | 1,461 |
 | Pentadiene | 7 | 1,447 |
 | VOC (C10) | 2 | 1,440 |
 | 2-Butene-trans | 15 | 1,433 |
-| NOx (Startup/Shutdown) | 13 | 1,405 |
-| PM10 Calcium carbonate-CaCO3 | 1 | 1,376 |
 | Butyraldehyde | 9 | 1,344 |
 | n-Propyl Mercaptan | 1 | 1,337 |
 | 2 methyl pentane | 2 | 1,330 |
-| PM (unspeciated) | 17 | 1,303 |
-| PM10 Sand | 1 | 1,274 |
-| paraxylene | 4 | 1,259 |
 | Argon | 4 | 1,208 |
 | Industrial Hazardous Waste (Code D001- Ignitable) | 1 | 1,200 |
-| N-Hexane | 31 | 1,178 |
-| n-pentane | 12 | 1,165 |
 | Methyl Acetylene | 34 | 1,151 |
 | Tetrafluoroethane | 1 | 1,100 |
 | Butylene | 13 | 1,065 |
@@ -5168,6 +4718,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Other material | 19 | 1,011 |
 | Tetrahydrofuran | 1 | 1,000 |
 | Calcined Alumina Dust | 68 | 998 |
+| Naphthalene | 36 | 974 |
 | EGME | 2 | 962 |
 | Cyclopentene | 10 | 947 |
 | Heptafluoropropane | 1 | 932 |
@@ -5188,7 +4739,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Propadiene | 54 | 740 |
 | C5 | 5 | 722 |
 | Carbon | 1 | 700 |
-| Cement (wet or dry) | 1 | 700 |
 | Sodium Aluminun Fluoride Powder | 1 | 700 |
 | t-Butyl Alcohol | 4 | 696 |
 | Diphenyl ether | 1 | 694 |
@@ -5199,12 +4749,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Dicyclopentadiene | 8 | 614 |
 | Calcium oxide | 2 | 601 |
 | Unknown light oil | 1 | 598 |
+| MEK | 6 | 585 |
 | cyclopropane, 1,2-dimethyl | 1 | 583 |
 | 1-Butene + Isobutylene | 22 | 571 |
 | Methyl Acetate | 12 | 571 |
-| Naphthalene | 32 | 561 |
 | Dimethyl ether | 7 | 560 |
-| MEK | 2 | 557 |
 | Para Diisoproplbenzene | 1 | 555 |
 | Chlorine | 17 | 535 |
 | Hexafluoroethane | 1 | 526 |
@@ -5212,13 +4761,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methyl formate | 9 | 517 |
 | Isopropanol | 2 | 515 |
 | Isopropyl Mercaptan - | 1 | 512 |
-| +C6 hydrocarbom | 2 | 509 |
-| Ethene | 2 | 503 |
 | Tert Butylhydroperoxide | 12 | 498 |
 | 4-Ethyltoluene | 2 | 495 |
 | Methyl acrylate | 3 | 492 |
 | Opacity | 15 | 491 |
-| +C7 hydrocarbon | 1 | 490 |
 | Benzene, 1-ethyl-2-methyl- | 2 | 485 |
 | Propylene Glycol | 4 | 478 |
 | Aniline | 3 | 473 |
@@ -5227,9 +4773,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isobutyraldehyde | 9 | 444 |
 | 2,2,4-Trimethylpentane | 19 | 430 |
 | p-DIPB dihydroperoxide | 1 | 429 |
-| Napthalene | 4 | 413 |
 | tert-butyl alcohol | 4 | 411 |
-| M-Xylene | 11 | 403 |
 | Glycols | 1 | 400 |
 | Indene | 4 | 372 |
 | Ethylene dibromide | 2 | 359 |
@@ -5251,7 +4795,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Diethylenetriamine | 1 | 259 |
 | Glycol ethers | 2 | 248 |
 | Mineral oil | 2 | 248 |
-| Other VOCs | 4 | 240 |
 | N-Butyl alcohol | 2 | 240 |
 | 1-Phenyl-1-butene | 2 | 235 |
 | 2-Ethylhexanol | 1 | 233 |
@@ -5285,15 +4828,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C14 | 1 | 157 |
 | petroleum distilate | 1 | 156 |
 | isopentene | 1 | 154 |
-| Heptane,-n | 6 | 148 |
 | n-hexane - 110543 | 4 | 148 |
 | Trimethylbenzene | 1 | 147 |
 | Nitrogen Trifluoride | 1 | 142 |
-| VCM | 69 | 142 |
 | PM Calcium Carbonate | 1 | 139 |
 | bromodichloromethane | 3 | 136 |
 | dicyclopentadiene | 1 | 135 |
-| P-Xylene | 12 | 135 |
 | Dimethylethanolamine | 9 | 129 |
 | Methylacetylene | 11 | 125 |
 | Esters | 1 | 123 |
@@ -5330,7 +4870,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Cyclic C8s | 2 | 66 |
 | Ethanol Amine | 1 | 65 |
 | Octane, n- | 2 | 57 |
-| metaxylene | 3 | 53 |
 | Methyl acetylene propadiene | 1 | 52 |
 | 3-Methyl-1-butene | 6 | 51 |
 | trans-2-Pentene | 1 | 51 |
@@ -5366,7 +4905,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C8 Aromatics | 1 | 25 |
 | Chlorothalonil | 1 | 25 |
 | Phosgene | 4 | 25 |
-| Methyl ethyl ketone | 1 | 24 |
 | Dinormal Propyl Sulfide | 1 | 24 |
 | POM | 4 | 23 |
 | Methyl indene | 1 | 23 |
@@ -5399,7 +4937,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methyl Pentane | 1 | 10 |
 | butyl cyclohexane | 1 | 10 |
 | 3-Methyl-1 Butadiene | 1 | 10 |
-| Hydrofluoric acid | 1 | 9 |
 | Alpha-methyl styrene | 1 | 9 |
 | Paraffins | 1 | 9 |
 | Aluminum (fume or dust) | 1 | 8 |
@@ -5429,7 +4966,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Adiponitrile | 4 | 5 |
 | Crotonaldehyde | 1 | 5 |
 | Cyclohexanone | 1 | 4 |
-| Methyl ethyl ketone (MEK) | 3 | 4 |
 | 2,3-Dimethylpentane | 1 | 4 |
 | Acetic anhydride | 1 | 4 |
 | Propionitrile | 19 | 4 |
@@ -5456,7 +4992,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Ethyl acetylene | 3 | 2 |
 | Ethylacetylene | 1 | 2 |
 | C13 | 1 | 2 |
-| Methyl alcohol | 1 | 2 |
 | Butyl alcohol, sec- | 1 | 1 |
 | C15s | 1 | 1 |
 | Sodium hydroxide | 5 | 1 |
@@ -5465,7 +5000,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Organic Salts | 1 | 1 |
 | Monopropylene Glycol | 2 | 1 |
 | Total Sulfur | 1 | 1 |
-| Mixed Xylene | 1 | 1 |
 | Ethylene (liquid) | 1 | 1 |
 | C20s+ | 1 | 1 |
 | 1,2-trans-Dichloroethylene | 2 | 1 |
@@ -5476,7 +5010,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | MBT | 1 | 0 |
 | Sodium dodecylbenzene sulfonate | 1 | 0 |
 | Dodecane | 1 | 0 |
-| Isopropyl Benzene | 1 | 0 |
 | Ethyne | 1 | 0 |
 | Lead | 3 | 0 |
 | Benzonitrile | 3 | 0 |
@@ -5515,145 +5048,111 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2368 | 19,845,684 |
+| Sulfur dioxide | 2370 | 19,849,506 |
 | Carbon Monoxide | 2617 | 6,751,546 |
 | Non-Methane Non-Ethane Natural Gas | 648 | 5,501,373 |
 | NATURAL GAS | 651 | 5,469,769 |
-| Propane | 822 | 1,616,188 |
-| Nitrogen Oxides (NOx) | 1941 | 1,001,681 |
-| Ethylene (gaseous) | 645 | 748,012 |
+| Propane | 888 | 1,889,636 |
+| Butanes | 1412 | 1,168,611 |
+| Nitrogen Oxides (NOx) | 1945 | 1,002,841 |
+| VOC | 681 | 766,971 |
+| Ethylene | 648 | 750,598 |
 | Natural Gas VOCs | 14 | 709,753 |
-| Particulate Matter | 211 | 533,764 |
-| Butane | 379 | 511,367 |
-| VOC | 560 | 473,999 |
+| Pentanes | 918 | 583,193 |
+| Particulate Matter | 253 | 578,310 |
 | VOC - NONMETHANE | 90 | 439,802 |
-| Propylene (Propene) | 582 | 385,259 |
+| Propylene | 642 | 394,297 |
 | Hydrogen Sulfide | 2221 | 379,901 |
-| Isobutane | 514 | 280,098 |
-| Propane, N- | 66 | 273,448 |
-| Pentane | 297 | 220,563 |
-| Isopentane | 300 | 206,425 |
-| Butane, N- | 347 | 180,844 |
+| Hexanes | 442 | 208,839 |
 | Methane | 110 | 178,425 |
-| VOCs | 87 | 176,296 |
-| +C6 hydrocarbom | 7 | 133,680 |
-| Nitrogen oxide | 598 | 122,094 |
+| #NAME? | 23 | 143,336 |
 | Toluene | 263 | 102,330 |
-| Hexane | 257 | 94,116 |
-| Pentane, N- | 188 | 92,994 |
 | Benzene | 463 | 92,007 |
-| Unspeciated VOCs | 12 | 78,161 |
-| n-butane | 29 | 77,492 |
+| Nitrogen oxide | 366 | 88,068 |
+| Butadiene | 318 | 66,296 |
 | Octane | 60 | 65,444 |
 | Hydrocarbons | 6 | 64,733 |
-| Butane, i | 74 | 63,968 |
-| hexanes + | 83 | 63,511 |
 | isopropyl acetate | 4 | 56,570 |
-| 1,3-BUTADIENE | 246 | 56,266 |
 | decane | 37 | 54,923 |
 | VOC GAS MIXTURE | 54 | 45,159 |
-| Cement (wet or dry) | 1 | 44,000 |
+| Xylenes | 226 | 44,180 |
 | Octanes | 18 | 43,018 |
-| Butanes | 55 | 41,312 |
-| Hexane Plus | 12 | 40,766 |
 | Carbon Dioxide | 38 | 40,259 |
-| pentane, iso- | 60 | 39,357 |
+| Heptane | 69 | 37,367 |
 | Ethane | 117 | 37,243 |
 | 1-Butene | 177 | 37,216 |
 | Nitrogen dioxide | 418 | 35,231 |
-| Heptane (or n-) | 46 | 33,268 |
+| Nitrogen monoxide | 232 | 34,026 |
 | Butene | 129 | 31,601 |
 | Water (H2O) | 10 | 29,678 |
-| Xylene | 107 | 25,691 |
 | Undecane | 2 | 24,141 |
 | Dodecane | 2 | 24,056 |
 | Butyl acrylate | 3 | 23,881 |
-| Cumene | 21 | 22,977 |
+| Ethylbenzene | 155 | 23,788 |
+| Cumene | 22 | 23,014 |
 | Other material | 13 | 22,308 |
 | Cyclohexane | 88 | 20,349 |
-| VOC (unclassified) | 14 | 20,221 |
 | Butenes, All Isomers | 72 | 19,566 |
-| Ethylbenzene | 144 | 19,337 |
-| VOC-unclassified | 5 | 17,998 |
-| n-pentane | 19 | 17,808 |
+| Ammonia | 83 | 17,843 |
+| Isobutylene | 182 | 17,198 |
 | Nitrous Oxides | 79 | 16,562 |
 | methyl tert-butyl ether (MTBE) | 1 | 15,737 |
 | VOC (light hydrocarbons) | 4 | 15,021 |
 | Methyl chloride | 2 | 15,000 |
 | Hydrogen | 33 | 14,396 |
-| i-butane | 14 | 13,530 |
-| Ammonia | 72 | 13,067 |
 | MTBE | 2 | 12,708 |
 | R-22 (Monochlorodifluoromethane) | 1 | 11,000 |
-| NITROGEN | 14 | 10,529 |
-| Isobutylene | 95 | 10,155 |
+| Nitrogen | 14 | 10,529 |
 | Trans-2-butene | 231 | 10,153 |
 | Crude Oil | 3 | 9,766 |
 | Cis-2-butene | 198 | 9,332 |
-| Methanol | 29 | 9,235 |
+| Methanol | 31 | 9,244 |
 | C-9 to C-12 Hydrocarbons | 1 | 9,049 |
-| Propylene | 59 | 9,036 |
-| Hydrogen cyanide | 53 | 8,678 |
+| Hydrogen Cyanide | 53 | 8,678 |
 | Acrylonitrile | 15 | 8,521 |
 | Nonane | 24 | 8,310 |
-| Xylene (mixed isomers) | 58 | 8,124 |
-| +C5 hydrocarbon | 15 | 7,722 |
 | Butyraldehyde | 3 | 7,716 |
 | Chlorodifluoromethane | 2 | 7,276 |
 | 1,1,1,2-tetrafluoroethane  (HFC- 134a) | 1 | 7,200 |
-| Isobutene | 87 | 7,044 |
-| Xylene, m- | 5 | 6,896 |
 | Butylene | 22 | 6,871 |
-| Butadiene | 16 | 6,627 |
 | Pentenes | 27 | 6,206 |
 | Trans-butene-2 | 11 | 6,121 |
 | Propylene oxide | 8 | 6,033 |
-| Pentanes | 44 | 6,005 |
 | Nitric oxide | 57 | 5,831 |
 | Acetylene | 120 | 5,546 |
-| Hydrogen fluoride | 7 | 5,118 |
-| Vinyl Chloride | 80 | 4,991 |
+| Vinyl Chloride | 82 | 5,141 |
+| Hydrogen Fluoride | 8 | 5,118 |
 | 1-Pentene | 15 | 4,936 |
 | Heptanes | 28 | 4,878 |
 | Methylene chloride | 4 | 4,787 |
-| Hexane, n | 30 | 4,698 |
-| Ethyl Benzene | 11 | 4,451 |
 | C5+ (not including benzene) | 41 | 4,242 |
 | Vinyl acetate | 17 | 4,226 |
 | Cis-butene-2 | 35 | 4,204 |
 | Butyl acetate | 3 | 4,177 |
 | tert-butyl alcohol | 3 | 4,165 |
-| Anhydrous ammonia | 5 | 3,945 |
 | Silica | 2 | 3,940 |
 | Butyl ether | 3 | 3,843 |
-| Sulfur dioxide (anhydrous) | 2 | 3,822 |
 | Methyl Acetylene | 14 | 3,645 |
 | Acetaldehyde | 19 | 3,632 |
 | 1,2,4-Trimethylbenzene | 38 | 3,495 |
-| Butadiene, 1-3 | 56 | 3,404 |
+| Gasoline | 4 | 3,219 |
 | CO (Startup/Shutdown) | 5 | 3,187 |
 | Unknown or other oil | 1 | 3,143 |
 | Dimethyl ether | 1 | 3,137 |
-| N-Hexane | 22 | 3,063 |
 | Pentadiene | 9 | 3,056 |
-| Heptane,-n | 10 | 2,999 |
 | 1,2,4-pentatriene | 1 | 2,921 |
 | Ethylene oxide | 29 | 2,908 |
 | butenes | 19 | 2,884 |
 | Cyclohexane, methyl- | 1 | 2,876 |
 | ethyl cyclohexane | 1 | 2,724 |
-| Gasoline | 3 | 2,587 |
-| Ethene | 3 | 2,586 |
 | Cyclohexanol | 2 | 2,480 |
 | Hexene | 28 | 2,429 |
-| Hexanes | 32 | 2,375 |
 | PM Calcium Carbonate | 2 | 2,331 |
 | Acrolein | 7 | 2,294 |
 | Argon | 18 | 2,218 |
 | C8 | 6 | 2,096 |
 | 2-Methyl-Pentane | 10 | 2,075 |
 | Wastewater discharge, industrial | 1 | 2,000 |
-| +C7 hydrocarbon | 1 | 1,934 |
 | Cyclopentane | 24 | 1,908 |
 | Octene | 8 | 1,794 |
 | Naphtha | 3 | 1,721 |
@@ -5670,11 +5169,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Molybdenum | 2 | 1,267 |
 | Acetone | 15 | 1,252 |
 | Cyclopentadiene | 23 | 1,217 |
-| NOx (Startup/Shutdown) | 4 | 1,160 |
 | Carbon | 2 | 1,100 |
 | Cyclopentane, methyl- | 1 | 1,087 |
-| HEPTANE (OR N-) | 9 | 1,072 |
-| metaxylene | 2 | 1,038 |
 | Ethyl 3-ethoxypropionate | 5 | 1,022 |
 | Vinyl acetylene | 11 | 1,003 |
 | Isooctene | 2 | 996 |
@@ -5683,8 +5179,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | t-2-butene | 23 | 847 |
 | Butyl alcohol, sec- | 3 | 844 |
 | Pentene | 35 | 836 |
-| Ammonia, anhydrous | 6 | 831 |
-| O-Xylene | 13 | 820 |
 | cis-1,3-dimethyl-Cyclohexane | 1 | 793 |
 | Mineral oil | 2 | 789 |
 | Butyl alcohol, tert- | 5 | 782 |
@@ -5696,21 +5190,18 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isopropanol | 2 | 678 |
 | Tetrahydrofuran | 10 | 660 |
 | 4-methyl-1-Hexene | 1 | 654 |
-| GASOLINE, AUTOMOTIVE OR AVIATION | 1 | 632 |
 | Cyclopentene | 14 | 620 |
 | 2-Methyl-2-Butene | 12 | 620 |
 | Styrene | 37 | 606 |
 | Cyclooctadiene | 1 | 598 |
 | 3 methyl hexane | 6 | 597 |
 | C5 | 6 | 587 |
-| paraxylene | 3 | 582 |
 | Alumina Hydrate Dust | 52 | 577 |
 | Kerosene | 2 | 576 |
 | Propylene Glycol Monomethyl Ether Acetate | 4 | 572 |
 | OIL | 1 | 568 |
 | n-hexane - 110543 | 7 | 552 |
 | Polymer | 2 | 548 |
-| PM10 | 36 | 539 |
 | Other | 24 | 539 |
 | Carbonyl sulfide | 13 | 538 |
 | Butene1_Isobutene | 17 | 536 |
@@ -5720,7 +5211,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Propadiene | 19 | 510 |
 | PVC powder | 1 | 500 |
 | Oxygen | 5 | 452 |
-| M-Xylene | 11 | 447 |
 | Catalyst fines | 6 | 425 |
 | Trimethylpentane, 2,2,4- | 2 | 420 |
 | 1,4-Difluorobenzene | 1 | 403 |
@@ -5731,20 +5221,18 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Cyclohexene, 4-ethenyl- | 1 | 357 |
 | Methyl acetylene propadiene | 5 | 357 |
 | Total Sulfur | 2 | 344 |
-| Ethanol | 6 | 330 |
+| Ethanol | 7 | 330 |
 | Methyl formate | 2 | 326 |
 | Butanol | 7 | 319 |
 | 2-Methyl-1-butene | 10 | 316 |
-| Hexane, i | 6 | 311 |
 | 2-methyl-Heptane | 4 | 310 |
 | Ethyl Lactate | 3 | 310 |
 | 2-Butoxyethanol | 2 | 307 |
+| Naphthalene | 37 | 300 |
 | 2,2,4-Trimethylpentane | 28 | 296 |
-| Other VOCs | 3 | 296 |
 | Cobalt | 2 | 292 |
 | 1-Butyne | 7 | 289 |
 | Methylacetylene | 12 | 286 |
-| Xylene, o- | 7 | 279 |
 | Fluorides-inorganic gases | 1 | 275 |
 | 3- methyl pentane | 10 | 274 |
 | Calcined Alumina Dust | 44 | 263 |
@@ -5754,7 +5242,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butane, 2-methyl- | 1 | 245 |
 | Dimethylformamide | 8 | 240 |
 | Nitrobenzene | 5 | 240 |
-| P-Xylene | 12 | 232 |
 | 2-Propanol | 2 | 230 |
 | Ethylene (liquid) | 2 | 216 |
 | Propyl alcohol | 1 | 212 |
@@ -5764,7 +5251,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 4-ethenyl-Cyclohexene | 1 | 187 |
 | Iron | 2 | 183 |
 | Nickel | 8 | 181 |
-| Naphthalene | 34 | 176 |
 | Hexanoic Acid | 1 | 169 |
 | Cyclohexanone | 1 | 168 |
 | Xylobenzene | 2 | 165 |
@@ -5773,7 +5259,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | HYDROBROMIC ACID | 1 | 158 |
 | Hexamethyleneimine | 2 | 156 |
 | Isopropyl alcohol | 3 | 155 |
-| VCM | 2 | 149 |
 | 1-heptene | 1 | 146 |
 | 2,3-dimethyl-2-Pentene | 1 | 145 |
 | butene c-2 | 11 | 143 |
@@ -5787,10 +5272,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Technical White Oil | 2 | 128 |
 | Methylcyclohexane | 7 | 128 |
 | 2,3 Dimethylbutane | 5 | 126 |
-| Napthalene | 3 | 124 |
 | propyl-cyclohexane | 1 | 119 |
 | Polypropylene glycol ether | 2 | 119 |
 | 3-Methyl-1-butene | 6 | 116 |
+| MEK | 6 | 114 |
 | CARBONAL SULFITE | 8 | 112 |
 | Dimethyl sulfide | 3 | 106 |
 | 2-hydroxy isobutyric acid methyl ester | 1 | 106 |
@@ -5798,14 +5283,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Aromatic Hydrocarbons | 2 | 104 |
 | Hexamethylenediamine | 1 | 98 |
 | 1,4-Pentadiene | 3 | 92 |
-| Methyl ethyl ketone | 1 | 91 |
 | Dicyclopentadiene | 6 | 88 |
 | Chloromethane | 1 | 86 |
 | Ethyl acetate | 7 | 83 |
 | Ethylene dichloride | 11 | 75 |
 | HMDS | 1 | 71 |
 | 2-Butene-trans | 4 | 70 |
-| Xylene, p- | 4 | 70 |
 | Industrial Hazardous Waste (Code D018 - Benzene) | 1 | 69 |
 | 1,3,5-trimethylbenzene | 3 | 68 |
 | n-nonane | 1 | 67 |
@@ -5826,20 +5309,18 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 4-Ethyltoluene | 2 | 56 |
 | Tert Butylhydroperoxide | 2 | 55 |
 | Dimethylpentane | 1 | 55 |
+| Hydrogen Chloride | 9 | 54 |
 | Methyl mercaptan | 3 | 54 |
 | trans-1,3-dimethyl-Cyclohexane | 1 | 50 |
 | 2,5-dimethyl-Hexane | 1 | 49 |
 | Methacrylic Acid | 3 | 49 |
-| Hydrochloric acid | 5 | 48 |
 | Vinylacetylene | 2 | 42 |
 | Marlotherm | 1 | 41 |
 | Manganese | 2 | 41 |
 | Aniline | 1 | 41 |
-| i-pentane | 10 | 41 |
 | t-2-Pentene | 2 | 41 |
 | Cyclohexane, 1,4-dimethyl-, trans- | 1 | 40 |
 | 2 methyl pentane | 2 | 37 |
-| Isopropyl Benzene | 1 | 37 |
 | Trans-Pentene | 4 | 36 |
 | Trimethylbenzene, 1,2,4- | 2 | 35 |
 | trans-1,3-pentadiene | 5 | 35 |
@@ -5849,7 +5330,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Aluminum (fume or dust) | 4 | 30 |
 | Alcohols | 1 | 29 |
 | 1-hexene | 1 | 28 |
-| n-Heptane | 4 | 28 |
 | Isobutyraldehyde | 1 | 27 |
 | cyclohexene | 5 | 27 |
 | Lead | 5 | 25 |
@@ -5861,7 +5341,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Fuel oil 2 | 9 | 21 |
 | Acetophenone | 1 | 21 |
 | Vinyl acetate monomer | 1 | 21 |
-| Methyl ethyl ketone (MEK) | 4 | 21 |
 | 1,2,4-Trichlorobenzene | 1 | 21 |
 | Trimethylbenzene | 4 | 21 |
 | 2-hexanone | 1 | 21 |
@@ -5904,7 +5383,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | neo-pentane | 5 | 10 |
 | Wash Oil | 2 | 10 |
 | Iso-octane | 1 | 10 |
-| Methyl alcohol | 2 | 9 |
 | Naptha | 1 | 9 |
 | 2-methylpentene-2 | 4 | 9 |
 | Mesityl Oxide | 1 | 9 |
@@ -5916,8 +5394,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pentane, 3-methyl- | 1 | 7 |
 | cis-1,3-pentadiene | 1 | 7 |
 | ethyl-cyclohexane | 1 | 7 |
-| PM (unspeciated) | 5 | 7 |
-| Hydrogen chloride | 4 | 6 |
 | iso butyraldehyde | 1 | 6 |
 | C8 Aromatics | 1 | 6 |
 | Tridecyl Alcohol | 2 | 6 |
@@ -5942,9 +5418,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C-2 butene | 1 | 3 |
 | alpha methyl styrene | 1 | 3 |
 | 1,2-Dichloroethane | 2 | 3 |
-| MEK | 1 | 3 |
 | Propionic acid | 2 | 2 |
-| Propene | 1 | 2 |
 | Butyric acid | 4 | 2 |
 | Sulfonic Acids | 1 | 2 |
 | Phenol | 2 | 2 |
@@ -5953,7 +5427,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Halocarbons | 1 | 2 |
 | 1,2 Butadiene | 1 | 2 |
 | 2,3-Dichloropropanol | 1 | 2 |
-| m,p-Xylene | 3 | 1 |
 | bromodichloromethane | 2 | 1 |
 | Ethyl mercaptan | 1 | 1 |
 | Glycidol | 1 | 1 |
@@ -5971,7 +5444,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Furfural | 1 | 1 |
 | Cyclododecatriene | 1 | 1 |
 | Phosgene | 1 | 1 |
-| Ethyl alcohol | 1 | 1 |
 | 3-methylpentane | 1 | 1 |
 | Vanadium (fume or dust) | 1 | 1 |
 | Organic Salts | 1 | 0 |
@@ -5980,7 +5452,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Trimethylamine | 1 | 0 |
 | C9+ | 1 | 0 |
 | Unknown | 1 | 0 |
-| Hydrofluoric acid | 1 | 0 |
 | Nitric acid | 1 | 0 |
 | N-Trifluoromethanesulfonyloxy-5-nonbornene | 1 | 0 |
 | Indene | 2 | 0 |
@@ -5996,7 +5467,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Organometallics | 1 | 0 |
 | Antimony | 1 | 0 |
 | Copper | 1 | 0 |
-| Mixed Xylene | 1 | 0 |
 | C5 - C9s | 1 | 0 |
 | SULFUR-S | 1 | 0 |
 | Chromium compounds | 1 | 0 |
@@ -6005,63 +5475,48 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 1792 | 18,570,806 |
+| Sulfur dioxide | 1802 | 18,571,167 |
+| Butanes | 1350 | 7,052,429 |
 | Methane | 103 | 6,321,466 |
-| Butanes | 40 | 6,008,159 |
 | Carbon Monoxide | 2237 | 4,815,165 |
+| VOC | 575 | 2,972,535 |
 | NATURAL GAS | 543 | 2,827,940 |
-| VOC | 424 | 2,747,749 |
-| Propane | 747 | 1,642,869 |
+| Propane | 883 | 1,999,991 |
 | Non-Methane Non-Ethane Natural Gas | 435 | 1,565,065 |
-| Ethylene (gaseous) | 547 | 1,425,768 |
-| Isopentane | 224 | 944,098 |
-| Nitrogen Oxides (NOx) | 1639 | 756,397 |
-| Particulate Matter | 190 | 634,209 |
-| Isobutane | 488 | 401,590 |
-| Butane | 264 | 395,855 |
-| Propane, N- | 136 | 357,122 |
+| Ethylene | 554 | 1,478,146 |
+| Pentanes | 879 | 1,281,229 |
+| Nitrogen Oxides (NOx) | 1649 | 756,953 |
+| Particulate Matter | 244 | 638,183 |
+| Propylene | 507 | 366,308 |
 | Hydrogen Sulfide | 1808 | 356,278 |
 | VOC GAS MIXTURE | 92 | 339,811 |
-| Propylene (Propene) | 383 | 337,054 |
 | Ethane | 102 | 283,537 |
 | Carbon Dioxide | 20 | 234,244 |
-| Pentane | 268 | 232,685 |
-| Butane, N- | 416 | 187,352 |
+| Hexanes | 372 | 163,000 |
 | Natural Gas VOCs | 25 | 151,904 |
 | VOC (light hydrocarbons) | 7 | 129,840 |
-| Nitrogen oxide | 490 | 118,375 |
 | Benzene | 372 | 116,467 |
 | VOC - NONMETHANE | 124 | 100,208 |
-| VOCs | 91 | 92,910 |
+| Nitrogen oxide | 324 | 87,211 |
 | Nitrogen dioxide | 383 | 84,528 |
-| VOC-unclassified | 7 | 80,458 |
 | Toluene | 203 | 77,744 |
-| Hexane | 189 | 76,367 |
-| Pentane, N- | 230 | 65,125 |
-| 1,3-BUTADIENE | 201 | 57,742 |
-| Ethene | 7 | 52,378 |
-| hexanes + | 115 | 50,819 |
-| GASOLINE, AUTOMOTIVE OR AVIATION | 1 | 48,000 |
-| VOC (unclassified) | 11 | 47,649 |
-| NITROGEN | 9 | 45,661 |
+| Butadiene | 281 | 71,392 |
+| Gasoline | 4 | 48,575 |
+| Nitrogen | 9 | 45,661 |
 | 1,1,1,2 - Tetrafluoroethane | 1 | 36,609 |
-| Heptane (or n-) | 52 | 31,537 |
-| n-butane | 21 | 29,296 |
+| Heptane | 67 | 33,259 |
+| Nitrogen monoxide | 166 | 31,165 |
 | Butene | 93 | 28,367 |
-| Butane, i | 115 | 26,652 |
-| pentane, iso- | 102 | 21,540 |
+| Xylenes | 195 | 25,155 |
 | Hydrogen | 21 | 20,396 |
-| Propylene | 110 | 20,345 |
+| Isobutylene | 185 | 19,971 |
 | Hexene | 16 | 19,709 |
 | Ethylene oxide | 26 | 18,095 |
-| Hexane Plus | 23 | 17,210 |
-| Isobutylene | 105 | 16,555 |
+| Ammonia | 67 | 17,991 |
 | Octane | 66 | 15,604 |
-| Pentanes | 40 | 14,912 |
 | Pentene | 33 | 13,427 |
 | Natural Gas Liquid (Mixture) | 1 | 12,973 |
 | Acetylene | 128 | 12,651 |
-| Hexanes | 23 | 12,645 |
 | C5+ (not including benzene) | 43 | 12,581 |
 | Butenes, All Isomers | 56 | 12,309 |
 | Nitrous Oxides | 39 | 12,284 |
@@ -6069,13 +5524,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methylcyclopentane | 8 | 11,120 |
 | ethane, 1,1-dichlorotetrafluoro | 1 | 10,684 |
 | NMNE Natural Gas | 5 | 10,394 |
-| Butadiene, 1-3 | 67 | 10,374 |
-| Ammonia | 55 | 10,276 |
 | Hydrocarbons | 5 | 9,686 |
-| Hydrogen chloride | 3 | 9,047 |
+| Hydrogen Chloride | 5 | 9,056 |
 | Creosote | 1 | 9,000 |
-| Propene | 14 | 8,910 |
 | Cyclohexane | 39 | 8,466 |
+| Ethylbenzene | 120 | 8,229 |
 | Argon | 5 | 8,150 |
 | Propylene oxide | 14 | 8,096 |
 | Diethanolamine | 1 | 8,000 |
@@ -6087,68 +5540,48 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Cyclopentadiene | 18 | 6,431 |
 | Propanol, n- | 5 | 6,427 |
 | Nitric oxide | 50 | 6,403 |
-| +C5 hydrocarbon | 10 | 6,085 |
+| #NAME? | 11 | 6,292 |
 | Isoprene | 11 | 6,043 |
 | Naphtha | 6 | 5,965 |
-| Hexane, n | 13 | 5,949 |
 | Butyraldehyde | 1 | 5,856 |
-| Xylene | 85 | 5,844 |
 | Pentenes | 15 | 5,697 |
-| Anhydrous ammonia | 7 | 5,545 |
-| Ethylbenzene | 108 | 5,374 |
 | Trans-2-butene | 200 | 5,300 |
 | Tert Butylhydroperoxide | 18 | 5,199 |
 | Acrylonitrile | 8 | 5,052 |
-| P-Xylene | 10 | 4,508 |
 | tert-butyl alcohol | 7 | 4,397 |
-| O-Xylene | 12 | 4,318 |
 | Butylene | 24 | 4,206 |
 | Cis-2-butene | 183 | 4,140 |
 | Methyl Acetylene | 9 | 3,957 |
+| MTBE | 8 | 3,950 |
 | Ethylene dichloride | 11 | 3,931 |
 | Methanol | 20 | 3,867 |
 | Acetone | 27 | 3,865 |
 | Trimethylbenzene | 2 | 3,837 |
 | C6+ | 4 | 3,742 |
-| Unspeciated VOCs | 38 | 3,737 |
 | Heptanes | 19 | 3,721 |
 | Cresol(s) (mixed isomers) | 3 | 3,706 |
-| M-Xylene | 8 | 3,705 |
-| metaxylene | 7 | 3,541 |
-| i-butane | 6 | 3,526 |
 | 1,1,1,2 Tetrafluoroethane | 1 | 3,500 |
-| Isobutene | 80 | 3,415 |
-| Butadiene | 13 | 3,276 |
-| Crude oil heavy | 1 | 2,960 |
-| Ethyl Benzene | 12 | 2,854 |
+| Crude Oil | 2 | 3,384 |
 | butenes | 10 | 2,828 |
 | Carbon | 5 | 2,800 |
 | Other | 23 | 2,789 |
 | CO (Startup/Shutdown) | 5 | 2,716 |
 | t-Butyl Alcohol | 5 | 2,701 |
-| n-pentane | 11 | 2,697 |
 | Propadiene | 15 | 2,584 |
 | butene-1 | 1 | 2,415 |
-| PM10 | 50 | 2,391 |
-| Methyl tert-butyl ether | 2 | 2,267 |
-| Ammonia, anhydrous | 5 | 2,170 |
 | Gas Oil | 2 | 2,072 |
 | Ammonium Phosphate | 1 | 2,018 |
 | Orthoxylene | 8 | 1,837 |
+| Hydrogen Cyanide | 55 | 1,819 |
 | Butyl alcohol, tert- | 6 | 1,809 |
-| Hydrogen cyanide | 54 | 1,793 |
 | Silicon dioxide (PM) | 19 | 1,787 |
 | Undecane | 3 | 1,722 |
 | Octene | 2 | 1,716 |
-| MTBE | 6 | 1,683 |
-| paraxylene | 7 | 1,602 |
-| PM (unspeciated) | 4 | 1,583 |
 | decane | 44 | 1,550 |
-| HEPTANE (OR N-) | 9 | 1,511 |
 | Styrene | 34 | 1,494 |
 | PM Calcium Carbonate | 1 | 1,437 |
 | Alumina Hydrate Dust | 89 | 1,208 |
-| Cumene | 6 | 1,164 |
+| Cumene | 9 | 1,165 |
 | Gasoline Blend Stock | 2 | 1,123 |
 | Ethylene (liquid) | 2 | 1,040 |
 | Vinyl Chloride | 73 | 1,009 |
@@ -6158,7 +5591,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butene1_Isobutene | 13 | 881 |
 | Ethyl 3-ethoxypropionate | 3 | 871 |
 | Isopropanol | 3 | 806 |
-| Xylene, m- | 6 | 804 |
 | Acetaldehyde | 10 | 724 |
 | Ethane, 1,1,1,2-tetrafluoro | 1 | 720 |
 | 2-Butene | 2 | 713 |
@@ -6170,13 +5602,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Sulfuric acid | 4 | 667 |
 | Iso-octane | 7 | 641 |
 | Nonane | 19 | 628 |
-| Xylene (mixed isomers) | 45 | 615 |
 | decanes | 1 | 603 |
-| Gasoline | 3 | 575 |
 | 1-Decene | 3 | 566 |
 | Octanes | 14 | 565 |
 | i-Pentane | 4 | 560 |
-| NOx (Startup/Shutdown) | 10 | 556 |
 | Xylenol | 2 | 555 |
 | Isobutyraldehyde | 1 | 532 |
 | Diatomaceous Earth | 1 | 500 |
@@ -6187,14 +5616,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methyl chloride | 1 | 459 |
 | Cresol, m- | 2 | 449 |
 | n-hexane - 110543 | 3 | 439 |
-| Crude Oil | 1 | 424 |
 | C5s | 6 | 424 |
 | Calcined Alumina Dust | 37 | 419 |
 | C5 | 6 | 406 |
 | Methyl methacrylate | 1 | 389 |
 | 2-Methylhexane | 1 | 378 |
 | C5 Plus | 9 | 375 |
-| Sulfur dioxide (anhydrous) | 10 | 361 |
 | C11+ (paraffin, olefin & aromatic compounds) | 1 | 355 |
 | Acrylic acid | 2 | 354 |
 | 1-Butene + Isobutylene | 21 | 350 |
@@ -6208,7 +5635,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Catalyst fines | 7 | 280 |
 | Pentenenitrile | 3 | 279 |
 | Water (H2O) | 3 | 279 |
-| Diesel fuel | 1 | 265 |
+| Diesel | 1 | 265 |
 | C9+ Hydrocarbons | 3 | 258 |
 | Dicyclopentadiene | 5 | 255 |
 | P-Cresol | 2 | 252 |
@@ -6216,10 +5643,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Sulfur trioxide | 6 | 239 |
 | Halon 1301 | 1 | 230 |
 | Monoethanolamine | 5 | 217 |
-| Heptane,-n | 6 | 212 |
 | EGME | 3 | 209 |
 | Opacity | 4 | 209 |
-| +C6 hydrocarbom | 1 | 208 |
 | methyl isopropyl ketone (MIPK) | 1 | 202 |
 | Therminol 59 | 1 | 200 |
 | Propylene Glycol Monomethyl Ether Acetate | 2 | 193 |
@@ -6228,13 +5653,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,2 - Butadiene | 5 | 176 |
 | Nitrobenzene | 1 | 175 |
 | butene c-2 | 8 | 174 |
-| i-pentane | 4 | 173 |
 | Carbon tetrachloride | 2 | 169 |
 | Alumina | 1 | 165 |
 | Halon 1301 (Bromotrifluoromethane) | 1 | 145 |
 | Indene | 1 | 144 |
 | Glycol ethers | 1 | 142 |
-| Naphthalene | 7 | 121 |
+| Naphthalene | 8 | 123 |
 | 2,3-Dimethylpentane | 1 | 121 |
 | sulfur hexafluoride | 1 | 120 |
 | 2-Butene-trans | 3 | 119 |
@@ -6252,7 +5676,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Heptene | 2 | 96 |
 | Hexenes | 4 | 96 |
 | C7+ | 1 | 93 |
-| Xylene, o- | 5 | 92 |
 | N-Butyl alcohol | 1 | 92 |
 | Nitric acid | 1 | 91 |
 | Decenes | 1 | 91 |
@@ -6265,7 +5688,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isobutylene Oxide | 4 | 77 |
 | 1-Butyne | 3 | 75 |
 | Isopropyl alcohol | 2 | 74 |
-| m,p-Xylene | 1 | 72 |
 | Aldehydes | 1 | 72 |
 | Monomethylamine | 1 | 72 |
 | Butane, 2-methyl- | 1 | 72 |
@@ -6277,7 +5699,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C6-C8 Non Aromatics | 1 | 66 |
 | Diphenyl Oxide | 1 | 64 |
 | monomethylethanolamine (MMEA) | 1 | 63 |
-| Hydrogen fluoride | 3 | 63 |
+| Hydrogen Fluoride | 3 | 63 |
 | Nonanes | 1 | 61 |
 | 2-Butoxyethanol | 2 | 58 |
 | Propyleneimine | 4 | 58 |
@@ -6289,22 +5711,20 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C8 Parafins | 1 | 41 |
 | Decanes Plus | 5 | 37 |
 | Dodecane | 1 | 36 |
-| Xylene, p- | 7 | 36 |
 | Methyl Acetate | 11 | 35 |
 | Vinyl acetylene | 4 | 34 |
 | Methyl isobutyl ketone | 1 | 34 |
 | Methyl iodide | 1 | 34 |
 | Chloroform | 4 | 34 |
-| Other VOCs | 4 | 31 |
 | Perchloroethylene | 1 | 31 |
 | Ethene, chlorotrifluoro- | 1 | 30 |
 | Nirogen Oxides | 2 | 28 |
 | Dimethylformamide | 1 | 28 |
 | C7 Parafins | 1 | 28 |
 | Diphenylethane | 1 | 26 |
-| HCN | 1 | 26 |
 | Biphenyl | 2 | 25 |
 | C7s | 1 | 24 |
+| MEK | 5 | 24 |
 | Trans-butene-2 | 2 | 22 |
 | Ethyl tert-butyl ether | 2 | 22 |
 | C10+ | 1 | 21 |
@@ -6323,9 +5743,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Other C5's + | 2 | 16 |
 | Vinyl cyclohexene | 1 | 15 |
 | C6 Parafins | 1 | 15 |
-| Xylenes | 1 | 15 |
 | Natural gasoline | 1 | 15 |
-| Methyl ethyl ketone (MEK) | 4 | 15 |
 | Dimethyl Butanes | 1 | 14 |
 | Hexamethylebenzene | 1 | 12 |
 | 2-Methyl-1-butene | 2 | 12 |
@@ -6334,13 +5752,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,1-methylcyclohexane | 1 | 12 |
 | C15 Compounds | 1 | 11 |
 | 1,4-Pentadiene | 3 | 11 |
-| N-Hexane | 9 | 11 |
 | PAC | 1 | 10 |
 | Cyclopentane, methyl- | 1 | 10 |
 | Acetophenone | 1 | 10 |
 | Tetradecane | 1 | 10 |
-| Hydrochloric acid | 2 | 9 |
-| Methyl ethyl ketone | 1 | 9 |
 | Nitrous Oxide | 1 | 9 |
 | Lead | 18 | 9 |
 | Aniline | 1 | 9 |
@@ -6366,11 +5781,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Zinc | 7 | 3 |
 | Ethyl chloride | 2 | 3 |
 | C5 Lighter | 1 | 3 |
-| Mixed Xylene | 1 | 3 |
 | 2 methylbutane | 1 | 3 |
 | Vacuum Gas Oil | 1 | 2 |
 | 1-trans-3-pentadiene | 1 | 2 |
-| Napthalene | 1 | 2 |
 | Acrolein | 2 | 2 |
 | N-Butyl acrylate | 1 | 2 |
 | Butyl methacrylate | 1 | 2 |
@@ -6387,7 +5800,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | trans-2-Pentene | 1 | 1 |
 | Cyclohexanone | 2 | 1 |
 | 1,2 Butadiene | 1 | 1 |
-| Isopropyl Benzene | 2 | 1 |
 | 2,2,4-Trimethylpentane | 8 | 1 |
 | 2,3 Dimethylbutane | 4 | 1 |
 | Ethylidenenorbornene (ENB) | 1 | 1 |
@@ -6406,7 +5818,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isobutanol | 1 | 0 |
 | Maleic Acid Monoethyl Ester | 1 | 0 |
 | Anthracene | 1 | 0 |
-| Isopropylbenzene | 1 | 0 |
 | 2-methylpentane | 1 | 0 |
 | C9+ | 1 | 0 |
 | VOC (C4's) | 1 | 0 |
@@ -6423,160 +5834,123 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2501 | 46,777,785 |
+| Sulfur dioxide | 2506 | 46,790,950 |
 | NATURAL GAS | 669 | 15,833,380 |
 | Carbon Monoxide | 2846 | 7,256,762 |
 | Non-Methane Non-Ethane Natural Gas | 450 | 6,130,261 |
-| Propane | 972 | 3,558,863 |
-| Propane, N- | 179 | 1,954,336 |
-| Nitrogen Oxides (NOx) | 1995 | 1,751,946 |
-| Propylene (Propene) | 414 | 1,661,909 |
-| VOC | 560 | 1,420,773 |
+| Propane | 1151 | 5,513,199 |
+| VOC | 718 | 2,372,079 |
+| Butanes | 1810 | 2,189,436 |
+| Propylene | 572 | 1,806,216 |
+| Nitrogen Oxides (NOx) | 2003 | 1,777,898 |
 | Propylene Glycol Monomethyl Ether Acetate | 6 | 1,368,119 |
-| Particulate Matter | 234 | 946,932 |
-| Hydrogen Sulfide | 2400 | 920,376 |
-| Nitrogen oxide | 698 | 894,469 |
-| Butane | 418 | 891,496 |
+| Particulate Matter | 301 | 962,441 |
+| Hydrogen Sulfide | 2402 | 920,401 |
+| Pentanes | 1343 | 897,849 |
+| Nitrogen oxide | 551 | 871,625 |
+| Hexanes | 644 | 813,018 |
 | Methane | 141 | 810,134 |
-| Ethylene (gaseous) | 605 | 795,399 |
+| Ethylene | 606 | 795,489 |
 | Ethane | 144 | 729,717 |
-| Isobutane | 576 | 657,902 |
 | VOC GAS MIXTURE | 102 | 491,231 |
-| VOC (unclassified) | 16 | 472,783 |
-| VOCs | 114 | 441,423 |
-| Hexane | 285 | 398,160 |
-| Butane, N- | 508 | 372,461 |
 | Nitrous Oxide | 29 | 299,914 |
-| Isopentane | 339 | 299,235 |
-| Pentane | 360 | 283,779 |
 | Nitrogen dioxide | 586 | 238,904 |
 | Cyclohexane | 68 | 169,533 |
-| hexanes + | 228 | 164,817 |
-| Pentane, N- | 318 | 160,375 |
-| Hexane Plus | 39 | 150,354 |
-| Propylene | 151 | 143,289 |
-| Butanes | 51 | 139,685 |
 | Natural Gas VOCs | 25 | 135,155 |
 | Carbon Dioxide | 41 | 130,468 |
 | Unknown or other oil | 3 | 100,000 |
 | Natural gasoline | 1 | 85,909 |
-| Pentanes | 99 | 72,666 |
 | VOC - NONMETHANE | 245 | 67,286 |
-| pentane, iso- | 208 | 64,894 |
-| Hexane, n | 59 | 64,323 |
-| Butane, i | 228 | 63,547 |
+| Heptane | 132 | 58,624 |
 | Benzene | 498 | 56,217 |
-| Heptane (or n-) | 104 | 53,784 |
-| n-butane | 20 | 52,853 |
 | Toluene | 239 | 50,226 |
+| Ammonia | 107 | 48,268 |
 | Butene | 108 | 45,632 |
+| Butadiene | 278 | 41,968 |
 | VOC (light hydrocarbons) | 10 | 40,596 |
 | 3- methyl pentane | 6 | 39,623 |
-| Hexanes | 24 | 35,116 |
 | Cyclohexanone | 11 | 35,094 |
-| Unspeciated VOCs | 22 | 34,502 |
-| 1,3-BUTADIENE | 200 | 31,836 |
 | Diesel #2 | 3 | 30,936 |
-| Ammonia | 91 | 28,569 |
 | Butenes, All Isomers | 102 | 28,071 |
-| NOx (Startup/Shutdown) | 8 | 25,952 |
 | Nitrous Oxides | 32 | 24,467 |
 | Acrylonitrile | 19 | 23,795 |
+| Nitrogen monoxide | 147 | 22,844 |
 | Octane | 91 | 22,159 |
 | 1-hexene | 1 | 21,321 |
 | Water (H2O) | 11 | 20,997 |
+| Crude Oil | 9 | 19,009 |
+| Vinyl Chloride | 84 | 18,601 |
 | Nitric oxide | 64 | 18,437 |
 | Ethylene oxide | 32 | 18,206 |
 | Hydrogen | 35 | 18,069 |
 | HFC-134 | 1 | 18,000 |
 | C5+ (not including benzene) | 45 | 17,883 |
-| Ammonia, anhydrous | 12 | 17,072 |
-| Vinyl Chloride | 75 | 15,627 |
-| n-pentane | 15 | 15,024 |
+| Isobutylene | 147 | 15,622 |
+| Xylenes | 219 | 15,383 |
 | 1,2-Butadiene | 1 | 14,828 |
 | Argon | 22 | 14,750 |
-| NITROGEN | 11 | 14,350 |
-| Sulfur dioxide (anhydrous) | 5 | 13,165 |
+| Nitrogen | 11 | 14,350 |
 | n-hexane - 110543 | 7 | 12,090 |
-| Crude Oil | 8 | 11,521 |
-| i-butane | 9 | 11,492 |
 | Other | 29 | 10,985 |
-| Hydrochloric acid | 6 | 10,281 |
-| PM10 | 60 | 10,182 |
+| Hydrogen Chloride | 10 | 10,416 |
 | Pentenenitrile | 6 | 9,883 |
 | Pentene | 44 | 9,603 |
 | C6+ | 4 | 8,966 |
 | Methylcyclopentane | 23 | 8,948 |
 | Vinyl acetate | 15 | 8,395 |
-| Isobutylene | 78 | 7,968 |
 | Trans-2-butene | 215 | 7,925 |
+| Hydrogen Cyanide | 71 | 7,814 |
 | 1-Butene | 158 | 7,755 |
-| Isobutene | 69 | 7,653 |
-| Crude oil heavy | 1 | 7,488 |
-| Xylene | 118 | 7,452 |
 | 2 methyl pentane | 6 | 7,406 |
 | Acetic acid | 7 | 6,918 |
 | Cis-2-butene | 206 | 6,917 |
 | Cyclohexanol | 11 | 6,750 |
 | Adiponitrile | 7 | 6,335 |
 | Butene1_Isobutene | 13 | 6,230 |
-| Butadiene | 15 | 5,965 |
 | Propylene oxide | 9 | 5,552 |
 | 2,4-dimethylpentane | 3 | 5,222 |
 | Acetylene | 142 | 5,075 |
-| PM (unspeciated) | 6 | 5,061 |
 | Methylcyclohexane | 10 | 4,625 |
 | neo-pentane | 10 | 4,498 |
 | NMNE Natural Gas | 3 | 4,490 |
 | Monomethylamine | 1 | 4,405 |
-| Butadiene, 1-3 | 63 | 4,167 |
 | Hexene | 25 | 4,108 |
-| Heptane,-n | 13 | 4,092 |
 | Octanes | 12 | 4,009 |
-| HCN | 13 | 4,008 |
 | decane | 71 | 3,854 |
-| Hydrogen cyanide | 58 | 3,806 |
 | 2 methyl heptane | 1 | 3,658 |
 | butene-1 | 14 | 3,212 |
 | Lambda Cyhalothrin | 1 | 3,122 |
-| VCM | 9 | 2,973 |
-| Ethylbenzene | 139 | 2,921 |
+| Ethylbenzene | 163 | 3,016 |
 | Silicon dioxide (PM) | 4 | 2,914 |
-| Anhydrous ammonia | 4 | 2,627 |
 | Nonane | 45 | 2,579 |
 | Chlorine | 4 | 2,549 |
 | Alkylates | 2 | 2,303 |
 | Vacuum Gas Oil | 2 | 2,290 |
 | Heptanes | 13 | 2,280 |
 | 2,2-DIMETHYLBUTANE | 6 | 2,278 |
+| #NAME? | 25 | 2,269 |
 | Methyl mercaptan | 2 | 2,241 |
 | Propane, 2,2-dimethyl | 1 | 2,212 |
 | C5 Plus | 4 | 2,190 |
 | Cyclopentadiene | 25 | 2,171 |
 | Pentenes | 28 | 2,169 |
+| Methanol | 15 | 2,164 |
 | 2,2,4-Trimethylpentane | 4 | 2,120 |
 | CO (Startup/Shutdown) | 2 | 2,018 |
 | Butylene | 22 | 1,987 |
 | Denatured Alcohol | 1 | 1,986 |
 | Ethanolamine | 1 | 1,986 |
-| i-pentane | 4 | 1,875 |
-| +C5 hydrocarbon | 24 | 1,814 |
-| Misc. VOC | 4 | 1,776 |
 | Cyclopentane | 23 | 1,765 |
 | diethylene glycol monobutyl ether | 1 | 1,735 |
 | Dimethyl sulfide | 2 | 1,732 |
 | 1,2-Dichloroethane | 5 | 1,614 |
 | Catalyst fines | 12 | 1,586 |
-| Methanol | 13 | 1,542 |
 | Carbon disulfide | 48 | 1,498 |
-| Xylene, m- | 7 | 1,484 |
 | Iso-octane | 14 | 1,463 |
 | 1-Hydroxyelthylidene-1, 1-diphosphonic Acid | 1 | 1,459 |
 | Methylene chloride | 1 | 1,457 |
-| metaxylene | 7 | 1,400 |
 | Dimethicone | 1 | 1,383 |
 | 3 methyl hexane | 2 | 1,337 |
-| Xylene, p- | 6 | 1,336 |
 | Triethanolamine | 1 | 1,296 |
 | Methyl Acetylene | 12 | 1,283 |
 | Propadiene | 23 | 1,250 |
@@ -6585,43 +5959,36 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Ethyl 3-ethoxypropionate | 5 | 1,095 |
 | t-2-butene | 30 | 1,087 |
 | Gas Oil | 1 | 1,019 |
-| Propene | 7 | 1,017 |
-| Xylene, o- | 11 | 1,001 |
 | Acetonitrile | 33 | 977 |
 | Hydrocarbons | 3 | 939 |
 | methyl cyclopentane | 18 | 877 |
 | Styrene | 36 | 873 |
 | tetraethanolamine | 1 | 815 |
 | Aniline | 2 | 801 |
-| VOC-unclassified | 1 | 800 |
 | Butylene Isomers | 1 | 798 |
-| M-Xylene | 5 | 789 |
 | 2,3-Dimethylpentane | 5 | 760 |
 | Acetaldehyde | 13 | 751 |
 | Nitrogen Trichloride | 1 | 745 |
 | aromatic naphtha | 1 | 706 |
 | Alumina Hydrate Dust | 59 | 694 |
 | Cyclododecane | 2 | 674 |
-| paraxylene | 7 | 662 |
 | Isoprene | 15 | 648 |
 | Polyethylene | 3 | 646 |
-| Methyl alcohol | 2 | 622 |
 | Fragrance | 1 | 619 |
 | Trans-butene-2 | 15 | 617 |
 | C5s | 3 | 608 |
 | Sodium hydroxide | 1 | 606 |
 | 2-Methyl-2-Butene | 8 | 602 |
+| Hydrogen Fluoride | 5 | 590 |
 | MTBE | 3 | 531 |
 | Halon 1301 (Bromotrifluoromethane) | 2 | 521 |
 | Butoxyethanol | 1 | 515 |
 | CARBONAL SULFITE | 21 | 509 |
-| Hydrogen fluoride (anhydrous) | 2 | 481 |
 | 2-Methylhexane | 8 | 473 |
 | Sulfuric acid | 4 | 472 |
 | 1,1,2-Trichloroethane | 3 | 472 |
 | 2-Butene-trans | 6 | 469 |
 | VOC MIXTURE | 5 | 461 |
-| +C6 hydrocarbom | 1 | 455 |
 | 1,4-Pentadiene | 9 | 452 |
 | 3-methylhexane | 6 | 435 |
 | 3-Methylheptane | 1 | 423 |
@@ -6629,15 +5996,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Tert Butylhydroperoxide | 2 | 403 |
 | Ground Talc | 1 | 400 |
 | talcum powder | 1 | 400 |
-| HEPTANE (OR N-) | 9 | 392 |
-| Xylene (mixed isomers) | 33 | 389 |
 | Methacrylic Acid | 2 | 378 |
-| P-Xylene | 7 | 377 |
-| O-Xylene | 8 | 374 |
 | PM10 Carbon-C | 1 | 370 |
 | Methyl acetylene propadiene | 4 | 370 |
 | secondary butyl mercaptan | 2 | 364 |
-| n-Heptane | 6 | 357 |
 | Formaldehyde | 2 | 356 |
 | Trimethylbenzene | 9 | 352 |
 | Ethylene (liquid) | 3 | 340 |
@@ -6650,8 +6012,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Octane, n- | 7 | 286 |
 | 2-Butene-cis | 7 | 276 |
 | 1-Butene + Isobutylene | 16 | 273 |
-| PM10 Calcium carbonate-CaCO3 | 1 | 265 |
-| N-Hexane | 9 | 248 |
 | Sulfur | 2 | 248 |
 | Sodium glycolate | 1 | 241 |
 | Monomethylformamide | 13 | 231 |
@@ -6694,7 +6054,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | decanes | 2 | 135 |
 | 2-methylbutene-2 | 7 | 135 |
 | 1t,3-dimethylcyclopentane | 2 | 134 |
-| Hydrogen chloride | 4 | 134 |
 | trans-2-Pentene | 4 | 128 |
 | Ethene, chlorotrifluoro- | 1 | 126 |
 | Acetone | 11 | 125 |
@@ -6709,8 +6068,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | octane+isomers | 1 | 110 |
 | 1c,3-dimethylcyclopentane | 2 | 110 |
 | alkylphenol ethoxylate | 1 | 108 |
-| Xylenes | 5 | 108 |
-| Hydrofluoric acid | 2 | 105 |
 | hexene-1 | 7 | 105 |
 | 4-isopropenyl-1-methyl cyclohexene | 1 | 104 |
 | 2,3,3-Trimethylpentane | 2 | 104 |
@@ -6726,19 +6083,17 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | tert-Butyl Mercaptan 75-66-1 | 1 | 97 |
 | Butyraldehyde | 3 | 97 |
 | Vinyl-toluene | 1 | 96 |
-| Ethyl Benzene | 24 | 95 |
 | 1-methylcyclohexane | 2 | 93 |
 | Cumene | 9 | 93 |
 | HYDROBROMIC ACID | 2 | 91 |
 | R-22 (Monochlorodifluoromethane) | 1 | 91 |
-| Ethene | 1 | 90 |
 | C8 Compounds | 1 | 89 |
 | Indene | 3 | 86 |
 | 1-Decene | 1 | 84 |
 | Methylacetylene | 13 | 83 |
 | disodium ethylenediaminetracetate | 1 | 80 |
 | trisodium ethylenediaminediacetate | 1 | 80 |
-| Naphthalene | 22 | 80 |
+| Naphthalene | 23 | 80 |
 | Hexenes | 4 | 78 |
 | 1-methylcyclopentane | 2 | 77 |
 | Decanes Plus | 3 | 75 |
@@ -6802,7 +6157,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,2-Dibromoethane | 1 | 27 |
 | Acrolein | 7 | 26 |
 | C7 Naphthenes | 1 | 25 |
-| Dihydrogen Sulfide | 2 | 25 |
 | 2-methylpentene-1 | 3 | 25 |
 | Alumina | 1 | 23 |
 | 2,2,3-thrimethylhexane | 1 | 22 |
@@ -6811,7 +6165,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | CISPENTENE | 1 | 21 |
 | 3-methyloctane | 1 | 21 |
 | 1,2-Propanediol | 1 | 21 |
-| HPV VOLATILE ORGANIC COMPOUNDS | 1 | 21 |
 | 4-ethylheptane | 1 | 21 |
 | Beta-methyl styrene | 1 | 21 |
 | 1c,2t,3-trimethylcyclopentane | 1 | 21 |
@@ -6854,11 +6207,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Naphtha | 1 | 10 |
 | Propionaldehyde | 1 | 10 |
 | 2,2,5-trimethylhexane | 2 | 10 |
-| Mixed Xylene | 4 | 9 |
 | 1-Propene, 2-methyl- | 1 | 9 |
 | 1c,3c,5c-trimethylcyclohexane | 1 | 8 |
 | Methyl Benzyl Alcohol | 1 | 8 |
-| Methyl ethyl ketone (MEK) | 1 | 8 |
+| MEK | 1 | 8 |
 | Vinylacetylene | 3 | 8 |
 | 1,2-butadiene | 1 | 7 |
 | 2,3,4-trimethylhexane | 1 | 7 |
@@ -6875,13 +6227,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methyl Naphthalene | 1 | 5 |
 | Cyclohexane, methyl- | 2 | 5 |
 | Trichloroethylene | 2 | 4 |
-| Hydrogen fluoride | 1 | 4 |
 | 2-Nitropropane | 1 | 4 |
 | 1,3,5-trimethylbenzene | 1 | 3 |
 | Ethyl chloride | 2 | 3 |
 | Butanol | 1 | 3 |
 | Nirogen Oxides | 1 | 3 |
-| m,p-Xylene | 1 | 3 |
 | 1,3-Pentadiene | 1 | 3 |
 | alpha methyl styrene | 2 | 3 |
 | Benzonitrile | 2 | 3 |
@@ -6908,8 +6258,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-methyl-1,3-butadiene | 3 | 1 |
 | Lead, tetraethyl (TEL) | 1 | 1 |
 | Ethyl acetate | 1 | 1 |
+| LPG | 1 | 1 |
 | Propanol, n- | 1 | 1 |
-| LPG (liquified petroleum gas) | 1 | 1 |
 | 1,1,2,2-Tetrachloroethane | 2 | 1 |
 | 1,2 - Butadiene | 1 | 1 |
 | Hexane, 3-methyl- | 1 | 1 |
@@ -6946,116 +6296,89 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Octene | 1 | 0 |
 | Triethylene Glycol | 1 | 0 |
 | n-pentylbenzene | 1 | 0 |
-| Napthalene | 1 | 0 |
 | HPV HYDROGEN SULFIDE | 1 | 0 |
 | methyl hexadiene | 1 | 0 |
 | 1,3,5-triethylbenzene | 1 | 0 |
 | Heptene | 1 | 0 |
-| Diesel fuel | 1 | 0 |
+| Diesel | 1 | 0 |
 | Potassium hydroxide | 1 | 0 |
 
 ### 2012
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2530 | 31,945,158 |
+| Sulfur dioxide | 2540 | 32,174,499 |
 | Carbon Monoxide | 2718 | 7,265,287 |
 | NATURAL GAS | 665 | 6,464,053 |
-| Propane | 922 | 3,266,405 |
-| Nitrogen Oxides (NOx) | 2048 | 2,347,666 |
-| VOC | 509 | 1,530,657 |
-| Particulate Matter | 172 | 1,183,224 |
+| Propane | 1051 | 3,878,660 |
+| VOC | 670 | 2,525,343 |
+| Nitrogen Oxides (NOx) | 2053 | 2,348,307 |
+| Butanes | 1631 | 1,888,318 |
+| Particulate Matter | 237 | 1,187,358 |
 | Non-Methane Non-Ethane Natural Gas | 553 | 1,179,928 |
-| Ethylene (gaseous) | 380 | 985,857 |
-| VOC (unclassified) | 13 | 777,016 |
-| Butane | 271 | 665,795 |
+| Pentanes | 1306 | 1,002,890 |
+| Ethylene | 381 | 985,876 |
+| Hexanes | 670 | 811,547 |
 | Carbon Dioxide | 24 | 622,702 |
-| Propane, N- | 129 | 612,254 |
-| Isobutane | 460 | 518,295 |
 | VOC - NONMETHANE | 106 | 503,485 |
 | Hydrogen Sulfide | 2507 | 439,976 |
-| Hexanes | 99 | 436,210 |
-| pentane, iso- | 277 | 407,127 |
-| Butane, N- | 508 | 322,588 |
+| Propylene | 379 | 316,213 |
 | Other | 25 | 286,703 |
 | VOC GAS MIXTURE | 100 | 279,071 |
-| Sulfur dioxide (anhydrous) | 10 | 229,341 |
 | Natural Gas VOCs | 38 | 209,895 |
-| Nitrogen oxide | 569 | 202,727 |
-| Butanes | 76 | 195,299 |
-| Propylene | 159 | 184,279 |
-| Isopentane | 258 | 176,573 |
-| VOCs | 109 | 175,334 |
+| Nitrogen oxide | 450 | 193,114 |
 | Nitrogen dioxide | 478 | 169,376 |
-| Hexane | 208 | 166,336 |
-| Pentane | 274 | 164,476 |
 | VOC (light hydrocarbons) | 147 | 145,173 |
-| hexanes + | 258 | 141,612 |
-| Pentanes | 90 | 124,810 |
-| Pentane, N- | 359 | 108,994 |
 | Ethane | 94 | 106,736 |
-| Propylene (Propene) | 213 | 96,043 |
 | 1-Butene | 65 | 95,705 |
-| n-butane | 40 | 91,611 |
-| Butane, i | 247 | 71,486 |
-| Isobutylene | 89 | 64,596 |
-| Hexane Plus | 43 | 59,698 |
+| Isobutylene | 121 | 65,926 |
 | Methane | 84 | 57,287 |
 | Nitrous Oxide | 6 | 55,095 |
+| Heptane | 122 | 45,490 |
 | Toluene | 265 | 44,892 |
 | Butenes, All Isomers | 87 | 44,273 |
+| Butadiene | 210 | 43,922 |
 | tert-butyl alcohol | 1 | 42,191 |
 | Acrylonitrile | 9 | 42,081 |
 | Benzene | 439 | 39,159 |
-| Heptane (or n-) | 90 | 38,281 |
-| Propene | 7 | 35,890 |
-| 1,3-BUTADIENE | 126 | 33,413 |
+| Ammonia | 68 | 32,103 |
 | Nitrous Oxides | 13 | 30,366 |
-| VOC-unclassified | 2 | 26,894 |
 | Pentenes | 29 | 24,717 |
-| i-butane | 29 | 23,243 |
 | Octane | 96 | 22,872 |
 | Butene | 78 | 19,047 |
 | Nitric oxide | 79 | 18,733 |
 | Cyclohexane | 48 | 18,644 |
-| n-pentane | 38 | 18,417 |
 | C5+ (not including benzene) | 21 | 17,238 |
-| Ammonia | 50 | 16,998 |
 | Octanes | 33 | 15,379 |
 | C6+ | 3 | 15,193 |
 | Gas Oil | 2 | 14,149 |
 | Trans-2-butene | 101 | 14,104 |
 | Propylene oxide | 8 | 13,659 |
-| Anhydrous ammonia | 9 | 12,890 |
 | Cis-2-butene | 95 | 10,796 |
 | Trans-butene-2 | 9 | 10,585 |
-| Butadiene, 1-3 | 74 | 10,265 |
 | Ethylene oxide | 8 | 9,625 |
-| Hydrogen chloride | 5 | 9,508 |
+| Nitrogen monoxide | 119 | 9,613 |
+| Hydrogen Chloride | 6 | 9,508 |
+| Crude Oil | 2 | 8,490 |
 | R-134A Refrigerant | 1 | 8,200 |
 | Acetylene | 81 | 8,123 |
-| Methanol | 11 | 7,479 |
-| Hexane, n | 54 | 7,387 |
-| Heptane,-n | 30 | 7,179 |
+| Methanol | 14 | 7,489 |
 | Pentene | 25 | 7,150 |
+| Xylenes | 260 | 6,840 |
 | N-Methyl-2-pyrrolidone | 1 | 6,264 |
-| HPV VOLATILE ORGANIC COMPOUNDS | 6 | 6,103 |
-| Crude oil light | 1 | 6,048 |
-| Unspeciated VOCs | 19 | 5,734 |
+| Hydrogen Cyanide | 19 | 5,844 |
 | n-hexane - 110543 | 21 | 5,537 |
 | Gasoline | 5 | 5,489 |
 | Heptanes | 32 | 5,284 |
-| HCN | 3 | 5,254 |
 | Ethane, 1,1,1,2-Tetrafluoro-(HFC-134a) | 1 | 5,060 |
-| NITROGEN | 9 | 5,001 |
+| Nitrogen | 9 | 5,001 |
 | decane | 80 | 4,634 |
 | Propylene Glycol Monomethyl Ether Acetate | 15 | 4,421 |
 | Cis-butene-2 | 8 | 4,277 |
 | Acetone | 3 | 3,696 |
 | Ethylidenenorbornene (ENB) | 1 | 3,483 |
-| Volatile Organic Compounds | 1 | 3,365 |
+| Ethylbenzene | 192 | 3,176 |
 | Octene | 6 | 3,162 |
-| Ethylbenzene | 181 | 2,964 |
 | C5 | 8 | 2,884 |
 | Hydrogen | 23 | 2,837 |
 | 1-Pentene | 8 | 2,727 |
@@ -7063,13 +6386,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Cyclopentane | 17 | 2,689 |
 | Total Organic Carbons | 3 | 2,669 |
 | methyl cyclopentane | 34 | 2,590 |
-| i-pentane | 10 | 2,493 |
 | decanes | 2 | 2,443 |
-| Crude Oil | 1 | 2,442 |
-| Xylene | 121 | 2,376 |
-| PM (unspeciated) | 13 | 2,236 |
 | Heptene | 5 | 2,236 |
-| Ammonia, anhydrous | 9 | 2,216 |
 | Alkane | 1 | 2,209 |
 | Glycol ethers | 2 | 2,197 |
 | Formaldehyde | 7 | 2,174 |
@@ -7081,27 +6399,24 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon disulfide | 35 | 1,967 |
 | Nonane | 19 | 1,790 |
 | Trimethylbenzene | 4 | 1,687 |
-| Xylene (mixed isomers) | 45 | 1,655 |
 | Vinyl acetate | 5 | 1,623 |
 | p-ethyltoluene | 1 | 1,492 |
 | 2-Butene-trans | 8 | 1,420 |
 | Butene1_Isobutene | 2 | 1,392 |
 | Heptadecene | 2 | 1,353 |
-| Isobutene | 32 | 1,330 |
+| #NAME? | 6 | 1,227 |
 | propylnaphthalene | 2 | 1,208 |
 | Trimethylpentanes | 2 | 1,188 |
 | cyclooctane | 2 | 1,114 |
-| +C5 hydrocarbon | 4 | 1,051 |
+| Vinyl Chloride | 97 | 1,086 |
 | 1,2-Dichloroethane | 3 | 1,049 |
 | 2-methylpentane | 3 | 1,016 |
 | 1, 2, 3, 4-tetramethylbenzene | 1 | 1,000 |
 | Cyclopentadiene | 14 | 979 |
 | tridecene-1 | 2 | 973 |
-| Vinyl Chloride | 91 | 953 |
 | 2-Butene-cis | 9 | 932 |
 | 2,3-dimethyl-2,3-diphenylbutane | 2 | 902 |
 | butenes | 1 | 897 |
-| metaxylene | 4 | 896 |
 | C4 | 1 | 892 |
 | t-Butyl Alcohol | 4 | 891 |
 | Ethyl 3-ethoxypropionate | 5 | 890 |
@@ -7121,15 +6436,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Ethyl chloride | 3 | 698 |
 | Halon 1301 (Bromotrifluoromethane) | 1 | 689 |
 | Catalyst fines | 14 | 654 |
-| PM10 | 45 | 651 |
+| Hydrogen Fluoride | 8 | 653 |
 | Vinyl acetylene | 11 | 643 |
-| Methyl tert-butyl ether | 1 | 643 |
-| NOx (Startup/Shutdown) | 5 | 641 |
-| PM10 Calcium carbonate-CaCO3 | 4 | 635 |
+| MTBE | 1 | 643 |
 | Argon | 3 | 612 |
 | 1,1,1,2-tetrafluoroethane  (HFC- 134a) | 2 | 597 |
-| Xylenes | 17 | 591 |
-| Hydrogen cyanide | 16 | 590 |
 | Acetonitrile | 7 | 580 |
 | Acrolein | 3 | 574 |
 | Dimethylethanolamine | 2 | 571 |
@@ -7141,7 +6452,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C10 Naphthenes | 1 | 515 |
 | Propadiene | 19 | 514 |
 | CARBON BLACK | 1 | 500 |
-| PM10 Cement(Portland) | 1 | 500 |
 | Ethyltoluene | 1 | 497 |
 | 3-methylpentane | 2 | 494 |
 | Orthoxylene | 4 | 476 |
@@ -7151,7 +6461,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Cyclohexylhexadecane | 2 | 438 |
 | Carbonyl sulfide | 24 | 438 |
 | Sulfuric acid | 17 | 431 |
-| paraxylene | 4 | 426 |
 | Methylacetylene | 13 | 411 |
 | 2,3 Dimethylbutane | 5 | 404 |
 | 2,2-DIMETHYLBUTANE | 5 | 364 |
@@ -7160,9 +6469,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | hexene-1 | 1 | 343 |
 | Styrene | 23 | 335 |
 | 1,2,3,4-tetramethylbenzene | 1 | 333 |
-| Hydrogen fluoride | 3 | 319 |
-| Hydrogen fluoride (anhydrous) | 2 | 317 |
-| M-Xylene | 6 | 315 |
 | Paraffins | 1 | 304 |
 | Methylcyclopentane | 12 | 301 |
 | Sulfur trioxide | 1 | 301 |
@@ -7178,8 +6484,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methylcyclohexane | 7 | 263 |
 | Chlorodifluoromethane | 1 | 260 |
 | Tert Butylhydroperoxide | 1 | 253 |
-| Butadiene | 10 | 243 |
-| Other VOCs | 11 | 241 |
 | 2-methyl-Heptane | 2 | 232 |
 | N-Methylpyrrolidone | 1 | 230 |
 | 3-Methylheptane | 2 | 224 |
@@ -7191,26 +6495,19 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Iso-octane | 3 | 218 |
 | 2-methylbutene-1 | 5 | 217 |
 | 2-ETHYL-1-HEXENE | 2 | 214 |
-| Ethyl Benzene | 11 | 211 |
-| Naphthalene | 12 | 206 |
+| Naphthalene | 14 | 212 |
 | VOC (C6+) | 9 | 204 |
 | Nickel | 14 | 204 |
-| N-Hexane | 7 | 202 |
-| Xylene, m- | 18 | 200 |
 | Propylene Glycol | 1 | 200 |
 | Methyl acrylate | 1 | 192 |
 | Glycydyl Methacrylate | 2 | 186 |
 | Parafins | 3 | 185 |
-| Xylene, o- | 18 | 183 |
-| +C6 hydrocarbom | 2 | 176 |
 | Methacrylic Acid | 2 | 176 |
 | Chloroform | 7 | 162 |
 | C6 and Heavier | 1 | 156 |
 | Decanes Plus | 18 | 153 |
-| Xylene, p- | 18 | 144 |
 | Iso-Butyl Acrylate | 3 | 141 |
 | butene-1 | 2 | 135 |
-| Vinyl Chloride Monomer | 1 | 130 |
 | Polyethylene | 1 | 129 |
 | Hydrocarbons | 2 | 126 |
 | Biphenyl | 2 | 124 |
@@ -7222,12 +6519,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-methylbutene-2 | 5 | 116 |
 | Polypropylene glycol ether | 2 | 115 |
 | C4s | 4 | 115 |
-| PM10 Sand | 1 | 107 |
 | 2-Methyl-Pentane | 3 | 106 |
 | Methyl Acetylene | 5 | 106 |
 | C9+ | 2 | 104 |
-| Hexane, i | 1 | 102 |
-| Diesel fuel | 1 | 100 |
+| Diesel | 1 | 100 |
 | Methyl Acrylic Acid | 3 | 99 |
 | Monomethylamine | 1 | 97 |
 | Isobutyl alcohol | 2 | 95 |
@@ -7257,21 +6552,16 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Indene | 3 | 39 |
 | olefins | 2 | 37 |
 | Pentane, 3-methyl- | 4 | 37 |
-| HEPTANE (OR N-) | 2 | 31 |
-| O-Xylene | 3 | 30 |
 | Isoprene | 5 | 28 |
 | 2-Ethyl Hexyl Acrylate | 1 | 27 |
 | Tert Butanol | 1 | 26 |
 | Other Organics | 5 | 25 |
-| P-Xylene | 5 | 24 |
 | 1,2 Butadiene | 2 | 22 |
 | benzene waste | 1 | 20 |
 | tertiary butyl alcohol | 1 | 20 |
 | Kerosene | 1 | 19 |
 | n-propylbenzene | 2 | 19 |
-| Ethene | 1 | 19 |
 | Dimethyl Butanes | 1 | 18 |
-| Hydrofluoric acid | 3 | 18 |
 | Lead | 13 | 17 |
 | Dicyclopentadiene | 3 | 17 |
 | 2,2,4-Trimethylpentane | 7 | 16 |
@@ -7286,7 +6576,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Trans-Butene | 3 | 11 |
 | 2,4-dimethylpentane | 1 | 11 |
 | Cyclododecane | 1 | 11 |
-| Methyl alcohol | 3 | 10 |
 | Acetic acid | 1 | 10 |
 | 2-Methyl-1-butene | 1 | 8 |
 | Indane | 1 | 8 |
@@ -7295,9 +6584,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,3-cyclopentadiene | 1 | 7 |
 | 2,3,4-trimethylpentane | 1 | 7 |
 | cis-1,3-pentadiene | 1 | 7 |
-| Napthalene | 2 | 6 |
 | 1-trans-3-pentadiene | 1 | 6 |
-| Cement Dust | 1 | 5 |
 | 3-methyl-1,3-butadiene | 1 | 5 |
 | Mesitylene | 1 | 5 |
 | Chlorine | 2 | 4 |
@@ -7305,7 +6592,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | cycloheptene | 4 | 4 |
 | CFC 113  (1,1,2 TRICHLOROTRIFLUOROETHANE) | 1 | 4 |
 | Isoheptane | 2 | 4 |
-| VCM | 5 | 3 |
 | Bromoform | 1 | 3 |
 | Mineral Spirit | 2 | 3 |
 | EGME | 1 | 3 |
@@ -7342,7 +6628,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Ethylacetylene | 1 | 0 |
 | Carbon tetrachloride | 1 | 0 |
 | p-hydroxy diisopropylbenzene | 1 | 0 |
-| Mixed Xylene | 1 | 0 |
 | total reduced sulfur | 2 | 0 |
 | Isohexane | 1 | 0 |
 | Trimethylpentane, 2,2,4- | 1 | 0 |
@@ -7353,7 +6638,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Unknown or other oil | 1 | 0 |
 | 2 Methylhexane | 1 | 0 |
 | HAPS (5) | 1 | 0 |
-| Hydrochloric acid | 1 | 0 |
 | Ethanol | 1 | 0 |
 | Maleic Acid Monoethyl Ester | 1 | 0 |
 
@@ -7361,87 +6645,65 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 3193 | 37,383,164 |
+| Sulfur dioxide | 3212 | 37,408,571 |
 | Carbon Monoxide | 3600 | 14,139,528 |
-| CONDENSATE | 4 | 9,536,294 |
+| Condensate | 4 | 9,536,294 |
 | NATURAL GAS | 939 | 5,684,396 |
 | Non-Methane Non-Ethane Natural Gas | 668 | 2,854,044 |
-| Ethylene (gaseous) | 419 | 2,466,148 |
-| Propane | 1014 | 1,912,465 |
-| Nitrogen Oxides (NOx) | 2733 | 1,659,199 |
+| Ethylene | 421 | 2,467,293 |
+| Propane | 1107 | 2,445,542 |
+| VOC | 613 | 1,811,220 |
+| Nitrogen Oxides (NOx) | 2736 | 1,662,556 |
+| Butanes | 1778 | 1,605,393 |
 | Ethane | 86 | 1,363,578 |
-| VOC | 415 | 1,135,346 |
-| Particulate Matter | 224 | 641,776 |
+| Propylene | 431 | 905,596 |
+| Particulate Matter | 296 | 663,500 |
+| Pentanes | 1413 | 663,076 |
 | Hydrogen Sulfide | 3251 | 619,943 |
-| Butanes | 94 | 574,908 |
-| Propylene (Propene) | 232 | 537,712 |
-| Propane, N- | 93 | 533,077 |
-| VOC (unclassified) | 12 | 508,870 |
-| Butane | 282 | 425,401 |
-| Propylene | 189 | 360,203 |
+| Hexanes | 667 | 353,102 |
 | Natural Gas VOCs | 52 | 347,322 |
-| Butane, N- | 561 | 285,197 |
 | VOC (light hydrocarbons) | 333 | 278,455 |
-| Nitrogen oxide | 892 | 277,373 |
+| Nitrogen oxide | 600 | 266,218 |
 | VOC - NONMETHANE | 93 | 250,604 |
 | VOC MIXTURE | 8 | 247,903 |
-| Isobutane | 478 | 235,918 |
 | Methane | 70 | 202,634 |
-| Pentanes | 76 | 187,898 |
-| Pentane | 235 | 174,341 |
 | VOC GAS MIXTURE | 50 | 150,654 |
-| VOCs | 153 | 146,722 |
-| Hexanes | 257 | 143,077 |
-| Hexane | 192 | 134,951 |
 | Hydrogen | 32 | 127,218 |
-| Isopentane | 290 | 127,193 |
-| Pentane, N- | 455 | 106,363 |
-| 1,3-BUTADIENE | 161 | 104,558 |
+| Butadiene | 231 | 112,901 |
 | Benzene | 411 | 93,632 |
-| Butane, i | 296 | 71,433 |
-| pentane, iso- | 297 | 59,439 |
 | Octanes | 30 | 58,255 |
 | Heptanes | 30 | 57,639 |
-| hexanes + | 152 | 55,945 |
 | Nitrogen dioxide | 351 | 49,922 |
+| Heptane | 102 | 45,980 |
 | Natural Gas Liquid (Mixture) | 1 | 45,607 |
 | 1-Butene | 82 | 45,455 |
 | Butenes, All Isomers | 95 | 42,412 |
 | Toluene | 216 | 36,854 |
 | Other | 47 | 30,702 |
 | n-hexane - 110543 | 11 | 26,333 |
-| HEPTANE (OR N-) | 12 | 25,717 |
-| Sulfur dioxide (anhydrous) | 19 | 25,407 |
 | Vinyl acetate | 10 | 21,331 |
-| VOC-unclassified | 6 | 19,222 |
+| Ammonia | 66 | 20,101 |
+| Isobutylene | 108 | 19,313 |
 | Nitrous Oxide | 16 | 18,569 |
-| Heptane (or n-) | 62 | 18,228 |
-| Isobutylene | 80 | 18,179 |
-| Hexane Plus | 28 | 18,031 |
 | Butene | 70 | 18,010 |
-| Ammonia, anhydrous | 13 | 16,520 |
 | Carbon disulfide | 36 | 15,706 |
+| Crude Oil | 5 | 14,783 |
 | Methanol | 15 | 14,554 |
 | CO (Startup/Shutdown) | 1 | 14,052 |
+| Xylenes | 175 | 13,713 |
 | C6+ | 9 | 13,658 |
-| Crude Oil | 3 | 11,428 |
-| PM10 | 37 | 11,335 |
+| Nitrogen monoxide | 292 | 11,155 |
 | Gasoline | 3 | 11,119 |
 | C5+ (not including benzene) | 54 | 11,054 |
 | Paraffins | 2 | 10,434 |
 | Acetylene | 72 | 10,075 |
 | Octane | 80 | 8,596 |
-| n-butane | 41 | 8,590 |
 | Dodecane | 5 | 8,585 |
-| Butadiene, 1-3 | 69 | 8,343 |
+| Ethylbenzene | 158 | 8,368 |
 | Trimethylamine | 2 | 8,200 |
-| Ethylbenzene | 148 | 8,117 |
-| Xylenes | 52 | 7,887 |
 | Acrylonitrile | 20 | 7,874 |
-| Propene | 10 | 7,681 |
-| PM (unspeciated) | 31 | 7,374 |
 | Trans-butene-2 | 8 | 7,262 |
-| Hydrogen cyanide | 25 | 6,860 |
+| Hydrogen Cyanide | 35 | 7,017 |
 | Cyclohexane | 37 | 6,642 |
 | Styrene | 31 | 5,245 |
 | Acetone | 14 | 5,239 |
@@ -7453,11 +6715,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pentenes | 40 | 4,513 |
 | Nitric oxide | 15 | 4,474 |
 | Catalyst fines | 10 | 4,457 |
-| n-pentane | 36 | 4,407 |
 | Magnesium oxide | 2 | 4,400 |
 | Carbon Dioxide | 23 | 4,325 |
 | Trans-2-butene | 112 | 4,129 |
-| i-butane | 26 | 3,947 |
 | Butyraldehyde | 2 | 3,862 |
 | Isoprene | 7 | 3,833 |
 | pentane, 2-methyl | 1 | 3,817 |
@@ -7466,13 +6726,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | butenes | 13 | 3,750 |
 | Ethylene dichloride | 2 | 3,730 |
 | decanes | 3 | 3,701 |
-| i-pentane | 24 | 3,435 |
-| NOx (Startup/Shutdown) | 3 | 3,358 |
-| Crude oil light | 1 | 3,213 |
-| Ammonia | 50 | 3,175 |
 | Natural gasoline | 1 | 3,016 |
-| PM10 Calcium carbonate-CaCO3 | 4 | 3,016 |
-| Xylene | 75 | 2,955 |
 | 4-methyl octane | 1 | 2,783 |
 | Butyl alcohol, tert- | 1 | 2,765 |
 | Difluoroethane | 1 | 2,673 |
@@ -7487,13 +6741,13 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butylene | 17 | 1,810 |
 | Methyl 2 Butene 2- | 2 | 1,762 |
 | Polyethylene | 1 | 1,667 |
-| NITROGEN | 7 | 1,636 |
+| Nitrogen | 7 | 1,636 |
 | Halon 1301 (Bromotrifluoromethane) | 4 | 1,577 |
 | Light Cycle Oil | 1 | 1,505 |
 | t-Butyl Alcohol | 5 | 1,380 |
 | Undecane | 4 | 1,376 |
 | Acetonitrile | 16 | 1,313 |
-| Vinyl Chloride | 10 | 1,302 |
+| Vinyl Chloride | 12 | 1,308 |
 | Propylene Glycol Monomethyl Ether Acetate | 4 | 1,266 |
 | 1,3-Pentadiene | 3 | 1,265 |
 | Alumina Hydrate Dust | 16 | 1,264 |
@@ -7502,27 +6756,19 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | octane+isomers | 3 | 1,196 |
 | Methacrylic Acid | 8 | 1,182 |
 | decane | 53 | 1,179 |
-| Xylene (mixed isomers) | 23 | 1,152 |
-| Ethene | 2 | 1,146 |
 | Pentadiene (CIS), 1, 3- | 2 | 1,142 |
-| Isobutene | 28 | 1,135 |
 | iso butyraldehyde | 2 | 1,124 |
-| Heptane,-n | 23 | 1,091 |
-| +C7 hydrocarbon | 1 | 1,087 |
+| #NAME? | 1 | 1,087 |
 | N-Butyl acrylate | 5 | 1,073 |
 | 1-Pentene | 6 | 1,069 |
 | C13+ | 1 | 1,026 |
 | 2,2,4-Trimethylpentane | 2 | 1,022 |
-| n-Heptane | 5 | 944 |
 | Isoparaffins | 2 | 897 |
-| Hexane, n | 28 | 858 |
 | NMNE Natural Gas | 1 | 792 |
 | Iso-octane | 5 | 790 |
-| M-Xylene | 4 | 785 |
 | Ethylene oxide | 20 | 756 |
 | Cyclopentadiene | 9 | 742 |
 | 4-methylheptane | 1 | 712 |
-| Unspeciated VOCs | 9 | 697 |
 | 2,3- dimethylheptane | 1 | 666 |
 | Propadiene | 9 | 649 |
 | n-nonane | 1 | 615 |
@@ -7538,27 +6784,23 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-Methyl-2-Butene | 6 | 533 |
 | Nonene | 2 | 516 |
 | Methyl Acetylene | 9 | 513 |
+| Hydrogen Chloride | 7 | 513 |
 | Dimethyl ether | 3 | 509 |
 | Perlite | 1 | 500 |
 | Silicon Tetrafluoride | 1 | 500 |
 | Allyl alcohol | 2 | 496 |
 | cis-1,3-pentadiene | 2 | 494 |
-| Hydrogen chloride | 6 | 484 |
 | Cyclopentene | 8 | 483 |
 | Tridecane | 2 | 471 |
 | Chlorine | 6 | 452 |
 | Cresol, m- | 1 | 451 |
 | Xylenol | 1 | 416 |
 | Other (VOCs) | 6 | 413 |
-| Anhydrous ammonia | 3 | 405 |
 | Carbon | 1 | 400 |
 | VOC (C13) | 1 | 390 |
 | 1,4-Butanediol | 1 | 384 |
-| O-Xylene | 4 | 384 |
 | C5 | 1 | 377 |
 | 2-ethyl-6-methyl-benzenamine (aka MEA) | 1 | 370 |
-| Other VOCs | 10 | 353 |
-| P-Xylene | 4 | 351 |
 | Ethylene (liquid) | 5 | 350 |
 | Heavy diesel oil | 1 | 343 |
 | i-Pentane | 5 | 333 |
@@ -7569,16 +6811,14 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | P-Cresol | 1 | 275 |
 | Nonane | 25 | 268 |
 | 2 -methylpentane | 1 | 266 |
-| Naphthalene | 12 | 266 |
+| Naphthalene | 13 | 266 |
 | VOC (C15) | 1 | 265 |
 | Sulfuric acid | 7 | 263 |
 | Pentene (CIS), 2- | 1 | 256 |
 | Acetic acid dimethylamide | 1 | 256 |
-| Ethyl Benzene | 10 | 251 |
 | Isopropanol | 1 | 245 |
 | decene-1 | 1 | 244 |
 | Phenol | 1 | 243 |
-| N-Hexane | 10 | 241 |
 | 1,2-Dichloroethane | 4 | 237 |
 | Aluminum oxide | 1 | 230 |
 | Formaldehyde | 5 | 229 |
@@ -7599,13 +6839,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C11 Paraffins | 1 | 165 |
 | Cyclohexanone | 6 | 163 |
 | Other Organics | 5 | 160 |
-| HCN | 10 | 157 |
 | Vinyl acetylene | 7 | 155 |
 | C9 Aromatics | 1 | 152 |
 | Ethene oxide | 1 | 150 |
 | 1,2 Butadiene | 3 | 148 |
 | Kerosene | 1 | 145 |
-| Crude oil heavy | 1 | 142 |
 | C11 Isoparaffins | 2 | 136 |
 | pentadecane | 1 | 133 |
 | 2-Butoxyethanol | 5 | 131 |
@@ -7638,7 +6876,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-methylindan | 1 | 91 |
 | Calcined Alumina Dust | 25 | 89 |
 | C11 Aromatics | 1 | 89 |
-| Xylene, m- | 2 | 88 |
 | C14 | 2 | 87 |
 | 2-Pentene,(E) | 1 | 81 |
 | C18 | 2 | 79 |
@@ -7653,6 +6890,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C9 Isoparaffins | 1 | 69 |
 | 5-methylindan | 1 | 69 |
 | CARBON BLACK | 3 | 68 |
+| Cumene | 11 | 63 |
 | Oxygen | 1 | 62 |
 | 1,1-cyclopentane | 1 | 62 |
 | Cyclohexanol | 6 | 60 |
@@ -7660,8 +6898,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methyl Pentane | 1 | 59 |
 | Vinylacetylene | 3 | 58 |
 | Pentadiene | 5 | 57 |
-| Xylene, o- | 5 | 57 |
-| Cumene | 10 | 57 |
 | Methylcyclopentadiene | 6 | 54 |
 | olefins | 1 | 54 |
 | trans butene | 3 | 54 |
@@ -7674,7 +6910,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2 methyl pentane | 2 | 44 |
 | C6 | 2 | 44 |
 | methyl cyclohexane | 1 | 44 |
-| Xylene, p- | 5 | 40 |
 | Pentenenitrile | 2 | 39 |
 | 2-Butene-trans | 1 | 39 |
 | C8 Naphthenes | 1 | 38 |
@@ -7697,7 +6932,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | n-octane | 1 | 30 |
 | 3-ethylpentane | 1 | 29 |
 | Nickel | 6 | 29 |
-| Hydrocloric Acid | 1 | 29 |
 | 3-methylhexane | 2 | 29 |
 | C8s | 1 | 28 |
 | 3-Methyl-1-butene | 1 | 28 |
@@ -7739,7 +6973,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Indene | 5 | 15 |
 | ethyl cyclohexane | 1 | 14 |
 | 4-Vinylcyclohexene | 3 | 14 |
-| paraxylene | 1 | 14 |
 | C-2 butene | 1 | 14 |
 | C7 Aromatic | 1 | 13 |
 | 2-methylpentane | 1 | 13 |
@@ -7748,7 +6981,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | c7 olefins | 1 | 12 |
 | Dicyclopentadiene | 5 | 12 |
 | Decenes | 2 | 12 |
-| Volatile Organic Compounds | 8 | 11 |
 | Methyl formate | 1 | 11 |
 | Hydrocarbons | 4 | 11 |
 | 4-methylnonane | 1 | 11 |
@@ -7766,10 +6998,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 3-methylbutene-1 | 2 | 6 |
 | C10 Hydrocarbons | 1 | 6 |
 | Biphenyl | 3 | 6 |
-| Isopropylbenzene | 1 | 6 |
 | Ethylene glycol | 2 | 6 |
 | Aromatics | 1 | 6 |
-| VCM | 1 | 6 |
+| MEK | 2 | 6 |
 | Pseudocumene | 2 | 5 |
 | o-Toluidine | 1 | 5 |
 | 2,3-Dimethylpentane | 1 | 5 |
@@ -7780,7 +7011,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1-hexene | 1 | 4 |
 | Cyclododecane | 2 | 4 |
 | Coke | 1 | 4 |
-| Methyl ethyl ketone (MEK) | 1 | 4 |
 | Cyclo Pentane | 2 | 3 |
 | 2,3-dimethyl-1-butene | 1 | 3 |
 | Methyl Acrylic Acid | 1 | 3 |
@@ -7792,7 +7022,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Cyclooctadiene | 1 | 2 |
 | Trimethylpentane, 2,2,4- | 2 | 2 |
 | 2,2-Dimethylpentane | 1 | 2 |
-| 2-Butanone | 1 | 2 |
 | C4 | 1 | 2 |
 | fire water and smoke | 1 | 2 |
 | neo-pentane | 1 | 2 |
@@ -7812,8 +7041,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | n-butanol | 1 | 1 |
 | Ethyl acetylene | 1 | 1 |
 | Di-Isopropylbenzene | 2 | 1 |
-| Vinyl Chloride Monomer | 1 | 1 |
-| Butadiene | 1 | 0 |
 | Indane | 1 | 0 |
 | GLUTARIC ACID | 1 | 0 |
 | Isoheptane | 1 | 0 |
@@ -7866,7 +7093,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,4 diethylbenzene | 1 | 0 |
 | Adiponitrile | 1 | 0 |
 | Heptanoic Acid | 1 | 0 |
-| Napthalene | 1 | 0 |
 | Methyl napthalene | 1 | 0 |
 | Octanoic Acid | 1 | 0 |
 
@@ -7874,82 +7100,60 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2993 | 48,318,947 |
+| Sulfur dioxide | 3010 | 48,321,610 |
 | Carbon Monoxide | 3348 | 11,973,126 |
 | NATURAL GAS | 1307 | 7,593,071 |
-| VOC | 548 | 3,866,678 |
-| Propane | 1060 | 1,839,158 |
-| Nitrogen Oxides (NOx) | 2879 | 1,811,256 |
+| VOC | 729 | 4,732,417 |
+| Propane | 1116 | 2,159,208 |
+| Nitrogen Oxides (NOx) | 2895 | 1,857,518 |
 | Non-Methane Non-Ethane Natural Gas | 509 | 1,493,625 |
-| Ethylene (gaseous) | 387 | 1,358,592 |
+| Ethylene | 387 | 1,358,592 |
+| Butanes | 1852 | 1,130,124 |
 | VOC GAS MIXTURE | 49 | 954,996 |
-| Hydrogen Sulfide | 2922 | 811,875 |
-| VOC (unclassified) | 28 | 686,002 |
+| Hydrogen Sulfide | 2924 | 811,877 |
+| Particulate Matter | 221 | 645,184 |
 | Natural Gas VOCs | 74 | 622,233 |
-| Particulate Matter | 169 | 597,337 |
-| Propylene (Propene) | 182 | 434,238 |
-| Butane | 343 | 372,067 |
-| Butane, N- | 589 | 359,017 |
-| Propane, N- | 56 | 320,050 |
+| Propylene | 402 | 615,487 |
+| Pentanes | 1471 | 499,336 |
+| Hexanes | 663 | 369,848 |
 | CO (Startup/Shutdown) | 7 | 319,725 |
-| Nitrogen oxide | 504 | 243,694 |
 | VOC - NONMETHANE | 94 | 233,765 |
-| Isobutane | 447 | 184,010 |
-| Propylene | 212 | 179,857 |
-| hexanes + | 219 | 170,546 |
-| Natural Gas Condensate | 4 | 136,231 |
-| Pentane, N- | 465 | 135,362 |
+| Nitrogen oxide | 390 | 209,275 |
+| Condensate | 4 | 136,231 |
 | Catalyst fines | 6 | 133,983 |
 | Ethane | 105 | 132,471 |
-| Pentane | 294 | 128,318 |
-| Hexane | 230 | 128,172 |
 | Crude Oil | 3 | 123,258 |
-| Butane, i | 373 | 116,818 |
 | VOC (C5's) | 3 | 110,591 |
-| Isopentane | 271 | 109,146 |
 | Methane | 95 | 107,674 |
 | Vinyl acetate monomer | 2 | 97,752 |
-| VOCs | 117 | 93,992 |
-| pentane, iso- | 364 | 91,253 |
-| Butanes | 56 | 70,827 |
+| Butadiene | 187 | 66,455 |
 | Benzene | 379 | 65,076 |
-| +C5 hydrocarbon | 10 | 63,057 |
-| NITROGEN | 12 | 57,558 |
+| #NAME? | 11 | 63,060 |
+| Nitrogen | 12 | 57,558 |
 | N-Methyl-2-pyrrolidone | 1 | 54,291 |
-| Volatile Organic Compounds | 16 | 51,176 |
-| 1,3-BUTADIENE | 157 | 51,120 |
-| Hexanes | 154 | 48,639 |
 | Toluene | 217 | 48,500 |
-| NOx (Startup/Shutdown) | 16 | 46,263 |
 | Butenes, All Isomers | 80 | 45,621 |
 | Carbon Dioxide | 22 | 39,455 |
-| Pentanes | 50 | 34,105 |
-| Unspeciated VOCs | 14 | 34,020 |
+| Ammonia | 88 | 35,386 |
+| Nitrogen monoxide | 114 | 34,419 |
 | Nitrogen dioxide | 248 | 29,207 |
-| LPG (liquified petroleum gas) | 1 | 27,465 |
+| LPG | 1 | 27,465 |
 | NMNE Natural Gas | 4 | 25,588 |
-| Anhydrous ammonia | 4 | 24,251 |
 | Butene | 70 | 24,145 |
 | Methyl mercaptan | 7 | 23,656 |
 | Ethylene oxide | 20 | 20,565 |
-| PM10 | 30 | 20,458 |
 | Methanol | 45 | 20,345 |
-| PM (unspeciated) | 10 | 17,938 |
+| Heptane | 109 | 18,644 |
 | Ethanol | 18 | 16,199 |
-| Hydrogen chloride | 7 | 16,042 |
-| Heptane (or n-) | 78 | 15,248 |
-| n-butane | 30 | 14,764 |
-| Hexane Plus | 34 | 14,681 |
-| i-butane | 14 | 12,621 |
-| Butadiene | 4 | 12,545 |
+| Hydrogen Chloride | 9 | 16,047 |
 | Pentenes | 25 | 12,505 |
 | Cyclohexane | 41 | 11,715 |
+| Isobutylene | 108 | 11,676 |
 | C8 Parafins | 4 | 10,882 |
+| Xylenes | 172 | 10,206 |
 | Ethyl acetate | 16 | 9,994 |
-| Ammonia | 77 | 9,977 |
 | Acetaldehyde | 20 | 9,891 |
 | Hydrogen | 41 | 9,611 |
-| Isobutylene | 90 | 8,860 |
 | MTBE | 1 | 8,826 |
 | 1-Butene | 89 | 8,781 |
 | Octane | 100 | 8,153 |
@@ -7957,34 +7161,26 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Acetylene | 75 | 7,664 |
 | Trans-2-butene | 109 | 7,415 |
 | Naphtha | 3 | 7,271 |
-| Xylene | 112 | 7,059 |
-| Hexane, i | 7 | 6,338 |
 | C5s | 4 | 6,245 |
 | Pentene | 22 | 5,992 |
 | alpha methyl styrene | 1 | 5,836 |
 | Cis-butene-2 | 16 | 5,322 |
 | Butylene | 16 | 5,143 |
 | C5+ (not including benzene) | 59 | 5,102 |
-| PM10 Calcium carbonate-CaCO3 | 10 | 4,993 |
 | VOC (light hydrocarbons) | 11 | 4,915 |
 | Hexene | 22 | 4,748 |
 | Iso-octane | 9 | 4,672 |
-| PM10 Sand | 2 | 4,458 |
 | C6+ | 9 | 4,357 |
 | butenes | 6 | 4,342 |
-| Ethylbenzene | 129 | 3,743 |
+| Ethylbenzene | 137 | 3,835 |
 | 2-Methyl-2-Butene | 9 | 3,660 |
 | Cis-2-butene | 114 | 3,459 |
-| Heptane,-n | 25 | 3,183 |
 | Propylene oxide | 7 | 3,007 |
 | Propanol, n- | 2 | 2,998 |
 | Acetic acid | 17 | 2,920 |
-| Isobutene | 18 | 2,816 |
 | VOC MIXTURE | 2 | 2,791 |
-| Butadiene, 1-3 | 26 | 2,791 |
 | Nitrous Oxide | 3 | 2,786 |
 | Heptanes | 15 | 2,768 |
-| Sulfur dioxide (anhydrous) | 17 | 2,663 |
 | Styrene | 29 | 2,633 |
 | Cumene | 7 | 2,602 |
 | 2-Methyl-1-butene | 6 | 2,249 |
@@ -7994,8 +7190,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Cyclopentadiene | 8 | 1,920 |
 | Methyl Acetylene | 16 | 1,913 |
 | Acetonitrile | 13 | 1,711 |
+| Hydrogen Cyanide | 27 | 1,708 |
 | FLY ASH | 2 | 1,645 |
-| Hydrogen cyanide | 26 | 1,643 |
+| Vinyl Chloride | 20 | 1,613 |
 | Propylene Glycol Monomethyl Ether Acetate | 7 | 1,575 |
 | Methyl acetylene propadiene | 4 | 1,556 |
 | Acrylonitrile | 19 | 1,519 |
@@ -8003,21 +7200,16 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Vinyl acetate | 3 | 1,494 |
 | Isoprene | 15 | 1,488 |
 | Sec Butyl Alcohol | 2 | 1,483 |
-| Hexane, n | 15 | 1,454 |
 | C6 and Heavier | 4 | 1,450 |
-| Propene | 8 | 1,392 |
-| Xylenes | 19 | 1,319 |
 | butene-1 | 8 | 1,282 |
 | Acrolein | 23 | 1,239 |
 | Methyl formate | 9 | 1,236 |
 | Gasoline | 2 | 1,188 |
 | Ethene, chlorotrifluoro- | 2 | 1,175 |
 | Methyl Acetate | 1 | 1,173 |
-| Ammonia, anhydrous | 7 | 1,157 |
 | Propadiene | 15 | 1,156 |
 | Formaldehyde | 19 | 1,144 |
 | Methylcyclohexane | 3 | 1,090 |
-| VCM | 3 | 1,031 |
 | 1,2-Dichloroethane | 8 | 1,001 |
 | t-Butyl Alcohol | 6 | 984 |
 | Octene | 6 | 977 |
@@ -8035,7 +7227,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | decane | 92 | 702 |
 | N-Methylpyrrolidone | 1 | 685 |
 | C5 | 4 | 672 |
-| n-pentane | 16 | 671 |
 | Alumina Hydrate Dust | 16 | 636 |
 | Cyclohexanone | 4 | 627 |
 | n-hexane - 110543 | 3 | 597 |
@@ -8044,19 +7235,15 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Cyclohexanol | 4 | 565 |
 | Dimethyl ether | 1 | 552 |
 | Carbon disulfide | 14 | 531 |
-| Xylene (mixed isomers) | 20 | 527 |
 | Hexane, 3-methyl- | 1 | 522 |
 | Silicon Tetrafluoride | 1 | 520 |
 | Cyclopentane | 15 | 491 |
 | 1,4-Dichlorobenzene | 2 | 482 |
-| i-pentane | 11 | 481 |
 | 1-trans-3-pentadiene | 1 | 466 |
 | Trans-butene-2 | 20 | 455 |
 | Sodium hydroxide | 4 | 454 |
-| M-Xylene | 2 | 429 |
 | Hexane, 2-methyl- | 1 | 426 |
 | Pentenenitrile | 1 | 420 |
-| Vinyl Chloride Monomer | 11 | 414 |
 | Trimethylbenzene | 7 | 406 |
 | 2-methyl-butane | 1 | 399 |
 | Methyl chloride | 1 | 398 |
@@ -8073,7 +7260,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Diethyl Carbonate | 1 | 342 |
 | pentane, 2-methyl | 1 | 339 |
 | Gamma-Butyrolactone | 1 | 336 |
-| VOC-unclassified | 3 | 336 |
 | 2-Butene-trans | 18 | 335 |
 | ethylcyclohexane | 1 | 331 |
 | Monoethanolamine | 1 | 321 |
@@ -8091,18 +7277,15 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Dimethylpentane | 1 | 257 |
 | 2, 3 butanedione | 4 | 249 |
 | 2,2-DIMETHYLBUTANE | 4 | 248 |
-| O-Xylene | 2 | 241 |
 | N,N-Dimethylformamide | 1 | 241 |
 | Pentadiene | 3 | 234 |
 | Trimethylcyclopentane | 1 | 224 |
 | Ethyl vinyl  ether | 1 | 218 |
 | Hexenes | 1 | 215 |
-| Other VOCs | 3 | 213 |
 | 2-Butene-cis | 19 | 205 |
 | Mesityl Oxide | 1 | 202 |
 | 1,2,4-Trimethylbenzene | 6 | 200 |
-| Hydrofluoric acid | 3 | 200 |
-| Xylene, m- | 3 | 200 |
+| Hydrogen Fluoride | 3 | 200 |
 | Chlorine | 1 | 200 |
 | Dimethylformamide | 2 | 198 |
 | VOC (C6+) | 12 | 196 |
@@ -8111,36 +7294,30 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Ethylene (liquid) | 3 | 193 |
 | Isooctane | 2 | 192 |
 | Ethylene dichloride | 5 | 189 |
-| P-Xylene | 2 | 188 |
 | Carbonyl sulfide | 15 | 187 |
 | n-pentylbenzene | 1 | 184 |
 | Unknown | 1 | 184 |
 | Trimethylpentane, 2,2,4- | 1 | 180 |
 | C7 Naphthenes | 2 | 177 |
-| Vinyl Chloride | 6 | 168 |
 | TRIOXANE | 5 | 159 |
 | Pentane Plus | 2 | 155 |
 | Propyl Acetate | 1 | 153 |
 | 4-methylnonane | 1 | 146 |
 | C9s | 3 | 144 |
-| Methyl ethyl ketone (MEK) | 3 | 144 |
+| MEK | 3 | 144 |
 | Acrylic acid | 1 | 129 |
 | Polyethylene | 1 | 128 |
 | 1,2,4,5 tetramethylbenzene | 6 | 126 |
 | Halon 1301 (Bromotrifluoromethane) | 1 | 125 |
-| Xylene, o- | 5 | 125 |
 | 3-methylhexane | 2 | 119 |
 | 2,3 Butanedione | 9 | 118 |
 | Butene1_Isobutene | 8 | 111 |
-| HEPTANE (OR N-) | 5 | 110 |
 | Argon | 3 | 103 |
-| n-Heptane | 1 | 103 |
 | C8s | 2 | 102 |
 | undecane | 1 | 98 |
 | C10s | 3 | 95 |
 | C8 Naphthenes | 1 | 94 |
 | Methyl indene | 1 | 94 |
-| Ethyl Benzene | 8 | 93 |
 | Piperylene | 1 | 92 |
 | Benzene, 1,2,3-trimethyl | 1 | 92 |
 | Non Aromatics | 1 | 90 |
@@ -8154,13 +7331,13 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C8 | 1 | 82 |
 | C8 Aromatics | 1 | 82 |
 | Sulfuric acid | 4 | 81 |
+| Naphthalene | 5 | 80 |
 | 1-Butene + Isobutylene | 9 | 77 |
 | CARBON BLACK | 3 | 75 |
 | Ethyltoluene | 4 | 75 |
 | 1-t-Butyl-2-methylbenzene | 1 | 74 |
 | 1-Pentylene | 1 | 73 |
 | Cis-2-butylene | 1 | 73 |
-| Xylene, p- | 3 | 72 |
 | Acetophenone | 1 | 71 |
 | C12 isomers | 1 | 71 |
 | Dicyclopentadiene | 1 | 71 |
@@ -8173,7 +7350,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | trans-2-pentene | 1 | 65 |
 | Butanol | 1 | 65 |
 | Slop oil | 1 | 65 |
-| HCN | 1 | 65 |
 | Cyclopentene | 4 | 63 |
 | Methylpentane | 1 | 62 |
 | Butyraldehyde | 1 | 61 |
@@ -8191,7 +7367,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Lead | 9 | 51 |
 | Tert Butanol | 1 | 51 |
 | Tridecane | 3 | 51 |
-| Napthalene | 1 | 51 |
 | 2,3 Dimethylbutane | 2 | 50 |
 | 2,6-Dimethyldecane | 1 | 50 |
 | C11+ aromatics | 1 | 50 |
@@ -8206,7 +7381,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Vinyl acetylene | 6 | 36 |
 | i-Pentane | 2 | 36 |
 | 1,2,3 trimethylbenzene | 1 | 36 |
-| Diesel (unspeciated) | 1 | 35 |
+| Diesel | 1 | 35 |
 | 3 methyl undecan | 1 | 35 |
 | Decane, 3,7-dimethyl | 1 | 35 |
 | 4 ethyl octane | 1 | 35 |
@@ -8216,7 +7391,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Decane, 3-methyl- | 1 | 31 |
 | Nickel | 8 | 31 |
 | Cyclohexane, 1,4-dimethyl-, trans- | 1 | 30 |
-| Naphthalene | 4 | 29 |
 | C10 Aromatics | 2 | 28 |
 | Cyclohexane, 1-methyl-2-propyl- | 1 | 28 |
 | Tallow (Animal Fats - Fatty Acids) | 1 | 27 |
@@ -8227,8 +7401,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pentadiene (CIS), 1, 3- | 2 | 24 |
 | 1,3-Pentadiene | 2 | 23 |
 | t-2-butene | 1 | 23 |
-| paraxylene | 2 | 22 |
-| metaxylene | 2 | 22 |
 | decanes | 1 | 22 |
 | Indene | 2 | 22 |
 | butyl-benzene | 1 | 22 |
@@ -8236,7 +7408,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Propyleneimine | 1 | 20 |
 | Nonene | 1 | 19 |
 | Carbon tetrachloride | 2 | 18 |
-| N-Hexane | 4 | 18 |
 | cis-2-Pentene | 2 | 18 |
 | n-propanol | 1 | 17 |
 | Oxygen | 3 | 16 |
@@ -8278,7 +7449,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2,4-dimethylpentane | 2 | 6 |
 | 1,4-Pentadiene | 1 | 6 |
 | 2,3,3-trimethyloctane | 1 | 6 |
-| Hydrochloric acid | 2 | 5 |
 | Sodium sulfate (solution) | 1 | 5 |
 | Indan, 4,7-dimethyl | 1 | 5 |
 | C11 Aromatics | 2 | 5 |
@@ -8291,7 +7461,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Propylene Glycol | 1 | 4 |
 | n-propyl benzene | 1 | 4 |
 | 1,1,2-Trichloroethane | 2 | 4 |
-| +C7 hydrocarbon | 1 | 3 |
 | decane-n | 2 | 3 |
 | 1,2-dimethyl-4-ethylbenzene | 2 | 3 |
 | 2-methyl-1,3-butadiene | 1 | 3 |
@@ -8307,7 +7476,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | trans-2-Pentene | 1 | 3 |
 | 1-methylcyclopentene | 1 | 2 |
 | Phenol | 1 | 2 |
-| Dihydrogen Sulfide | 2 | 2 |
 | Phosphoric acid | 1 | 2 |
 | Ethylacetylene | 2 | 2 |
 | 1-methyl-4-ethylbenzene | 1 | 2 |
@@ -8360,129 +7528,100 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2863 | 35,672,464 |
+| Sulfur dioxide | 2867 | 35,685,068 |
 | Carbon Monoxide | 3149 | 8,569,826 |
 | NATURAL GAS | 1001 | 5,699,751 |
 | Non-Methane Non-Ethane Natural Gas | 589 | 3,873,879 |
+| VOC | 664 | 2,602,508 |
+| Propane | 1058 | 2,504,441 |
 | Natural Gas VOCs | 130 | 2,110,134 |
-| Propane | 1016 | 2,034,784 |
-| VOC | 521 | 1,653,835 |
-| Nitrogen Oxides (NOx) | 2643 | 1,649,972 |
-| Ethylene (gaseous) | 385 | 959,520 |
-| Hydrogen Sulfide | 2760 | 731,015 |
+| Nitrogen Oxides (NOx) | 2646 | 1,650,959 |
+| Butanes | 1747 | 1,561,818 |
+| Ethylene | 387 | 959,531 |
+| Hydrogen Sulfide | 2761 | 731,537 |
+| Particulate Matter | 265 | 683,755 |
 | VOC GAS MIXTURE | 19 | 675,748 |
-| Particulate Matter | 214 | 674,813 |
-| Butane, N- | 584 | 665,010 |
-| Propane, N- | 42 | 469,657 |
-| VOCs | 73 | 450,080 |
-| 1,3-BUTADIENE | 177 | 367,416 |
-| Nitrogen oxide | 547 | 332,432 |
-| Propylene (Propene) | 232 | 322,035 |
-| Propylene | 161 | 314,063 |
+| Propylene | 395 | 636,843 |
+| Pentanes | 1396 | 559,262 |
+| Hexanes | 679 | 474,489 |
+| Butadiene | 197 | 372,574 |
+| Nitrogen oxide | 509 | 312,714 |
 | Methane | 101 | 306,467 |
-| Isobutane | 422 | 296,565 |
-| Butane | 301 | 266,277 |
-| Unspeciated VOCs | 19 | 252,297 |
 | Catalyst fines | 7 | 244,112 |
 | Carbon Dioxide | 33 | 223,041 |
-| Butane, i | 326 | 183,255 |
-| Hexane, n | 30 | 173,563 |
-| Pentane, N- | 492 | 156,865 |
-| Pentane | 246 | 156,657 |
-| Volatile Organic Compounds | 7 | 154,822 |
-| Hexane Plus | 34 | 132,084 |
 | Ethane | 112 | 126,264 |
-| Butanes | 53 | 121,232 |
-| pentane, iso- | 353 | 109,657 |
 | Crude Oil | 4 | 99,296 |
-| VOC (unclassified) | 34 | 90,488 |
 | Natural Gas Liquid (Mixture) | 5 | 86,197 |
-| Isopentane | 234 | 77,926 |
 | VOC (light hydrocarbons) | 64 | 72,387 |
 | Nitrous Oxides | 36 | 71,554 |
-| hexanes + | 246 | 66,949 |
 | Benzene | 355 | 64,059 |
 | Toluene | 197 | 63,032 |
+| Hydrogen Cyanide | 48 | 61,948 |
 | Vinyl acetate | 16 | 61,898 |
-| Hexane | 204 | 58,266 |
-| Pentanes | 44 | 57,918 |
-| HCN | 4 | 56,430 |
-| LPG (liquified petroleum gas) | 1 | 55,566 |
+| LPG | 1 | 55,566 |
+| Isobutylene | 145 | 49,824 |
 | VOC - NONMETHANE | 119 | 39,835 |
-| Isobutylene | 104 | 37,048 |
-| Hexanes | 148 | 35,389 |
 | Nitrogen dioxide | 372 | 35,044 |
 | Hydrogen | 61 | 34,932 |
 | Heptanes | 29 | 32,531 |
 | 1-Butene | 100 | 31,829 |
 | Ethylene oxide | 16 | 30,842 |
-| n-butane | 47 | 28,693 |
 | Cyclohexane | 64 | 28,014 |
-| NITROGEN | 10 | 27,311 |
+| Nitrogen | 10 | 27,311 |
 | NMNE Natural Gas | 1 | 26,861 |
-| +C5 hydrocarbon | 8 | 24,805 |
+| #NAME? | 8 | 24,805 |
 | Pentane Plus | 7 | 21,321 |
+| Ammonia | 72 | 20,130 |
+| Nitrogen monoxide | 38 | 19,717 |
+| Xylenes | 165 | 18,596 |
 | Butene | 65 | 15,651 |
 | n-undecane | 4 | 15,473 |
 | C5+ (not including benzene) | 82 | 14,383 |
 | Phenol | 5 | 14,250 |
+| Heptane | 83 | 14,048 |
 | Argon | 12 | 14,044 |
 | VOC (C5's) | 9 | 13,910 |
-| Ethylbenzene | 121 | 13,143 |
+| Ethylbenzene | 127 | 13,545 |
 | alkylphenol | 1 | 12,803 |
 | Methyl Acetate | 7 | 12,711 |
-| Sulfur dioxide (anhydrous) | 4 | 12,604 |
-| Isobutene | 38 | 12,439 |
 | Ethanol | 30 | 11,141 |
-| Ammonia, anhydrous | 9 | 10,672 |
 | Acrylonitrile | 22 | 10,575 |
 | FLY ASH | 1 | 10,000 |
-| Heptane (or n-) | 51 | 9,880 |
 | Trans-2-butene | 117 | 9,729 |
-| Cement (wet or dry) | 1 | 8,000 |
 | Pentene | 19 | 7,904 |
 | Trans-butene-2 | 17 | 7,857 |
-| Xylene | 87 | 7,620 |
 | Naphtha (petroleum), catalytic reformed | 1 | 7,483 |
 | Butenes, All Isomers | 56 | 7,192 |
-| Methanol | 52 | 6,946 |
+| Methanol | 53 | 6,948 |
 | Cis-2-butene | 112 | 6,723 |
-| Hexane, i | 6 | 6,706 |
-| Anhydrous ammonia | 6 | 6,063 |
 | n-hexane - 110543 | 4 | 5,913 |
-| Hydrogen cyanide | 44 | 5,518 |
 | Gasoline | 2 | 5,340 |
 | Cis-butene-2 | 22 | 4,934 |
 | VOC MIXTURE | 1 | 4,386 |
 | Acetylene | 96 | 4,375 |
 | Acetaldehyde | 31 | 4,293 |
 | n-dodecane | 4 | 4,185 |
-| Butadiene | 3 | 4,131 |
 | Acetonitrile | 22 | 4,124 |
 | n-tridecane | 6 | 4,094 |
-| Xylenes | 21 | 3,743 |
+| Vinyl Chloride | 48 | 4,030 |
 | Octanes | 24 | 3,637 |
 | Octane | 70 | 3,473 |
 | Formaldehyde | 28 | 3,421 |
 | Styrene | 27 | 3,418 |
-| VCM | 3 | 3,401 |
-| Ammonia | 57 | 3,395 |
 | Naphtha | 2 | 3,364 |
+| Naphthalene | 15 | 3,328 |
 | R-134A Refrigerant | 1 | 3,310 |
 | 2-Butene-trans | 16 | 3,213 |
 | Light Vacuum Gas Oil (LVGO) Unspeciated | 1 | 3,158 |
 | pentadecane | 3 | 3,053 |
 | Tetradecane | 3 | 3,026 |
-| Xylene (mixed isomers) | 24 | 3,014 |
-| Diesel fuel | 1 | 2,930 |
+| Diesel | 1 | 2,930 |
 | decane | 60 | 2,648 |
 | Nitric oxide | 17 | 2,601 |
 | 2-Butene-cis | 17 | 2,590 |
 | Hexadecane | 2 | 2,587 |
-| Heptane,-n | 16 | 2,577 |
 | 2,3-dimethylbutane | 4 | 2,558 |
 | Pentenes | 14 | 2,477 |
-| Napthalene | 1 | 2,440 |
 | 2-methylpentane | 10 | 2,393 |
 | Hexene | 8 | 2,388 |
 | 1,2,4-Trimethylbenzene | 13 | 2,283 |
@@ -8497,42 +7636,33 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,2-Dichloroethane | 33 | 1,601 |
 | Dimethylpentane | 1 | 1,580 |
 | Polyethylene | 1 | 1,549 |
-| N-Hexane | 11 | 1,533 |
 | 3-methylpentane | 12 | 1,516 |
 | Ethyl acetate | 28 | 1,429 |
 | Nitric acid | 1 | 1,400 |
 | Nonane | 29 | 1,397 |
 | Methyl Acetylene | 8 | 1,344 |
-| HEPTANE (OR N-) | 12 | 1,330 |
+| Hydrogen Fluoride | 4 | 1,292 |
 | Cyclopentane | 18 | 1,277 |
-| Hydrogen fluoride | 3 | 1,266 |
 | Methylcyclohexane | 14 | 1,255 |
 | Methylcyclopentane | 12 | 1,124 |
 | Indene | 1 | 1,055 |
 | n-Tetradecane | 3 | 1,052 |
-| Butadiene, 1-3 | 17 | 1,028 |
 | 1, heptene | 1 | 1,008 |
 | Water (H2O) | 5 | 998 |
-| NOx (Startup/Shutdown) | 3 | 988 |
-| Other VOCs | 9 | 986 |
 | butene-1 | 4 | 984 |
 | Octadecane | 2 | 976 |
 | 3-methylhexane | 10 | 973 |
-| para-xylene | 1 | 964 |
 | butenes | 2 | 925 |
 | p-ethyltoluene | 1 | 899 |
-| Naphthalene | 14 | 887 |
 | Butylene | 7 | 866 |
 | C6+ | 11 | 852 |
 | 2-Methylhexane | 9 | 847 |
 | Vinylacetylene | 1 | 800 |
 | Vinylidene chloride | 1 | 800 |
-| i-butane | 14 | 785 |
 | Propadiene | 17 | 774 |
 | decanes | 3 | 766 |
 | Silicon dioxide (PM) | 3 | 756 |
 | Ethene, chlorotrifluoro- | 2 | 755 |
-| Propene | 2 | 745 |
 | 1,2,3-trimethylbenzene | 3 | 733 |
 | C9s | 1 | 720 |
 | n-Pentadecane | 3 | 713 |
@@ -8544,10 +7674,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Oxygen | 3 | 676 |
 | Other | 20 | 657 |
 | Sulfur trioxide | 2 | 631 |
-| Xylene, m- | 6 | 615 |
 | 1-heptadecene | 1 | 612 |
 | Acrolein | 35 | 608 |
-| O-Xylene | 5 | 604 |
 | Isoamyl Alcohol | 6 | 604 |
 | 1,2,3,4-tetramethylbenzene | 1 | 603 |
 | Propylene Glycol Monomethyl Ether Acetate | 4 | 600 |
@@ -8558,10 +7686,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1-octene | 1 | 576 |
 | Acetone | 9 | 548 |
 | 2-propylnaphthalene | 1 | 546 |
-| Vinyl Chloride | 34 | 543 |
-| meta-xylene | 1 | 540 |
 | 2,2,3 trimethylpentane | 1 | 537 |
-| H2S | 1 | 522 |
 | butenes/butanes | 1 | 519 |
 | cyclooctane | 1 | 504 |
 | n-Hexadecane | 3 | 498 |
@@ -8578,25 +7703,20 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Formic acid | 29 | 431 |
 | Dimethylcyclopentane | 7 | 429 |
 | Trimethylpentanes | 1 | 421 |
-| MTBE | 3 | 417 |
+| Hydrogen Chloride | 6 | 421 |
+| MTBE | 4 | 417 |
 | n-Heptadecane | 3 | 410 |
 | Isoprene | 15 | 409 |
 | 2,3-dimethyl-2,3-diphenylbutane | 1 | 408 |
 | Diphenyl ether | 1 | 406 |
-| M-Xylene | 2 | 404 |
-| Ethyl Benzene | 6 | 402 |
 | 1-methylnaphthalene | 2 | 395 |
-| ortho-xylene | 3 | 392 |
-| Hydrochloric acid | 2 | 387 |
 | antrahecene | 1 | 386 |
 | Carbon disulfide | 21 | 378 |
 | 2-Butene | 2 | 377 |
 | n-Octadecane | 3 | 373 |
 | Dimethyl Disulfide | 1 | 371 |
-| PM10 Sand | 1 | 352 |
 | C8 Parafins | 2 | 349 |
 | 1-cyclohexyltridecane | 1 | 342 |
-| 2-Methyl propene | 3 | 337 |
 | n-Nonadecane | 3 | 326 |
 | 2,2-DIMETHYLBUTANE | 9 | 326 |
 | Ethylbenzene Hydroperoxide | 1 | 321 |
@@ -8606,11 +7726,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Benzene, (2-methylpropyl)- | 1 | 292 |
 | 2,3-Dimethylpentane | 7 | 288 |
 | Methacrylic Acid | 4 | 281 |
-| PM (unspeciated) | 6 | 276 |
 | Chloroform | 8 | 276 |
-| Mixed Xylene | 1 | 270 |
 | trans-2-pentene | 2 | 269 |
-| n-Heptane | 4 | 262 |
 | C-2 butene | 3 | 253 |
 | Dimethyl ether | 1 | 247 |
 | C4 | 1 | 246 |
@@ -8618,15 +7735,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-methyl-Heptane | 1 | 232 |
 | C12s | 1 | 227 |
 | Isohexane | 1 | 226 |
-| n-pentane | 17 | 213 |
-| Xylene, p- | 4 | 212 |
 | Opacity | 4 | 209 |
 | Smoke | 1 | 200 |
 | CO (Startup/Shutdown) | 4 | 200 |
 | fluorospar | 2 | 200 |
 | 1-cyclohexylhexadecane | 1 | 198 |
 | 2,2-Dimethylpropane | 7 | 193 |
-| PM10 Calcium carbonate-CaCO3 | 1 | 192 |
 | 4-methylheptane | 5 | 186 |
 | docasane | 1 | 181 |
 | Lactic Acid | 28 | 181 |
@@ -8636,7 +7750,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methyl indene | 1 | 167 |
 | 3-Methyl-1-butene | 7 | 164 |
 | Biphenyl | 3 | 162 |
-| P-Xylene | 3 | 156 |
 | 2,2-Dimethylpentane | 7 | 154 |
 | cis-2-Pentene | 2 | 149 |
 | C5 Plus | 3 | 146 |
@@ -8655,7 +7768,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butyl acrylate | 2 | 124 |
 | Dimethyl phthalate | 1 | 124 |
 | C7 Parafins | 1 | 123 |
-| PM10 | 41 | 122 |
 | Dimethylcyclohexane | 3 | 118 |
 | Cumene | 7 | 115 |
 | tricosane | 1 | 108 |
@@ -8666,7 +7778,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C8 Aromatics | 1 | 88 |
 | 2-methylheptane | 4 | 87 |
 | butene c-2 | 2 | 86 |
-| Vinyl Chloride Monomer | 11 | 86 |
 | Cyclohexanol | 1 | 85 |
 | Cresol, m- | 4 | 83 |
 | Alumina | 3 | 76 |
@@ -8684,7 +7795,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Triethylene Glycol | 1 | 63 |
 | P-Cresol | 1 | 63 |
 | 3-ethylpentane | 2 | 62 |
-| Xylene, o- | 5 | 61 |
 | 2,4-Dimethylhexane | 4 | 59 |
 | 3-Methylheptane | 4 | 58 |
 | Light Cycle Oil | 2 | 57 |
@@ -8700,7 +7810,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Vinyl acetylene | 5 | 41 |
 | Octene | 3 | 39 |
 | Vinyl cyclohexene | 1 | 35 |
-| Hydrogen chloride | 4 | 34 |
 | Acetophenone | 1 | 31 |
 | Reformate | 1 | 31 |
 | 1 c,2-dimethylcyclopentane | 1 | 30 |
@@ -8709,8 +7818,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Dowtherm G | 1 | 28 |
 | 2,5-Dimethylhexane | 4 | 27 |
 | undecane | 2 | 26 |
-| Hydrofluoric acid | 1 | 26 |
-| i-pentane | 10 | 26 |
 | 1-METHYL-2-PYRROLIDINONE | 1 | 24 |
 | Acrylic acid | 1 | 24 |
 | Dicyclopentadiene | 3 | 23 |
@@ -8736,7 +7843,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1 t,2-dimethylcyclopentane | 1 | 10 |
 | 2,3,3-Trimethylpentane | 3 | 10 |
 | Isobutyl alcohol | 1 | 10 |
-| Ethene | 1 | 10 |
 | 1,2-Diaminocyclohexane | 1 | 10 |
 | 1,1-Dichloroethane | 2 | 10 |
 | 1,2,3,4,5-pentamethylbenzene | 1 | 10 |
@@ -8751,8 +7857,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,2-trans-Dichloroethylene | 2 | 6 |
 | 1 t,3-dimethylcyclopentane | 1 | 6 |
 | 1,2-cis-Dichloroethylene | 2 | 5 |
+| MEK | 2 | 5 |
 | Cyclopropane | 3 | 5 |
-| Methyl ethyl ketone (MEK) | 2 | 5 |
 | Dimethylformamide | 1 | 5 |
 | C7 Naphthenes | 1 | 5 |
 | 2,2,3-trimethylpentane | 1 | 5 |
@@ -8770,7 +7876,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | m-Diethylbenzene | 1 | 3 |
 | i-propylbenzene | 2 | 3 |
 | PAC | 1 | 3 |
-| Methyl alcohol | 1 | 3 |
 | 2-methyl-3-ethylpentane | 3 | 2 |
 | Other material | 2 | 2 |
 | Trans-Butene | 2 | 2 |
@@ -8790,13 +7895,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C8 Naphthenes | 1 | 1 |
 | Butane, 2-methyl | 1 | 1 |
 | C10+ | 1 | 1 |
-| Misc. VOC | 1 | 1 |
 | Decanes Plus | 1 | 1 |
 | Orthoxylene | 1 | 0 |
 | 2,2,3-trimethylbutane | 2 | 0 |
 | Dodecene | 1 | 0 |
 | 1,1,2-Trichloroethane | 1 | 0 |
-| PM2.5 | 1 | 0 |
 | 2,3-Dimethylheptane | 1 | 0 |
 | 3-methyl-3-ethylpentane | 1 | 0 |
 | 2,4,4-trimethylhexane | 1 | 0 |
@@ -8813,18 +7916,14 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | cis-1,trans-2,trans-4-trimethylcyclohexane | 1 | 0 |
 | Chloroprene | 2 | 0 |
 | cis-2-Methyl-2-butenenitrile | 3 | 0 |
-| Ethylene | 1 | 0 |
-| paraxylene | 1 | 0 |
 | 1,2 - Butadiene | 1 | 0 |
 | Ethylacetylene | 1 | 0 |
-| metaxylene | 1 | 0 |
 | 2-Pentene,(E) | 1 | 0 |
 | 1,2-Propadiene | 1 | 0 |
 | Methyl Cyclopropane | 1 | 0 |
 | Dimethyl Acetylene | 1 | 0 |
 | Phthalic anhydride | 1 | 0 |
 | Benzonitrile | 3 | 0 |
-| Methyl tert-butyl ether | 1 | 0 |
 | 2-Methylglutaronitrile | 2 | 0 |
 | Wash Oil | 1 | 0 |
 
@@ -8832,60 +7931,43 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2773 | 27,465,063 |
+| Sulfur dioxide | 2778 | 27,481,880 |
 | Carbon Monoxide | 2920 | 5,650,964 |
 | NATURAL GAS | 718 | 3,346,821 |
-| Propane | 1080 | 2,073,450 |
-| Nitrogen Oxides (NOx) | 2537 | 1,320,372 |
+| Propane | 1128 | 2,196,253 |
+| Butanes | 1762 | 1,344,405 |
+| Nitrogen Oxides (NOx) | 2542 | 1,323,573 |
 | Natural Gas VOCs | 208 | 1,107,772 |
+| VOC | 591 | 1,060,893 |
 | Non-Methane Non-Ethane Natural Gas | 479 | 839,883 |
-| Ethylene (gaseous) | 363 | 722,963 |
-| VOC | 473 | 605,515 |
-| Butane | 286 | 558,604 |
-| Hydrogen Sulfide | 2545 | 428,972 |
-| Butane, N- | 645 | 398,721 |
+| Ethylene | 379 | 724,637 |
+| Pentanes | 1288 | 544,318 |
+| Hydrogen Sulfide | 2551 | 429,678 |
+| Hexanes | 693 | 402,548 |
 | Methane | 62 | 309,469 |
-| Nitrogen oxide | 444 | 254,635 |
-| Pentane | 215 | 221,734 |
-| VOCs | 67 | 217,432 |
-| Hexane | 179 | 216,792 |
-| Isobutane | 393 | 207,323 |
+| Propylene | 374 | 297,134 |
+| Nitrogen oxide | 403 | 252,754 |
 | VOC - NONMETHANE | 118 | 187,551 |
-| Propylene | 191 | 185,164 |
-| Volatile Organic Compounds | 8 | 160,395 |
-| Butanes | 64 | 137,524 |
-| Pentane, N- | 467 | 134,420 |
-| Propane, N- | 48 | 122,803 |
-| Particulate Matter | 182 | 117,851 |
-| Propylene (Propene) | 179 | 111,856 |
+| Particulate Matter | 256 | 155,872 |
 | Benzene | 363 | 107,343 |
-| Hexane Plus | 83 | 102,076 |
-| Isopentane | 158 | 101,712 |
 | Ethylene oxide | 36 | 76,380 |
 | Hydrocarbons | 6 | 74,415 |
 | Ethane | 72 | 74,122 |
 | Hydrogen | 29 | 73,714 |
-| VOC (unclassified) | 12 | 73,445 |
 | 2,2,4-Trimethylpentane | 3 | 70,304 |
 | VOC GAS MIXTURE | 24 | 69,544 |
 | Ethanol | 23 | 53,792 |
-| Pentanes | 51 | 53,641 |
+| Butadiene | 167 | 44,653 |
+| Heptane | 117 | 43,349 |
 | Gasoline Blend Stock | 1 | 42,463 |
 | Crude Oil | 4 | 41,121 |
 | Carbon Dioxide | 17 | 39,786 |
 | Cyclohexane | 110 | 39,349 |
-| Heptane (or n-) | 98 | 38,937 |
-| 1,3-BUTADIENE | 132 | 33,484 |
+| Ammonia | 70 | 36,561 |
 | VOC (light hydrocarbons) | 58 | 33,391 |
 | 2-Methyl-Pentane | 1 | 32,896 |
-| Ammonia, anhydrous | 11 | 31,508 |
-| NITROGEN | 6 | 31,423 |
+| Nitrogen | 6 | 31,423 |
 | Toluene | 214 | 31,171 |
-| Hexanes | 157 | 31,086 |
-| N-Hexane | 5 | 31,082 |
-| Butane, i | 340 | 27,809 |
-| PM10 | 63 | 27,461 |
-| pentane, iso- | 339 | 27,391 |
 | Fuel Oil | 2 | 26,820 |
 | VOC (C5's) | 2 | 25,336 |
 | Octane | 105 | 23,916 |
@@ -8894,57 +7976,46 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pentane Plus | 26 | 20,809 |
 | decane | 87 | 20,366 |
 | Naphtha | 5 | 17,991 |
-| hexanes + | 243 | 17,590 |
-| Sulfur dioxide (anhydrous) | 5 | 16,817 |
 | Acrylic acid | 4 | 16,022 |
 | Methanol | 43 | 15,793 |
 | Quick lime | 1 | 12,000 |
 | Heptanes | 37 | 11,913 |
+| Isobutylene | 115 | 11,490 |
 | Nonane | 78 | 11,105 |
 | Iso-octane | 2 | 11,065 |
-| Butadiene, 1-3 | 30 | 10,798 |
-| PM (unspeciated) | 6 | 10,511 |
-| +C5 hydrocarbon | 5 | 9,799 |
-| n-butane | 28 | 9,776 |
+| #NAME? | 5 | 9,799 |
+| Xylenes | 165 | 9,631 |
 | 1-Butene | 49 | 9,530 |
 | Methyl Acetate | 7 | 8,456 |
 | Nitrous Oxides | 55 | 8,391 |
 | Vinyl acetate | 16 | 7,992 |
 | Trans-2-butene | 71 | 7,957 |
-| Isobutylene | 89 | 7,699 |
+| Ethylbenzene | 143 | 7,734 |
 | Cis-2-butene | 74 | 6,928 |
 | Natural Gas Liquid (Mixture) | 1 | 6,913 |
 | C5+ (not including benzene) | 69 | 6,756 |
 | Chlorodifluoromethane | 2 | 6,385 |
 | Water (H2O) | 2 | 6,020 |
-| Xylene | 99 | 5,950 |
 | 1,1,1,2-tetrafluoroethane  (HFC- 134a) | 1 | 5,285 |
 | 2-Methyl-2-Butene | 4 | 5,277 |
 | Catalyst fines | 1 | 5,255 |
-| Hydrogen cyanide | 35 | 5,157 |
+| Hydrogen Cyanide | 38 | 5,230 |
 | Acetaldehyde | 24 | 5,064 |
 | Pentene | 19 | 5,012 |
-| i-butane | 6 | 4,647 |
 | Formaldehyde | 23 | 4,610 |
 | Acetic acid | 25 | 4,536 |
-| Ammonia | 55 | 4,414 |
-| n-pentane | 50 | 4,234 |
-| Ethyl Benzene | 13 | 4,193 |
 | Dimethylformamide | 5 | 4,136 |
 | HCFC-22 | 1 | 4,050 |
 | Decanes Plus | 4 | 3,970 |
-| Isobutene | 26 | 3,791 |
-| Ethylbenzene | 130 | 3,541 |
 | Pentenes | 24 | 3,454 |
 | butenes | 8 | 3,418 |
 | 1-Butene + Isobutylene | 14 | 3,338 |
 | C6+ | 11 | 3,273 |
-| NOx (Startup/Shutdown) | 5 | 3,200 |
-| Hydrofluoric acid | 2 | 3,186 |
+| Hydrogen Fluoride | 2 | 3,186 |
 | Flare Gas | 7 | 3,160 |
 | Hexene | 11 | 3,120 |
 | Methylpentane | 2 | 3,018 |
-| CONDENSATE | 1 | 3,007 |
+| Condensate | 1 | 3,007 |
 | Acetylene | 63 | 2,993 |
 | Acetic anhydride | 1 | 2,751 |
 | N-Butyl acrylate | 3 | 2,718 |
@@ -8953,24 +8024,18 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | distillate oil residue | 1 | 2,508 |
 | NMNE Natural Gas | 1 | 2,490 |
 | Octanes | 24 | 2,473 |
-| HEPTANE (OR N-) | 7 | 2,456 |
 | Ethyl acetate | 21 | 2,421 |
-| VOC-unclassified | 1 | 2,384 |
 | Butenes, All Isomers | 36 | 2,327 |
 | CO (Startup/Shutdown) | 1 | 2,248 |
 | C6 and Heavier | 1 | 2,209 |
-| Hexane, n | 25 | 2,142 |
 | Diesel #2 | 1 | 1,963 |
+| Nitrogen monoxide | 41 | 1,881 |
 | t-Butyl Alcohol | 5 | 1,781 |
-| Hexane, i | 1 | 1,779 |
 | Methylcyclohexane | 15 | 1,754 |
 | Propylene oxide | 12 | 1,722 |
-| Ethylene | 16 | 1,674 |
-| n-Heptane | 9 | 1,635 |
 | Nitric oxide | 13 | 1,627 |
 | n-octane | 4 | 1,622 |
 | n-Decane | 5 | 1,602 |
-| Xylene (mixed isomers) | 38 | 1,598 |
 | i-Pentane | 34 | 1,586 |
 | Butyl alcohol, tert- | 1 | 1,557 |
 | n-undecane | 4 | 1,505 |
@@ -8978,23 +8043,19 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Acrylonitrile | 16 | 1,439 |
 | tert-butyl alcohol | 1 | 1,400 |
 | HPV HYDROGEN SULFIDE | 1 | 1,383 |
-| Unspeciated VOCs | 13 | 1,325 |
 | 2-Butene-trans | 29 | 1,322 |
 | Gas Oil | 2 | 1,321 |
 | Formic acid | 23 | 1,296 |
 | Methylcyclopentane | 17 | 1,254 |
 | 1-Pentene | 7 | 1,192 |
-| i-pentane | 8 | 1,187 |
 | C7 Parafins | 7 | 1,180 |
 | Other (VOCs) | 5 | 1,178 |
-| Xylenes | 16 | 1,135 |
 | Acrolein | 25 | 1,104 |
 | Methyl Acetylene | 8 | 1,029 |
 | Butene1_Isobutene | 17 | 1,001 |
 | Isohexane | 6 | 991 |
 | Cyclopentane | 15 | 934 |
 | Acetone | 10 | 933 |
-| P-Xylene | 3 | 913 |
 | Tetrahydrofuran | 1 | 891 |
 | Isoamyl Alcohol | 5 | 884 |
 | Other Organics | 1 | 870 |
@@ -9003,15 +8064,14 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C8 Parafins | 7 | 778 |
 | Isopar H - Heavy Naphtha | 1 | 728 |
 | ethylcyclohexane | 2 | 709 |
-| H2S | 4 | 706 |
 | 2-Butene-cis | 24 | 665 |
 | 2,3-dimethylbutane | 4 | 647 |
 | Dimethylcyclopentane | 5 | 647 |
-| Anhydrous ammonia | 4 | 639 |
 | Lactic Acid | 21 | 602 |
 | Sodium hydroxide | 1 | 599 |
 | C5 | 5 | 552 |
 | Dimethyl ether | 6 | 549 |
+| Vinyl Chloride | 21 | 542 |
 | 2-methylpentane | 6 | 534 |
 | 1,2-Dichloroethane | 5 | 477 |
 | Isopar E | 1 | 469 |
@@ -9023,18 +8083,14 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | petroleum distilate | 1 | 412 |
 | Methyl acrylate | 3 | 402 |
 | 3-methylhexane | 4 | 399 |
-| Other VOCs | 17 | 396 |
 | Opacity | 6 | 396 |
 | n-Tetradecane | 6 | 372 |
-| Butadiene | 5 | 371 |
 | 2 Methylhexane | 1 | 361 |
 | Sulfuric acid | 4 | 350 |
 | Halon 1301 (Bromotrifluoromethane) | 2 | 340 |
 | Nitrous Oxide | 2 | 327 |
-| Heptane,-n | 3 | 321 |
 | Propylene Glycol Monomethyl Ether Acetate | 3 | 307 |
 | undecane | 2 | 307 |
-| Vinyl Chloride | 12 | 297 |
 | 1,4-Dichlorobenzene | 1 | 296 |
 | Cyclopentadiene | 6 | 296 |
 | Acetonitrile | 10 | 280 |
@@ -9048,7 +8104,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methyl formate | 5 | 236 |
 | 2,2-DIMETHYLBUTANE | 5 | 230 |
 | Butylene | 7 | 227 |
-| VCM | 4 | 218 |
 | Argon | 6 | 217 |
 | Octane, n- | 2 | 214 |
 | Other | 13 | 204 |
@@ -9073,7 +8128,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Aldehydes | 1 | 119 |
 | 3-Methyl-1-butene | 3 | 118 |
 | 2,2-Dimethylpropane | 1 | 117 |
-| Propene | 4 | 115 |
 | Propanol, n- | 1 | 107 |
 | Cyclo Pentane | 6 | 104 |
 | Propadiene | 12 | 101 |
@@ -9093,7 +8147,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | decanes | 1 | 75 |
 | Cyclohexanone | 5 | 74 |
 | Therminol 59 | 1 | 74 |
-| HCN | 3 | 73 |
 | Allyl alcohol | 5 | 72 |
 | Isopropanol | 3 | 69 |
 | Chloroform | 8 | 68 |
@@ -9125,21 +8178,17 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pentene (CIS), 2- | 1 | 30 |
 | Iso-Butyl Acrylate | 2 | 30 |
 | Butyl acetate, tert- | 1 | 30 |
-| metaxylene | 1 | 27 |
-| Vinyl Chloride Monomer | 5 | 27 |
 | Biphenyl | 2 | 25 |
-| PM10 Cement(Portland) | 2 | 25 |
 | Vinyl acetate monomer | 1 | 25 |
 | Other C5's + | 1 | 24 |
 | Cyclohexanol | 5 | 23 |
 | Glycydyl Methacrylate | 2 | 23 |
+| MEK | 4 | 22 |
 | n-Butyl propionate | 1 | 21 |
 | Acetophenone | 5 | 21 |
 | 2,3 Dimethylbutane | 3 | 20 |
-| Cement (wet or dry) | 1 | 20 |
 | c-pentene-2 | 1 | 20 |
 | Dodecane | 2 | 18 |
-| Methyl ethyl ketone | 2 | 18 |
 | 2-Butoxyethanol | 1 | 18 |
 | Vinyl acetylene | 7 | 17 |
 | butyne-2 | 1 | 16 |
@@ -9154,9 +8203,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methyl methacrylate | 1 | 10 |
 | 1,3-Pentadiene | 4 | 9 |
 | C11+ Paraffins | 1 | 9 |
+| Hydrogen Chloride | 5 | 9 |
 | Orthoxylene | 1 | 9 |
 | t-butene-2 | 1 | 9 |
-| Hydrogen chloride | 3 | 9 |
 | 1,2,4 Trimethylbenzene | 1 | 8 |
 | Nickel | 2 | 8 |
 | Ethene, chlorotrifluoro- | 1 | 8 |
@@ -9174,9 +8223,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2,2-Dimethylpentane | 2 | 5 |
 | Cyclopentene | 1 | 5 |
 | t-hexene-2 | 1 | 5 |
-| Mixed Xylene | 1 | 5 |
 | Isoprene | 5 | 5 |
-| PM2.5 | 2 | 5 |
 | Butanol | 2 | 5 |
 | Tert Butanol | 2 | 4 |
 | 2-methylpentene-1 | 1 | 4 |
@@ -9197,7 +8244,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Oxygen | 1 | 2 |
 | t-pentene | 1 | 2 |
 | t-hexene-3 | 1 | 2 |
-| Methyl ethyl ketone (MEK) | 1 | 2 |
 | c-hexene-2 | 1 | 2 |
 | 2 EthylHexanol | 1 | 2 |
 | Pentenenitrile | 7 | 2 |
@@ -9207,11 +8253,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | hexene-1 | 1 | 2 |
 | Tert Butylhydroperoxide | 1 | 2 |
 | Ethene oxide | 1 | 2 |
-| M-Xylene | 1 | 2 |
-| O-Xylene | 5 | 2 |
+| Cumene | 3 | 2 |
 | c-pentene | 1 | 1 |
-| Cumene | 2 | 1 |
-| MEK | 1 | 1 |
 | Vinylacetylene | 1 | 1 |
 | butene-1 | 1 | 1 |
 | Ethyltoluene | 1 | 1 |
@@ -9225,7 +8268,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butoxypolyglycol | 1 | 1 |
 | 1-Butyne | 2 | 1 |
 | CFC 113  (1,1,2 TRICHLOROTRIFLUOROETHANE) | 1 | 1 |
-| Xylene, o- | 1 | 1 |
 | Ethyl acetylene | 1 | 1 |
 | C6 | 1 | 0 |
 | Nonadecane | 1 | 0 |
@@ -9236,8 +8278,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C4 | 1 | 0 |
 | butene c-2 | 1 | 0 |
 | total reduced sulfur | 3 | 0 |
-| Hydrochloric acid | 2 | 0 |
-| Isopropylbenzene | 1 | 0 |
 | Ethylacetylene | 1 | 0 |
 | isopentene | 1 | 0 |
 | Heptadecene | 1 | 0 |
@@ -9253,7 +8293,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Octadecane | 1 | 0 |
 | 1,2-cis-Dichloroethylene | 1 | 0 |
 | neo-pentane | 1 | 0 |
-| Dihydrogen Sulfide | 2 | 0 |
 | 2-Methylglutaronitrile | 3 | 0 |
 | 1,3,5-trimethylbenzene | 4 | 0 |
 | 1,1,2-Trichloroethane | 1 | 0 |
@@ -9274,77 +8313,57 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 3108 | 24,068,792 |
+| Sulfur dioxide | 3125 | 24,165,571 |
 | Carbon Monoxide | 3346 | 10,007,814 |
 | NATURAL GAS | 794 | 4,993,765 |
 | Methane | 67 | 4,402,741 |
-| Propane | 1231 | 2,641,367 |
-| Nitrogen Oxides (NOx) | 2949 | 2,291,166 |
+| Propane | 1252 | 3,325,540 |
+| Nitrogen Oxides (NOx) | 2962 | 2,297,782 |
+| Butanes | 2048 | 1,921,366 |
 | Non-Methane Non-Ethane Natural Gas | 639 | 1,255,502 |
-| Ethylene (gaseous) | 425 | 936,390 |
-| Butane | 277 | 781,943 |
+| Pentanes | 1464 | 1,039,057 |
+| Ethylene | 504 | 1,009,407 |
+| VOC | 816 | 924,785 |
 | Natural Gas VOCs | 248 | 772,749 |
-| Propane, N- | 21 | 684,173 |
-| VOC | 650 | 619,950 |
-| Butane, N- | 774 | 548,242 |
+| Hexanes | 794 | 590,166 |
 | Carbon Dioxide | 38 | 449,068 |
-| Pentane | 215 | 382,872 |
-| Particulate Matter | 233 | 357,461 |
-| Hydrogen Sulfide | 2887 | 338,602 |
-| Isopentane | 221 | 334,276 |
-| Nitrogen oxide | 448 | 329,690 |
-| Ammonia | 122 | 327,751 |
-| Hexane | 210 | 287,217 |
-| Propylene (Propene) | 233 | 273,663 |
+| Particulate Matter | 330 | 416,210 |
+| Ammonia | 133 | 349,501 |
+| Hydrogen Sulfide | 2922 | 339,600 |
+| Propylene | 491 | 336,799 |
+| Nitrogen oxide | 429 | 329,561 |
+| Xylenes | 214 | 248,815 |
 | VOC (C7+) | 1 | 242,245 |
 | Toluene | 232 | 222,840 |
-| Isobutane | 479 | 218,200 |
 | Methanol | 31 | 188,619 |
 | Ethane | 90 | 184,698 |
 | 2,3-dimethylbutane | 6 | 180,467 |
-| Butane, i | 405 | 174,006 |
-| Butanes | 69 | 168,916 |
-| hexanes + | 227 | 143,555 |
-| NITROGEN | 9 | 129,025 |
-| pentane, iso- | 376 | 119,197 |
+| Nitrogen | 9 | 129,025 |
 | Crude Oil | 5 | 114,224 |
-| Hexanes | 178 | 113,942 |
-| P-Xylene | 28 | 113,384 |
-| Pentane, N- | 531 | 112,067 |
 | 1,3,5-trimethylbenzene | 7 | 101,698 |
 | 1,2,4-trimethyl-5-ethyl benzene | 4 | 100,122 |
-| Unspeciated VOCs | 18 | 100,017 |
 | Cyclopentane | 20 | 98,508 |
-| Sulfur dioxide (anhydrous) | 17 | 96,778 |
 | Cyclohexane | 143 | 96,131 |
 | Octane | 102 | 90,297 |
 | 2-methylpentane | 10 | 90,091 |
-| Pentanes | 32 | 83,279 |
-| VOCs | 83 | 81,363 |
+| Heptane | 153 | 86,148 |
+| Butadiene | 256 | 84,951 |
 | Natural Gas Liquid (Mixture) | 3 | 79,753 |
-| M-Xylene | 9 | 75,882 |
 | 2-pentene | 4 | 74,906 |
 | 2,3-Dimethylpentane | 7 | 71,693 |
-| Ethylene | 77 | 71,510 |
 | 3,3,4-trimethylhexane | 4 | 69,467 |
 | 2,2,4-Trimethylpentane | 9 | 66,644 |
 | Benzene | 448 | 66,495 |
 | Methylcyclopentane | 19 | 60,344 |
 | Methylcyclohexane | 35 | 59,962 |
-| Heptane (or n-) | 106 | 59,844 |
-| Propylene | 251 | 57,994 |
 | Hydrogen | 29 | 55,159 |
+| Ethylbenzene | 130 | 54,772 |
 | 1,2,4-Trimethylbenzene | 13 | 53,204 |
-| Ethyl Benzene | 22 | 51,061 |
 | Other (VOCs) | 6 | 49,451 |
-| Cumene | 16 | 48,467 |
-| Volatile Organic Compounds | 6 | 48,348 |
-| 1,3-BUTADIENE | 200 | 47,718 |
+| Cumene | 17 | 48,496 |
 | VOC - NONMETHANE | 97 | 47,140 |
 | Cyclopentene | 10 | 46,736 |
 | 2,2-Dimethylpentane | 7 | 43,510 |
-| VOC-unclassified | 7 | 43,173 |
-| PM (unspeciated) | 23 | 43,111 |
 | 2-methylbutene-2 | 8 | 42,569 |
 | 2-methylheptane | 4 | 38,318 |
 | Butene | 73 | 36,347 |
@@ -9353,45 +8372,32 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C8s | 2 | 32,534 |
 | 2-Methylhexane | 7 | 30,965 |
 | Pentene | 37 | 30,834 |
-| Butadiene | 16 | 30,469 |
 | VOC GAS MIXTURE | 14 | 28,492 |
 | C5+ (not including benzene) | 75 | 28,098 |
-| O-Xylene | 11 | 27,710 |
-| n-butane | 41 | 27,350 |
 | Vinyl acetate | 9 | 27,235 |
 | 2,3,3-Trimethylpentane | 2 | 27,223 |
 | Methyl indene | 1 | 26,382 |
 | C9s | 3 | 23,445 |
-| Heptane,-n | 19 | 21,819 |
 | 2,3,4-trimethylpentane | 1 | 21,590 |
-| Hexane, n | 21 | 20,989 |
-| VOC (unclassified) | 7 | 19,840 |
+| Isobutylene | 133 | 21,407 |
 | C5s | 1 | 19,347 |
 | C7s | 2 | 19,109 |
 | C6s | 6 | 19,089 |
-| Hexane Plus | 142 | 17,221 |
-| Anhydrous ammonia | 4 | 16,721 |
 | n-tridecane | 6 | 14,709 |
 | C12s | 6 | 13,561 |
 | Nitric oxide | 10 | 13,220 |
 | Cis-2-butene | 164 | 12,414 |
 | 1-Butene | 67 | 12,314 |
-| Isobutene | 67 | 12,260 |
-| Mixed Xylene | 2 | 12,190 |
-| Other VOCs | 45 | 12,093 |
 | Gasoline | 1 | 12,012 |
-| Xylene (mixed isomers) | 40 | 11,748 |
+| Naphthalene | 26 | 10,881 |
 | Naphtha | 9 | 10,741 |
 | Heavy Olefins | 11 | 10,526 |
+| Vinyl Chloride | 32 | 10,362 |
 | n-undecane | 4 | 10,361 |
 | Trans-2-butene | 186 | 10,172 |
-| Naphthalene | 13 | 9,573 |
 | Freon 22 (Chlorodifluoromethane) | 1 | 9,502 |
-| Isobutylene | 65 | 9,098 |
 | C10s | 2 | 9,020 |
-| VCM | 9 | 8,815 |
 | n-Decane | 5 | 8,606 |
-| PM10 | 67 | 8,446 |
 | C5+ | 3 | 8,311 |
 | Nitrous Oxides | 14 | 8,268 |
 | Ethanol | 11 | 8,174 |
@@ -9399,35 +8405,27 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | n-nonane | 6 | 8,075 |
 | Acetylene | 99 | 7,891 |
 | Nonane | 71 | 7,603 |
+| Hydrogen Chloride | 14 | 7,153 |
 | VOC (light hydrocarbons) | 53 | 7,148 |
-| PM2.5 | 5 | 6,823 |
 | Methylpentane | 2 | 6,803 |
-| Butadiene, 1-3 | 40 | 6,764 |
 | 3-methylpentane | 4 | 6,724 |
-| n-pentane | 84 | 6,693 |
 | Methyl Acetate | 6 | 6,678 |
-| NOx (Startup/Shutdown) | 13 | 6,616 |
-| N-Hexane | 13 | 6,510 |
 | n-Pentadecane | 5 | 6,491 |
 | 3-methylhexane | 3 | 6,395 |
-| Methyl tert-butyl ether | 1 | 6,139 |
+| MTBE | 1 | 6,139 |
 | Sulfuric acid | 8 | 5,991 |
 | Tetrahydrofuran | 1 | 5,521 |
 | decane | 58 | 5,473 |
-| Hydrogen chloride | 8 | 5,381 |
-| Propene | 7 | 5,142 |
 | Organic Mineral Spirits | 4 | 5,037 |
-| Ammonia, anhydrous | 7 | 5,029 |
 | Butenes, All Isomers | 48 | 5,001 |
 | C5 Plus | 13 | 4,875 |
 | Trichlorobenzene, 1,2,4- | 2 | 4,816 |
 | Hexene | 25 | 4,758 |
 | Hexamethylenediamine | 4 | 4,699 |
-| Hydrogen cyanide | 34 | 4,686 |
+| Hydrogen Cyanide | 36 | 4,690 |
 | Propylene oxide | 11 | 4,516 |
 | C6 | 6 | 3,837 |
 | Perlite | 1 | 3,750 |
-| Ethylbenzene | 108 | 3,711 |
 | C6+ | 16 | 3,574 |
 | C12+ hydrocarbons | 1 | 3,450 |
 | C11s | 3 | 3,449 |
@@ -9435,17 +8433,14 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Acetone | 14 | 3,377 |
 | Methyl acrylate | 4 | 3,253 |
 | Chlorotrifluoroethylene (CTFE) | 1 | 3,171 |
-| Methyl ethyl ketone | 1 | 3,164 |
-| n-Heptane | 15 | 3,158 |
+| MEK | 1 | 3,164 |
 | Nonene | 7 | 3,082 |
 | i-Pentane | 50 | 3,051 |
 | 2-Ethylhexanol | 3 | 3,024 |
 | 1-phenylnaphthalene | 2 | 2,978 |
-| Xylene | 101 | 2,822 |
 | Ethylene oxide | 26 | 2,791 |
 | 2-Methyl-2-Butene | 9 | 2,781 |
 | n-Hexadecane | 4 | 2,759 |
-| i-butane | 3 | 2,709 |
 | Heptanes/C7 Hydrocarbons | 12 | 2,643 |
 | trans-2-hexene | 1 | 2,634 |
 | 2-methylnaphthylene | 1 | 2,594 |
@@ -9454,7 +8449,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Trans-butene-2 | 21 | 2,506 |
 | Heptanes | 15 | 2,436 |
 | Hexane, 3-methyl- | 2 | 2,266 |
-| +C5 hydrocarbon | 7 | 2,218 |
+| #NAME? | 7 | 2,218 |
 | Ethyl acrylate | 2 | 2,120 |
 | Butyraldehyde | 3 | 2,112 |
 | 2,4-Dichlorophenol | 2 | 2,109 |
@@ -9465,24 +8460,17 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | FLY ASH | 1 | 2,000 |
 | Dimethylcyclopentane | 14 | 1,923 |
 | Acetic acid | 17 | 1,871 |
-| Xylene, m- | 3 | 1,826 |
 | Cumene hydroperoxide | 2 | 1,813 |
-| Hydrochloric acid | 6 | 1,772 |
 | VOC MIXTURE | 13 | 1,729 |
 | Octane, n- | 3 | 1,699 |
 | C12s+ | 1 | 1,658 |
-| Xylene, p- | 5 | 1,656 |
 | Ammonium Hydroxide, liquid | 1 | 1,550 |
-| Ethene | 2 | 1,508 |
 | 2,2,3-trimethylpentane | 2 | 1,506 |
 | Ethylene dichloride | 9 | 1,451 |
-| Vinyl Chloride | 16 | 1,409 |
 | n-Eicosane | 2 | 1,407 |
 | Trimethylpentane, 2,2,4- | 2 | 1,376 |
 | decane-n | 3 | 1,337 |
 | Argon | 8 | 1,334 |
-| HEPTANE (OR N-) | 13 | 1,327 |
-| Napthalene | 13 | 1,309 |
 | Trimethylbenzene | 3 | 1,272 |
 | n-Tetradecane | 5 | 1,239 |
 | Calcium hydroxide | 1 | 1,200 |
@@ -9490,14 +8478,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isoprene | 18 | 1,128 |
 | 2-Methyl-1-butene | 9 | 1,116 |
 | Pentenes | 19 | 1,109 |
-| Xylene, o- | 5 | 1,104 |
 | p-ethyltoluene | 1 | 1,077 |
 | Methyl Acetylene | 18 | 1,032 |
 | Acetaldehyde | 12 | 1,025 |
 | Acetonitrile | 6 | 1,024 |
 | butenes | 14 | 1,010 |
 | Carbon disulfide | 34 | 1,008 |
-| H2S | 35 | 999 |
 | Flare Gas | 7 | 997 |
 | Hexenes | 5 | 969 |
 | n-Heptadecane | 4 | 933 |
@@ -9507,7 +8493,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | hexamethylenetetramine | 1 | 819 |
 | Dimethyl ether | 9 | 804 |
 | Propanol, n- | 3 | 784 |
-| Hexane, i | 3 | 732 |
 | Hexanes (any isomer) | 1 | 728 |
 | Water (H2O) | 7 | 703 |
 | 1-Butene + Isobutylene | 53 | 696 |
@@ -9515,7 +8500,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,2,3,4-tetramethylbenzene | 1 | 687 |
 | C9 - C11 hydrocarbons | 1 | 684 |
 | Carbonyl sulfide | 31 | 676 |
-| i-pentane | 5 | 673 |
 | 2- Ethyl hexanal | 1 | 673 |
 | Acrylic acid | 9 | 666 |
 | Lube oil | 1 | 650 |
@@ -9546,6 +8530,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C8 Aromatics | 4 | 386 |
 | 2-Ethylhexanal | 2 | 373 |
 | C5 | 5 | 366 |
+| Hydrogen Fluoride | 13 | 362 |
 | n-octane | 6 | 329 |
 | 2-(2-Aminoethoxy) Ethanol | 1 | 325 |
 | n-Octadecane | 4 | 322 |
@@ -9557,17 +8542,13 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,4-Dichlorobenzene | 1 | 263 |
 | Bromine | 1 | 261 |
 | Mineral Spirit | 3 | 259 |
-| Hydrogen fluoride | 2 | 245 |
 | 2,3-dimethyl-2-diphenylbutane | 1 | 244 |
 | 2-Butene-cis | 9 | 241 |
 | C6 Parafins | 4 | 240 |
-| metaxylene | 1 | 223 |
 | NMNE Natural Gas | 1 | 223 |
 | sec-butanol | 1 | 219 |
 | Heptene | 6 | 203 |
-| PM10 Cement(Portland) | 1 | 200 |
 | Indene | 5 | 190 |
-| Xylenes | 8 | 190 |
 | Butanol | 5 | 187 |
 | Dicamba | 1 | 185 |
 | Octanes/C8 Hydrocarbons | 3 | 184 |
@@ -9576,7 +8557,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Acetate | 1 | 177 |
 | Opacity | 4 | 173 |
 | Henicosanes/C21+ Hydrocarbons | 1 | 170 |
-| PM10 Wood dust (nonallergenic) | 1 | 168 |
 | 1,4-Butanediol | 1 | 168 |
 | Isooctane | 1 | 164 |
 | methyl isoamyl ketone | 1 | 164 |
@@ -9587,20 +8567,19 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isoamyl Alcohol | 1 | 151 |
 | Biphenyl | 2 | 148 |
 | Acenaphthene | 1 | 138 |
-| Vinyl Chloride Monomer | 7 | 138 |
 | 1-cyclohexyltridecane | 1 | 136 |
 | C7 Parafins | 4 | 136 |
 | ethylcyclohexane | 5 | 135 |
 | 2-Pentene,(E) | 2 | 131 |
 | Alumina (Boehmite) | 1 | 131 |
 | Nonanes/C9 Hydrocarbons | 3 | 130 |
+| Nitrogen monoxide | 19 | 129 |
 | n-Nonadecane | 4 | 128 |
 | 1,2-butadiene | 7 | 126 |
 | N-Butyl acrylate | 1 | 125 |
 | Chlorine | 4 | 124 |
 | Isobutyraldehyde | 1 | 118 |
 | Orthoxylene | 1 | 118 |
-| Hydrofluoric acid | 11 | 117 |
 | undecane | 2 | 117 |
 | C4s | 1 | 109 |
 | Ethanethiol | 1 | 105 |
@@ -9613,7 +8592,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Fluorene | 1 | 86 |
 | 1,3-methylethylbenzene | 2 | 84 |
 | Formic acid | 8 | 79 |
-| paraxylene | 1 | 78 |
 | Phenanthrene | 2 | 75 |
 | trans-2-pentene | 2 | 73 |
 | F039 | 1 | 72 |
@@ -9638,7 +8616,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Furfural | 1 | 50 |
 | methyl cyclopentane | 1 | 50 |
 | n-hexane - 110543 | 1 | 50 |
-| 2-Methyl propene | 1 | 49 |
 | N-Butyl acetate | 1 | 47 |
 | Iso-Butyl Acrylate | 1 | 46 |
 | Naphthenes | 2 | 44 |
@@ -9666,7 +8643,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pentene (CIS), 2- | 1 | 30 |
 | 2-methylnonane | 2 | 30 |
 | Dodecanes/C12 Hydrocarbons | 1 | 29 |
-| Isopropylbenzene | 1 | 29 |
 | Isohexane | 1 | 28 |
 | Hexadecanes/C16 Hydrocarbons | 1 | 25 |
 | Lead | 8 | 25 |
@@ -9737,7 +8713,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Aromatic hydrocarbon | 1 | 4 |
 | Solvent Refined Heavy Naphtha | 1 | 4 |
 | Propionaldehyde | 2 | 4 |
-| HCN | 2 | 4 |
 | Glycydyl Methacrylate | 1 | 4 |
 | Dodecene | 1 | 4 |
 | 1,2 Butadiene | 5 | 4 |
@@ -9811,120 +8786,86 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Contaminant | Releases | POUNDS |
 |---|---|---|
 | Carbon Dioxide | 128 | 122,881,493 |
-| Sulfur dioxide | 3462 | 21,544,393 |
+| Sulfur dioxide | 3474 | 21,689,868 |
 | Carbon Monoxide | 3613 | 10,879,771 |
 | NATURAL GAS | 1121 | 7,541,294 |
 | Methane | 94 | 6,828,678 |
-| Propane | 1420 | 3,890,114 |
-| Nitrogen Oxides (NOx) | 3270 | 2,499,370 |
+| Propane | 1442 | 4,152,650 |
+| Butanes | 2174 | 2,647,919 |
+| Nitrogen Oxides (NOx) | 3277 | 2,501,279 |
+| VOC | 597 | 2,375,698 |
+| Ethylene | 436 | 1,354,934 |
+| Pentanes | 1689 | 1,186,173 |
 | Natural Gas VOCs | 306 | 1,135,536 |
 | Natural Gas Liquid (Mixture) | 3 | 1,127,937 |
 | Ethane | 92 | 1,098,864 |
-| VOC | 416 | 1,006,711 |
-| Ethylene (gaseous) | 333 | 992,473 |
-| Nitrogen oxide | 572 | 818,017 |
+| Hexanes | 928 | 996,113 |
 | Non-Methane Non-Ethane Natural Gas | 744 | 796,556 |
-| Hexane | 350 | 679,533 |
-| Butane, N- | 733 | 670,492 |
-| Butanes | 123 | 620,470 |
-| Unspeciated VOCs | 16 | 602,239 |
-| VOCs | 106 | 578,862 |
-| Isobutane | 346 | 506,304 |
-| Butane | 400 | 497,171 |
-| Hydrogen Sulfide | 3236 | 436,142 |
-| Pentane, N- | 571 | 430,938 |
-| NITROGEN | 16 | 418,131 |
+| Nitrogen oxide | 550 | 788,604 |
+| Hydrogen Sulfide | 3276 | 436,775 |
+| Nitrogen | 16 | 418,131 |
 | Hydrogen | 17 | 376,928 |
-| Ethylene | 102 | 362,461 |
-| Pentane | 357 | 335,550 |
-| Propane, N- | 22 | 262,536 |
+| Propylene | 432 | 288,769 |
 | VOC GAS MIXTURE | 32 | 238,138 |
-| n-butane | 60 | 172,237 |
-| Propylene | 259 | 147,621 |
-| Pentanes | 63 | 145,673 |
-| Sulfur dioxide (anhydrous) | 12 | 145,474 |
-| Isopentane | 177 | 142,254 |
-| Propylene (Propene) | 170 | 140,690 |
-| Volatile Organic Compounds | 19 | 130,179 |
-| Hexane Plus | 18 | 122,969 |
-| Butane, i | 506 | 120,201 |
-| Cumene | 10 | 116,214 |
-| Crude oil light | 10 | 113,264 |
+| Crude Oil | 12 | 131,595 |
+| Cumene | 13 | 116,282 |
 | Styrene | 27 | 105,516 |
 | Nitrogen dioxide | 321 | 105,370 |
+| Butadiene | 266 | 95,868 |
 | VOC - NONMETHANE | 126 | 95,476 |
-| pentane, iso- | 464 | 92,968 |
-| Hexane, n | 16 | 83,835 |
-| 1,3-BUTADIENE | 215 | 79,371 |
+| Heptane | 247 | 84,940 |
+| Particulate Matter | 286 | 84,534 |
 | Ethylene oxide | 30 | 77,310 |
-| Particulate Matter | 167 | 76,720 |
 | Benzene | 531 | 75,209 |
-| i-butane | 6 | 61,044 |
 | Ethanol | 6 | 59,416 |
-| hexanes + | 302 | 55,886 |
 | Octane | 180 | 44,911 |
-| Hexanes | 207 | 42,456 |
 | Toluene | 300 | 40,747 |
-| n-pentane | 52 | 38,715 |
-| Heptane,-n | 43 | 34,006 |
-| Ammonia | 61 | 32,327 |
-| VOC (unclassified) | 23 | 31,046 |
+| Ammonia | 78 | 36,276 |
 | Nonane | 150 | 30,596 |
 | i-Pentane | 2 | 30,067 |
 | Butenes, All Isomers | 67 | 29,529 |
+| Nitrogen monoxide | 22 | 29,413 |
 | Ethylene (liquid) | 2 | 29,137 |
-| Heptane (or n-) | 140 | 29,058 |
-| VOC-unclassified | 8 | 26,476 |
 | Oxygen | 5 | 23,464 |
 | Cyclohexane | 178 | 22,876 |
+| Xylenes | 254 | 21,885 |
 | Methylcyclohexane | 67 | 21,222 |
 | Heptanes | 59 | 21,149 |
 | Methanol | 37 | 19,096 |
 | Butene | 52 | 18,767 |
 | Hexanes (any isomer) | 4 | 17,365 |
 | HPV PARTICULATE MATTER < 2.5 UM | 3 | 15,461 |
-| n-Heptane | 40 | 15,438 |
 | C5+ (not including benzene) | 71 | 15,072 |
+| Isobutylene | 101 | 13,875 |
 | Furfural | 1 | 13,806 |
 | VOC MIXTURE | 2 | 13,193 |
 | Kermac Solvent | 1 | 12,558 |
 | Octanes | 17 | 11,656 |
-| N-Hexane | 35 | 11,435 |
-| +C5 hydrocarbon | 5 | 10,775 |
+| #NAME? | 5 | 10,775 |
 | decane | 127 | 10,584 |
-| Crude Oil | 1 | 10,058 |
 | Dimethylcyclopentane | 45 | 9,961 |
-| Isobutene | 35 | 9,026 |
-| Butadiene | 3 | 8,960 |
 | t-Butyl Alcohol | 8 | 8,898 |
 | Chlorodifluoromethane | 1 | 8,570 |
-| Crude oil heavy | 1 | 8,273 |
 | 1-Butene | 68 | 8,127 |
-| M-Xylene | 3 | 7,538 |
-| Butadiene, 1-3 | 48 | 7,537 |
 | Sulfur oxides | 3 | 7,362 |
 | decanes | 4 | 7,016 |
 | 2-Butene-trans | 10 | 6,969 |
 | Heptanes/C7 Hydrocarbons | 31 | 6,840 |
-| HEPTANE (OR N-) | 24 | 6,438 |
 | Pentenes | 16 | 5,836 |
 | VOC (light hydrocarbons) | 32 | 5,825 |
 | Acetylene | 73 | 5,791 |
 | C6+ | 16 | 5,305 |
-| PM (unspeciated) | 40 | 5,282 |
 | 1,2-Dichloroethane | 3 | 5,195 |
 | Vinyl acetate | 6 | 5,137 |
 | Alkylates | 1 | 5,099 |
 | Butyraldehyde | 4 | 4,913 |
-| Isobutylene | 66 | 4,849 |
+| Ethylbenzene | 151 | 4,623 |
 | Potassium hydroxide | 1 | 4,603 |
 | Cyclopentane | 23 | 4,534 |
 | Ethane, 1,1,1,2-tetrafluoro | 1 | 4,280 |
 | Trans-2-butene | 129 | 4,055 |
-| O-Xylene | 11 | 3,956 |
 | Pentene | 31 | 3,925 |
 | Cis-2-butene | 95 | 3,842 |
-| Xylene | 168 | 3,645 |
 | Other | 11 | 3,555 |
 | Cyclopentadiene | 17 | 3,555 |
 | 2-methylpentane | 5 | 3,520 |
@@ -9933,18 +8874,14 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Jet (Unspeciated) | 1 | 3,218 |
 | 2-Butene-cis | 7 | 3,166 |
 | Sulfuric acid | 8 | 3,026 |
-| Ethylbenzene | 137 | 2,904 |
 | 2,4,4-trimethylhexane | 1 | 2,880 |
-| Anhydrous ammonia | 9 | 2,823 |
 | 2-methyloctane | 2 | 2,801 |
 | 3-methylpentane | 1 | 2,769 |
 | Hydrocarbons | 1 | 2,719 |
 | Tert Butylhydroperoxide | 5 | 2,468 |
-| Xylene (mixed isomers) | 30 | 2,423 |
 | p-ethyltoluene | 1 | 2,018 |
 | 2-Methyl-2-Butene | 21 | 1,920 |
 | Nonanes/C9 Hydrocarbons | 10 | 1,911 |
-| NOx (Startup/Shutdown) | 7 | 1,909 |
 | 2-Methylhexane | 1 | 1,884 |
 | Acetic acid | 15 | 1,843 |
 | C8s | 2 | 1,821 |
@@ -9952,13 +8889,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Hexamethylenediamine | 5 | 1,748 |
 | 1-hexene | 7 | 1,736 |
 | Isoprene | 26 | 1,723 |
-| Ethyl Benzene | 14 | 1,719 |
-| PM10 | 71 | 1,647 |
 | 2,2-Dimethylpentane | 1 | 1,647 |
-| Xylene, m- | 5 | 1,581 |
+| Gasoline | 2 | 1,603 |
 | butenes | 7 | 1,556 |
 | 1-Butene + Isobutylene | 23 | 1,522 |
-| Gasoline | 1 | 1,427 |
 | Pentadiene | 7 | 1,407 |
 | Dicyclopentadiene | 2 | 1,407 |
 | C9s | 2 | 1,334 |
@@ -9972,20 +8906,17 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon | 2 | 1,186 |
 | Nonanes | 10 | 1,179 |
 | 1-Cyclopentyloctane | 1 | 1,131 |
-| Ammonia, anhydrous | 8 | 1,126 |
-| Xylenes | 22 | 1,052 |
 | C7s | 2 | 1,029 |
 | Hexene | 13 | 1,020 |
 | Ethyltoluenes | 1 | 1,004 |
 | Vinyl acetylene | 8 | 994 |
-| LPG (liquified petroleum gas) | 1 | 977 |
+| LPG | 1 | 977 |
+| Hydrogen Fluoride | 5 | 963 |
 | Propanol, n- | 1 | 953 |
-| Hydrogen fluoride | 1 | 945 |
 | C15 | 1 | 934 |
 | Decanes Plus | 4 | 905 |
 | 2-Propylnapthalene | 1 | 898 |
 | Methylcyclopentane | 3 | 895 |
-| P-Xylene | 6 | 891 |
 | Trimethylpentane, 2,2,4- | 3 | 875 |
 | Propylene Glycol Monomethyl Ether Acetate | 2 | 856 |
 | Naphtha | 7 | 852 |
@@ -9996,17 +8927,15 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1-heptadecene | 1 | 801 |
 | Isoheptane | 1 | 775 |
 | Methyl Acetate | 5 | 775 |
-| Xylene, o- | 5 | 769 |
 | 1-methylnaphthalene | 2 | 751 |
 | C14 | 3 | 739 |
 | C13 | 1 | 736 |
 | Argon | 11 | 708 |
 | C5+ | 13 | 651 |
 | Lead | 9 | 642 |
-| H2S | 38 | 632 |
 | 2-Methyl-1-butene | 22 | 631 |
 | Methylpentane | 10 | 604 |
-| Cement (wet or dry) | 2 | 600 |
+| Vinyl Chloride | 12 | 600 |
 | Ammonium Hydroxide, liquid | 1 | 564 |
 | Pentane Plus | 3 | 552 |
 | C11 Hydrocarbons | 1 | 547 |
@@ -10020,17 +8949,17 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1-METHYL-1-BUTENE | 1 | 463 |
 | Vinylidene chloride | 1 | 460 |
 | 2,3-dimethyl-2-diphenylbutane | 1 | 457 |
-| Propene | 3 | 457 |
 | C6s | 2 | 451 |
+| Hydrogen Cyanide | 12 | 448 |
 | Hexenes | 1 | 442 |
 | VOC Gas Mixture | 1 | 437 |
 | 1,2,4-Trimethylbenzene | 10 | 434 |
-| Hydrogen cyanide | 11 | 421 |
 | Vinyl acetate monomer | 1 | 400 |
 | Calcium hydroxide | 1 | 400 |
 | Methyl Acetylene | 6 | 389 |
 | Butene1_Isobutene | 41 | 386 |
 | 2 methyl pentane | 3 | 383 |
+| Naphthalene | 14 | 382 |
 | 2-methylbutene-2 | 1 | 368 |
 | Propylene oxide | 12 | 367 |
 | 2 methylbutane | 2 | 346 |
@@ -10038,13 +8967,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Dipropylene Glycol | 3 | 339 |
 | Butyl alcohol, tert- | 4 | 335 |
 | Isobutyraldehyde | 2 | 332 |
-| Vinyl Chloride | 4 | 328 |
 | Cyclopentene | 18 | 321 |
 | Carbon disulfide | 10 | 320 |
 | 1,3,5-trimethylbenzene | 4 | 317 |
 | 2 methyl heptane | 2 | 316 |
 | 3 methyl hexane | 2 | 312 |
-| Naphthalene | 13 | 299 |
 | Acetonitrile | 8 | 292 |
 | 2-hydroxy isobutyric acid methyl ester | 2 | 286 |
 | butenes/butanes | 1 | 281 |
@@ -10068,14 +8995,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Cis-butene-2 | 50 | 200 |
 | Phenol | 5 | 195 |
 | Ethyl acrylate | 3 | 194 |
-| PM10 Sand | 1 | 194 |
-| Vinyl Chloride Monomer | 4 | 193 |
 | Propadiene | 9 | 192 |
-| Other VOCs | 9 | 185 |
 | Trans-butene-2 | 8 | 183 |
 | Methyl Acrylic Acid | 1 | 183 |
 | Hypochlorous Acid | 2 | 181 |
-| GASOLINE, AUTOMOTIVE OR AVIATION | 1 | 176 |
 | Ethyl 3-ethoxypropionate | 2 | 175 |
 | 2 methyl octane | 2 | 174 |
 | Nitrous Oxides | 2 | 172 |
@@ -10120,13 +9043,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Monopropylene Glycol | 4 | 87 |
 | 2,2,3-trimethylpentane | 1 | 86 |
 | ethyl toluene | 1 | 85 |
-| Napthalene | 1 | 83 |
 | C5 | 3 | 82 |
 | trans-2-pentene | 6 | 80 |
-| PM2.5 | 4 | 79 |
-| VCM | 4 | 79 |
 | 2,2,5-trimethylhexane | 2 | 77 |
-| i-pentane | 5 | 75 |
 | Methylacetylene | 5 | 75 |
 | n-Decane | 1 | 69 |
 | C-2 butene | 4 | 68 |
@@ -10149,7 +9068,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C12s | 3 | 50 |
 | Diluent Oil | 1 | 49 |
 | 2 methyl decane | 2 | 48 |
-| Isopropyl Benzene | 2 | 44 |
 | Other material | 12 | 41 |
 | FLY ASH | 2 | 40 |
 | C6 | 3 | 39 |
@@ -10160,33 +9078,29 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2, 5-dimethylhexane | 1 | 33 |
 | Cadmium | 2 | 32 |
 | Water (H2O) | 3 | 32 |
+| MEK | 8 | 31 |
 | Indene | 3 | 29 |
 | 2,3-dimethylhexane | 2 | 29 |
 | cycloheptene | 1 | 28 |
 | n-undecane | 1 | 28 |
 | Indane | 1 | 28 |
 | 1,2 Butadiene | 3 | 27 |
-| HCN | 1 | 27 |
 | Isobutanol | 2 | 26 |
 | 2,4-dimethylpentane | 1 | 24 |
 | Nitric acid | 1 | 24 |
-| Isopropylbenzene | 1 | 24 |
 | Nickel | 7 | 23 |
 | Cresol(s) (mixed isomers) | 3 | 23 |
 | Pentenenitrile | 6 | 21 |
 | 1,4-Pentadiene | 4 | 20 |
-| Xylene, p- | 2 | 20 |
 | 2,4-Dimethylhexane | 1 | 19 |
 | VOC (C4's) | 4 | 19 |
 | 1-N-decylnaphthalene | 1 | 19 |
 | VOC (C5's) | 4 | 18 |
 | Anhydrous Ammonia | 2 | 18 |
-| Hydrofluoric acid | 4 | 18 |
 | Mixture of Crude Butadiene and Nitrogen | 1 | 18 |
 | Methyl isobutyl carbinol | 1 | 18 |
 | C15s | 2 | 18 |
 | Acrolein | 8 | 17 |
-| Methyl ethyl ketone | 4 | 17 |
 | CARBON BLACK | 1 | 17 |
 | C14s | 1 | 17 |
 | diethylbenzene | 1 | 17 |
@@ -10196,12 +9110,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-methylnaphthalene | 1 | 15 |
 | Hexamethyleneimine | 3 | 15 |
 | Heptene | 1 | 14 |
-| Methyl ethyl ketone (MEK) | 4 | 13 |
 | Tert-Butyl Formate | 1 | 13 |
 | Ethyl chloride | 3 | 13 |
 | Terpenes | 1 | 13 |
 | alpha methyl styrene | 1 | 12 |
-| PM10 Aluminum oxide- Al203 | 1 | 12 |
 | 1-HEXYNE | 1 | 12 |
 | Acrylonitrile | 4 | 12 |
 | Cis-Butene | 2 | 11 |
@@ -10224,8 +9136,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Dimethyl Disulfide | 1 | 7 |
 | C6-C8 Non Aromatics | 1 | 7 |
 | Benzene, butyl- | 2 | 7 |
-| metaxylene | 1 | 6 |
-| Hydrogen chloride | 1 | 6 |
+| Hydrogen Chloride | 1 | 6 |
 | C17 | 3 | 6 |
 | Formaldehyde | 9 | 6 |
 | 1,3-diethylbenzene | 1 | 6 |
@@ -10245,12 +9156,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Adiponitrile | 3 | 4 |
 | 3 methylpentane | 1 | 4 |
 | Trans-Pentene | 1 | 4 |
-| paraxylene | 1 | 4 |
 | Nonene | 3 | 4 |
 | Allyl alcohol | 1 | 4 |
 | undecane | 1 | 3 |
 | TRPENTADIENE13 | 8 | 3 |
 | isobutyl tert-butyl ether | 1 | 3 |
+| MTBE | 3 | 3 |
 | Dodecane | 1 | 2 |
 | 1,2-diethylbenzene | 1 | 2 |
 | Acetophenone | 1 | 2 |
@@ -10260,11 +9171,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | trans-1,3-pentadiene | 5 | 2 |
 | cis-1,3-pentadiene + 2,2-dimethylbutane | 5 | 2 |
 | Acenaphthene | 1 | 2 |
-| Methyl tert-butyl ether | 2 | 2 |
 | Maleic anhydride | 1 | 2 |
 | Pseudocumene | 2 | 2 |
 | Ethyl mercaptan | 1 | 2 |
-| Dihydrogen Sulfide | 2 | 2 |
 | Fluorene | 1 | 2 |
 | 1,2 - Butadiene | 1 | 1 |
 | 2-hexene | 2 | 1 |
@@ -10279,7 +9188,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Cyclopropane | 3 | 1 |
 | Limonene, D- | 1 | 1 |
 | Chloroform | 2 | 1 |
-| MTBE | 1 | 1 |
 | Ethylbutene | 1 | 1 |
 | Nitrobenzene | 1 | 1 |
 | Lactic Acid | 1 | 1 |
@@ -10332,7 +9240,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | propylnaphthalene | 1 | 0 |
 | Dimethyl phthalate | 1 | 0 |
 | n-Eicosane | 1 | 0 |
-| Ethene | 1 | 0 |
 | C4s | 1 | 0 |
 | Dimethylethanolamine | 1 | 0 |
 | Cyclohexylamine | 1 | 0 |
@@ -10343,111 +9250,78 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Contaminant | Releases | POUNDS |
 |---|---|---|
 | Carbon Dioxide | 61 | 71,584,243 |
-| Sulfur dioxide | 3499 | 36,202,619 |
+| Sulfur dioxide | 3503 | 36,203,888 |
 | Carbon Monoxide | 3874 | 23,723,611 |
-| Particulate Matter | 163 | 8,699,171 |
+| Particulate Matter | 285 | 9,155,008 |
 | NATURAL GAS | 1013 | 8,687,165 |
 | Non-Methane Non-Ethane Natural Gas | 823 | 4,256,872 |
-| Nitrogen Oxides (NOx) | 3468 | 3,562,361 |
-| Nitrogen oxide | 357 | 2,926,690 |
-| Propane | 1498 | 2,757,677 |
+| Nitrogen Oxides (NOx) | 3476 | 3,570,532 |
+| Nitrogen oxide | 330 | 2,924,726 |
+| Propane | 1563 | 2,865,193 |
 | Methane | 115 | 2,306,295 |
 | Natural Gas VOCs | 312 | 1,958,951 |
-| Ethylene (gaseous) | 277 | 1,556,099 |
-| Xylene | 300 | 1,049,467 |
+| Butanes | 2182 | 1,892,484 |
+| Ethylene | 450 | 1,675,000 |
+| Xylenes | 432 | 1,062,442 |
 | Nitrogen dioxide | 223 | 940,440 |
+| VOC | 678 | 915,823 |
+| Pentanes | 1584 | 898,368 |
 | Toluene | 518 | 823,686 |
-| Hydrogen Sulfide | 3405 | 820,781 |
+| Hydrogen Sulfide | 3441 | 822,267 |
 | n-hexane - 110543 | 10 | 792,280 |
 | Benzene | 721 | 778,194 |
-| Butane | 581 | 711,525 |
 | Distillates (petroleum), alkylate | 5 | 575,753 |
-| Butane, N- | 590 | 537,461 |
 | Ethane | 111 | 514,281 |
 | C4+ | 6 | 458,335 |
-| Ethyl Benzene | 31 | 401,512 |
+| Ethylbenzene | 298 | 404,175 |
 | Dicyclopentadiene | 17 | 392,081 |
-| Cumene | 9 | 381,875 |
-| VOC | 347 | 367,177 |
-| Naphthalene | 18 | 357,233 |
-| Pentane | 355 | 328,230 |
-| Butanes | 188 | 324,318 |
-| 1,3-BUTADIENE | 238 | 316,244 |
+| Propylene | 377 | 389,251 |
+| Naphthalene | 22 | 382,495 |
+| Cumene | 10 | 381,889 |
+| Butadiene | 292 | 354,640 |
+| Hexanes | 967 | 341,642 |
 | VOC - NONMETHANE | 56 | 304,070 |
-| PM (unspeciated) | 35 | 241,419 |
-| Pentane, N- | 496 | 200,982 |
-| Propylene (Propene) | 137 | 200,721 |
-| Volatile Organic Compounds | 131 | 192,510 |
-| Propylene | 236 | 187,747 |
-| PM2.5 | 25 | 183,843 |
-| Pentanes | 169 | 173,531 |
-| Hexane | 440 | 167,942 |
-| VOCs | 66 | 165,023 |
-| VOC (unclassified) | 77 | 138,740 |
-| Ethylene | 171 | 118,899 |
-| NITROGEN | 22 | 118,375 |
-| Isobutane | 349 | 117,847 |
-| Propane, N- | 65 | 107,515 |
-| pentane, iso- | 403 | 101,210 |
-| Butane, i | 407 | 97,576 |
+| Nitrogen | 22 | 118,375 |
 | NMNE Natural Gas | 15 | 90,824 |
-| n-butane | 47 | 76,701 |
-| hexanes + | 231 | 75,662 |
-| Hexanes | 253 | 74,880 |
-| Isopentane | 115 | 74,098 |
 | Trans-2-butene | 140 | 70,515 |
 | 1-Butene | 58 | 63,337 |
 | Cis-2-butene | 168 | 50,871 |
 | Butenes, All Isomers | 66 | 50,365 |
 | VOC GAS MIXTURE | 34 | 47,274 |
+| Heptane | 284 | 43,525 |
 | Hydrogen | 11 | 41,224 |
 | Alcohols | 3 | 41,049 |
 | Ethylene oxide | 20 | 34,849 |
-| Butadiene, 1-3 | 47 | 33,801 |
 | Heptanes | 62 | 33,567 |
 | C5+ | 113 | 30,441 |
-| i-butane | 20 | 27,055 |
-| Heptane (or n-) | 145 | 26,353 |
-| Napthalene | 4 | 25,262 |
+| Isobutylene | 98 | 25,119 |
 | Pentenes | 21 | 24,877 |
-| VOC-unclassified | 6 | 24,824 |
 | CO (Startup/Shutdown) | 7 | 24,573 |
 | Cyclohexane | 262 | 23,223 |
 | VOC MIXTURE | 9 | 21,724 |
-| PM10 | 59 | 21,674 |
-| Isobutylene | 76 | 21,428 |
+| Ammonia | 70 | 20,840 |
 | N-Methylpyrrolidone | 1 | 20,120 |
 | C5s | 17 | 19,674 |
 | Hexanes (any isomer) | 31 | 18,823 |
 | Pentene | 35 | 18,623 |
 | Nitrous Oxides | 6 | 18,221 |
-| n-pentane | 36 | 18,103 |
 | 1-METHYL-2-PYRROLIDINONE | 1 | 16,787 |
-| Unspeciated VOCs | 20 | 16,577 |
 | Octane | 234 | 16,103 |
 | Pyrolysis Gasoline | 3 | 15,323 |
 | Non_MethaneEthane Natural Gas | 3 | 15,299 |
 | C5+ (not including benzene) | 47 | 14,953 |
 | Cyclopentadiene | 22 | 14,155 |
-| Ammonia, anhydrous | 7 | 12,932 |
 | C6s | 23 | 12,363 |
 | C6 (not including benzene) | 1 | 12,044 |
 | butyl chloride | 1 | 11,473 |
 | C9s | 13 | 11,367 |
-| Hexane Plus | 18 | 11,286 |
-| Other VOCs | 31 | 10,970 |
 | Acetaldehyde | 22 | 10,929 |
 | VOC (light hydrocarbons) | 30 | 10,761 |
-| N-Hexane | 15 | 10,707 |
 | Acetylene | 91 | 10,604 |
 | C7s | 14 | 10,582 |
-| Methanol | 34 | 10,156 |
+| Methanol | 35 | 10,282 |
 | i-Pentane | 7 | 9,787 |
 | Ammonium hydroxide | 1 | 9,302 |
-| HEPTANE (OR N-) | 84 | 8,853 |
-| NOx (Startup/Shutdown) | 8 | 8,170 |
-| PM10 Cement(Portland) | 1 | 8,000 |
-| Ammonia | 61 | 7,669 |
 | Butene | 46 | 7,486 |
 | Water (H2O) | 5 | 7,218 |
 | Nonane | 198 | 6,756 |
@@ -10456,70 +9330,57 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | VOC (C7+) | 1 | 5,765 |
 | C10s | 7 | 5,406 |
 | Vinyl acetylene | 13 | 4,991 |
-| Heptane,-n | 38 | 4,864 |
 | Other material | 10 | 4,853 |
 | Methyl acrylate | 4 | 4,770 |
 | Octanes | 49 | 4,769 |
-| MTBE | 4 | 4,707 |
-| Butadiene | 7 | 4,594 |
+| MTBE | 5 | 4,711 |
 | HCFC-22 | 1 | 4,575 |
 | Styrene | 27 | 4,419 |
 | Hexene | 18 | 4,385 |
-| Xylene, m- | 4 | 4,379 |
 | C6+ | 36 | 4,094 |
 | Argon | 8 | 4,020 |
 | Pentadiene | 10 | 3,974 |
 | Methylcyclohexane | 25 | 3,918 |
 | decane | 114 | 3,807 |
-| Isobutene | 22 | 3,691 |
 | Iso-octane | 2 | 3,510 |
-| n-Heptane | 15 | 3,435 |
 | Vinyl cyclohexene | 3 | 3,336 |
 | Octanes/C8 Hydrocarbons | 14 | 3,226 |
-| Xylenes | 73 | 3,083 |
 | Isoprene | 20 | 3,068 |
 | C5 Plus | 7 | 2,970 |
 | Tetrafluoropropane,2-Chloro-1,1,1,2 | 2 | 2,860 |
 | Cyclopentane | 15 | 2,804 |
 | Ethylene glycol | 3 | 2,733 |
 | 1,2 - Butadiene | 4 | 2,719 |
-| Ethylbenzene | 267 | 2,664 |
 | Hexamethylenediamine | 2 | 2,541 |
 | Dimethylcyclopentane | 21 | 2,362 |
 | 1,3 Pentadiene | 6 | 2,354 |
+| Vinyl Chloride | 18 | 2,280 |
 | 2-Methyl-Pentane | 3 | 2,254 |
 | C11s | 7 | 2,241 |
 | Sulfur oxide | 1 | 2,231 |
 | C14s | 4 | 2,222 |
-| i-pentane | 10 | 2,215 |
-| Vinyl Chloride | 8 | 2,083 |
 | Carbon disulfide | 33 | 2,071 |
 | 2-methylpentane | 3 | 2,003 |
+| Nitrogen monoxide | 27 | 1,964 |
 | Formaldehyde | 21 | 1,927 |
 | Oxygen | 6 | 1,798 |
 | Pentane Plus | 11 | 1,779 |
 | Anhydrous Ammonia | 2 | 1,765 |
 | Naptha | 10 | 1,744 |
 | n-octane | 5 | 1,698 |
-| Xylene, o- | 2 | 1,667 |
 | Other | 23 | 1,599 |
 | Butylene | 16 | 1,561 |
-| Xylene (mixed isomers) | 39 | 1,548 |
 | Sulfuric acid | 29 | 1,547 |
-| H2S | 34 | 1,480 |
+| Hydrogen Cyanide | 23 | 1,491 |
 | Propylene Glycol Monomethyl Ether | 1 | 1,475 |
-| Hydrogen cyanide | 20 | 1,467 |
 | Nitric oxide | 9 | 1,417 |
 | 3 methylpentane | 2 | 1,370 |
 | Ethyl acetylene | 3 | 1,346 |
 | Acrylonitrile | 6 | 1,319 |
-| Xylene, p- | 2 | 1,287 |
-| Sulfur dioxide (anhydrous) | 4 | 1,268 |
 | Epichlorohydrin | 1 | 1,264 |
-| +C5 hydrocarbon | 2 | 1,256 |
+| #NAME? | 2 | 1,256 |
 | Crude Isoprene | 1 | 1,200 |
 | Hydrocarbons | 2 | 1,171 |
-| Hexane, n | 10 | 1,165 |
 | Heptanes/C7 Hydrocarbons | 14 | 1,144 |
 | CARBON BLACK | 1 | 1,086 |
 | Butene1_Isobutene | 71 | 1,075 |
@@ -10527,24 +9388,21 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methylcyclopentane | 5 | 1,009 |
 | Other (VOCs) | 8 | 1,004 |
 | 1,4-Dichlorobenzene | 2 | 996 |
-| Diesel fuel | 1 | 975 |
+| Diesel | 1 | 975 |
 | 1,2-Dichloroethane | 2 | 967 |
 | Methyl Acetylene | 13 | 940 |
 | Unknown or other oil | 6 | 932 |
-| Cement (wet or dry) | 2 | 900 |
 | 2,2,4-Trimethylpentane | 6 | 864 |
 | Ethylene dichloride | 7 | 844 |
 | Nonanes/C9 Hydrocarbons | 21 | 825 |
 | n-nonane | 2 | 820 |
 | Nonanes | 14 | 789 |
 | 1-Pentene | 12 | 785 |
-| Propene | 4 | 784 |
 | 1-Butene + Isobutylene | 35 | 781 |
 | 2,3-Dimethylpentane | 1 | 750 |
 | Methyl chloride | 1 | 747 |
 | 2-Methyl-2-Butene | 7 | 742 |
 | 2-Methylhexane | 2 | 672 |
-| P-Xylene | 4 | 656 |
 | Decanes/C10 Hydrocarbons | 15 | 628 |
 | Methylacetylene Propadiene | 2 | 625 |
 | Amylenes | 1 | 619 |
@@ -10581,7 +9439,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C6 and Heavier | 1 | 343 |
 | BTEX - benzene, toluene, ethylbenzene, xylene | 1 | 343 |
 | Sand | 1 | 338 |
-| O-Xylene | 4 | 337 |
 | butene-1 | 6 | 332 |
 | Hexenes | 3 | 324 |
 | Sulfur | 2 | 322 |
@@ -10597,7 +9454,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2,5-Dimethylhexane | 1 | 280 |
 | 2-Methylbutene | 2 | 272 |
 | Benzene, butyl- | 1 | 258 |
-| Anhydrous ammonia | 2 | 239 |
 | VOC (C6+) | 9 | 218 |
 | 2-Nitropropane | 7 | 212 |
 | C13s | 5 | 212 |
@@ -10616,13 +9472,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Sodium hydrosulfide | 1 | 158 |
 | Dimethylpentanes | 1 | 155 |
 | Acrolein | 20 | 151 |
-| Vinyl Chloride Monomer | 4 | 151 |
 | 3-Methyl-1-butene | 5 | 149 |
 | Methylcyclopentadiene | 1 | 148 |
 | C8+ | 1 | 144 |
 | Acetone | 8 | 132 |
 | 1-Butyne | 2 | 131 |
-| Methyl alcohol | 1 | 126 |
 | C-2 butene | 7 | 119 |
 | cyclooctane | 1 | 117 |
 | Other Organics | 2 | 114 |
@@ -10678,7 +9532,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methylpentane | 1 | 48 |
 | pentadecane | 1 | 47 |
 | Heptadecane | 1 | 47 |
-| VCM | 6 | 46 |
 | t-butene-2 | 1 | 46 |
 | Amylene | 2 | 44 |
 | Methyl indene | 2 | 44 |
@@ -10712,36 +9565,32 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butanol | 2 | 26 |
 | Other C7s | 1 | 26 |
 | t-2-butene | 1 | 24 |
-| HCN | 3 | 24 |
 | 2-methyl 1-butene | 1 | 22 |
 | C20 | 1 | 21 |
+| MEK | 2 | 21 |
 | C7 Naphthenes | 1 | 20 |
 | Biphenyl | 1 | 20 |
 | Vinylacetylene | 1 | 20 |
-| Methyl ethyl ketone | 1 | 20 |
 | C11+ Paraffins/Naphthenes/Olefins | 1 | 20 |
 | N-Hexylamine | 1 | 19 |
 | Heptane/Heptenes | 1 | 19 |
 | n-dodecane | 2 | 19 |
-| Heptane | 2 | 19 |
 | Octene | 4 | 17 |
 | Cyclohexanol | 2 | 16 |
 | C9 Isoparaffins | 1 | 16 |
 | Imines | 1 | 16 |
-| Hydrofluoric acid | 8 | 15 |
+| Hydrogen Fluoride | 8 | 15 |
 | Isopropyl tert-butyl ether | 1 | 15 |
 | Formic acid | 1 | 15 |
 | trans-2-Pentene | 1 | 15 |
 | C8 Naphthenes | 1 | 15 |
 | C6 Naphthenes | 1 | 15 |
-| Isopropyl Benzene | 1 | 14 |
 | C9+ Hydrocarbons | 1 | 14 |
 | 1,3-methylethylbenzene | 1 | 14 |
 | C12 Hydrocarbons | 1 | 13 |
 | Octenes | 1 | 13 |
 | C10+ Olefins | 1 | 13 |
 | Hexadecanes/C16 Hydrocarbons | 1 | 13 |
-| metaxylene | 1 | 13 |
 | Other C8s | 1 | 13 |
 | Methyl Pentane | 1 | 13 |
 | Fuel Oil | 1 | 12 |
@@ -10775,14 +9624,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Nickel | 3 | 6 |
 | 1,3-diethylbenzene | 1 | 6 |
 | Ethyl acetate | 2 | 6 |
-| Dihydrogen Sulfide | 2 | 5 |
 | Methyl, 2-, Butene, 1- | 1 | 5 |
 | N-Butyl acrylate | 1 | 5 |
 | 1,3,5-trimethylbenzene | 2 | 5 |
-| paraxylene | 1 | 4 |
+| Hydrogen Chloride | 4 | 5 |
 | 4-Ethyltoluene | 2 | 4 |
 | Methylal | 1 | 4 |
-| Methyl tert-butyl ether | 1 | 4 |
 | Butyraldehyde | 1 | 4 |
 | Orthoxylene | 1 | 4 |
 | Methylacetylene | 3 | 4 |
@@ -10794,16 +9641,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | methyl cyclopentadiene | 1 | 3 |
 | TRIOXANE | 1 | 3 |
 | Nitroethane | 7 | 3 |
-| Hydrogen chloride | 2 | 3 |
 | 1,1,2-Trichloroethane | 1 | 3 |
 | Trichloroethylene | 2 | 2 |
-| M-Xylene | 2 | 2 |
 | Dioxolane | 1 | 2 |
 | 1-Nitropropane | 7 | 2 |
-| Hydrochloric acid | 2 | 2 |
 | 1,2 Butadiene | 1 | 2 |
 | ethyl hexene | 1 | 2 |
-| Ethene | 2 | 2 |
 | C10-C11s | 1 | 2 |
 | Cyclohexane, methyl- | 1 | 2 |
 | 3-ETHYLTOLUENE | 1 | 2 |
@@ -10825,7 +9668,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | pentene-1 | 2 | 1 |
 | C6 | 2 | 1 |
 | Butyl alcohol, tert- | 1 | 1 |
-| Methyl ethyl ketone (MEK) | 1 | 1 |
 | Propanol, n- | 1 | 1 |
 | total reduced sulfur | 5 | 1 |
 | 1,2-Propadiene | 1 | 0 |
@@ -10867,101 +9709,72 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Contaminant | Releases | POUNDS |
 |---|---|---|
 | Carbon Dioxide | 51 | 46,895,271 |
-| Sulfur dioxide | 2474 | 16,032,084 |
+| Sulfur dioxide | 2477 | 16,032,150 |
 | Carbon Monoxide | 2840 | 11,863,010 |
 | NATURAL GAS | 544 | 2,913,617 |
 | Non-Methane Non-Ethane Natural Gas | 737 | 2,405,332 |
-| Propane | 1109 | 2,249,990 |
-| Nitrogen Oxides (NOx) | 2375 | 2,049,888 |
-| Nitrogen oxide | 410 | 1,277,312 |
+| Propane | 1150 | 2,378,814 |
+| Nitrogen Oxides (NOx) | 2383 | 2,056,423 |
+| Butanes | 1508 | 1,447,567 |
+| Nitrogen oxide | 392 | 1,274,087 |
 | Methane | 101 | 1,144,736 |
+| Ethylene | 481 | 992,412 |
 | Natural Gas VOCs | 138 | 941,209 |
-| Ethylene (gaseous) | 327 | 885,888 |
-| Butane | 500 | 695,100 |
+| VOC | 680 | 696,237 |
 | Ethanol | 3 | 654,301 |
+| Pentanes | 965 | 484,458 |
 | Nitrogen dioxide | 178 | 389,583 |
-| Hydrogen Sulfide | 2384 | 321,070 |
+| Propylene | 356 | 383,350 |
+| Hydrogen Sulfide | 2428 | 323,564 |
 | Ethane | 97 | 288,860 |
-| VOC | 311 | 287,571 |
-| Pentane | 337 | 285,530 |
 | NMNE Natural Gas | 43 | 278,233 |
 | VOC - NONMETHANE | 49 | 271,326 |
-| Butanes | 181 | 230,960 |
-| Propylene (Propene) | 151 | 229,046 |
-| Butane, N- | 266 | 203,433 |
-| Isobutane | 333 | 199,027 |
-| Propylene | 205 | 154,304 |
-| Volatile Organic Compounds | 173 | 135,706 |
-| VOCs | 106 | 134,679 |
+| Hexanes | 583 | 231,715 |
+| Heptane | 196 | 133,921 |
 | Other | 11 | 132,092 |
-| Propane, N- | 41 | 128,824 |
-| Unspeciated VOCs | 29 | 113,908 |
-| Ethylene | 154 | 106,524 |
-| Hexane | 327 | 84,901 |
+| Particulate Matter | 288 | 83,954 |
 | VOC GAS MIXTURE | 41 | 82,355 |
-| n-butane | 70 | 81,385 |
 | VOC MIXTURE | 7 | 72,549 |
-| Particulate Matter | 155 | 70,796 |
-| Pentane, N- | 185 | 65,128 |
-| Heptane (or n-) | 77 | 64,900 |
-| Heptane | 2 | 60,606 |
-| Hexanes | 92 | 60,322 |
 | Vinyl acetate | 11 | 46,424 |
-| Isopentane | 104 | 43,671 |
-| NITROGEN | 33 | 43,189 |
-| Pentanes | 120 | 42,447 |
+| Nitrogen | 33 | 43,189 |
+| Butadiene | 186 | 41,411 |
 | Benzene | 596 | 41,038 |
 | methyl isopropyl ketone (MIPK) | 1 | 40,000 |
-| hexanes + | 86 | 34,571 |
 | Ethyl tert-butyl ether | 1 | 33,842 |
 | Diesel #2 | 2 | 33,221 |
-| Butane, i | 139 | 31,294 |
 | Hexanes (any isomer) | 16 | 29,312 |
-| 1,3-BUTADIENE | 136 | 27,923 |
-| pentane, iso- | 149 | 27,235 |
-| Methanol | 32 | 26,240 |
-| Hexane, n | 32 | 25,763 |
-| Hexane Plus | 30 | 25,249 |
+| Methanol | 33 | 26,293 |
 | 1-Butene | 61 | 25,022 |
 | Toluene | 427 | 23,916 |
+| Ammonia | 107 | 23,168 |
 | i-Pentane | 2 | 22,695 |
 | Cyclohexane | 234 | 21,847 |
 | Heptanes | 43 | 21,185 |
 | Other material | 8 | 20,945 |
 | C5+ (not including benzene) | 98 | 19,342 |
-| n-pentane | 53 | 18,565 |
 | Butanol | 1 | 17,932 |
 | Butenes, All Isomers | 75 | 16,833 |
 | 1-METHYL-2-PYRROLIDINONE | 1 | 16,787 |
 | Naphtha | 1 | 13,355 |
-| Ammonia, anhydrous | 5 | 13,054 |
 | Non_MethaneEthane Natural Gas | 7 | 12,806 |
-| VOC (unclassified) | 23 | 12,237 |
 | Pentene | 17 | 11,381 |
 | Tert Butanol | 1 | 10,192 |
 | C6+ | 60 | 9,829 |
 | Hydrogen | 11 | 9,693 |
+| Isobutylene | 96 | 9,413 |
 | Pentane Plus | 10 | 8,972 |
 | Tetrafluoropropane,2-Chloro-1,1,1,2 | 4 | 8,937 |
 | Mineral Spirit | 1 | 8,900 |
 | Pentenes | 21 | 8,622 |
-| Butadiene, 1-3 | 38 | 7,987 |
-| GASOLINE, AUTOMOTIVE OR AVIATION | 3 | 7,860 |
-| PM 2.5 | 2 | 7,733 |
-| Other VOCs | 34 | 7,598 |
-| Isobutylene | 81 | 6,815 |
-| NOx (Startup/Shutdown) | 8 | 6,535 |
+| Gasoline | 3 | 7,860 |
+| Xylenes | 307 | 6,940 |
 | CO (Startup/Shutdown) | 3 | 6,516 |
-| Ammonia | 94 | 6,489 |
 | VOC - Crude | 3 | 6,465 |
-| i-butane | 19 | 6,368 |
 | Acetic acid | 5 | 6,341 |
 | Acetylene | 86 | 6,149 |
 | Octane | 156 | 5,981 |
 | Polyphenylene Sulfide | 1 | 5,804 |
 | Pentafluoroethane | 1 | 5,796 |
-| Butadiene | 9 | 5,493 |
-| VOC-unclassified | 4 | 4,537 |
 | Butene | 23 | 4,459 |
 | Octanes/C8 Hydrocarbons | 15 | 4,305 |
 | Methylcyclohexane | 20 | 4,202 |
@@ -10969,67 +9782,51 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Octane, n- | 7 | 4,156 |
 | Trans-butene-2 | 29 | 4,023 |
 | Nonane | 116 | 3,989 |
-| n-Heptane | 17 | 3,932 |
 | decane | 56 | 3,661 |
-| Anhydrous ammonia | 8 | 3,625 |
 | Pentenenitrile | 7 | 3,586 |
 | Nitric oxide | 9 | 3,557 |
 | Anhydrous Ammonia | 3 | 3,510 |
 | C5+ | 68 | 3,360 |
 | Octanes | 19 | 3,236 |
+| Nitrogen monoxide | 18 | 3,226 |
 | Dimethylcyclopentane | 18 | 3,157 |
-| Heptane,-n | 24 | 3,067 |
+| Ethylbenzene | 210 | 2,934 |
 | Propylene oxide | 7 | 2,892 |
 | Styrene | 22 | 2,861 |
-| PM (unspeciated) | 8 | 2,643 |
-| Isobutene | 15 | 2,598 |
+| Hydrogen Chloride | 14 | 2,641 |
 | VOC (light hydrocarbons) | 5 | 2,577 |
-| H2S | 44 | 2,494 |
 | Nitrous Oxides | 6 | 2,471 |
 | Octene | 14 | 2,392 |
 | Crude Oil | 3 | 2,194 |
 | C15+ Hydrocarbons | 1 | 2,172 |
 | Butyl alcohol, sec- | 1 | 2,000 |
-| Xylene | 215 | 1,982 |
 | Cis-2-butene | 97 | 1,901 |
-| Methyl ethyl ketone | 1 | 1,900 |
-| i-pentane | 17 | 1,883 |
+| MEK | 1 | 1,900 |
 | Oxygen | 2 | 1,815 |
-| Xylene (mixed isomers) | 38 | 1,794 |
 | Biphenyl | 7 | 1,767 |
-| PM10 | 85 | 1,747 |
 | butene-1 | 10 | 1,703 |
 | Butyl alcohol, tert- | 1 | 1,700 |
-| Ethylbenzene | 201 | 1,637 |
+| Hydrogen Cyanide | 21 | 1,627 |
 | Trans-2-butene | 71 | 1,606 |
 | Chlorotrifluoroethylene (CTFE) | 1 | 1,471 |
-| Hydrogen chloride | 7 | 1,459 |
 | 2 EthylHexanol | 1 | 1,454 |
 | Cis-butene-2 | 5 | 1,443 |
-| HEPTANE (OR N-) | 76 | 1,416 |
 | Acrylonitrile | 1 | 1,403 |
 | C6 | 7 | 1,381 |
 | Heptanes/C7 Hydrocarbons | 7 | 1,369 |
-| Ethyl Benzene | 9 | 1,297 |
-| Hydrogen fluoride | 2 | 1,278 |
+| Hydrogen Fluoride | 11 | 1,284 |
 | 2-Butene-trans | 5 | 1,263 |
-| Xylene, m- | 3 | 1,238 |
-| Naphthalene | 13 | 1,200 |
-| +C5 hydrocarbon | 3 | 1,198 |
+| Naphthalene | 15 | 1,200 |
+| #NAME? | 3 | 1,198 |
 | Sulfuric acid | 54 | 1,192 |
-| Hydrochloric acid | 7 | 1,182 |
-| Hydrogen cyanide | 19 | 1,156 |
 | Nonanes/C9 Hydrocarbons | 20 | 1,107 |
-| Xylene, o- | 4 | 1,101 |
 | Carbon disulfide | 14 | 1,081 |
-| PM2.5 | 37 | 1,034 |
 | Propylene Glycol Monomethyl Ether Acetate | 3 | 1,031 |
 | Decanes/C10 Hydrocarbons | 27 | 1,014 |
 | Isoprene | 15 | 1,007 |
 | Carbon | 2 | 993 |
 | Methyl Acetate | 5 | 978 |
 | Butylene | 14 | 909 |
-| N-Hexane | 15 | 895 |
 | Cyclopentadiene | 12 | 883 |
 | n-hexane - 110543 | 1 | 852 |
 | 2-hydroxy isobutyric acid methyl ester | 3 | 834 |
@@ -11048,10 +9845,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-Methyl-1-butene | 16 | 524 |
 | 2,3,3,3-Tetrafluoropropene | 2 | 506 |
 | n-octane | 4 | 505 |
-| Xylene, p- | 3 | 496 |
 | C6-C8 Non Aromatics | 1 | 478 |
 | Hydrogen Iodide | 1 | 472 |
-| HCN | 2 | 471 |
 | Iodine | 1 | 468 |
 | Butene, n- | 3 | 455 |
 | C12s | 1 | 443 |
@@ -11075,7 +9870,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,4-Pentadiene | 6 | 310 |
 | C13s | 2 | 302 |
 | C10 Hydrocarbons | 1 | 301 |
-| Diesel (unspeciated) | 2 | 292 |
+| Diesel | 2 | 292 |
 | Methacrylic Acid | 4 | 282 |
 | Isopropyl alcohol | 2 | 277 |
 | Hexamethylenediamine | 2 | 276 |
@@ -11086,7 +9881,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C9 Hydrocarbons | 1 | 227 |
 | 1,2,4-Trimethylbenzene | 5 | 223 |
 | 2-methylpentane | 4 | 223 |
-| Xylenes | 34 | 222 |
 | Lactic Acid | 2 | 221 |
 | trans butene | 3 | 219 |
 | mercaptan | 2 | 215 |
@@ -11094,6 +9888,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C6s | 10 | 201 |
 | C5 | 1 | 199 |
 | ethylcyclohexane | 2 | 198 |
+| Vinyl Chloride | 10 | 198 |
 | Dimethylethanolamine | 1 | 196 |
 | 1-Butene + Isobutylene | 33 | 195 |
 | Pentadiene | 3 | 192 |
@@ -11138,7 +9933,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Nitrogen tetroxide (liquid) | 1 | 110 |
 | C16 | 2 | 109 |
 | C11 Hydrocarbons | 1 | 109 |
-| VCM | 2 | 107 |
 | Hexane, 2-methyl- | 2 | 96 |
 | Isopropyl Mercaptan - | 2 | 94 |
 | Sulfur trioxide | 1 | 93 |
@@ -11154,13 +9948,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Sulfuric acid,  mixture with sulfurtrioxide | 1 | 80 |
 | Methyl acetylene propadiene | 3 | 78 |
 | 1,1,2-Trichloroethane | 1 | 76 |
-| Vinyl Chloride | 4 | 74 |
 | Trans-Pentene | 2 | 72 |
-| P-Xylene | 5 | 71 |
 | bis(aminoethyl) ether | 1 | 69 |
 | 1,4-methylethylbenzene | 2 | 67 |
 | Dicyclopentadiene | 3 | 67 |
-| Sulfur dioxide (anhydrous) | 3 | 67 |
 | Cyclohexane, methyl- | 5 | 64 |
 | C5s | 1 | 62 |
 | 1,3,5-trimethylbenzene | 2 | 62 |
@@ -11170,7 +9961,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methylacetylene | 10 | 58 |
 | Technical White Oil | 1 | 55 |
 | Cyclopentane | 6 | 55 |
-| Methyl alcohol | 1 | 53 |
 | 1-Decene | 3 | 51 |
 | FLY ASH | 1 | 50 |
 | 2,2,4-Trimethylpentane | 4 | 50 |
@@ -11191,7 +9981,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2,2-Dimethylpropane | 1 | 32 |
 | 1,2-DIMETHYLCYCLOPENTANE | 1 | 32 |
 | 1,3-Pentadiene | 1 | 31 |
-| M-Xylene | 1 | 31 |
 | Butylcyclohexane | 3 | 28 |
 | Acrylic acid | 1 | 26 |
 | Chloroform | 3 | 23 |
@@ -11203,7 +9992,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2 -methylpentane | 1 | 20 |
 | 2,3-dimethylbutane | 2 | 20 |
 | 2 methylbutane | 1 | 17 |
-| Vinyl Chloride Monomer | 4 | 17 |
 | Ethylcyclopentane | 2 | 16 |
 | Hexamethyleneimine | 1 | 16 |
 | Tetradecane | 3 | 15 |
@@ -11212,7 +10000,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | valeronitrile | 3 | 14 |
 | t-2-butene | 1 | 14 |
 | Lead | 2 | 14 |
-| Hexane, i | 1 | 14 |
 | 1-Undecene | 3 | 13 |
 | Carbitol cellosolve | 1 | 13 |
 | Acetonitrile | 3 | 12 |
@@ -11233,7 +10020,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pentylcyclohexane | 3 | 9 |
 | 3-Methyl-Pentane | 1 | 9 |
 | n-butylbenzene | 2 | 8 |
-| 1,3 Butadiene | 3 | 8 |
 | 2,2-Dimethylpentane | 1 | 8 |
 | n-Propyl Mercaptan | 2 | 7 |
 | Dodecane | 3 | 7 |
@@ -11243,13 +10029,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2,2-DIMETHYLBUTANE | 2 | 6 |
 | 1,2,3,5-tetramethylbenzene | 1 | 6 |
 | Isobutyraldehyde | 1 | 6 |
-| Hydrofluoric acid | 9 | 6 |
 | Fuel Oil | 2 | 5 |
 | 1,2,4,5-tetramethylbenzene | 1 | 5 |
 | C7s | 2 | 5 |
 | Phenol | 2 | 5 |
 | t-Butyl Alcohol | 1 | 5 |
-| metaxylene | 1 | 4 |
 | para xylene | 1 | 4 |
 | Sulfur oxide | 1 | 3 |
 | fumaronitrile | 1 | 3 |
@@ -11268,7 +10052,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C8s | 1 | 2 |
 | 3-ethyloctane | 1 | 2 |
 | Carbon tetrachloride | 2 | 2 |
-| Mixed Xylene | 3 | 1 |
 | 1-cyclopentylheptane | 2 | 1 |
 | 2 methyl decane | 1 | 1 |
 | Acrolein | 2 | 1 |
@@ -11295,7 +10078,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isoheptane | 1 | 1 |
 | 5-methylnonane | 1 | 1 |
 | i-propylbenzene | 1 | 1 |
-| Napthalene | 2 | 0 |
 | 1,3-dimethylbenzene | 1 | 0 |
 | 3-methylpentene-1 | 1 | 0 |
 | 1-tridecene | 3 | 0 |
@@ -11315,7 +10097,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,2-butadiene | 1 | 0 |
 | cis-2-Methyl-2-butenenitrile | 1 | 0 |
 | Indeno(1,2,3-cd)pyrene | 1 | 0 |
-| Cement (wet or dry) | 1 | 0 |
 | Benzo[b]fluoranthene | 1 | 0 |
 | trans-2-Pentene | 1 | 0 |
 | 1t-methyl-2-n-propylcyclohexane | 1 | 0 |
@@ -11374,88 +10155,67 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2253 | 18,463,174 |
+| Sulfur dioxide | 2258 | 18,463,264 |
 | Carbon Monoxide | 2544 | 9,461,642 |
 | NATURAL GAS | 485 | 2,721,902 |
 | Methane | 105 | 2,225,061 |
-| Nitrogen Oxides (NOx) | 1992 | 1,749,807 |
-| Propane | 1103 | 1,748,094 |
+| Propane | 1151 | 2,160,907 |
+| Nitrogen Oxides (NOx) | 2000 | 1,756,557 |
+| Butanes | 1587 | 1,602,079 |
+| Ethylene | 551 | 1,512,891 |
 | Natural Gas VOCs | 145 | 1,480,673 |
 | Non-Methane Non-Ethane Natural Gas | 344 | 1,317,725 |
-| Ethylene (gaseous) | 348 | 1,194,422 |
 | Carbon Dioxide | 52 | 1,190,632 |
+| VOC | 844 | 1,088,102 |
 | Ethane | 116 | 610,477 |
-| Nitrogen oxide | 504 | 560,159 |
-| VOC | 423 | 492,564 |
-| Propane, N- | 48 | 412,812 |
-| Butane | 594 | 361,887 |
-| Particulate Matter | 245 | 322,333 |
-| Ethylene | 201 | 318,465 |
-| Butanes | 153 | 301,947 |
-| Butane, N- | 265 | 280,203 |
-| Isobutane | 405 | 277,037 |
-| VOCs | 139 | 275,621 |
-| n-butane | 69 | 273,769 |
-| Propylene (Propene) | 159 | 263,237 |
-| Hydrogen Sulfide | 2070 | 251,206 |
-| Volatile Organic Compounds | 151 | 228,099 |
-| Propylene | 321 | 190,648 |
-| Pentane | 300 | 170,015 |
+| Pentanes | 808 | 550,930 |
+| Nitrogen oxide | 486 | 523,678 |
+| Propylene | 487 | 455,210 |
+| Particulate Matter | 394 | 332,687 |
+| Hexanes | 634 | 317,251 |
+| Hydrogen Sulfide | 2124 | 253,443 |
 | Nitrogen dioxide | 154 | 131,798 |
 | VOC - NONMETHANE | 21 | 123,944 |
-| Gasoline | 1 | 118,179 |
-| n-pentane | 45 | 108,100 |
-| Isopentane | 148 | 101,260 |
-| Hexane | 401 | 93,260 |
-| Pentanes | 65 | 84,977 |
+| Gasoline | 2 | 118,294 |
+| Butadiene | 300 | 96,442 |
 | Benzene | 669 | 81,994 |
-| i-butane | 25 | 81,817 |
-| NITROGEN | 36 | 78,768 |
-| VOC-unclassified | 18 | 73,866 |
-| N-Hexane | 29 | 73,500 |
+| Nitrogen | 36 | 78,768 |
 | Methanol | 35 | 63,704 |
-| 1,3-BUTADIENE | 203 | 59,528 |
 | NMNE Natural Gas | 4 | 56,453 |
 | Pentene | 31 | 56,285 |
 | 1-Butene | 86 | 54,288 |
 | i-Pentane | 4 | 52,560 |
 | C5+ | 45 | 51,194 |
-| Pentane, N- | 156 | 50,059 |
-| Hexane Plus | 28 | 49,705 |
-| Hexanes | 66 | 46,262 |
 | Toluene | 432 | 43,990 |
+| Nitrogen monoxide | 18 | 36,481 |
 | VOC GAS MIXTURE | 59 | 36,280 |
-| hexanes + | 72 | 35,383 |
 | C6 and Heavier | 1 | 34,535 |
 | Butyric acid | 3 | 32,877 |
+| Isobutylene | 130 | 32,788 |
 | Crude Oil | 3 | 31,028 |
 | Butenes, All Isomers | 99 | 30,797 |
 | Formaldehyde | 9 | 30,219 |
 | Ethanol | 6 | 30,115 |
 | C6+ | 58 | 27,437 |
-| Butane, i | 76 | 25,419 |
+| Xylenes | 319 | 27,427 |
 | Trans-butene-2 | 27 | 25,401 |
-| Isobutylene | 85 | 23,387 |
-| Butadiene, 1-3 | 60 | 22,895 |
-| i-pentane | 8 | 21,585 |
+| Ammonia | 111 | 21,451 |
 | distillate oil residue | 1 | 21,428 |
 | Octanes | 41 | 20,882 |
 | Water (H2O) | 7 | 20,697 |
 | C5+ (not including benzene) | 91 | 20,428 |
 | Methyl iodide | 2 | 20,275 |
-| Hexane, n | 35 | 18,670 |
 | Pentane Plus | 32 | 17,998 |
 | Cyclohexane | 224 | 17,815 |
 | Naphtha | 12 | 17,661 |
+| Heptane | 174 | 17,237 |
 | Isoprene | 21 | 17,047 |
 | Nonane | 67 | 15,885 |
 | Methyl Acetate | 11 | 15,510 |
-| Xylene (mixed isomers) | 48 | 15,503 |
-| pentane, iso- | 86 | 14,935 |
 | Glycol ethers | 1 | 13,704 |
 | Cis-butene-2 | 16 | 12,804 |
-| Anhydrous ammonia | 4 | 12,742 |
 | Propanol, n- | 2 | 12,102 |
+| Hydrogen Chloride | 14 | 11,608 |
 | Diethanolamine | 2 | 11,560 |
 | Acetic acid | 11 | 11,343 |
 | Glycols | 1 | 11,256 |
@@ -11464,48 +10224,35 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isopropanol | 2 | 9,929 |
 | Propylene Carbonate | 1 | 9,676 |
 | Butene | 59 | 9,458 |
-| Isobutene | 45 | 9,401 |
-| VOC (unclassified) | 20 | 9,345 |
 | Heptanes | 38 | 9,320 |
 | Alkoxylated polyamine | 1 | 8,453 |
 | Acetylene | 125 | 8,068 |
 | Heptanes/C7 Hydrocarbons | 6 | 8,043 |
-| Butadiene | 17 | 7,999 |
 | Nitric oxide | 6 | 7,328 |
-| Xylene | 181 | 7,319 |
 | Chlorotrifluoroethylene (CTFE) | 2 | 7,318 |
 | Benzyl Alcohol | 1 | 7,286 |
 | Vinyl acetate | 9 | 7,234 |
+| Hydrogen Cyanide | 32 | 7,200 |
 | Methyl isobutyl ketone | 3 | 7,184 |
-| Heptane (or n-) | 48 | 7,092 |
-| Ammonia | 102 | 6,980 |
-| Unspeciated VOCs | 59 | 6,965 |
 | C5 Plus | 6 | 6,904 |
-| Hydrogen chloride | 5 | 6,851 |
 | Ethylene oxide | 27 | 6,776 |
 | Decanes Plus | 5 | 6,769 |
-| NOx (Startup/Shutdown) | 8 | 6,750 |
 | Butyl alcohol, tert- | 8 | 6,703 |
 | Hexanes (any isomer) | 10 | 6,649 |
 | C5 | 2 | 6,639 |
 | Butene1_Isobutene | 20 | 6,446 |
 | mercaptan | 3 | 6,142 |
-| Heptane,-n | 9 | 6,107 |
-| 1,3 Butadiene | 20 | 6,021 |
+| Vinyl Chloride | 11 | 5,852 |
 | Butylene | 29 | 5,535 |
-| VCM | 2 | 5,410 |
 | N-Butyl alcohol | 1 | 5,255 |
 | Slop Oil - Unspeciated | 1 | 5,254 |
 | n-hexane - 110543 | 6 | 5,199 |
-| Cement Dust | 2 | 5,000 |
 | Styrene | 35 | 4,888 |
 | 2-Methyl-2-Butene | 15 | 4,867 |
-| Hydrochloric acid | 9 | 4,757 |
 | Carbon disulfide | 28 | 4,731 |
 | Cis-2-butene | 117 | 4,695 |
 | Trans-2-butene | 117 | 4,621 |
 | Methyl formate | 2 | 4,610 |
-| Hydrogen cyanide | 23 | 4,441 |
 | Octanes/C8 Hydrocarbons | 10 | 4,411 |
 | Isohexane | 2 | 4,365 |
 | Hydrogen | 19 | 4,337 |
@@ -11518,31 +10265,25 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pseudocumene | 1 | 3,817 |
 | trans-2-Pentene | 11 | 3,647 |
 | 1,4-Dichlorobenzene | 2 | 3,253 |
+| Ethylbenzene | 203 | 3,222 |
 | 2-Methyl-1-butene | 18 | 3,132 |
-| Ethylbenzene | 184 | 3,131 |
-| PM10 | 96 | 3,085 |
 | Triethanolamine | 1 | 3,005 |
 | Methylene chloride | 1 | 2,999 |
 | BIODIESEL(B99) | 1 | 2,928 |
 | Octane | 105 | 2,907 |
 | Cyclopentadiene | 18 | 2,872 |
-| HCN | 9 | 2,760 |
-| Hydrogen fluoride | 1 | 2,736 |
+| Hydrogen Fluoride | 2 | 2,766 |
 | Alcohols | 1 | 2,632 |
 | Octane, n- | 10 | 2,551 |
 | Isoheptane | 2 | 2,412 |
 | Isobutanol | 1 | 2,297 |
 | Chlorine | 4 | 2,278 |
-| H2S | 54 | 2,238 |
-| Xylenes | 61 | 2,214 |
-| n-Heptane | 14 | 2,156 |
 | Nitrous Oxides | 6 | 2,104 |
 | Hexamethylenediamine | 6 | 2,054 |
 | 1-Pentene | 21 | 1,932 |
 | Methyl methacrylate | 1 | 1,872 |
 | Sulfuric acid | 35 | 1,857 |
 | Turpentine | 1 | 1,852 |
-| M-Xylene | 7 | 1,844 |
 | cis-2-Pentene | 11 | 1,825 |
 | Acetaldehyde | 14 | 1,792 |
 | Methyl Acetylene | 12 | 1,791 |
@@ -11550,8 +10291,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Octene | 7 | 1,778 |
 | Phenol | 3 | 1,750 |
 | 2-Butene-trans | 26 | 1,659 |
-| Ammonia, anhydrous | 4 | 1,648 |
-| Other VOCs | 34 | 1,641 |
 | Carbonyl sulfide | 28 | 1,632 |
 | Trichloroethylene | 2 | 1,539 |
 | Nonanes | 19 | 1,523 |
@@ -11562,7 +10301,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Monoethanolamine | 1 | 1,402 |
 | Propylene oxide | 9 | 1,331 |
 | Other | 14 | 1,330 |
-| Propene | 7 | 1,325 |
 | Acetone | 10 | 1,303 |
 | Mineral Spirits | 3 | 1,293 |
 | 2-hexene | 1 | 1,268 |
@@ -11577,7 +10315,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-Butene-cis | 26 | 1,157 |
 | Propadiene | 10 | 1,154 |
 | Propyl Acetate | 2 | 1,145 |
-| HEPTANE (OR N-) | 99 | 1,142 |
 | Hexenes | 11 | 1,128 |
 | Isocyanic acid, 3,4-dichlorophenyl ester | 1 | 1,127 |
 | Methylcyclohexane | 12 | 1,122 |
@@ -11587,7 +10324,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Hexene | 18 | 984 |
 | 4-Nonylphenol branched, ethoxylated | 2 | 982 |
 | CFC 113  (1,1,2 TRICHLOROTRIFLUOROETHANE) | 1 | 974 |
-| PM2.5 | 32 | 973 |
 | decanes | 13 | 970 |
 | Distillates (Petroleum), Light Distillate Hydrotreating Process, Low-Boiling | 1 | 896 |
 | Nonanes/C9 Hydrocarbons | 10 | 817 |
@@ -11595,7 +10331,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Aromatic 100 | 1 | 781 |
 | 3-methylhexane | 5 | 772 |
 | Sorbitol | 1 | 745 |
-| Heptane | 4 | 739 |
 | Ethylenediamine | 1 | 732 |
 | Ethylene dichloride | 6 | 726 |
 | Paraffins | 1 | 726 |
@@ -11606,7 +10341,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | M-Cymene | 8 | 666 |
 | Vinyl acetate monomer | 1 | 652 |
 | Lube oil | 1 | 638 |
-| PM 2.5 | 1 | 633 |
 | butene-1 | 2 | 604 |
 | Methacrylic Acid | 1 | 601 |
 | C7s | 7 | 563 |
@@ -11616,11 +10350,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isoamyl Alcohol | 3 | 537 |
 | Butyl acetate | 1 | 536 |
 | 1-dodecene | 3 | 525 |
-| PM10 Cement(Portland) | 1 | 500 |
 | Dimethylcyclopentane | 8 | 487 |
 | 2-methylpentane | 9 | 476 |
 | 2 Methylhexane | 1 | 474 |
-| Hexane, i | 3 | 471 |
 | olefins | 2 | 471 |
 | 1-hexene | 3 | 469 |
 | Ethylcyclopentane | 3 | 467 |
@@ -11640,10 +10372,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | HAPS (5) | 1 | 365 |
 | decane | 42 | 361 |
 | Tert Butanol | 1 | 359 |
-| Naphthalene | 10 | 359 |
+| Naphthalene | 11 | 359 |
 | VOC (C6+) | 3 | 347 |
 | n-Decane | 5 | 336 |
-| Vinyl Chloride | 5 | 304 |
 | R-134A Refrigerant | 1 | 300 |
 | Acetic acid dimethylamide | 2 | 300 |
 | Chlorine dioxide | 1 | 295 |
@@ -11659,7 +10390,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2,3-dimethylbutane | 3 | 234 |
 | 2,3-Dimethylpentane | 3 | 230 |
 | Tert Butylhydroperoxide | 5 | 216 |
-| Xylene, m- | 4 | 214 |
 | Decanes/C10 Hydrocarbons | 11 | 209 |
 | Propylene Glycol | 3 | 204 |
 | Dimethyl sulfide | 3 | 203 |
@@ -11694,7 +10424,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butyl acrylate | 1 | 146 |
 | Vinyl acetylene | 10 | 146 |
 | Acrylic acid | 2 | 140 |
-| Vinyl Chloride Monomer | 4 | 138 |
 | 3-4 Pentenitriles | 6 | 129 |
 | Cyclohexane, methyl- | 4 | 128 |
 | 2-pentene | 2 | 126 |
@@ -11703,14 +10432,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pentadiene | 3 | 123 |
 | Butanol | 2 | 123 |
 | CONCRETE | 1 | 123 |
-| Xylene, p- | 3 | 121 |
 | C11s | 3 | 120 |
 | Trimethylbenzene, 1,2,4- | 2 | 120 |
 | pentane, 2-methyl | 2 | 119 |
 | C9+ Hydrocarbons | 1 | 118 |
 | 1-METHYL-2-PYRROLIDINONE | 1 | 117 |
-| GASOLINE, AUTOMOTIVE OR AVIATION | 1 | 115 |
-| PM (unspeciated) | 16 | 115 |
 | trans-1,3-pentadiene | 11 | 114 |
 | cis-1,3-pentadiene | 11 | 114 |
 | 2,2-Dimethylpentane | 3 | 113 |
@@ -11734,8 +10460,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Gas Oil | 1 | 92 |
 | Monomethylamine | 1 | 91 |
 | Propan-2-ol, 1-methoxy- | 1 | 91 |
-| Sulfur dioxide (anhydrous) | 5 | 90 |
-| Ethyl Benzene | 19 | 90 |
 | Cyclohexanol | 3 | 90 |
 | ethylcyclohexane | 2 | 89 |
 | Naptha | 1 | 89 |
@@ -11746,7 +10470,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | tertiary butyl alcohol | 4 | 84 |
 | Terpenes | 2 | 82 |
 | Isononane | 2 | 82 |
-| NH3 | 1 | 81 |
 | Hexane, 2-methyl- | 3 | 80 |
 | 2,2,4-Trimethylpentane | 4 | 78 |
 | 2-Phosphono-1, 2, 4-Butanetricarboxylic Acid | 1 | 78 |
@@ -11757,14 +10480,13 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Diisobutyl sulfide | 2 | 74 |
 | dimethylheptane | 2 | 72 |
 | Other C5s | 1 | 71 |
-| P-Xylene | 5 | 71 |
 | 2 methyl decane | 6 | 65 |
 | Pentane, 3-methyl- | 2 | 65 |
 | C6 Compounds | 2 | 62 |
 | C12s+ | 5 | 62 |
+| MEK | 6 | 61 |
 | Other Organics | 2 | 60 |
 | C10s | 2 | 60 |
-| Methyl ethyl ketone | 2 | 59 |
 | 2-Butoxyethanol | 1 | 59 |
 | Kerosene | 1 | 59 |
 | decene-1 | 3 | 56 |
@@ -11774,15 +10496,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 4-Vinylcyclohexene | 2 | 52 |
 | cyclooctane | 3 | 51 |
 | 2,3 Dimethylbutane | 2 | 48 |
-| Cement (wet or dry) | 1 | 47 |
+| Cumene | 9 | 47 |
 | Acrolein | 11 | 47 |
-| para-xylene | 1 | 46 |
-| Cumene | 8 | 46 |
 | Argon | 1 | 45 |
 | Hexane, 3-methyl- | 2 | 45 |
 | Hydrocarbons C7-9 | 1 | 43 |
 | endo-5-methyl-5-vinyl-2-norbornene | 1 | 43 |
-| O-Xylene | 3 | 42 |
 | 2 Methyl Tetrahydrofuran | 1 | 41 |
 | 1,2,4-trimethyl-5-ethyl benzene | 1 | 41 |
 | Methylcyclopentadiene | 1 | 40 |
@@ -11796,8 +10515,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Octane/Octenes | 1 | 32 |
 | C7 Naphthenes | 2 | 31 |
 | c7 olefins | 2 | 31 |
-| meta-xylene | 1 | 31 |
-| Hydrofluoric acid | 1 | 30 |
 | diethylbenzene | 1 | 30 |
 | Chloromethane | 1 | 29 |
 | C-2 butene | 5 | 29 |
@@ -11847,7 +10564,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pentylbenzene | 2 | 12 |
 | n-tridecane | 3 | 12 |
 | Decanes/Decenes | 1 | 12 |
-| ortho-xylene | 1 | 11 |
 | Ethene oxide | 1 | 11 |
 | 1,2-butadiene | 2 | 11 |
 | Cyanide | 1 | 10 |
@@ -11861,7 +10577,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Dimethylhexanes | 1 | 9 |
 | 1-Methylcyclohexene | 1 | 9 |
 | C12 Aromatics | 1 | 9 |
-| Xylene, o- | 2 | 9 |
 | Furfural | 2 | 9 |
 | Lead | 8 | 8 |
 | Nickel | 6 | 8 |
@@ -11893,7 +10608,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | total reduced sulfur | 10 | 4 |
 | Heptene | 1 | 4 |
 | 1c,2t,4c-trimethylcyclohexane | 1 | 4 |
-| Ethene | 2 | 4 |
 | Hydrogen Iodide | 1 | 4 |
 | Distillates (Petroleum), Hydrotreated Light | 1 | 4 |
 | Butane, 2-methyl- | 1 | 4 |
@@ -11914,7 +10628,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butyl acetate, iso- | 1 | 2 |
 | 3-Methyl-1-butene | 1 | 2 |
 | Propylene Glycol Monomethyl Ether Acetate | 1 | 2 |
-| Methyl ethyl ketone (MEK) | 4 | 2 |
 | 1,3-Pentadiene | 1 | 2 |
 | Solvent Naphtha (Petroleum), Light Aromatic | 1 | 2 |
 | 2-methylnaphthalene | 2 | 2 |
@@ -11922,7 +10635,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Steam Cracked Residuum | 1 | 2 |
 | Biphenyl | 3 | 2 |
 | isopropyl cyclohexane | 1 | 1 |
-| Isopropylbenzene | 1 | 1 |
 | Raffinates (Petroleum), Sorption Process | 1 | 1 |
 | C16 | 1 | 1 |
 | C15+ Hydrocarbons | 1 | 1 |
@@ -11935,13 +10647,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Boiled Linseed Oil | 1 | 1 |
 | 1-tetradecene | 2 | 1 |
 | C12 Alkanes | 1 | 1 |
-| metaxylene | 1 | 1 |
 | Benzonitrile | 2 | 1 |
 | C9 Hydrocarbons | 1 | 1 |
 | Cyclo Pentane | 1 | 0 |
 | Alpha-Terpineol | 1 | 0 |
 | Carbon tetrachloride | 2 | 0 |
-| paraxylene | 1 | 0 |
 | Cis-Butene | 2 | 0 |
 | 1-pentadecene | 2 | 0 |
 | Benzo[b]fluoranthene | 1 | 0 |
@@ -11955,7 +10665,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | ethylene glycol diacetate | 1 | 0 |
 | C8 | 1 | 0 |
 | 1-cyclopentyldecane | 1 | 0 |
-| Napthalene | 1 | 0 |
 | Solvent Naphtha (Petroleum), Heavy Aromatic | 1 | 0 |
 | Diacetone Alcohol | 1 | 0 |
 | n-Hexadecane | 1 | 0 |
@@ -11986,109 +10695,79 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Contaminant | Releases | POUNDS |
 |---|---|---|
 | Carbon Monoxide | 2116 | 16,749,620 |
-| Propane | 956 | 12,304,748 |
-| Sulfur dioxide | 1765 | 10,602,628 |
+| Propane | 1027 | 12,923,859 |
+| Sulfur dioxide | 1767 | 10,602,674 |
 | Carbon Dioxide | 36 | 8,464,318 |
-| Butane | 422 | 3,264,646 |
-| Nitrogen Oxides (NOx) | 1695 | 2,935,260 |
+| Butanes | 1392 | 5,367,483 |
+| Nitrogen Oxides (NOx) | 1705 | 2,944,963 |
+| Pentanes | 764 | 2,564,402 |
 | NATURAL GAS | 231 | 2,249,090 |
 | Non-Methane Non-Ethane Natural Gas | 196 | 2,144,871 |
-| Isobutane | 414 | 1,236,093 |
-| Ethylene (gaseous) | 298 | 1,230,306 |
-| Nitrogen oxide | 382 | 1,155,379 |
-| Isopentane | 174 | 1,124,818 |
-| Pentane | 218 | 1,093,949 |
-| Hydrogen Sulfide | 1481 | 799,561 |
-| VOC | 588 | 750,891 |
+| Ethylene | 503 | 1,678,858 |
+| VOC | 935 | 1,598,910 |
+| Nitrogen oxide | 367 | 1,013,397 |
+| Hydrogen Sulfide | 1566 | 801,437 |
 | Natural Gas VOCs | 102 | 694,673 |
-| VOCs | 122 | 668,984 |
-| Propane, N- | 71 | 619,112 |
-| Propylene | 310 | 518,605 |
+| Propylene | 477 | 662,738 |
+| Hexanes | 506 | 613,554 |
 | Methane | 67 | 495,790 |
-| Ethylene | 200 | 448,339 |
 | Ethane | 96 | 356,721 |
 | Nitrogen dioxide | 134 | 326,578 |
-| Hexanes | 59 | 311,258 |
-| Butane, N- | 248 | 290,970 |
-| Butanes | 162 | 278,947 |
 | VOC - NONMETHANE | 19 | 157,433 |
-| Butane, i | 46 | 147,968 |
-| Propylene (Propene) | 160 | 143,739 |
-| Hexane | 286 | 133,219 |
-| n-butane | 89 | 129,120 |
-| Volatile Organic Compounds | 136 | 117,551 |
-| pentane, iso- | 64 | 115,161 |
+| Nitrogen monoxide | 15 | 141,982 |
+| Butadiene | 249 | 112,297 |
 | Decanes Plus | 20 | 109,305 |
-| Hydrogen chloride | 9 | 104,889 |
-| Pentane, N- | 128 | 93,068 |
-| Hexane, i | 5 | 89,876 |
-| Particulate Matter | 308 | 88,309 |
+| Particulate Matter | 399 | 107,033 |
+| Hydrogen Chloride | 11 | 105,778 |
 | Benzene | 543 | 82,355 |
-| Pentanes | 107 | 76,103 |
-| n-pentane | 68 | 57,942 |
 | Pentene | 18 | 54,974 |
 | Pentane Plus | 48 | 54,401 |
-| 1,3-BUTADIENE | 150 | 48,950 |
-| Butadiene, 1-3 | 65 | 47,878 |
 | Heptanes/C7 Hydrocarbons | 2 | 47,561 |
-| VOC (unclassified) | 22 | 45,234 |
 | C6+ | 51 | 44,653 |
-| NITROGEN | 27 | 37,916 |
+| Ammonia | 108 | 41,035 |
+| Nitrogen | 27 | 37,916 |
+| Heptane | 124 | 37,495 |
 | Ethanol | 4 | 36,976 |
 | C5+ | 59 | 36,157 |
 | C7s | 9 | 34,034 |
 | Butenes, All Isomers | 61 | 34,007 |
 | Cyclopentane, methyl- | 2 | 32,212 |
-| Ammonia | 81 | 31,511 |
-| hexanes + | 56 | 29,851 |
 | VOC GAS MIXTURE | 37 | 28,910 |
+| Isobutylene | 114 | 28,349 |
 | 1-Butene | 80 | 27,413 |
 | C9s | 8 | 25,822 |
-| Heptane | 9 | 23,411 |
-| Hexane Plus | 30 | 23,270 |
 | NMNE Natural Gas | 2 | 23,108 |
 | Toluene | 364 | 21,926 |
 | Butene | 74 | 21,515 |
 | Nitrous Oxides | 10 | 20,452 |
-| i-butane | 11 | 19,739 |
+| Xylenes | 323 | 19,408 |
 | Chlorotrifluoroethylene (CTFE) | 4 | 19,342 |
 | C8s | 7 | 18,045 |
 | Heptanes | 99 | 17,891 |
-| Isobutylene | 75 | 17,814 |
-| Hexane, n | 37 | 17,131 |
-| PM (unspeciated) | 19 | 16,697 |
 | Ethylene oxide | 31 | 15,111 |
 | Hexanes (any isomer) | 30 | 14,747 |
 | t-Butyl Alcohol | 8 | 14,739 |
 | Octane | 90 | 14,067 |
 | C10s | 5 | 13,811 |
-| 1,3 Butadiene | 30 | 13,544 |
 | Cyclopentane | 30 | 10,951 |
 | Trans-2-butene | 138 | 10,819 |
 | Ethylene dichloride | 9 | 10,644 |
 | Cyclohexane | 193 | 10,576 |
-| Isobutene | 39 | 10,534 |
+| Vinyl Chloride | 22 | 10,528 |
 | butene-1 | 9 | 10,389 |
 | Octanes | 67 | 10,034 |
 | VOC - Crude | 1 | 9,750 |
-| NOx (Startup/Shutdown) | 10 | 9,703 |
-| VOC-unclassified | 11 | 9,471 |
-| VCM | 5 | 9,163 |
 | C5+ (not including benzene) | 71 | 9,030 |
-| N-Hexane | 33 | 8,949 |
-| Ammonia, anhydrous | 5 | 8,648 |
 | Nonane | 101 | 8,571 |
 | Methanol | 29 | 8,531 |
 | Anhydrous Ammonia | 4 | 7,849 |
 | 1,2-Dichloroethane | 5 | 7,832 |
 | Cis-2-butene | 141 | 7,495 |
 | 1,1,1,2 - Tetrafluoroethane | 1 | 7,300 |
-| n-Heptane | 19 | 6,762 |
 | Hydrogen | 5 | 6,599 |
 | Acetylene | 90 | 6,397 |
-| Unspeciated VOCs | 21 | 6,337 |
-| Heptane (or n-) | 28 | 6,100 |
 | 2-methylpentane | 10 | 5,834 |
+| Ethylbenzene | 209 | 5,477 |
 | Trans-butene-2 | 12 | 5,441 |
 | Chlorine | 4 | 5,322 |
 | Propylene oxide | 14 | 5,240 |
@@ -12100,24 +10779,17 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Sulfur oxides | 8 | 4,290 |
 | 2-Methyl-1-butene | 8 | 4,166 |
 | Isohexane | 12 | 4,146 |
-| Xylene | 152 | 4,036 |
 | Octanes/C8 Hydrocarbons | 4 | 3,795 |
 | butene c-2 | 1 | 3,746 |
-| Xylene (mixed isomers) | 28 | 3,725 |
 | Vinyl acetate | 6 | 3,639 |
 | Pentenes | 15 | 3,451 |
-| Xylene, m- | 7 | 3,401 |
-| i-pentane | 5 | 3,360 |
 | 1,2,4-Trimethylbenzene | 4 | 3,304 |
 | trans-2-Pentene | 1 | 3,123 |
 | 2-Butene-cis | 29 | 3,088 |
-| Xylene, o- | 14 | 2,999 |
 | Maleic anhydride | 1 | 2,987 |
 | Cyclopentadiene | 13 | 2,882 |
 | Carbon disulfide | 21 | 2,856 |
-| Ethyl Benzene | 10 | 2,827 |
 | Butylene | 21 | 2,676 |
-| Ethylbenzene | 199 | 2,650 |
 | Formaldehyde | 8 | 2,635 |
 | Ethyl acetate | 3 | 2,550 |
 | pentene-1 | 6 | 2,478 |
@@ -12125,14 +10797,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Styrene | 26 | 2,303 |
 | Octene | 10 | 2,211 |
 | Acetone | 16 | 2,143 |
-| Xylenes | 94 | 1,999 |
+| Hydrogen Cyanide | 30 | 2,041 |
 | Octane, n- | 7 | 1,992 |
 | i-Pentane | 3 | 1,984 |
 | Acetonitrile | 8 | 1,961 |
-| Butadiene | 4 | 1,925 |
 | 1-Butene + Isobutylene | 67 | 1,923 |
 | p-ethyltoluene | 1 | 1,919 |
-| H2S | 81 | 1,875 |
 | Vinyl acetate monomer | 1 | 1,835 |
 | Sulfuric acid | 28 | 1,825 |
 | C5 | 4 | 1,800 |
@@ -12144,9 +10814,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,2,3-trimethylbenzene | 3 | 1,672 |
 | n-hexane - 110543 | 3 | 1,596 |
 | Amine | 1 | 1,569 |
-| Hydrogen cyanide | 21 | 1,405 |
-| Xylene, p- | 6 | 1,378 |
-| Vinyl Chloride | 15 | 1,364 |
 | 2-hexene | 1 | 1,290 |
 | VOC (C6+) | 6 | 1,272 |
 | Water (H2O) | 3 | 1,256 |
@@ -12154,14 +10821,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1-octene | 1 | 1,229 |
 | Butene, n- | 2 | 1,229 |
 | 1,2,3,4-tetramethylbenzene | 1 | 1,225 |
-| PM10 | 53 | 1,224 |
 | Methacrylic Acid | 5 | 1,208 |
 | Other C8s | 1 | 1,201 |
 | 2,3,3-Trimethylpentane | 1 | 1,199 |
 | n-tridecane | 1 | 1,178 |
 | Isoprene | 17 | 1,106 |
 | decane | 45 | 1,096 |
-| HEPTANE (OR N-) | 64 | 1,095 |
 | hexene-1 | 6 | 1,077 |
 | 1-Cyclopentyloctane | 1 | 1,075 |
 | heptanal | 1 | 1,056 |
@@ -12177,26 +10842,20 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Dicyclopentadiene | 3 | 896 |
 | Cyclopentene | 4 | 894 |
 | Acetaldehyde | 13 | 891 |
-| Hydrochloric acid | 2 | 889 |
 | 2-Propylnapthalene | 1 | 855 |
 | Isoamyl Alcohol | 3 | 811 |
 | Formic acid | 6 | 807 |
-| M-Xylene | 4 | 804 |
 | Trifluoropropene, 2-Chloro-3,3,3 | 1 | 802 |
 | Hexenes | 6 | 793 |
 | Hydraulic Oil | 2 | 790 |
 | Butyl acrylate | 2 | 786 |
-| O-Xylene | 8 | 768 |
 | 1-Pentene | 14 | 767 |
 | Decenes | 7 | 763 |
 | 1-heptadecene | 1 | 762 |
-| Anhydrous ammonia | 2 | 736 |
 | 1-methylnaphthalene | 1 | 714 |
 | 1,2,3,5 tetramethylbenzene | 1 | 674 |
-| HCN | 9 | 637 |
 | Oxygen | 1 | 636 |
 | Argon | 2 | 633 |
-| PM2.5 | 11 | 631 |
 | Butene1_Isobutene | 3 | 605 |
 | N-Butyl acrylate | 1 | 570 |
 | decanes | 21 | 555 |
@@ -12207,7 +10866,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | n-nonane | 3 | 461 |
 | 3-methylpentene-1 | 1 | 455 |
 | Cycloheptane | 7 | 443 |
-| Other VOCs | 35 | 442 |
 | 2,3-dimethyl-2-diphenylbutane | 1 | 435 |
 | Sulfur oxide | 5 | 432 |
 | Sulfur trioxide | 1 | 430 |
@@ -12216,7 +10874,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C7+ | 5 | 415 |
 | Hexamethylenediamine | 4 | 405 |
 | Pentadiene | 4 | 403 |
-| Propene | 7 | 394 |
 | C8 Compounds | 4 | 393 |
 | Chloroethane | 1 | 385 |
 | Dodecene | 1 | 382 |
@@ -12246,10 +10903,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Mixed Solvents | 1 | 240 |
 | Di(2-ethylhexyl) peroxydicarbonate | 1 | 240 |
 | Acrylamide | 2 | 235 |
+| Cumene | 14 | 234 |
 | C9+ Hydrocarbons | 2 | 234 |
 | C18 | 2 | 228 |
-| Cumene | 13 | 226 |
-| Ethene | 5 | 213 |
 | 4-(Diphenylmethyl)-1,1’-Biphenyl | 1 | 209 |
 | 1,2,4 Trimethylbenzene | 1 | 202 |
 | Methyl acetylene propadiene | 2 | 200 |
@@ -12265,14 +10921,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pentadiene (CIS), 1, 3- | 1 | 160 |
 | Chloromethane | 1 | 154 |
 | Methyl Acrylic Acid | 1 | 151 |
-| P-Xylene | 4 | 149 |
-| NH3 | 20 | 140 |
 | Ethyl chloride | 4 | 140 |
 | Propadiene | 14 | 131 |
 | C19 | 1 | 130 |
 | 1-cyclohexyltetradecane | 1 | 128 |
 | Butyl alcohol, tert- | 3 | 127 |
-| Heptane,-n | 4 | 127 |
 | Methylcyclopentadiene | 2 | 126 |
 | Trimethylpentane, 2,2,4- | 4 | 120 |
 | C5s | 5 | 118 |
@@ -12287,11 +10940,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2 methyl pentane | 2 | 104 |
 | undecane | 1 | 103 |
 | 2-Methyl-3-butenenitrile | 2 | 101 |
-| PM10 Cement(Portland) | 1 | 100 |
 | n-Decane | 1 | 100 |
 | Methyl Acetylene | 5 | 97 |
 | Dodecane | 1 | 97 |
-| metaxylene | 2 | 94 |
 | 2-methyl hexanal | 1 | 88 |
 | Isooctane | 1 | 87 |
 | Glycydyl Methacrylate | 2 | 87 |
@@ -12315,16 +10966,14 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | decene-1 | 2 | 59 |
 | Cyclohexanol | 9 | 59 |
 | TOC/VOC | 1 | 58 |
-| paraxylene | 4 | 57 |
 | C10+ | 1 | 54 |
-| PM10 Silica,crystalline | 1 | 54 |
 | CARBON BLACK | 1 | 52 |
+| Naphthalene | 8 | 50 |
 | 1-methylindene | 1 | 48 |
 | Nonanes/C9 Hydrocarbons | 2 | 47 |
 | 4,4’-Bis(1,1-Dimethylpropyl)-1,1’-Biphenyl | 1 | 46 |
-| Sulfur dioxide (anhydrous) | 2 | 46 |
+| MEK | 5 | 46 |
 | 1,3-Pentadiene | 1 | 46 |
-| Napthalene | 1 | 43 |
 | Diphenyl | 1 | 43 |
 | 3-methyloctane | 1 | 42 |
 | Butyraldehyde | 1 | 41 |
@@ -12332,7 +10981,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1-methylcyclohexane | 1 | 40 |
 | 1-methyl-2-ethylbenzene | 1 | 38 |
 | p-Benzoquinone | 1 | 37 |
-| Methyl ethyl ketone (MEK) | 4 | 33 |
 | Tert Butylhydroperoxide | 4 | 33 |
 | 1,3,5-trimethylbenzene | 3 | 32 |
 | Hexane, 3-methyl- | 1 | 31 |
@@ -12362,14 +11010,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Other C9s | 1 | 18 |
 | Dimethylamine | 1 | 18 |
 | Indene | 1 | 16 |
-| PM 2.5 | 5 | 15 |
 | 3-methylhexane | 1 | 15 |
 | n-undecane | 1 | 15 |
 | SUCCINONITRILE | 1 | 15 |
 | 2-Methyl-Pentane | 1 | 15 |
 | ethylcyclohexane | 3 | 13 |
 | Methyl Styrene | 1 | 13 |
-| MEK | 1 | 13 |
 | Heavy Olefins | 1 | 13 |
 | 2 Methylhexane | 1 | 12 |
 | VOC (light hydrocarbons) | 1 | 12 |
@@ -12382,13 +11028,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C14 | 1 | 9 |
 | 2-methylpentene-1 | 1 | 9 |
 | 2 -methylpentane | 2 | 9 |
-| Isopropylbenzene | 1 | 8 |
 | C4 | 4 | 8 |
 | Ecyclohexane | 2 | 8 |
 | Hexamethyleneimine | 2 | 7 |
 | Acrolein | 6 | 7 |
 | 1-Nonene | 2 | 7 |
-| Naphthalene | 7 | 7 |
 | c-2-Pentene | 1 | 7 |
 | Isobutylene Oxide | 3 | 7 |
 | Heptenes | 1 | 6 |
@@ -12407,7 +11051,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Propionaldehyde | 1 | 4 |
 | Methyl isobutyl ketone | 1 | 3 |
 | t-pentene-2 | 1 | 3 |
-| Cement (wet or dry) | 1 | 3 |
 | Lead | 4 | 2 |
 | Nickel | 3 | 2 |
 | 2-methyl-1,3-butadiene | 1 | 2 |
@@ -12417,11 +11060,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | t-2-Pentene | 1 | 2 |
 | 2,2-DIMETHYLBUTANE | 1 | 1 |
 | Dimethyl ether | 1 | 1 |
-| Dihydrogen Sulfide | 4 | 1 |
 | Tetrachloroethylene | 1 | 1 |
 | Methyl formate | 1 | 1 |
 | tert-butyl alcohol | 2 | 1 |
-| Vinyl Chloride Monomer | 2 | 1 |
 | 1,1-Dichloroethane | 1 | 1 |
 | Sulfolane | 2 | 1 |
 | total reduced sulfur | 5 | 1 |
@@ -12448,93 +11089,66 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Contaminant | Releases | POUNDS |
 |---|---|---|
 | Carbon Monoxide | 1680 | 9,635,192 |
-| Sulfur dioxide | 1383 | 7,361,428 |
+| Sulfur dioxide | 1386 | 7,365,613 |
 | Natural Gas VOCs | 480 | 4,119,304 |
+| Butanes | 1111 | 2,495,929 |
+| VOC | 584 | 2,205,757 |
 | NATURAL GAS | 75 | 2,175,854 |
-| Nitrogen Oxides (NOx) | 1246 | 1,828,008 |
-| Propane | 764 | 1,768,890 |
-| Isobutane | 315 | 1,681,260 |
-| VOC | 395 | 1,104,159 |
-| Ethylene (gaseous) | 245 | 752,057 |
-| VOC-unclassified | 3 | 691,620 |
-| Particulate Matter | 163 | 657,278 |
-| Ethylene | 176 | 544,610 |
-| Nitrogen oxide | 386 | 482,464 |
+| Nitrogen Oxides (NOx) | 1258 | 1,850,414 |
+| Propane | 806 | 1,826,951 |
+| Ethylene | 423 | 1,296,672 |
+| Particulate Matter | 274 | 678,395 |
+| Nitrogen oxide | 380 | 466,205 |
 | Carbon Dioxide | 24 | 421,373 |
-| VOCs | 101 | 360,490 |
+| Propylene | 407 | 405,265 |
+| Pentanes | 542 | 367,006 |
 | Methane | 35 | 309,535 |
-| Butane | 346 | 287,943 |
-| Propylene | 268 | 278,332 |
-| Butane, N- | 192 | 207,304 |
-| Butanes | 160 | 156,778 |
-| Hydrogen Sulfide | 1131 | 130,278 |
+| Hexanes | 337 | 191,552 |
+| Hydrogen Sulfide | 1202 | 155,140 |
 | VOC - NONMETHANE | 22 | 129,349 |
-| Propylene (Propene) | 132 | 126,803 |
 | VOC GAS MIXTURE | 46 | 121,927 |
-| n-butane | 67 | 115,162 |
 | Nitrogen dioxide | 124 | 105,195 |
 | Pentane Plus | 44 | 104,473 |
 | Non-Methane Non-Ethane Natural Gas | 105 | 102,370 |
+| Butadiene | 175 | 102,084 |
 | NMNE Natural Gas | 3 | 92,429 |
 | VOC MIXTURE | 2 | 90,357 |
 | Ethane | 43 | 90,242 |
-| Pentane, N- | 69 | 89,265 |
-| Isopentane | 93 | 85,255 |
 | VOC Gas Mixture | 4 | 83,195 |
-| Pentane | 211 | 76,859 |
 | Natural Gas Liquid (Mixture) | 2 | 65,720 |
-| hexanes + | 26 | 62,503 |
-| 1,3-BUTADIENE | 86 | 62,444 |
-| Propane, N- | 42 | 58,061 |
-| Pentanes | 95 | 55,505 |
+| Hydrogen Chloride | 14 | 59,998 |
 | Benzene | 447 | 55,207 |
-| Hexane | 219 | 48,166 |
 | Methanol | 22 | 46,818 |
 | Methyl mercaptan | 2 | 44,171 |
 | butene-1 | 2 | 43,859 |
 | Nitric oxide | 15 | 42,661 |
-| Hexanes | 33 | 42,140 |
 | VOC (C6+) | 3 | 38,472 |
 | Butenes, All Isomers | 57 | 37,767 |
-| pentane, iso- | 25 | 34,180 |
-| Hydrochloric acid | 4 | 34,003 |
+| Ammonia | 91 | 36,813 |
 | Fuel Oil | 4 | 31,068 |
 | Heptanes | 37 | 29,572 |
-| Butane, i | 19 | 28,018 |
-| Hydrogen chloride | 10 | 25,996 |
 | Vinyl acetate | 4 | 25,794 |
-| Volatile Organic Compounds | 28 | 25,218 |
-| H2S | 71 | 24,863 |
-| Ammonia | 50 | 24,364 |
 | Anhydrous Ammonia | 1 | 24,000 |
-| NITROGEN | 12 | 22,765 |
-| Hexane Plus | 12 | 22,737 |
+| Nitrogen | 12 | 22,765 |
 | Toluene | 276 | 22,518 |
-| NOx (Startup/Shutdown) | 12 | 22,406 |
-| Ethanol | 2 | 22,145 |
-| n-pentane | 42 | 21,707 |
-| Butadiene, 1-3 | 45 | 19,680 |
-| i-butane | 12 | 19,465 |
+| Ethanol | 4 | 22,228 |
+| Isobutylene | 88 | 21,081 |
 | Propylene oxide | 19 | 17,994 |
 | 1-METHYL-2-PYRROLIDINONE | 1 | 17,400 |
-| Isobutylene | 64 | 17,189 |
-| 1,3 Butadiene | 41 | 15,745 |
-| PM10 | 52 | 15,096 |
+| Nitrogen monoxide | 6 | 16,259 |
 | C5+ (not including benzene) | 61 | 14,604 |
 | Acetylene | 69 | 13,704 |
 | 1-Butene | 76 | 13,276 |
-| Unspeciated VOCs | 20 | 12,472 |
 | Propylene Carbonate (PC) | 1 | 11,587 |
-| VOC (unclassified) | 26 | 11,566 |
 | i-Pentane | 8 | 11,513 |
 | Pentenes | 11 | 11,468 |
-| Hexane, n | 20 | 11,286 |
-| Anhydrous ammonia | 7 | 11,013 |
+| Heptane | 111 | 11,328 |
 | FLY ASH | 2 | 10,050 |
 | n-hexane - 110543 | 6 | 9,962 |
 | Hexanes (any isomer) | 44 | 9,591 |
 | Butene | 29 | 8,485 |
 | Crude Oil | 3 | 8,225 |
+| Xylenes | 241 | 7,996 |
 | C6+ | 45 | 7,187 |
 | Ammonium Phosphate | 1 | 6,988 |
 | C5 | 7 | 6,679 |
@@ -12544,7 +11158,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Trans-2-butene | 85 | 5,919 |
 | Polyphenylene Sulfide | 1 | 5,813 |
 | 2,2,4-Trimethylpentane | 2 | 5,485 |
-| Heptane,-n | 5 | 5,291 |
 | Dichloroacetaldehyde | 1 | 5,233 |
 | Acetaldol (3-hydroxybutanal) | 1 | 5,233 |
 | Decanes Plus | 64 | 5,178 |
@@ -12554,65 +11167,52 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Acetaldehyde | 8 | 4,705 |
 | Naphthalene | 9 | 4,415 |
 | Nitrous Oxides | 3 | 4,323 |
-| i-pentane | 7 | 4,234 |
-| Butadiene | 3 | 4,215 |
 | Octanes | 28 | 4,203 |
-| Sulfur dioxide (anhydrous) | 3 | 4,185 |
 | isopentene | 3 | 4,078 |
 | Cis-2-butene | 85 | 3,910 |
-| Isobutene | 24 | 3,892 |
 | C5+ | 40 | 3,713 |
 | VOC - Crude | 1 | 3,576 |
-| Heptane (or n-) | 15 | 3,564 |
 | Butylene | 36 | 3,494 |
 | Cyclohexane | 119 | 3,311 |
-| N-Hexane | 21 | 3,232 |
 | Dimethyl sulfide | 2 | 3,093 |
 | Trichloroacetaldehyde | 1 | 2,970 |
 | Methyl chloride | 2 | 2,941 |
-| PM2.5 | 18 | 2,814 |
 | Propyl Acetate | 2 | 2,759 |
-| Xylenes | 44 | 2,723 |
 | Hexene | 17 | 2,527 |
 | Nonane | 86 | 2,493 |
 | C4+ | 2 | 2,491 |
-| Hydrogen fluoride | 1 | 2,446 |
+| Hydrogen Fluoride | 2 | 2,464 |
+| Hydrogen Cyanide | 17 | 2,376 |
 | Octane | 79 | 2,358 |
 | Cyclopentadiene | 12 | 2,329 |
 | Trans-butene-2 | 17 | 2,308 |
-| Hydrogen cyanide | 14 | 2,293 |
 | Methyl Acetate | 6 | 2,275 |
 | Butene, n- | 4 | 2,101 |
 | Chlorodifluoromethane | 1 | 1,999 |
 | Cyclopentane | 6 | 1,805 |
-| Xylene | 142 | 1,753 |
 | Other material | 2 | 1,738 |
 | Methyl iodide | 1 | 1,665 |
-| PM (unspeciated) | 30 | 1,615 |
 | Cis-butene-2 | 18 | 1,601 |
 | Ethyl chloride | 4 | 1,600 |
 | Styrene | 24 | 1,537 |
 | t-Butyl Alcohol | 5 | 1,513 |
 | 2,3-Dimethylpentane | 1 | 1,491 |
-| Hexane, i | 6 | 1,489 |
 | Cyclohexanone | 2 | 1,485 |
 | Naphtha | 2 | 1,480 |
-| Heptane | 9 | 1,446 |
 | Carbon disulfide | 12 | 1,434 |
 | Cyclopentene | 4 | 1,410 |
 | Formaldehyde | 8 | 1,321 |
 | Nonanes | 30 | 1,320 |
-| Ammonia, anhydrous | 6 | 1,283 |
 | Formic acid | 3 | 1,264 |
-| Xylene (mixed isomers) | 23 | 1,254 |
 | Methyl acrylate | 2 | 1,151 |
 | 1-hexene | 1 | 1,133 |
 | Sodium hydroxide | 4 | 1,107 |
 | Ethyl acetate | 3 | 1,097 |
 | Octane, all isomers | 1 | 1,056 |
+| Ethylbenzene | 142 | 980 |
+| Vinyl Chloride | 14 | 962 |
 | Hydrogen | 8 | 945 |
 | Ethylene dichloride | 6 | 944 |
-| Xylene, m- | 7 | 922 |
 | Iso-Butene | 1 | 918 |
 | Octane, n- | 11 | 914 |
 | 2,3,4-trimethylpentane | 1 | 913 |
@@ -12625,28 +11225,22 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Epichlorohydrin | 4 | 760 |
 | Isopropyl alcohol | 2 | 747 |
 | Octene | 6 | 720 |
-| Vinyl Chloride | 7 | 687 |
 | C12+ hydrocarbons | 3 | 674 |
 | 2,3,3-Trimethylpentane | 1 | 664 |
-| n-Heptane | 8 | 630 |
 | Aromatic 100 | 1 | 609 |
-| PM10 Sand | 1 | 608 |
 | N-Methyl-2-pyrrolidone | 1 | 586 |
 | Trimethylcyclopentane | 1 | 581 |
 | Propanol, n- | 1 | 569 |
 | Propionaldehyde | 2 | 566 |
 | 1-Butene + Isobutylene | 28 | 554 |
 | Isooctane | 1 | 520 |
-| Ethyl Benzene | 9 | 517 |
 | PM 2.5 Sand | 1 | 516 |
 | Chlorine | 8 | 515 |
 | Carbonyl sulfide | 11 | 514 |
 | Octanes/C8 Hydrocarbons | 3 | 511 |
 | Solvent Naphtha (Petroleum), Heavy Aromatic | 1 | 505 |
 | Methylcyclohexane | 3 | 494 |
-| PM10 Cement(Portland) | 6 | 482 |
 | Gas Oil VOC's - Unspeciated | 1 | 467 |
-| Ethylbenzene | 133 | 463 |
 | Acetone | 11 | 461 |
 | Cycloheptane | 2 | 456 |
 | Ethylmethylcyclopentane | 1 | 452 |
@@ -12659,35 +11253,28 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isoamyl Alcohol | 2 | 407 |
 | Lactic Acid | 2 | 405 |
 | C5s | 3 | 404 |
-| HEPTANE (OR N-) | 74 | 397 |
 | Dimethylcyclohexane | 2 | 391 |
-| Xylene, p- | 6 | 381 |
 | 2-Methyl-1-butene | 6 | 367 |
 | Tetraethylammonium Bromide (TEAB) Catalyst | 1 | 358 |
 | C15+ Hydrocarbons | 1 | 355 |
 | Sulfuric acid | 15 | 353 |
-| PM10 Calcium carbonate-CaCO3 | 1 | 342 |
 | 2,4-Dimethylhexane | 1 | 337 |
-| M-Xylene | 6 | 335 |
 | C10s | 1 | 332 |
 | C5 Plus | 3 | 330 |
 | Dimethylcyclopentane | 1 | 326 |
 | Butyraldehyde | 1 | 323 |
-| Xylene, o- | 6 | 320 |
 | Other | 21 | 309 |
 | Methyloctanes | 1 | 308 |
 | Methylhexanes | 1 | 307 |
 | SOx | 1 | 305 |
 | 1-pentanol | 2 | 301 |
 | Halon 1301 (Bromotrifluoromethane) | 1 | 300 |
-| Diesel (unspeciated) | 1 | 280 |
+| Diesel | 1 | 280 |
 | Paraffins | 1 | 276 |
-| VCM | 4 | 266 |
 | Trimethylbenzene, 1,2,4- | 3 | 264 |
 | dimethylheptane | 1 | 250 |
 | Methyl Acetylene | 5 | 247 |
 | hydroxycaproic acid | 1 | 234 |
-| Other VOCs | 11 | 234 |
 | decanes | 13 | 230 |
 | Isobutyraldehyde | 1 | 230 |
 | C6 (not including benzene) | 2 | 230 |
@@ -12695,32 +11282,27 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Tetradecanes/C14 Hydrocarbons | 1 | 214 |
 | C6-C8 Non Aromatics | 15 | 210 |
 | tert-butyl alcohol | 2 | 200 |
-| Cumene | 6 | 197 |
+| Cumene | 7 | 198 |
 | Tert Butanol | 2 | 197 |
 | Pentanoic Acid | 1 | 195 |
 | Hexanoic Acid | 1 | 188 |
 | 2-Ethylhexanol | 2 | 185 |
 | Methyl,ethylcyclohexane | 1 | 183 |
-| P-Xylene | 3 | 182 |
 | decane | 22 | 175 |
 | Chlorocyclohexane | 1 | 167 |
 | Propadiene | 8 | 163 |
-| Cement (wet or dry) | 2 | 160 |
 | Sodium hydrosulfide | 1 | 159 |
 | 1,2-Dichloroethane | 3 | 158 |
-| NH3 | 28 | 153 |
 | C8s | 2 | 151 |
 | BIODIESEL(B99) | 1 | 151 |
 | Trimethylcyclohexanes | 1 | 146 |
 | 2-Methyl-2-Butene | 4 | 139 |
 | 2-Butoxyethanol | 2 | 132 |
 | C-8 Hydrocarbons | 1 | 131 |
-| Propene | 7 | 130 |
 | ground frp | 2 | 130 |
 | Methyl acetylene propadiene | 2 | 129 |
 | Ethylcyclopentane | 1 | 128 |
 | Polycyclic Aromatic Hydrocarbons | 1 | 126 |
-| O-Xylene | 4 | 125 |
 | Diphenyl ether | 1 | 125 |
 | C10 Isoparaffins | 1 | 124 |
 | C-9 to C-12 Hydrocarbons | 1 | 121 |
@@ -12744,8 +11326,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C6s | 4 | 88 |
 | cyclooctane | 2 | 87 |
 | Dimethylpentanes | 2 | 86 |
-| Ethyl alcohol | 2 | 83 |
-| HCN | 3 | 83 |
 | Ethyltoluene | 1 | 82 |
 | alpha methyl styrene | 2 | 77 |
 | Butene1_Isobutene | 8 | 77 |
@@ -12816,7 +11396,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Ethyl acrylate | 1 | 19 |
 | n-propylbenzene | 1 | 19 |
 | t-nonene-3 | 1 | 19 |
-| Hydrogen fluoride (anhydrous) | 1 | 18 |
 | Methyl amyl ketone | 1 | 18 |
 | 3-methylbutene-1 | 4 | 17 |
 | Butylcyclohexane | 1 | 16 |
@@ -12847,7 +11426,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Acrylonitrile | 3 | 9 |
 | dihydro-DCPD | 2 | 9 |
 | Indan | 1 | 9 |
-| Vinyl Chloride Monomer | 3 | 9 |
 | Methylacetylene Propadiene | 1 | 9 |
 | Hexenes | 1 | 9 |
 | N-Hexylamine | 1 | 8 |
@@ -12862,7 +11440,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | i-propylbenzene | 1 | 7 |
 | Acrylic acid | 1 | 6 |
 | trans-2-Pentene | 1 | 6 |
-| Ethene | 2 | 6 |
 | n-nonane | 1 | 6 |
 | SUCCINIC ACID | 1 | 5 |
 | Tridecane | 1 | 5 |
@@ -12880,7 +11457,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Dodecane | 1 | 3 |
 | pentadecane | 1 | 3 |
 | 2-methylpentane | 3 | 3 |
-| Methyl ethyl ketone | 2 | 3 |
+| MEK | 2 | 3 |
 | 1,2,3-Trichloropropane, | 1 | 3 |
 | MTBE | 1 | 3 |
 | Maleic Acid Monoethyl Ester | 2 | 3 |
@@ -12929,8 +11506,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | cis-1,3-pentadiene | 1 | 0 |
 | Heptene | 1 | 0 |
 | Solvent Naphtha (Petroleum), Light Aromatic | 1 | 0 |
-| PM 2.5 | 1 | 0 |
-| Isopropylbenzene | 1 | 0 |
 | Polyisobutylene byproduct | 1 | 0 |
 | Nonene | 1 | 0 |
 | 2-Methyl-3-butenenitrile | 1 | 0 |
@@ -12943,117 +11518,86 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 1281 | 15,446,720 |
+| Sulfur dioxide | 1282 | 15,446,720 |
 | Carbon Monoxide | 1707 | 11,120,929 |
 | Natural Gas VOCs | 540 | 7,497,328 |
-| Nitrogen Oxides (NOx) | 1554 | 3,404,033 |
-| VOCs | 91 | 3,274,246 |
-| Ethylene (gaseous) | 171 | 834,591 |
-| Propane | 501 | 771,175 |
-| VOC | 378 | 754,134 |
-| Ethylene | 171 | 540,690 |
+| VOC | 587 | 4,167,702 |
+| Nitrogen Oxides (NOx) | 1564 | 3,408,147 |
+| Ethylene | 346 | 1,375,311 |
+| Butanes | 753 | 838,101 |
+| Propane | 518 | 800,842 |
 | VOC - NONMETHANE | 206 | 345,538 |
 | Non-Methane Non-Ethane Natural Gas | 150 | 326,924 |
-| Butane | 155 | 280,450 |
 | NATURAL GAS | 21 | 264,875 |
-| Isobutane | 274 | 221,496 |
-| Butanes | 111 | 197,544 |
+| Pentanes | 356 | 263,129 |
+| Propylene | 339 | 261,008 |
+| Hydrogen Sulfide | 1171 | 237,373 |
 | Diesel | 2 | 196,834 |
-| Hydrogen Sulfide | 947 | 190,430 |
 | Cyclohexane | 56 | 173,430 |
-| Propylene | 216 | 165,865 |
-| Particulate Matter | 179 | 158,277 |
+| Particulate Matter | 315 | 170,215 |
 | NMNE Natural Gas | 10 | 144,640 |
 | Benzene | 342 | 141,718 |
-| Pentane | 75 | 139,510 |
 | VOC Gas Mixture | 6 | 129,942 |
-| Nitrogen oxide | 102 | 129,604 |
-| Volatile Organic Compounds | 43 | 116,437 |
+| Hexanes | 166 | 128,149 |
+| Butadiene | 151 | 123,988 |
+| Nitrogen oxide | 100 | 118,855 |
 | Crude Oil | 5 | 105,524 |
-| Propylene (Propene) | 117 | 94,921 |
-| 1,3-BUTADIENE | 87 | 94,262 |
 | VOC GAS MIXTURE | 23 | 91,299 |
 | Toluene | 186 | 82,043 |
 | Carbon Dioxide | 11 | 81,418 |
-| n-butane | 44 | 73,322 |
 | 1-octene | 1 | 72,171 |
 | Methane | 14 | 71,801 |
 | Methylene chloride | 2 | 59,890 |
-| Butane, N- | 150 | 55,933 |
 | C5 | 2 | 54,977 |
-| Pentanes | 80 | 53,635 |
-| Hexane | 49 | 53,205 |
-| H2S | 224 | 46,944 |
 | 1-Butene | 53 | 44,731 |
 | Ethane, 1,1,1,2-Tetrafluoro-(HFC-134a) | 1 | 44,150 |
 | Cycloheptane | 1 | 40,077 |
 | PM30 | 4 | 38,628 |
 | C5+ | 50 | 38,165 |
-| Hexanes | 40 | 36,016 |
 | Heptanes | 45 | 35,595 |
 | Pentane Plus | 14 | 34,027 |
-| Isopentane | 91 | 32,138 |
 | n-Decane | 11 | 31,993 |
-| Propane, N- | 17 | 29,667 |
 | Ethane | 19 | 29,002 |
 | Butene | 29 | 26,702 |
-| 1,3 Butadiene | 22 | 22,280 |
-| n-pentane | 35 | 21,518 |
 | Nitrogen dioxide | 39 | 20,731 |
+| Xylenes | 178 | 20,669 |
 | Nitrous Oxides | 5 | 18,639 |
-| N-Hexane | 29 | 18,099 |
+| Ammonia | 86 | 17,440 |
 | n-octane | 10 | 17,381 |
-| Ammonia | 64 | 16,884 |
 | Butenes, All Isomers | 49 | 15,777 |
 | Gasoline Vapor | 3 | 15,659 |
+| Isobutylene | 102 | 14,711 |
 | n-nonane | 9 | 14,628 |
-| Unspeciated VOCs | 42 | 13,074 |
-| Hexane Plus | 10 | 12,656 |
 | R-134A Refrigerant | 1 | 12,474 |
-| Isobutene | 20 | 10,602 |
+| Nitrogen monoxide | 2 | 10,749 |
 | Octanes | 31 | 10,214 |
 | Acetic acid | 12 | 10,041 |
 | Pentenes | 29 | 10,029 |
-| Pentane, N- | 59 | 9,704 |
-| VOC (unclassified) | 27 | 9,081 |
 | Trans-butene-2 | 24 | 8,787 |
 | Cyclopentadiene | 17 | 8,459 |
 | C9 Aromatics | 1 | 8,417 |
 | VOC - Crude | 1 | 8,260 |
-| NITROGEN | 8 | 8,003 |
-| Xylene | 74 | 7,289 |
+| Nitrogen | 8 | 8,003 |
 | Chlorodifluoromethane | 1 | 6,750 |
 | Acetylene | 65 | 5,680 |
 | Ethanol | 3 | 5,508 |
-| PM (unspeciated) | 25 | 5,494 |
+| Hydrogen Chloride | 8 | 5,437 |
 | Hexanes (any isomer) | 7 | 5,347 |
-| Butadiene, 1-3 | 36 | 5,246 |
-| Butane, i | 16 | 4,971 |
-| PM10 | 73 | 4,677 |
 | C5+ (not including benzene) | 32 | 4,538 |
 | Hexene | 20 | 4,526 |
-| i-butane | 3 | 4,387 |
 | Isohexane | 3 | 4,311 |
-| Hydrochloric acid | 3 | 4,262 |
-| NOx (Startup/Shutdown) | 10 | 4,113 |
-| Isobutylene | 82 | 4,109 |
-| Ethylbenzene | 99 | 4,076 |
+| Ethylbenzene | 106 | 4,143 |
 | Ethylene dichloride | 7 | 4,056 |
 | decanes | 12 | 4,029 |
-| hexanes + | 15 | 4,025 |
 | Trans-2-butene | 73 | 3,949 |
+| Heptane | 26 | 3,903 |
 | butene c-2 | 6 | 3,900 |
-| M-Xylene | 15 | 3,888 |
-| i-pentane | 3 | 3,876 |
 | Methyl mercaptan | 1 | 3,748 |
 | Gasoline | 4 | 3,448 |
 | 2-methylpentane | 2 | 3,312 |
 | 1,2,3-trimethylbenzene | 1 | 3,238 |
-| Hexane, n | 20 | 3,029 |
 | Crude Condensate | 1 | 2,840 |
-| Xylenes | 33 | 2,829 |
 | Nitric oxide | 2 | 2,806 |
-| pentane, iso- | 13 | 2,747 |
 | Pentadiene | 11 | 2,609 |
 | Anhydrous Ammonia | 1 | 2,542 |
 | 2-Methylhexane | 3 | 2,466 |
@@ -13061,13 +11605,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C7+ | 1 | 2,420 |
 | Octane | 23 | 2,405 |
 | Cis-2-butene | 73 | 2,352 |
-| Xylene (mixed isomers) | 26 | 2,306 |
 | t-Butyl Alcohol | 9 | 2,260 |
 | Ethylene oxide | 13 | 2,204 |
-| Butadiene | 6 | 2,201 |
 | Naphtha | 2 | 2,098 |
 | SOx | 4 | 2,096 |
-| Xylene, m- | 7 | 2,089 |
 | Methylcyclopentane | 6 | 1,999 |
 | N-Butyl acrylate | 2 | 1,939 |
 | Propylene oxide | 17 | 1,803 |
@@ -13076,10 +11617,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C6+ | 46 | 1,605 |
 | butenes | 6 | 1,548 |
 | Butylene | 24 | 1,533 |
-| Heptane (or n-) | 13 | 1,514 |
 | Hexane, all isomers | 3 | 1,489 |
 | Cyclopentane | 10 | 1,481 |
-| n-Heptane | 4 | 1,463 |
 | Monochlorobenzene | 1 | 1,440 |
 | 1,3,5-trimethylbenzene | 1 | 1,439 |
 | Nonane | 18 | 1,414 |
@@ -13090,42 +11629,31 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2,2,4-Trimethylpentane | 10 | 1,218 |
 | Dimethylcyclopentane | 1 | 1,192 |
 | Methyl Acetate | 4 | 1,189 |
-| Hydrogen chloride | 5 | 1,175 |
 | Methylcyclohexane | 5 | 1,126 |
-| Hexane, i | 3 | 1,121 |
 | Methyl chloride | 1 | 1,113 |
+| Hydrogen Cyanide | 16 | 1,112 |
 | VOC MIXTURE | 5 | 1,102 |
+| Vinyl Chloride | 9 | 1,097 |
 | isopentene | 1 | 1,070 |
 | i-Pentane | 1 | 1,047 |
 | Octane, all isomers | 1 | 1,030 |
-| PM10 Sand | 3 | 967 |
-| Heptane | 6 | 909 |
 | Monopropylene Glycol | 4 | 872 |
 | Carbon disulfide | 8 | 869 |
 | Nitric acid | 2 | 835 |
-| Hydrogen cyanide | 12 | 831 |
-| PM2.5 | 35 | 800 |
+| Naphthalene | 9 | 757 |
 | Acetone | 12 | 751 |
-| VOC-unclassified | 1 | 702 |
 | PM 2.5 Sand | 2 | 698 |
 | Vinyl acetate | 7 | 694 |
-| Napthalene | 2 | 686 |
 | Acetonitrile | 10 | 682 |
 | Acetaldehyde | 9 | 619 |
 | Chloroform | 5 | 618 |
-| Xylene, p- | 5 | 602 |
 | 2,3-Dimethylpentane | 1 | 595 |
 | Cyclopentene | 9 | 586 |
-| Xylene, o- | 6 | 585 |
-| Vinyl Chloride | 6 | 585 |
 | Tetramethyl benzene | 1 | 573 |
 | Lube oil | 1 | 560 |
 | Hydrogen | 5 | 558 |
-| P-Xylene | 5 | 550 |
 | C5 Plus | 5 | 545 |
-| O-Xylene | 7 | 531 |
 | Acrylic acid | 1 | 523 |
-| VCM | 2 | 507 |
 | 2-methylheptane | 1 | 493 |
 | Water (H2O) | 2 | 493 |
 | 1-Pentene | 8 | 480 |
@@ -13141,7 +11669,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C12+ hydrocarbons | 6 | 373 |
 | C6 (not including benzene) | 1 | 355 |
 | Epichlorohydrin | 7 | 333 |
-| Anhydrous ammonia | 2 | 332 |
 | CARBON BLACK | 4 | 322 |
 | 2-Pyrrolidone | 1 | 317 |
 | Formaldehyde | 6 | 317 |
@@ -13151,7 +11678,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Diphenyl ether | 1 | 295 |
 | Mineral oil | 1 | 292 |
 | 2,3-dimethylbutane | 1 | 286 |
-| HCN | 4 | 281 |
 | Pentenenitrile | 1 | 267 |
 | Titanium dioxide | 1 | 250 |
 | Isoheptane | 1 | 248 |
@@ -13163,13 +11689,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isooctane | 2 | 233 |
 | 2-Ethylhexanol | 1 | 228 |
 | 1-Chloropropane | 3 | 227 |
-| Propene | 6 | 222 |
 | Sulfur oxides | 3 | 221 |
 | 1,2-Dichloroethane | 2 | 217 |
 | 1-Butene + Isobutylene | 16 | 212 |
 | 1,3-Dichloropropene | 2 | 206 |
 | Pentene | 8 | 198 |
-| Ammonia, anhydrous | 2 | 194 |
 | Cis-butene-2 | 18 | 172 |
 | Octane, n- | 2 | 170 |
 | Cyclohexanone | 4 | 169 |
@@ -13212,13 +11736,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C9's | 1 | 76 |
 | C14-C15s | 1 | 73 |
 | TRS | 8 | 73 |
-| Naphthalene | 7 | 71 |
 | trans-1,3-pentadiene | 2 | 69 |
 | trans-2-pentene | 3 | 68 |
 | C12-C13s | 1 | 68 |
 | Cresol, m- | 2 | 67 |
 | C16-C17s | 1 | 67 |
-| Ethyl Benzene | 7 | 66 |
 | methylstyrene | 2 | 66 |
 | Undecane | 1 | 65 |
 | Sulfuric acid | 22 | 65 |
@@ -13254,11 +11776,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Para Diisoproplbenzene | 1 | 32 |
 | Trimethylbenzene, 1,2,4- | 1 | 32 |
 | Formic acid | 6 | 30 |
-| Ethene | 4 | 30 |
-| NH3 | 18 | 30 |
 | 2,3-Dichloropropene | 4 | 30 |
 | 2-Butene-trans | 2 | 28 |
-| Other VOCs | 5 | 28 |
 | Benzene, (2-methylpropyl)- | 2 | 26 |
 | olefins | 1 | 26 |
 | p-DIPB Mono Hydro Peroxide | 1 | 25 |
@@ -13276,7 +11795,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Polypropylene | 1 | 17 |
 | Isobutylene Oxide | 5 | 17 |
 | Butylcyclohexane | 1 | 16 |
-| HEPTANE (OR N-) | 2 | 16 |
 | 1-Undecene | 1 | 16 |
 | C11s | 2 | 15 |
 | C12s | 2 | 15 |
@@ -13307,7 +11825,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Vinyl acetylene | 2 | 5 |
 | Ethyltoluenes | 1 | 5 |
 | Sulfur Compounds | 1 | 5 |
-| Vinyl Chloride Monomer | 1 | 4 |
 | Nonanes/C9 Hydrocarbons | 1 | 4 |
 | n-hexane - 110543 | 2 | 4 |
 | Isopropylchloride | 1 | 4 |
@@ -13325,7 +11842,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 3-Methyl-Pentane | 1 | 1 |
 | 1,3 Pentadiene | 5 | 1 |
 | 2,2-Dimethylpropane | 1 | 1 |
-| Heptane,-n | 1 | 1 |
 | dicyclopentadiene | 2 | 1 |
 | N-Hexylamine | 4 | 1 |
 | Ethyl acetylene | 1 | 1 |
@@ -13335,12 +11851,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1-methylcyclohexane | 1 | 1 |
 | Butene1_Isobutene | 1 | 1 |
 | 2-methyl-butane | 1 | 1 |
+| MEK | 5 | 1 |
 | 1,1-Dichloroethane | 3 | 0 |
 | cyclohexene | 1 | 0 |
 | 2-Methyl-1-butene | 2 | 0 |
 | Fuel Oil | 1 | 0 |
-| Methyl ethyl ketone (MEK) | 4 | 0 |
-| Methyl ethyl ketone | 1 | 0 |
 | Chlorine | 1 | 0 |
 | Ethylacetylene | 2 | 0 |
 | Trichloroethylene | 2 | 0 |
@@ -13365,7 +11880,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Propionitrile | 1 | 0 |
 | Benzo[ghi]perylene | 1 | 0 |
 | Adiponitrile | 2 | 0 |
-| Sulfur dioxide (anhydrous) | 1 | 0 |
 | Ethyl tert-butyl ether | 1 | 0 |
 | 2-Butene-cis | 1 | 0 |
 | C14s | 1 | 0 |
@@ -13381,88 +11895,61 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon Monoxide | 1566 | 7,668,051 |
 | Sulfur dioxide | 1213 | 7,274,538 |
 | Natural Gas VOCs | 457 | 4,368,691 |
-| Nitrogen Oxides (NOx) | 1453 | 2,051,557 |
-| Propane | 632 | 822,088 |
-| Ethylene (gaseous) | 199 | 762,917 |
-| VOC | 325 | 597,204 |
+| Nitrogen Oxides (NOx) | 1464 | 2,058,109 |
+| VOC | 458 | 1,153,783 |
+| Ethylene | 391 | 1,084,966 |
+| Propane | 666 | 947,586 |
+| Butanes | 930 | 733,104 |
 | Non-Methane Non-Ethane Natural Gas | 115 | 539,336 |
-| VOCs | 43 | 437,451 |
-| Particulate Matter | 99 | 368,252 |
-| Ethylene | 189 | 320,563 |
-| Butanes | 168 | 312,057 |
-| Propylene | 218 | 188,836 |
+| Particulate Matter | 148 | 483,720 |
+| Propylene | 352 | 303,863 |
 | VOC GAS MIXTURE | 15 | 159,046 |
-| Propane, N- | 34 | 125,498 |
-| Propylene (Propene) | 132 | 114,957 |
-| Cement (wet or dry) | 1 | 114,000 |
-| Butane, N- | 190 | 110,076 |
-| Butane | 214 | 105,600 |
-| Hydrogen Sulfide | 927 | 96,703 |
-| Isobutane | 293 | 94,373 |
+| Pentanes | 449 | 148,193 |
+| Hydrogen Sulfide | 1165 | 111,666 |
 | Cyclohexane | 74 | 94,324 |
-| n-butane | 35 | 88,834 |
+| Hexanes | 179 | 93,387 |
 | Methylene chloride | 2 | 81,033 |
-| Volatile Organic Compounds | 44 | 79,323 |
 | NATURAL GAS | 15 | 75,534 |
 | Vinyl acetate | 7 | 69,406 |
 | Methanol | 20 | 61,689 |
-| Nitrogen oxide | 75 | 55,589 |
+| Nitrogen oxide | 73 | 55,005 |
 | HPV PARTICULATE MATTER < 10 UM | 2 | 51,545 |
+| Butadiene | 141 | 46,297 |
 | HPV PARTICULATE MATTER < 2.5 UM | 2 | 44,895 |
-| Pentanes | 105 | 44,854 |
 | Methane | 9 | 43,578 |
 | VOC - NONMETHANE | 180 | 42,442 |
-| Hexane, n | 26 | 41,750 |
-| VOC (unclassified) | 13 | 39,039 |
 | Benzene | 413 | 38,973 |
 | Toluene | 222 | 37,500 |
-| 1,3-BUTADIENE | 78 | 30,631 |
 | Ethanol | 4 | 28,586 |
 | Sulfuric acid | 15 | 26,860 |
-| Isopentane | 100 | 26,733 |
 | Butenes, All Isomers | 37 | 26,466 |
 | Nitrogen dioxide | 41 | 26,161 |
-| Pentane | 122 | 25,713 |
-| Pentane, N- | 82 | 24,308 |
 | C5+ | 75 | 18,934 |
-| Hexanes | 43 | 17,934 |
-| hexanes + | 17 | 17,597 |
 | Pentenes | 18 | 16,214 |
 | NMNE Natural Gas | 3 | 15,283 |
-| H2S | 238 | 14,963 |
-| i-butane | 8 | 14,876 |
+| Isobutylene | 111 | 14,271 |
 | VOC MIXTURE | 3 | 13,284 |
 | Crude Oil | 1 | 13,117 |
+| Xylenes | 187 | 12,424 |
 | VOC Gas Mixture | 3 | 11,512 |
-| i-pentane | 5 | 11,419 |
+| Ammonia | 81 | 11,341 |
 | Ethane | 17 | 11,223 |
-| 1,3 Butadiene | 28 | 10,910 |
 | C6+ | 96 | 10,807 |
 | Heptanes | 34 | 10,330 |
-| n-pentane | 26 | 10,202 |
 | Gasoline | 1 | 9,967 |
 | C5+ (not including benzene) | 33 | 9,857 |
 | Acetylene | 71 | 9,476 |
 | Jet (Unspeciated) | 2 | 9,190 |
-| Isobutylene | 85 | 8,281 |
-| Hexane Plus | 7 | 8,228 |
 | Chlorine | 3 | 8,159 |
 | Octanes | 26 | 7,909 |
-| Xylene | 125 | 7,890 |
 | Acetic acid | 8 | 7,751 |
 | Nonane | 62 | 7,554 |
-| Butane, i | 22 | 7,287 |
-| Hexane | 73 | 7,112 |
-| NOx (Startup/Shutdown) | 11 | 6,553 |
 | Butene | 21 | 6,029 |
-| Isobutene | 26 | 5,990 |
-| Hydrochloric acid | 2 | 5,968 |
-| Ammonia | 52 | 5,720 |
-| Ammonia, anhydrous | 3 | 5,436 |
+| Hydrogen Chloride | 2 | 5,968 |
 | Other | 4 | 5,138 |
 | Light Cycle Oil - Unspeciated | 1 | 5,086 |
 | Propylene oxide | 11 | 5,033 |
-| pentane, iso- | 9 | 4,963 |
+| Heptane | 67 | 4,898 |
 | Other C8s | 6 | 4,583 |
 | Trans-butene-2 | 26 | 4,525 |
 | Formaldehyde | 15 | 4,318 |
@@ -13471,13 +11958,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C10s | 7 | 3,813 |
 | Ammonium hydroxide | 1 | 3,781 |
 | t-Butyl Alcohol | 3 | 3,647 |
-| Heptane (or n-) | 47 | 3,636 |
-| Butadiene, 1-3 | 31 | 3,617 |
 | C8s | 3 | 3,525 |
 | Spent Sulfuric Acid | 1 | 3,388 |
+| Diesel | 2 | 3,170 |
 | Ethylene dichloride | 4 | 3,066 |
 | butenes | 5 | 3,022 |
-| Diesel | 1 | 2,970 |
 | Cyclopentadiene | 19 | 2,961 |
 | Pentane Plus | 16 | 2,884 |
 | C5s | 2 | 2,862 |
@@ -13493,7 +11978,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | n-tridecane | 2 | 2,217 |
 | Formic acid | 6 | 2,135 |
 | VOC - Crude | 1 | 1,955 |
-| Xylene (mixed isomers) | 9 | 1,832 |
 | Cis-butene-2 | 6 | 1,811 |
 | C11 Hydrocarbons | 1 | 1,773 |
 | Hexenes | 3 | 1,738 |
@@ -13503,14 +11987,13 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isopar E | 1 | 1,590 |
 | n-Tetradecane | 2 | 1,540 |
 | n-nonane | 3 | 1,512 |
-| Ethene | 3 | 1,486 |
 | 2-Ethylhean-1-ol | 1 | 1,482 |
 | Acrylic acid | 3 | 1,434 |
 | Octenes | 3 | 1,431 |
 | SOx | 1 | 1,412 |
 | Octane | 69 | 1,358 |
+| Ethylbenzene | 148 | 1,348 |
 | Oleum (fuming sulfuric acid) | 1 | 1,316 |
-| Ethylbenzene | 143 | 1,313 |
 | Hydrogen Iodide | 1 | 1,277 |
 | Iodine | 1 | 1,267 |
 | Carbon disulfide | 8 | 1,254 |
@@ -13518,9 +12001,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-methylpentane | 4 | 1,189 |
 | Nonanes | 13 | 1,153 |
 | 1-Butene + Isobutylene | 25 | 1,151 |
-| Butadiene | 4 | 1,138 |
 | Ethyl acetate | 5 | 1,132 |
-| Xylenes | 40 | 1,130 |
 | CO (Startup/Shutdown) | 3 | 1,088 |
 | Pentene | 18 | 1,001 |
 | 2,2,4-Trimethylpentane | 16 | 952 |
@@ -13534,64 +12015,52 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Other C7s | 6 | 839 |
 | 2-methylbutene-2 | 2 | 835 |
 | Flare Gas | 4 | 828 |
-| N-Hexane | 12 | 764 |
 | Other C6s | 6 | 762 |
 | Other C5s | 8 | 749 |
 | Acetaldehyde | 8 | 719 |
 | butene c-2 | 9 | 718 |
 | n-Decane | 2 | 709 |
-| M-Xylene | 2 | 697 |
-| PM (unspeciated) | 8 | 677 |
 | Carbonyl sulfide | 9 | 653 |
-| Unspeciated VOCs | 30 | 644 |
 | Hexene | 7 | 638 |
 | CARBON BLACK | 9 | 617 |
 | olefins | 6 | 613 |
+| Nitrogen monoxide | 2 | 584 |
 | Lactic Acid | 4 | 569 |
+| Hydrogen Cyanide | 13 | 561 |
 | Pentadiene | 6 | 534 |
-| Hydrogen cyanide | 8 | 518 |
-| Heptane | 8 | 513 |
 | Catalyst fines | 2 | 500 |
 | Methyl Acetate | 4 | 492 |
 | Isoamyl Alcohol | 2 | 449 |
-| PM10 | 21 | 430 |
 | Methylcyclopentane | 4 | 425 |
 | 2-Methyl-1-butene | 1 | 424 |
 | Other C9s | 3 | 407 |
 | i-Pentane | 3 | 404 |
+| Vinyl Chloride | 10 | 404 |
 | hexene-1 | 8 | 395 |
 | tertiary butyl alcohol | 1 | 394 |
-| Vinyl Chloride | 8 | 390 |
 | Hexane, 3-methyl- | 1 | 389 |
 | Amylenes | 6 | 369 |
 | Cyclopentane | 6 | 369 |
-| HEPTANE (OR N-) | 3 | 358 |
 | fumarolnitrile | 1 | 357 |
 | Isoprene | 16 | 353 |
 | Acetone | 4 | 350 |
-| PM2.5 | 13 | 348 |
 | n-Hexadecane | 1 | 346 |
 | Octanes/C8 Hydrocarbons | 1 | 344 |
 | Piperylene | 6 | 337 |
 | Isopar H - Heavy Naphtha | 1 | 337 |
 | 3-methylhexane | 2 | 322 |
 | Hexanes (any isomer) | 10 | 306 |
-| Xylene, p- | 4 | 300 |
-| O-Xylene | 1 | 292 |
 | Cyclopentene, 1-methyl- | 1 | 289 |
 | N-Butyl acrylate | 2 | 281 |
 | C11 Isoparaffins | 1 | 279 |
 | Cumene | 5 | 258 |
-| Xylene, o- | 3 | 258 |
 | Polymer | 1 | 255 |
-| Heptane,-n | 5 | 251 |
 | 2,3,4-trimethylpentane | 1 | 242 |
 | 1,2,4-Trimethylbenzene | 4 | 227 |
 | Pseudocumene | 3 | 225 |
 | Acetonitrile | 5 | 222 |
 | decanes | 11 | 217 |
 | Propylene Glycol Monomethyl Ether Acetate | 1 | 214 |
-| Diesel fuel | 1 | 200 |
 | HPV HYDROGEN SULFIDE | 1 | 200 |
 | Naphthalene | 15 | 194 |
 | C12+ hydrocarbons | 5 | 193 |
@@ -13608,8 +12077,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | n-butylbenzene | 2 | 141 |
 | 2,6-dimethyloctane | 1 | 140 |
 | Trimethylpentane, 2,2,4- | 19 | 140 |
-| n-Heptane | 4 | 140 |
-| Anhydrous ammonia | 2 | 136 |
 | Argon | 1 | 136 |
 | Methylcyclohexane | 3 | 132 |
 | Opacity | 2 | 125 |
@@ -13617,7 +12084,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 2-Butene-trans | 4 | 121 |
 | C7 Naphthenes | 1 | 121 |
 | R-134A Refrigerant | 1 | 120 |
-| VOC-unclassified | 1 | 120 |
 | Nitric oxide | 2 | 116 |
 | 1,3 Pentadiene | 4 | 112 |
 | Other C5's + | 1 | 106 |
@@ -13639,7 +12105,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Tridecane | 2 | 74 |
 | Heavy Aromatics | 1 | 72 |
 | 1-Nonene | 1 | 72 |
-| Propene | 2 | 71 |
 | methyl cyclopentadiene | 4 | 68 |
 | Other C6's | 1 | 66 |
 | Neopentane | 5 | 66 |
@@ -13652,11 +12117,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Other C5's | 1 | 53 |
 | 1,3,5-trimethylbenzene | 3 | 51 |
 | Butyl acrylate | 1 | 51 |
-| NH3 | 24 | 49 |
 | Decanes/C10 Hydrocarbons | 6 | 47 |
 | Trans-Butene | 3 | 45 |
 | decane | 35 | 44 |
-| HCN | 5 | 43 |
 | Other C6-C9s | 1 | 41 |
 | Isobutylene Oxide | 1 | 40 |
 | Methyl Styrene | 4 | 39 |
@@ -13665,7 +12128,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | VOC (C5's) | 1 | 38 |
 | Hexadecane | 1 | 37 |
 | Benzaldehyde | 1 | 36 |
-| Ethyl Benzene | 5 | 35 |
 | trans-2-Pentene | 1 | 33 |
 | Octene | 1 | 33 |
 | Indene | 3 | 32 |
@@ -13679,7 +12141,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Distillates (Petroleum), Light Distillate Hydrotreating Process, Low-Boiling | 1 | 30 |
 | 2-Methylhexane | 1 | 29 |
 | DME | 1 | 28 |
-| NITROGEN | 1 | 28 |
+| Nitrogen | 1 | 28 |
 | Dodecane | 1 | 26 |
 | 2-Nitropropane | 1 | 26 |
 | 3-methylpentane | 1 | 25 |
@@ -13691,7 +12153,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Dimethyl ether | 1 | 20 |
 | Ethene oxide | 1 | 19 |
 | TETRAETHYLAMMONIUM HYDROXIDE SOLUTION | 1 | 19 |
-| P-Xylene | 1 | 18 |
 | 1-dodecene | 1 | 18 |
 | Naptha | 1 | 18 |
 | Propylbenzene | 3 | 17 |
@@ -13702,11 +12163,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,3-methylethylbenzene | 1 | 15 |
 | Octadecane | 1 | 14 |
 | Maleic Acid Monoethyl Ester | 2 | 14 |
-| Vinyl Chloride Monomer | 2 | 13 |
 | Dimethylphenol, 2,4- | 1 | 12 |
 | Heptadecane | 1 | 12 |
 | Pentylbenzene | 1 | 12 |
-| PM 2.5 | 5 | 12 |
 | 2,3-Dimethylpentane | 1 | 11 |
 | 1,2,3-trimethylbenzene | 1 | 11 |
 | C22s | 1 | 11 |
@@ -13727,13 +12186,12 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C19 | 1 | 7 |
 | Lead | 3 | 7 |
 | Nickel | 3 | 7 |
-| Xylene, m- | 2 | 6 |
 | 3-ethylheptane | 1 | 6 |
 | t-pentene-2 | 1 | 6 |
 | 3-Methyl-Pentane | 4 | 6 |
 | Fuel Oil | 2 | 6 |
 | 1-Butyne | 1 | 6 |
-| Methyl ethyl ketone (MEK) | 1 | 5 |
+| MEK | 1 | 5 |
 | 2,3-dimethylbutane | 1 | 5 |
 | Isobutanol | 2 | 5 |
 | C17 | 1 | 5 |
@@ -13756,10 +12214,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C15s | 1 | 3 |
 | Other (VOCs) | 1 | 3 |
 | DIISOPROPYL | 1 | 3 |
-| Other VOCs | 2 | 2 |
 | 1,2-Dichloroethane | 1 | 2 |
 | C14s | 1 | 2 |
-| Hexane, i | 1 | 2 |
 | C13s | 1 | 2 |
 | 2,4-dimethylanisole | 1 | 2 |
 | 3-methylbutene-1 | 1 | 2 |
@@ -13768,7 +12224,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Heptene | 1 | 1 |
 | Biphenyl | 2 | 1 |
 | Phenol | 1 | 1 |
-| Cement Dust | 1 | 1 |
 | Methylphenols | 1 | 1 |
 | Petroleum Distillates | 1 | 1 |
 | Allyl Acrylate | 1 | 1 |
@@ -13814,68 +12269,51 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon Monoxide | 384 | 2,256,609 |
 | Sulfur dioxide | 257 | 1,919,448 |
 | Natural Gas VOCs | 131 | 692,849 |
+| Propane | 158 | 576,257 |
 | Non-Methane Non-Ethane Natural Gas | 56 | 565,778 |
-| Nitrogen Oxides (NOx) | 331 | 361,706 |
-| Propane | 144 | 337,459 |
-| Particulate Matter | 44 | 296,692 |
+| Butanes | 255 | 513,230 |
+| Particulate Matter | 67 | 383,955 |
+| Nitrogen Oxides (NOx) | 333 | 362,560 |
 | Carbon Dioxide | 1 | 287,307 |
-| Propane, N- | 14 | 238,798 |
-| Isobutane | 97 | 150,560 |
-| Butane | 49 | 148,730 |
-| Ethylene (gaseous) | 54 | 123,309 |
-| Ethylene | 38 | 109,305 |
-| n-butane | 21 | 108,492 |
+| Ethylene | 96 | 232,667 |
+| Pentanes | 145 | 123,018 |
+| Hexanes | 58 | 104,670 |
+| Propylene | 101 | 98,304 |
 | VOC - NONMETHANE | 32 | 97,705 |
-| Butane, N- | 50 | 95,176 |
-| PM (unspeciated) | 6 | 86,258 |
-| VOC | 88 | 72,821 |
-| Propylene | 55 | 70,075 |
-| Isopentane | 47 | 58,844 |
+| VOC | 116 | 96,874 |
 | Ethanol | 5 | 50,287 |
-| Hexane Plus | 13 | 43,426 |
-| Hexane | 22 | 43,229 |
 | Butyl alcohol, tert- | 4 | 42,473 |
-| Pentane | 24 | 34,086 |
-| Propylene (Propene) | 44 | 28,223 |
-| Volatile Organic Compounds | 15 | 23,950 |
-| n-pentane | 20 | 16,784 |
-| Hydrogen Sulfide | 198 | 16,143 |
-| Hydrochloric acid | 1 | 15,373 |
+| Hydrogen Sulfide | 216 | 16,317 |
+| Hydrogen Chloride | 1 | 15,373 |
 | NATURAL GAS | 9 | 13,890 |
-| N-Hexane | 2 | 11,870 |
+| Isobutylene | 28 | 11,971 |
 | Nitrogen oxide | 18 | 11,835 |
-| Isobutylene | 20 | 11,725 |
 | Benzene | 89 | 9,619 |
-| Butanes | 32 | 9,444 |
-| Pentane, N- | 32 | 8,942 |
+| Heptane | 14 | 8,693 |
 | Nitrous Oxides | 3 | 7,773 |
-| Ammonia | 7 | 7,011 |
-| HEPTANE (OR N-) | 1 | 6,700 |
+| Ammonia | 11 | 7,016 |
 | Vinyl acetate | 1 | 6,638 |
 | VOC GAS MIXTURE | 3 | 5,594 |
-| Hexanes | 10 | 5,179 |
 | Acetone | 9 | 4,940 |
 | t-Butyl Alcohol | 7 | 4,766 |
+| Butadiene | 55 | 4,427 |
 | Toluene | 47 | 4,283 |
 | Acetylene | 25 | 3,637 |
 | Ethyl acetate | 4 | 3,617 |
 | Propylene Glycol Monomethyl Ether Acetate | 4 | 3,483 |
-| Pentanes | 19 | 3,302 |
 | Tert Butylhydroperoxide | 8 | 3,203 |
 | Formic acid | 6 | 2,402 |
-| 1,3 Butadiene | 25 | 2,323 |
 | 1-Butene | 14 | 2,264 |
 | Acetic acid | 6 | 2,111 |
 | Nitrogen dioxide | 22 | 1,999 |
 | Chlorobenzene | 1 | 1,990 |
 | C5+ (not including benzene) | 13 | 1,930 |
-| Heptane | 4 | 1,773 |
+| Xylenes | 42 | 1,720 |
 | R-134A Refrigerant | 1 | 1,713 |
 | Crude Oil | 1 | 1,696 |
 | Cyclohexane | 11 | 1,661 |
 | VOC - Crude | 1 | 1,596 |
 | Heptanes | 5 | 1,551 |
-| 1,3-BUTADIENE | 22 | 1,261 |
 | Isoamyl Alcohol | 2 | 1,175 |
 | Isopropanol | 7 | 1,149 |
 | Butene | 6 | 1,128 |
@@ -13884,20 +12322,14 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Pentane Plus | 2 | 1,062 |
 | Butenes, All Isomers | 12 | 941 |
 | Lactic Acid | 4 | 920 |
-| Xylene | 21 | 918 |
 | Gasoline Blendstock | 1 | 898 |
 | N,N-Dimethylacetamide | 4 | 865 |
 | Propylene oxide | 7 | 860 |
-| NOx (Startup/Shutdown) | 2 | 854 |
-| Butadiene, 1-3 | 7 | 840 |
 | C6+ | 19 | 775 |
-| i-butane | 2 | 731 |
 | Hexene | 3 | 716 |
-| pentane, iso- | 2 | 702 |
+| Vinyl Chloride | 5 | 696 |
 | Acetaldehyde | 5 | 695 |
-| Vinyl Chloride | 4 | 691 |
 | decane | 5 | 676 |
-| hexanes + | 5 | 675 |
 | C5+ | 3 | 661 |
 | Dodecane | 2 | 655 |
 | Pentene | 4 | 637 |
@@ -13907,36 +12339,26 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Butylene | 11 | 576 |
 | 1-Butene + Isobutylene | 3 | 562 |
 | Methyl chloride | 1 | 559 |
-| PM10 | 9 | 495 |
 | Nitric oxide | 2 | 486 |
 | Cis-2-butene | 23 | 439 |
-| PM2.5 | 2 | 432 |
 | Trans-2-butene | 19 | 408 |
 | Ethylbenzene | 27 | 392 |
-| Xylene (mixed isomers) | 6 | 374 |
-| i-pentane | 1 | 357 |
-| Hexane, n | 6 | 291 |
 | Anhydrous Ammonia | 1 | 290 |
 | Polymer | 1 | 285 |
 | Methylcyclopentadiene | 2 | 277 |
-| Isobutene | 8 | 246 |
 | Methane | 2 | 238 |
 | Nonane | 4 | 237 |
-| metaxylene | 1 | 215 |
 | cis-1,2-dimethylcyclohexane | 1 | 210 |
 | Ethylene dichloride | 1 | 208 |
 | Trichloroacetyl chloride | 1 | 208 |
 | Non Aromatics | 1 | 206 |
-| Heptane (or n-) | 5 | 201 |
 | non VOC | 1 | 200 |
 | Nonanes | 1 | 198 |
 | Cyclopentadiene | 6 | 191 |
-| H2S | 18 | 173 |
 | CARBON BLACK | 2 | 171 |
 | decene-1 | 2 | 168 |
 | Naphthalene | 3 | 168 |
 | C12+ hydrocarbons | 2 | 167 |
-| Xylene, o- | 1 | 161 |
 | Vinyl acetate monomer | 1 | 159 |
 | Amylenes | 2 | 157 |
 | Isoprene | 3 | 153 |
@@ -13945,11 +12367,10 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | C5 Plus | 2 | 137 |
 | Butene1_Isobutene | 5 | 125 |
 | Octanes | 1 | 121 |
-| Methyl ethyl ketone (MEK) | 2 | 112 |
+| MEK | 3 | 113 |
 | Flare Gas | 3 | 109 |
 | Other | 4 | 108 |
 | Other C5s | 2 | 104 |
-| Butane, i | 4 | 97 |
 | Styrene | 6 | 92 |
 | Other C7s | 2 | 85 |
 | Piperylene | 2 | 75 |
@@ -13958,26 +12379,19 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Orthoxylene | 1 | 66 |
 | Decanes/Decenes | 1 | 65 |
 | Isobutylene Oxide | 2 | 64 |
-| Unspeciated VOCs | 6 | 63 |
 | 2-methyloctane | 1 | 56 |
-| Cement Dust | 1 | 55 |
-| Ethene | 4 | 53 |
 | 2-Methyl-Pentane | 1 | 51 |
 | Smoke | 1 | 50 |
-| VOCs | 7 | 41 |
 | Formaldehyde | 4 | 37 |
 | Methyl Styrene | 2 | 37 |
+| Hydrogen Cyanide | 2 | 37 |
 | Chlorine | 3 | 35 |
-| HCN | 1 | 35 |
 | Other C9s | 2 | 33 |
 | 1,2,4 Trimethylbenzene | 1 | 30 |
 | 2-methyl-butane | 1 | 30 |
 | hexene-1 | 4 | 28 |
 | Tetradecane | 2 | 26 |
 | Methyl Acetylene | 1 | 24 |
-| PM 2.5 | 5 | 23 |
-| P-Xylene | 2 | 20 |
-| Heptane,-n | 4 | 19 |
 | Indene | 2 | 19 |
 | Trans-Butene | 3 | 17 |
 | Neopentane | 2 | 17 |
@@ -13990,15 +12404,11 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | 1,2,3,5-Tetramethyl Benzene | 1 | 14 |
 | butenes | 2 | 12 |
 | Acrolein | 5 | 12 |
-| paraxylene | 1 | 11 |
 | activated carbon | 1 | 10 |
 | Heavy Aromatics | 1 | 10 |
-| M-Xylene | 2 | 10 |
 | Lead | 4 | 9 |
 | Cumene | 1 | 9 |
-| O-Xylene | 2 | 9 |
 | Heptene | 1 | 9 |
-| Propene | 2 | 7 |
 | C6-C8 Non Aromatics | 3 | 7 |
 | Sulfuric acid | 4 | 6 |
 | Methylcyclopentane | 2 | 6 |
@@ -14007,23 +12417,17 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Isohexane | 2 | 6 |
 | Phosgene | 1 | 6 |
 | Nickel | 3 | 5 |
-| Vinyl Chloride Monomer | 1 | 5 |
 | Monopropylene Glycol | 3 | 4 |
-| NH3 | 4 | 4 |
 | 2,2,4-Trimethylpentane | 2 | 4 |
 | i-Pentane | 2 | 4 |
 | Dicyclopentadiene | 1 | 4 |
 | C10s | 2 | 4 |
 | pentane-unspeciated | 2 | 3 |
-| Butadiene | 1 | 3 |
 | Cyclopentane | 1 | 2 |
 | 1-Decene | 1 | 2 |
-| Xylenes | 6 | 2 |
-| Hydrogen cyanide | 1 | 2 |
-| Hydrofluoric acid | 1 | 2 |
+| Hydrogen Fluoride | 1 | 2 |
 | butene-1 | 1 | 1 |
 | MTBE | 1 | 1 |
-| Methyl ethyl ketone | 1 | 1 |
 | Hexadecane | 2 | 1 |
 | Hexanes (any isomer) | 3 | 0 |
 | 2,3-dimethylbutane | 2 | 0 |

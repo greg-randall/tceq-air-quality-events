@@ -1,6 +1,6 @@
 # Contaminants
 
-2097 unique compounds tracked across 568,670 reported releases, 2003 to 2026.
+1989 unique compounds tracked across 568,670 reported releases, 2003 to 2026.
 
 ## By year
 
@@ -39,56 +39,56 @@ Total mass released across all events. Each row shows the sum of all reported qu
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 54475 | 570,305,921 |
+| Sulfur dioxide | 54595 | 570,858,283 |
 | Carbon Dioxide | 1343 | 273,984,745 |
 | Carbon Monoxide | 62599 | 254,256,264 |
 | NATURAL GAS | 13361 | 102,018,548 |
-| Propane | 23422 | 60,231,599 |
+| Propane | 24662 | 68,104,057 |
 | Non-Methane Non-Ethane Natural Gas | 9841 | 49,529,663 |
+| Butanes | 36666 | 48,395,824 |
 | Methane | 2639 | 47,634,562 |
-| Nitrogen Oxides (NOx) | 44649 | 38,798,174 |
+| VOC | 15802 | 43,494,016 |
+| Nitrogen Oxides (NOx) | 44834 | 38,961,713 |
+| Ethylene | 12993 | 31,269,074 |
 | Natural Gas VOCs | 3453 | 29,432,747 |
-| VOC | 12019 | 28,374,662 |
-| Ethylene (gaseous) | 11433 | 28,064,143 |
-| Particulate Matter | 5328 | 18,195,430 |
-| Nitrogen oxide | 16263 | 14,565,687 |
-| Butane | 8641 | 14,216,386 |
-| Propylene (Propene) | 8699 | 12,601,088 |
-| Isobutane | 10676 | 11,592,946 |
-| Hydrogen Sulfide | 48484 | 10,595,052 |
-| Butanes | 1960 | 10,296,695 |
-| CONDENSATE | 5 | 9,539,301 |
+| Particulate Matter | 7029 | 19,334,249 |
+| Pentanes | 25450 | 18,372,702 |
+| Propylene | 12403 | 16,041,814 |
+| Nitrogen oxide | 13508 | 13,674,977 |
+| Hexanes | 13622 | 11,963,428 |
+| Hydrogen Sulfide | 49340 | 10,692,976 |
+| Condensate | 9 | 9,675,532 |
 | Ethane | 2911 | 9,497,969 |
-| Butane, N- | 10366 | 8,917,970 |
-| VOCs | 1762 | 7,934,625 |
-| Propane, N- | 1240 | 7,872,458 |
-| Pentane | 6800 | 6,245,402 |
-| Isopentane | 5642 | 5,262,599 |
-| Hexane | 6570 | 4,527,636 |
-| NITROGEN | 771 | 4,377,867 |
+| Nitrogen | 771 | 4,377,867 |
 | Nitrogen dioxide | 13304 | 4,160,454 |
 | VOC GAS MIXTURE | 934 | 4,101,214 |
 | VOC - NONMETHANE | 2059 | 4,084,956 |
-| Pentane, N- | 6830 | 3,367,265 |
-| Propylene | 3571 | 3,356,262 |
-| VOC (unclassified) | 413 | 3,123,882 |
-| Ethylene | 1496 | 2,943,039 |
-| Hexane, n | 1133 | 2,803,670 |
+| Butadiene | 6234 | 2,767,283 |
 | Benzene | 11234 | 2,761,978 |
-| Toluene | 6338 | 2,406,283 |
-| 1,3-BUTADIENE | 4381 | 2,155,886 |
+| Toluene | 6339 | 2,406,287 |
+| Xylenes | 5245 | 2,058,649 |
 | Natural Gas Liquid (Mixture) | 18 | 1,718,310 |
-| Butane, i | 3867 | 1,545,853 |
-| pentane, iso- | 3761 | 1,527,768 |
-| Hexanes | 1923 | 1,526,200 |
-| Pentanes | 1463 | 1,505,900 |
-| n-butane | 876 | 1,499,558 |
-| Volatile Organic Compounds | 786 | 1,467,090 |
-| Unspeciated VOCs | 440 | 1,462,260 |
-| hexanes + | 2723 | 1,425,267 |
 | Propylene Glycol Monomethyl Ether Acetate | 65 | 1,383,863 |
-| Hexane Plus | 823 | 1,338,179 |
-| Xylene | 3014 | 1,256,851 |
+| Ammonia | 2153 | 1,120,399 |
+| Heptane | 2788 | 1,090,769 |
+| Ethanol | 163 | 994,533 |
+| Crude Oil | 122 | 954,960 |
+| Cyclohexane | 2379 | 926,578 |
+| Butene | 2677 | 916,339 |
+| Hydrogen | 577 | 893,227 |
+| Nitrogen monoxide | 2755 | 890,709 |
+| n-hexane - 110543 | 105 | 875,592 |
+| Acetylene | 2536 | 849,669 |
+| NMNE Natural Gas | 97 | 800,708 |
+| Nitric oxide | 1839 | 764,388 |
+| VOC (light hydrocarbons) | 796 | 763,393 |
+| Ethylbenzene | 3493 | 712,100 |
+| 1-Butene | 2296 | 623,771 |
+| Methanol | 762 | 598,082 |
+| Cumene | 310 | 593,260 |
+| Distillates (petroleum), alkylate | 6 | 590,753 |
+| Isobutylene | 3136 | 590,136 |
+| Hydrogen Chloride | 226 | 575,451 |
 
 ### LBS/HR
 
@@ -99,53 +99,53 @@ Instantaneous emission rate in pounds per hour. This is a rate at a moment in ti
 | Carbon Monoxide | 61 | 2,314,156 |
 | Acetylene | 15 | 96,230 |
 | Ethane | 2 | 86,821 |
+| Butanes | 20 | 73,592 |
 | Propane | 9 | 59,642 |
 | Sulfur dioxide | 26 | 58,403 |
 | Hydrogen Sulfide | 23 | 45,710 |
-| Butane | 6 | 36,348 |
 | Isobutylene | 2 | 32,294 |
 | Benzene | 6 | 26,410 |
-| Butane, N- | 5 | 24,380 |
+| Pentanes | 14 | 19,818 |
 | NATURAL GAS | 3 | 16,551 |
-| Isobutane | 5 | 12,687 |
-| Pentane | 5 | 12,204 |
-| Hexane | 4 | 11,907 |
+| VOC | 29 | 16,465 |
+| Hexanes | 7 | 11,908 |
 | Nitrogen Oxides (NOx) | 26 | 10,585 |
-| VOC | 23 | 10,302 |
 | Natural Gas VOCs | 3 | 10,097 |
-| Nitrogen oxide | 26 | 8,068 |
-| Isopentane | 4 | 7,521 |
-| Volatile Organic Compounds | 6 | 6,163 |
-| Ammonia | 8 | 3,999 |
+| Nitrogen oxide | 24 | 6,865 |
+| Ammonia | 9 | 4,176 |
+| Particulate Matter | 26 | 2,805 |
 | Nonane | 2 | 2,286 |
-| Particulate Matter | 21 | 2,093 |
+| Propylene | 7 | 1,699 |
 | Nitrogen dioxide | 25 | 1,482 |
 | Isopar H - Heavy Naphtha | 1 | 1,236 |
-| Propylene (Propene) | 4 | 1,102 |
+| Nitrogen monoxide | 2 | 1,203 |
 | Octane | 1 | 770 |
-| PM10 | 5 | 712 |
 | 3-methyl-Heptane | 1 | 699 |
 | Formaldehyde | 4 | 654 |
-| Propylene | 3 | 597 |
-| HEPTANE (OR N-) | 2 | 553 |
+| Heptane | 2 | 553 |
 | 2,3-dimethyloctane | 1 | 500 |
 | 3 methyl hexane | 1 | 493 |
-| M-Xylene | 1 | 356 |
+| Xylenes | 3 | 359 |
 | PM Tires | 1 | 320 |
 | 2,2,4-Trimethylpentane | 1 | 305 |
-| Ethylene (gaseous) | 4 | 283 |
+| Ethylene | 5 | 303 |
 | Methylcyclopentane | 2 | 275 |
 | 2-Methyl-Pentane | 1 | 230 |
 | 1,2,4-Trimethylbenzene | 2 | 213 |
 | 2,3-dimethylbutane | 1 | 207 |
 | Calcium Carbonate | 1 | 200 |
 | Pentenenitrile | 1 | 190 |
-| Anhydrous ammonia | 1 | 177 |
-| Butanes | 2 | 176 |
 | Cyclohexene | 1 | 171 |
 | Gasoline | 1 | 170 |
 | 3 methylpentane | 1 | 165 |
 | Ethylcyclopentane | 2 | 150 |
+| Nitric oxide | 3 | 149 |
+| 2,3,4-trimethylpentane | 1 | 142 |
+| 1-methyl-3-isopropylbenzene | 1 | 129 |
+| Methyl formate | 1 | 127 |
+| DIMETHYLETHYLBENZENE | 1 | 125 |
+| 2,2,3-trimethylbutane | 1 | 94 |
+| 2,5-Dimethylhexane | 1 | 88 |
 
 ### TONS/YR
 
@@ -155,15 +155,15 @@ Annualized estimate in tons per year. A small number here can mean either a smal
 |---|---|---|
 | Carbon Monoxide | 5 | 5,545 |
 | Carbon Dioxide | 1 | 21 |
-| Xylene | 1 | 1 |
+| Xylenes | 1 | 1 |
 | Nitrogen oxide | 1 | 1 |
 | Nitrogen Oxides (NOx) | 2 | 1 |
 | Smoke | 1 | 1 |
 | Sulfur dioxide | 2 | 0 |
 | Particulate Matter | 2 | 0 |
 | VOC | 2 | 0 |
-| Hydrogen fluoride | 1 | 0 |
-| Hydrogen chloride | 1 | 0 |
+| Hydrogen Fluoride | 1 | 0 |
+| Hydrogen Chloride | 1 | 0 |
 
 ### % OPACITY
 
@@ -171,83 +171,65 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | Average | Min | Max |
 |---|---|---|---|---|
-| Opacity | 24337 | 47% | 0% | 5458% |
+| Opacity | 24341 | 47% | 0% | 5458% |
 | Visible Emissions | 2640 | 8% | 0% | 100% |
 | Smoke | 876 | 9% | 0% | 100% |
+| Particulate Matter | 128 | 123% | 0% | 7839% |
 | Sulfur dioxide | 108 | 5742% | 0% | 127807% |
-| Particulate Matter | 78 | 180% | 0% | 7839% |
-| Hydrogen Sulfide | 49 | 77% | 0% | 854% |
+| Hydrogen Sulfide | 51 | 78% | 0% | 854% |
 | Carbon Monoxide | 48 | 762% | 0% | 12041% |
-| Nitrogen Oxides (NOx) | 46 | 96% | 0% | 544% |
-| VOC | 28 | 108% | 0% | 1015% |
+| Nitrogen Oxides (NOx) | 47 | 95% | 0% | 544% |
+| VOC | 32 | 405% | 0% | 8739% |
 | VOC - NONMETHANE | 20 | 3% | 0% | 37% |
 | Non-Methane Non-Ethane Natural Gas | 17 | 368% | 34% | 2989% |
-| PM10 | 17 | 27% | 0% | 100% |
-| Nitrogen oxide | 15 | 210% | 0% | 2145% |
-| Cement Dust | 14 | 55% | 20% | 100% |
+| Pentanes | 14 | 212% | 0% | 1206% |
+| Butanes | 13 | 511% | 0% | 3403% |
+| Propane | 13 | 695% | 0% | 7045% |
+| Nitrogen oxide | 13 | 241% | 0% | 2145% |
 | Other material | 13 | 52% | 9% | 100% |
-| Propane | 12 | 166% | 0% | 1027% |
 | NATURAL GAS | 12 | 6008% | 6% | 53777% |
 | Natural Gas VOCs | 12 | 148% | 52% | 595% |
 | Alumina | 12 | 57% | 20% | 100% |
 | VOC GAS MIXTURE | 11 | 371% | 10% | 3351% |
 | Other | 9 | 62% | 15% | 100% |
-| PM10 Silica,crystalline | 9 | 2% | 0% | 10% |
 | Soda Ash | 8 | 39% | 5% | 90% |
-| Pentane | 7 | 206% | 0% | 797% |
+| Propylene | 7 | 122% | 0% | 798% |
 | Alumina Hydrate Dust | 7 | 53% | 0% | 85% |
-| Isobutane | 6 | 34% | 0% | 79% |
-| 1,3-BUTADIENE | 6 | 186% | 1% | 579% |
+| Butadiene | 6 | 186% | 1% | 579% |
 | CARBON BLACK | 6 | 51% | 18% | 70% |
-| Ethylene (gaseous) | 5 | 64% | 0% | 173% |
-| Propylene (Propene) | 5 | 170% | 0% | 798% |
-| PM (unspeciated) | 5 | 49% | 25% | 100% |
-| Diesel fuel 2-D | 5 | 40% | 35% | 49% |
-| Butane | 4 | 710% | 0% | 2093% |
-| Hexane | 4 | 356% | 0% | 892% |
+| Hexanes | 5 | 285% | 0% | 892% |
+| Ethylene | 5 | 64% | 0% | 173% |
+| Diesel | 5 | 40% | 35% | 49% |
 | Calcined Alumina Dust | 4 | 36% | 0% | 86% |
 | Sodium hypochlorite | 4 | 1% | 0% | 1% |
-| Opacity No.1 - 2323 | 4 | 65% | 30% | 100% |
 | Nitrogen dioxide | 3 | 3% | 0% | 8% |
-| Pentane, N- | 3 | 86% | 0% | 205% |
 | Toluene | 3 | 13% | 0% | 38% |
+| Xylenes | 3 | 15% | 0% | 45% |
 | Trans-2-butene | 3 | 4% | 0% | 10% |
 | Ethane | 3 | 6% | 1% | 11% |
 | Ammonia | 3 | 34% | 0% | 101% |
-| VOCs | 3 | 2939% | 1% | 8739% |
 | Carbon Dioxide | 3 | 93% | 90% | 100% |
 | Lead | 3 | 29% | 1% | 80% |
 | Calcium oxide | 3 | 67% | 50% | 100% |
 | fire water and smoke | 3 | 83% | 75% | 100% |
 | Benzene | 2 | 31% | 23% | 40% |
-| Butane, N- | 2 | 99% | 75% | 123% |
-| pentane, iso- | 2 | 27% | 2% | 52% |
-| Propylene | 2 | 0% | 0% | 0% |
 | Ethylbenzene | 2 | 7% | 0% | 13% |
-| Xylene | 2 | 0% | 0% | 0% |
+| Isobutylene | 2 | 1% | 0% | 2% |
+| Nitrogen monoxide | 2 | 9% | 7% | 11% |
 | 1-Butene | 2 | 10% | 5% | 14% |
 | Octane | 2 | 16% | 0% | 32% |
-| Isobutene | 2 | 1% | 0% | 2% |
-| H2S | 2 | 96% | 91% | 102% |
-| PM2.5 | 2 | 42% | 10% | 75% |
+| Crude Oil | 2 | 18% | 10% | 25% |
 | n-butanol | 2 | 51% | 6% | 97% |
 | PM10 Carbon-C | 2 | 35% | 20% | 50% |
 | SULFUR-S | 2 | 100% | 100% | 100% |
 | Dust | 2 | 30% | 25% | 35% |
 | Baghouse Dust (K061) | 2 | 41% | 35% | 46% |
-| Isopentane | 1 | 1206% | 1206% | 1206% |
 | Cis-2-butene | 1 | 18% | 18% | 18% |
+| Heptane | 1 | 1% | 1% | 1% |
 | Butene | 1 | 5% | 5% | 5% |
 | Methane | 1 | 10% | 10% | 10% |
 | Cyclohexane | 1 | 118% | 118% | 118% |
-| Butanes | 1 | 3403% | 3403% | 3403% |
-| Hexanes | 1 | 1% | 1% | 1% |
-| Heptane (or n-) | 1 | 1% | 1% | 1% |
-| Propane, N- | 1 | 7045% | 7045% | 7045% |
-| Volatile Organic Compounds | 1 | 1126% | 1126% | 1126% |
-| Hydrogen cyanide | 1 | 11% | 11% | 11% |
-| n-pentane | 1 | 8% | 8% | 8% |
-| Xylene (mixed isomers) | 1 | 45% | 45% | 45% |
+| Hydrogen Cyanide | 1 | 11% | 11% | 11% |
 | Heptanes | 1 | 914% | 914% | 914% |
 | Ethylene oxide | 1 | 13% | 13% | 13% |
 | Cyclopentane | 1 | 2% | 2% | 2% |
@@ -257,11 +239,9 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Methylcyclopentane | 1 | 55% | 55% | 55% |
 | PM10 C.I. DIRECT BLACK 38 | 1 | 35% | 35% | 35% |
 | t-2-butene | 1 | 4% | 4% | 4% |
-| NOx (Startup/Shutdown) | 1 | 30% | 30% | 30% |
 | 2-Methyl-1-butene | 1 | 106% | 106% | 106% |
 | C5 Plus | 1 | 0% | 0% | 0% |
 | Water (H2O) | 1 | 1% | 1% | 1% |
-| Crude Oil | 1 | 10% | 10% | 10% |
 | Gasoline | 1 | 20% | 20% | 20% |
 | Propionitrile | 1 | 0% | 0% | 0% |
 | VOC MIXTURE | 1 | 0% | 0% | 0% |
@@ -270,7 +250,6 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | trans-2-Pentene | 1 | 12% | 12% | 12% |
 | 2-methylbutene-1 | 1 | 2% | 2% | 2% |
 | Gas Oil | 1 | 30% | 30% | 30% |
-| Cement (wet or dry) | 1 | 5% | 5% | 5% |
 | 2-methyl-butane | 1 | 77% | 77% | 77% |
 | Wash Oil | 1 | 20% | 20% | 20% |
 | Butyl Alcohol, n- | 1 | 1% | 1% | 1% |
@@ -278,17 +257,14 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | HAPS (5) | 1 | 100% | 100% | 100% |
 | OIL | 1 | 100% | 100% | 100% |
 | Sodium sulfate (solution) | 1 | 1% | 1% | 1% |
-| PM10 Wood dust (nonallergenic) | 1 | 60% | 60% | 60% |
 | Green Petroleum Coke Fly Ash | 1 | 46% | 46% | 46% |
 | Cement Kiln Dust | 1 | 54% | 54% | 54% |
-| PM10 Carbon black | 1 | 40% | 40% | 40% |
 | Wood dust (nonallergenic) | 1 | 2% | 2% | 2% |
 | Paint waste | 1 | 20% | 20% | 20% |
 | Rust scale | 1 | 95% | 95% | 95% |
 | HPV VISIBLE EMISSIONS | 1 | 100% | 100% | 100% |
 | 1,2,3 trimethyl indene | 1 | 10% | 10% | 10% |
 | Smoking Emission | 1 | 5% | 5% | 5% |
-| Heavy crude oil | 1 | 25% | 25% | 25% |
 | Water contaminated by firefighting foam | 1 | 40% | 40% | 40% |
 | Crude oil / Produced Water | 1 | 50% | 50% | 50% |
 | crude oil | 1 | 50% | 50% | 50% |
@@ -305,22 +281,22 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon Monoxide | 2545 | 20,227,430 |
 | Carbon Dioxide | 425 | 7,577,163 |
 | Methane | 561 | 5,128,608 |
-| Propane | 1065 | 3,980,957 |
-| VOC | 1126 | 3,376,892 |
-| NITROGEN | 394 | 2,265,391 |
-| Ethylene (gaseous) | 686 | 2,119,689 |
-| Hexane, n | 316 | 2,066,362 |
+| Propane | 1067 | 3,981,669 |
+| VOC | 1130 | 3,380,192 |
+| Hexanes | 883 | 2,721,254 |
+| Nitrogen | 394 | 2,265,391 |
+| Butanes | 1566 | 2,257,403 |
+| Ethylene | 687 | 2,120,789 |
 | NATURAL GAS | 298 | 1,965,968 |
 | Ethane | 530 | 1,560,720 |
-| Butane, N- | 563 | 1,331,823 |
-| Nitrogen oxide | 2342 | 1,249,294 |
-| Propylene (Propene) | 642 | 1,089,099 |
-| Pentane, N- | 470 | 801,117 |
-| Hexane | 526 | 639,751 |
+| Pentanes | 1360 | 1,331,793 |
+| Nitrogen oxide | 2185 | 1,201,269 |
+| Propylene | 649 | 1,091,187 |
 | Hydrogen Sulfide | 1498 | 634,593 |
-| Isobutane | 612 | 581,917 |
 | Acetylene | 127 | 498,297 |
 | Nitrogen dioxide | 2318 | 490,715 |
+| Xylenes | 237 | 294,159 |
+| Benzene | 511 | 241,849 |
 
 ### 2004
 
@@ -332,45 +308,45 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Non-Methane Non-Ethane Natural Gas | 200 | 4,693,059 |
 | Methane | 270 | 3,023,975 |
 | NATURAL GAS | 259 | 2,925,734 |
-| Propane | 1320 | 2,551,600 |
-| VOC | 608 | 1,706,066 |
-| Ethylene (gaseous) | 819 | 1,314,588 |
-| Propylene (Propene) | 885 | 975,171 |
+| Propane | 1324 | 2,600,649 |
+| Butanes | 1800 | 1,790,898 |
+| VOC | 611 | 1,706,471 |
+| Ethylene | 823 | 1,340,529 |
+| Propylene | 892 | 976,065 |
 | Nitrogen Oxides (NOx) | 236 | 877,405 |
 | Ethane | 316 | 809,275 |
-| Nitrogen oxide | 2049 | 743,020 |
-| Butane, N- | 597 | 679,956 |
-| Butane | 480 | 619,478 |
+| Nitrogen oxide | 1710 | 648,399 |
+| Pentanes | 1363 | 608,818 |
+| Hexanes | 828 | 531,548 |
 | Hydrogen Sulfide | 1453 | 462,103 |
-| Isobutane | 651 | 437,526 |
-| NITROGEN | 81 | 419,424 |
-| Pentane | 515 | 287,387 |
+| Nitrogen | 81 | 419,424 |
 | Nitrogen dioxide | 2333 | 247,739 |
+| Nitric oxide | 423 | 216,281 |
 
 ### 2005
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2012 | 19,265,836 |
+| Sulfur dioxide | 2013 | 19,266,109 |
 | Carbon Monoxide | 2723 | 13,737,955 |
 | Methane | 160 | 4,963,626 |
+| Butanes | 1713 | 2,694,599 |
 | NATURAL GAS | 380 | 2,423,965 |
-| Ethylene (gaseous) | 882 | 2,008,975 |
-| Isobutane | 652 | 1,644,042 |
+| Ethylene | 898 | 2,176,029 |
 | Non-Methane Non-Ethane Natural Gas | 104 | 1,423,153 |
-| Propylene (Propene) | 933 | 1,212,993 |
-| VOC | 502 | 1,190,666 |
-| Propane | 1178 | 1,087,757 |
-| Nitrogen oxide | 1980 | 923,010 |
-| Butane | 460 | 747,891 |
+| Propylene | 939 | 1,214,221 |
+| Propane | 1186 | 1,205,984 |
+| VOC | 508 | 1,191,779 |
+| Nitrogen oxide | 1505 | 731,193 |
+| Hexanes | 612 | 501,185 |
+| Particulate Matter | 365 | 386,746 |
 | Nitrogen Oxides (NOx) | 217 | 350,847 |
-| Particulate Matter | 327 | 340,832 |
-| Hexane | 462 | 316,144 |
+| Pentanes | 1188 | 347,117 |
 | Ethane | 181 | 292,340 |
 | Nitric oxide | 527 | 289,943 |
 | Nitrogen dioxide | 2488 | 269,119 |
 | Hydrogen Sulfide | 1106 | 253,307 |
-| NITROGEN | 12 | 242,794 |
+| Nitrogen | 12 | 242,794 |
 
 ### 2006
 
@@ -380,22 +356,22 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon Monoxide | 2353 | 9,050,578 |
 | NATURAL GAS | 481 | 5,470,430 |
 | Methane | 81 | 4,211,555 |
+| Propane | 863 | 2,937,672 |
 | Non-Methane Non-Ethane Natural Gas | 438 | 2,803,711 |
-| Propane | 861 | 2,771,226 |
-| Propylene (Propene) | 762 | 1,451,098 |
-| Ethylene (gaseous) | 820 | 1,316,438 |
-| Pentane | 323 | 822,145 |
-| Butane | 417 | 779,593 |
-| Nitrogen Oxides (NOx) | 1404 | 777,099 |
-| Isobutane | 516 | 694,069 |
-| VOC | 542 | 554,779 |
-| Isopentane | 340 | 458,291 |
+| Butanes | 1329 | 1,940,871 |
+| Pentanes | 892 | 1,565,179 |
+| Propylene | 767 | 1,451,561 |
+| Ethylene | 821 | 1,324,201 |
+| Nitrogen Oxides (NOx) | 1433 | 783,507 |
+| VOC | 557 | 558,823 |
+| Hexanes | 430 | 470,167 |
 | Hydrogen Sulfide | 1602 | 447,808 |
-| Butane, N- | 319 | 354,556 |
 | Ethane | 118 | 283,815 |
-| Hexane | 337 | 265,693 |
-| Nitrogen oxide | 759 | 232,382 |
-| Pentane, N- | 176 | 205,920 |
+| Trans-2-butene | 126 | 204,350 |
+| Particulate Matter | 386 | 202,356 |
+| Nitrogen oxide | 606 | 191,513 |
+| Butadiene | 376 | 156,584 |
+| Carbon Dioxide | 45 | 141,626 |
 
 ### 2007
 
@@ -404,23 +380,23 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Sulfur dioxide | 2052 | 19,232,560 |
 | Carbon Monoxide | 2359 | 4,690,348 |
 | NATURAL GAS | 497 | 2,982,074 |
-| Propane | 910 | 1,110,573 |
-| Ethylene (gaseous) | 852 | 999,311 |
+| Propane | 951 | 1,260,153 |
+| Butanes | 1382 | 1,005,334 |
+| Ethylene | 852 | 999,311 |
 | Non-Methane Non-Ethane Natural Gas | 375 | 985,910 |
-| Nitrogen oxide | 524 | 588,906 |
-| VOC | 625 | 581,603 |
+| VOC | 692 | 755,872 |
 | Nitrogen Oxides (NOx) | 1754 | 574,985 |
-| Propylene (Propene) | 727 | 561,165 |
-| Isobutane | 578 | 335,113 |
-| Particulate Matter | 457 | 330,822 |
+| Propylene | 731 | 563,185 |
+| Nitrogen oxide | 374 | 557,305 |
+| Pentanes | 935 | 399,505 |
+| Particulate Matter | 484 | 387,209 |
 | Natural Gas VOCs | 18 | 306,123 |
-| Butane | 379 | 302,719 |
 | Natural Gas Liquid (Mixture) | 2 | 293,209 |
-| Butane, N- | 351 | 264,206 |
 | Hydrogen Sulfide | 1741 | 244,605 |
 | Nitrogen dioxide | 429 | 195,829 |
-| Crude Oil | 28 | 177,014 |
-| Isopentane | 383 | 160,276 |
+| Hexanes | 428 | 182,057 |
+| Crude Oil | 29 | 179,130 |
+| Hydrogen Chloride | 8 | 142,257 |
 
 ### 2008
 
@@ -430,20 +406,20 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon Monoxide | 2869 | 10,837,653 |
 | Methane | 136 | 4,049,027 |
 | Non-Methane Non-Ethane Natural Gas | 483 | 2,459,635 |
-| Propylene (Propene) | 898 | 1,809,458 |
+| VOC | 768 | 1,833,241 |
+| Propylene | 904 | 1,822,946 |
 | NATURAL GAS | 645 | 1,694,208 |
-| Ethylene (gaseous) | 966 | 1,574,431 |
-| Propane | 1097 | 1,493,699 |
-| VOC | 685 | 1,476,921 |
-| Nitrogen Oxides (NOx) | 2149 | 1,073,868 |
-| Particulate Matter | 337 | 663,879 |
-| Nitrogen oxide | 613 | 636,537 |
+| Ethylene | 968 | 1,574,934 |
+| Propane | 1156 | 1,572,400 |
+| Butanes | 1594 | 1,306,922 |
+| Nitrogen Oxides (NOx) | 2162 | 1,075,273 |
+| Particulate Matter | 381 | 679,293 |
+| Nitrogen oxide | 410 | 558,367 |
+| Pentanes | 932 | 464,405 |
 | Hydrogen Sulfide | 2004 | 463,385 |
 | Ethane | 165 | 455,321 |
-| Isobutane | 584 | 416,379 |
-| NITROGEN | 21 | 316,887 |
-| Butanes | 53 | 312,640 |
-| Butane, N- | 414 | 282,281 |
+| Hexanes | 459 | 352,629 |
+| Nitrogen | 21 | 316,887 |
 | VOC - NONMETHANE | 89 | 231,123 |
 | Carbon Dioxide | 34 | 228,538 |
 
@@ -451,401 +427,401 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2368 | 19,845,684 |
+| Sulfur dioxide | 2370 | 19,849,506 |
 | Carbon Monoxide | 2617 | 6,751,546 |
 | Non-Methane Non-Ethane Natural Gas | 648 | 5,501,373 |
 | NATURAL GAS | 651 | 5,469,769 |
-| Propane | 822 | 1,616,188 |
-| Nitrogen Oxides (NOx) | 1941 | 1,001,681 |
-| Ethylene (gaseous) | 645 | 748,012 |
+| Propane | 888 | 1,889,636 |
+| Butanes | 1412 | 1,168,611 |
+| Nitrogen Oxides (NOx) | 1945 | 1,002,841 |
+| VOC | 681 | 766,971 |
+| Ethylene | 648 | 750,598 |
 | Natural Gas VOCs | 14 | 709,753 |
-| Particulate Matter | 211 | 533,764 |
-| Butane | 379 | 511,367 |
-| VOC | 560 | 473,999 |
+| Pentanes | 918 | 583,193 |
+| Particulate Matter | 253 | 578,310 |
 | VOC - NONMETHANE | 90 | 439,802 |
-| Propylene (Propene) | 582 | 385,259 |
+| Propylene | 642 | 394,297 |
 | Hydrogen Sulfide | 2221 | 379,901 |
-| Isobutane | 514 | 280,098 |
-| Propane, N- | 66 | 273,448 |
-| Pentane | 297 | 220,563 |
-| Isopentane | 300 | 206,425 |
-| Butane, N- | 347 | 180,844 |
+| Hexanes | 442 | 208,839 |
 | Methane | 110 | 178,425 |
+| #NAME? | 23 | 143,336 |
+| Toluene | 263 | 102,330 |
+| Benzene | 463 | 92,007 |
 
 ### 2010
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 1792 | 18,570,806 |
+| Sulfur dioxide | 1802 | 18,571,167 |
+| Butanes | 1350 | 7,052,429 |
 | Methane | 103 | 6,321,466 |
-| Butanes | 40 | 6,008,159 |
 | Carbon Monoxide | 2237 | 4,815,165 |
+| VOC | 575 | 2,972,535 |
 | NATURAL GAS | 543 | 2,827,940 |
-| VOC | 424 | 2,747,749 |
-| Propane | 747 | 1,642,869 |
+| Propane | 883 | 1,999,991 |
 | Non-Methane Non-Ethane Natural Gas | 435 | 1,565,065 |
-| Ethylene (gaseous) | 547 | 1,425,768 |
-| Isopentane | 224 | 944,098 |
-| Nitrogen Oxides (NOx) | 1639 | 756,397 |
-| Particulate Matter | 190 | 634,209 |
-| Isobutane | 488 | 401,590 |
-| Butane | 264 | 395,855 |
-| Propane, N- | 136 | 357,122 |
+| Ethylene | 554 | 1,478,146 |
+| Pentanes | 879 | 1,281,229 |
+| Nitrogen Oxides (NOx) | 1649 | 756,953 |
+| Particulate Matter | 244 | 638,183 |
+| Propylene | 507 | 366,308 |
 | Hydrogen Sulfide | 1808 | 356,278 |
 | VOC GAS MIXTURE | 92 | 339,811 |
-| Propylene (Propene) | 383 | 337,054 |
 | Ethane | 102 | 283,537 |
 | Carbon Dioxide | 20 | 234,244 |
+| Hexanes | 372 | 163,000 |
+| Natural Gas VOCs | 25 | 151,904 |
+| VOC (light hydrocarbons) | 7 | 129,840 |
 
 ### 2011
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2501 | 46,777,785 |
+| Sulfur dioxide | 2506 | 46,790,950 |
 | NATURAL GAS | 669 | 15,833,380 |
 | Carbon Monoxide | 2846 | 7,256,762 |
 | Non-Methane Non-Ethane Natural Gas | 450 | 6,130,261 |
-| Propane | 972 | 3,558,863 |
-| Propane, N- | 179 | 1,954,336 |
-| Nitrogen Oxides (NOx) | 1995 | 1,751,946 |
-| Propylene (Propene) | 414 | 1,661,909 |
-| VOC | 560 | 1,420,773 |
+| Propane | 1151 | 5,513,199 |
+| VOC | 718 | 2,372,079 |
+| Butanes | 1810 | 2,189,436 |
+| Propylene | 572 | 1,806,216 |
+| Nitrogen Oxides (NOx) | 2003 | 1,777,898 |
 | Propylene Glycol Monomethyl Ether Acetate | 6 | 1,368,119 |
-| Particulate Matter | 234 | 946,932 |
-| Hydrogen Sulfide | 2400 | 920,376 |
-| Nitrogen oxide | 698 | 894,469 |
-| Butane | 418 | 891,496 |
+| Particulate Matter | 301 | 962,441 |
+| Hydrogen Sulfide | 2402 | 920,401 |
+| Pentanes | 1343 | 897,849 |
+| Nitrogen oxide | 551 | 871,625 |
+| Hexanes | 644 | 813,018 |
 | Methane | 141 | 810,134 |
-| Ethylene (gaseous) | 605 | 795,399 |
+| Ethylene | 606 | 795,489 |
 | Ethane | 144 | 729,717 |
-| Isobutane | 576 | 657,902 |
 | VOC GAS MIXTURE | 102 | 491,231 |
-| VOC (unclassified) | 16 | 472,783 |
+| Nitrous Oxide | 29 | 299,914 |
 
 ### 2012
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2530 | 31,945,158 |
+| Sulfur dioxide | 2540 | 32,174,499 |
 | Carbon Monoxide | 2718 | 7,265,287 |
 | NATURAL GAS | 665 | 6,464,053 |
-| Propane | 922 | 3,266,405 |
-| Nitrogen Oxides (NOx) | 2048 | 2,347,666 |
-| VOC | 509 | 1,530,657 |
-| Particulate Matter | 172 | 1,183,224 |
+| Propane | 1051 | 3,878,660 |
+| VOC | 670 | 2,525,343 |
+| Nitrogen Oxides (NOx) | 2053 | 2,348,307 |
+| Butanes | 1631 | 1,888,318 |
+| Particulate Matter | 237 | 1,187,358 |
 | Non-Methane Non-Ethane Natural Gas | 553 | 1,179,928 |
-| Ethylene (gaseous) | 380 | 985,857 |
-| VOC (unclassified) | 13 | 777,016 |
-| Butane | 271 | 665,795 |
+| Pentanes | 1306 | 1,002,890 |
+| Ethylene | 381 | 985,876 |
+| Hexanes | 670 | 811,547 |
 | Carbon Dioxide | 24 | 622,702 |
-| Propane, N- | 129 | 612,254 |
-| Isobutane | 460 | 518,295 |
 | VOC - NONMETHANE | 106 | 503,485 |
 | Hydrogen Sulfide | 2507 | 439,976 |
-| Hexanes | 99 | 436,210 |
-| pentane, iso- | 277 | 407,127 |
-| Butane, N- | 508 | 322,588 |
+| Propylene | 379 | 316,213 |
 | Other | 25 | 286,703 |
+| VOC GAS MIXTURE | 100 | 279,071 |
+| Natural Gas VOCs | 38 | 209,895 |
+| Nitrogen oxide | 450 | 193,114 |
 
 ### 2013
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 3193 | 37,383,164 |
+| Sulfur dioxide | 3212 | 37,408,571 |
 | Carbon Monoxide | 3600 | 14,139,528 |
-| CONDENSATE | 4 | 9,536,294 |
+| Condensate | 4 | 9,536,294 |
 | NATURAL GAS | 939 | 5,684,396 |
 | Non-Methane Non-Ethane Natural Gas | 668 | 2,854,044 |
-| Ethylene (gaseous) | 419 | 2,466,148 |
-| Propane | 1014 | 1,912,465 |
-| Nitrogen Oxides (NOx) | 2733 | 1,659,199 |
+| Ethylene | 421 | 2,467,293 |
+| Propane | 1107 | 2,445,542 |
+| VOC | 613 | 1,811,220 |
+| Nitrogen Oxides (NOx) | 2736 | 1,662,556 |
+| Butanes | 1778 | 1,605,393 |
 | Ethane | 86 | 1,363,578 |
-| VOC | 415 | 1,135,346 |
-| Particulate Matter | 224 | 641,776 |
+| Propylene | 431 | 905,596 |
+| Particulate Matter | 296 | 663,500 |
+| Pentanes | 1413 | 663,076 |
 | Hydrogen Sulfide | 3251 | 619,943 |
-| Butanes | 94 | 574,908 |
-| Propylene (Propene) | 232 | 537,712 |
-| Propane, N- | 93 | 533,077 |
-| VOC (unclassified) | 12 | 508,870 |
-| Butane | 282 | 425,401 |
-| Propylene | 189 | 360,203 |
+| Hexanes | 667 | 353,102 |
 | Natural Gas VOCs | 52 | 347,322 |
-| Butane, N- | 561 | 285,197 |
+| VOC (light hydrocarbons) | 333 | 278,455 |
+| Nitrogen oxide | 600 | 266,218 |
+| VOC - NONMETHANE | 93 | 250,604 |
 
 ### 2014
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2993 | 48,318,947 |
+| Sulfur dioxide | 3010 | 48,321,610 |
 | Carbon Monoxide | 3348 | 11,973,126 |
 | NATURAL GAS | 1307 | 7,593,071 |
-| VOC | 548 | 3,866,678 |
-| Propane | 1060 | 1,839,158 |
-| Nitrogen Oxides (NOx) | 2879 | 1,811,256 |
+| VOC | 729 | 4,732,417 |
+| Propane | 1116 | 2,159,208 |
+| Nitrogen Oxides (NOx) | 2895 | 1,857,518 |
 | Non-Methane Non-Ethane Natural Gas | 509 | 1,493,625 |
-| Ethylene (gaseous) | 387 | 1,358,592 |
+| Ethylene | 387 | 1,358,592 |
+| Butanes | 1852 | 1,130,124 |
 | VOC GAS MIXTURE | 49 | 954,996 |
-| Hydrogen Sulfide | 2922 | 811,875 |
-| VOC (unclassified) | 28 | 686,002 |
+| Hydrogen Sulfide | 2924 | 811,877 |
+| Particulate Matter | 221 | 645,184 |
 | Natural Gas VOCs | 74 | 622,233 |
-| Particulate Matter | 169 | 597,337 |
-| Propylene (Propene) | 182 | 434,238 |
-| Butane | 343 | 372,067 |
-| Butane, N- | 589 | 359,017 |
-| Propane, N- | 56 | 320,050 |
+| Propylene | 402 | 615,487 |
+| Pentanes | 1471 | 499,336 |
+| Hexanes | 663 | 369,848 |
 | CO (Startup/Shutdown) | 7 | 319,725 |
-| Nitrogen oxide | 504 | 243,694 |
 | VOC - NONMETHANE | 94 | 233,765 |
+| Nitrogen oxide | 390 | 209,275 |
+| Condensate | 4 | 136,231 |
 
 ### 2015
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2863 | 35,672,464 |
+| Sulfur dioxide | 2867 | 35,685,068 |
 | Carbon Monoxide | 3149 | 8,569,826 |
 | NATURAL GAS | 1001 | 5,699,751 |
 | Non-Methane Non-Ethane Natural Gas | 589 | 3,873,879 |
+| VOC | 664 | 2,602,508 |
+| Propane | 1058 | 2,504,441 |
 | Natural Gas VOCs | 130 | 2,110,134 |
-| Propane | 1016 | 2,034,784 |
-| VOC | 521 | 1,653,835 |
-| Nitrogen Oxides (NOx) | 2643 | 1,649,972 |
-| Ethylene (gaseous) | 385 | 959,520 |
-| Hydrogen Sulfide | 2760 | 731,015 |
+| Nitrogen Oxides (NOx) | 2646 | 1,650,959 |
+| Butanes | 1747 | 1,561,818 |
+| Ethylene | 387 | 959,531 |
+| Hydrogen Sulfide | 2761 | 731,537 |
+| Particulate Matter | 265 | 683,755 |
 | VOC GAS MIXTURE | 19 | 675,748 |
-| Particulate Matter | 214 | 674,813 |
-| Butane, N- | 584 | 665,010 |
-| Propane, N- | 42 | 469,657 |
-| VOCs | 73 | 450,080 |
-| 1,3-BUTADIENE | 177 | 367,416 |
-| Nitrogen oxide | 547 | 332,432 |
-| Propylene (Propene) | 232 | 322,035 |
-| Propylene | 161 | 314,063 |
+| Propylene | 395 | 636,843 |
+| Pentanes | 1396 | 559,262 |
+| Hexanes | 679 | 474,489 |
+| Butadiene | 197 | 372,574 |
+| Nitrogen oxide | 509 | 312,714 |
 | Methane | 101 | 306,467 |
+| Catalyst fines | 7 | 244,112 |
 
 ### 2016
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2773 | 27,465,063 |
+| Sulfur dioxide | 2778 | 27,481,880 |
 | Carbon Monoxide | 2920 | 5,650,964 |
 | NATURAL GAS | 718 | 3,346,821 |
-| Propane | 1080 | 2,073,450 |
-| Nitrogen Oxides (NOx) | 2537 | 1,320,372 |
+| Propane | 1128 | 2,196,253 |
+| Butanes | 1762 | 1,344,405 |
+| Nitrogen Oxides (NOx) | 2542 | 1,323,573 |
 | Natural Gas VOCs | 208 | 1,107,772 |
+| VOC | 591 | 1,060,893 |
 | Non-Methane Non-Ethane Natural Gas | 479 | 839,883 |
-| Ethylene (gaseous) | 363 | 722,963 |
-| VOC | 473 | 605,515 |
-| Butane | 286 | 558,604 |
-| Hydrogen Sulfide | 2545 | 428,972 |
-| Butane, N- | 645 | 398,721 |
+| Ethylene | 379 | 724,637 |
+| Pentanes | 1288 | 544,318 |
+| Hydrogen Sulfide | 2551 | 429,678 |
+| Hexanes | 693 | 402,548 |
 | Methane | 62 | 309,469 |
-| Nitrogen oxide | 444 | 254,635 |
-| Pentane | 215 | 221,734 |
-| VOCs | 67 | 217,432 |
-| Hexane | 179 | 216,792 |
-| Isobutane | 393 | 207,323 |
+| Propylene | 374 | 297,134 |
+| Nitrogen oxide | 403 | 252,754 |
 | VOC - NONMETHANE | 118 | 187,551 |
-| Propylene | 191 | 185,164 |
+| Particulate Matter | 256 | 155,872 |
+| Benzene | 363 | 107,343 |
+| Ethylene oxide | 36 | 76,380 |
 
 ### 2017
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 3108 | 24,068,792 |
+| Sulfur dioxide | 3125 | 24,165,571 |
 | Carbon Monoxide | 3346 | 10,007,814 |
 | NATURAL GAS | 794 | 4,993,765 |
 | Methane | 67 | 4,402,741 |
-| Propane | 1231 | 2,641,367 |
-| Nitrogen Oxides (NOx) | 2949 | 2,291,166 |
+| Propane | 1252 | 3,325,540 |
+| Nitrogen Oxides (NOx) | 2962 | 2,297,782 |
+| Butanes | 2048 | 1,921,366 |
 | Non-Methane Non-Ethane Natural Gas | 639 | 1,255,502 |
-| Ethylene (gaseous) | 425 | 936,390 |
-| Butane | 277 | 781,943 |
+| Pentanes | 1464 | 1,039,057 |
+| Ethylene | 504 | 1,009,407 |
+| VOC | 816 | 924,785 |
 | Natural Gas VOCs | 248 | 772,749 |
-| Propane, N- | 21 | 684,173 |
-| VOC | 650 | 619,950 |
-| Butane, N- | 774 | 548,242 |
+| Hexanes | 794 | 590,166 |
 | Carbon Dioxide | 38 | 449,068 |
-| Pentane | 215 | 382,872 |
-| Particulate Matter | 233 | 357,461 |
-| Hydrogen Sulfide | 2887 | 338,602 |
-| Isopentane | 221 | 334,276 |
-| Nitrogen oxide | 448 | 329,690 |
-| Ammonia | 122 | 327,751 |
+| Particulate Matter | 330 | 416,210 |
+| Ammonia | 133 | 349,501 |
+| Hydrogen Sulfide | 2922 | 339,600 |
+| Propylene | 491 | 336,799 |
+| Nitrogen oxide | 429 | 329,561 |
+| Xylenes | 214 | 248,815 |
 
 ### 2018
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
 | Carbon Dioxide | 128 | 122,881,493 |
-| Sulfur dioxide | 3462 | 21,544,393 |
+| Sulfur dioxide | 3474 | 21,689,868 |
 | Carbon Monoxide | 3613 | 10,879,771 |
 | NATURAL GAS | 1121 | 7,541,294 |
 | Methane | 94 | 6,828,678 |
-| Propane | 1420 | 3,890,114 |
-| Nitrogen Oxides (NOx) | 3270 | 2,499,370 |
+| Propane | 1442 | 4,152,650 |
+| Butanes | 2174 | 2,647,919 |
+| Nitrogen Oxides (NOx) | 3277 | 2,501,279 |
+| VOC | 597 | 2,375,698 |
+| Ethylene | 436 | 1,354,934 |
+| Pentanes | 1689 | 1,186,173 |
 | Natural Gas VOCs | 306 | 1,135,536 |
 | Natural Gas Liquid (Mixture) | 3 | 1,127,937 |
 | Ethane | 92 | 1,098,864 |
-| VOC | 416 | 1,006,711 |
-| Ethylene (gaseous) | 333 | 992,473 |
-| Nitrogen oxide | 572 | 818,017 |
+| Hexanes | 928 | 996,113 |
 | Non-Methane Non-Ethane Natural Gas | 744 | 796,556 |
-| Hexane | 350 | 679,533 |
-| Butane, N- | 733 | 670,492 |
-| Butanes | 123 | 620,470 |
-| Unspeciated VOCs | 16 | 602,239 |
-| VOCs | 106 | 578,862 |
-| Isobutane | 346 | 506,304 |
+| Nitrogen oxide | 550 | 788,604 |
+| Hydrogen Sulfide | 3276 | 436,775 |
+| Nitrogen | 16 | 418,131 |
+| Hydrogen | 17 | 376,928 |
 
 ### 2019
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
 | Carbon Dioxide | 61 | 71,584,243 |
-| Sulfur dioxide | 3499 | 36,202,619 |
+| Sulfur dioxide | 3503 | 36,203,888 |
 | Carbon Monoxide | 3874 | 23,723,611 |
-| Particulate Matter | 163 | 8,699,171 |
+| Particulate Matter | 285 | 9,155,008 |
 | NATURAL GAS | 1013 | 8,687,165 |
 | Non-Methane Non-Ethane Natural Gas | 823 | 4,256,872 |
-| Nitrogen Oxides (NOx) | 3468 | 3,562,361 |
-| Nitrogen oxide | 357 | 2,926,690 |
-| Propane | 1498 | 2,757,677 |
+| Nitrogen Oxides (NOx) | 3476 | 3,570,532 |
+| Nitrogen oxide | 330 | 2,924,726 |
+| Propane | 1563 | 2,865,193 |
 | Methane | 115 | 2,306,295 |
 | Natural Gas VOCs | 312 | 1,958,951 |
-| Ethylene (gaseous) | 277 | 1,556,099 |
-| Xylene | 300 | 1,049,467 |
+| Butanes | 2182 | 1,892,484 |
+| Ethylene | 450 | 1,675,000 |
+| Xylenes | 432 | 1,062,442 |
 | Nitrogen dioxide | 223 | 940,440 |
+| VOC | 678 | 915,823 |
+| Pentanes | 1584 | 898,368 |
 | Toluene | 518 | 823,686 |
-| Hydrogen Sulfide | 3405 | 820,781 |
+| Hydrogen Sulfide | 3441 | 822,267 |
 | n-hexane - 110543 | 10 | 792,280 |
-| Benzene | 721 | 778,194 |
-| Butane | 581 | 711,525 |
-| Distillates (petroleum), alkylate | 5 | 575,753 |
 
 ### 2020
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
 | Carbon Dioxide | 51 | 46,895,271 |
-| Sulfur dioxide | 2474 | 16,032,084 |
+| Sulfur dioxide | 2477 | 16,032,150 |
 | Carbon Monoxide | 2840 | 11,863,010 |
 | NATURAL GAS | 544 | 2,913,617 |
 | Non-Methane Non-Ethane Natural Gas | 737 | 2,405,332 |
-| Propane | 1109 | 2,249,990 |
-| Nitrogen Oxides (NOx) | 2375 | 2,049,888 |
-| Nitrogen oxide | 410 | 1,277,312 |
+| Propane | 1150 | 2,378,814 |
+| Nitrogen Oxides (NOx) | 2383 | 2,056,423 |
+| Butanes | 1508 | 1,447,567 |
+| Nitrogen oxide | 392 | 1,274,087 |
 | Methane | 101 | 1,144,736 |
+| Ethylene | 481 | 992,412 |
 | Natural Gas VOCs | 138 | 941,209 |
-| Ethylene (gaseous) | 327 | 885,888 |
-| Butane | 500 | 695,100 |
+| VOC | 680 | 696,237 |
 | Ethanol | 3 | 654,301 |
+| Pentanes | 965 | 484,458 |
 | Nitrogen dioxide | 178 | 389,583 |
-| Hydrogen Sulfide | 2384 | 321,070 |
+| Propylene | 356 | 383,350 |
+| Hydrogen Sulfide | 2428 | 323,564 |
 | Ethane | 97 | 288,860 |
-| VOC | 311 | 287,571 |
-| Pentane | 337 | 285,530 |
 | NMNE Natural Gas | 43 | 278,233 |
-| VOC - NONMETHANE | 49 | 271,326 |
 
 ### 2021
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 2253 | 18,463,174 |
+| Sulfur dioxide | 2258 | 18,463,264 |
 | Carbon Monoxide | 2544 | 9,461,642 |
 | NATURAL GAS | 485 | 2,721,902 |
 | Methane | 105 | 2,225,061 |
-| Nitrogen Oxides (NOx) | 1992 | 1,749,807 |
-| Propane | 1103 | 1,748,094 |
+| Propane | 1151 | 2,160,907 |
+| Nitrogen Oxides (NOx) | 2000 | 1,756,557 |
+| Butanes | 1587 | 1,602,079 |
+| Ethylene | 551 | 1,512,891 |
 | Natural Gas VOCs | 145 | 1,480,673 |
 | Non-Methane Non-Ethane Natural Gas | 344 | 1,317,725 |
-| Ethylene (gaseous) | 348 | 1,194,422 |
 | Carbon Dioxide | 52 | 1,190,632 |
+| VOC | 844 | 1,088,102 |
 | Ethane | 116 | 610,477 |
-| Nitrogen oxide | 504 | 560,159 |
-| VOC | 423 | 492,564 |
-| Propane, N- | 48 | 412,812 |
-| Butane | 594 | 361,887 |
-| Particulate Matter | 245 | 322,333 |
-| Ethylene | 201 | 318,465 |
-| Butanes | 153 | 301,947 |
-| Butane, N- | 265 | 280,203 |
-| Isobutane | 405 | 277,037 |
+| Pentanes | 808 | 550,930 |
+| Nitrogen oxide | 486 | 523,678 |
+| Propylene | 487 | 455,210 |
+| Particulate Matter | 394 | 332,687 |
+| Hexanes | 634 | 317,251 |
+| Hydrogen Sulfide | 2124 | 253,443 |
+| Nitrogen dioxide | 154 | 131,798 |
 
 ### 2022
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
 | Carbon Monoxide | 2116 | 16,749,620 |
-| Propane | 956 | 12,304,748 |
-| Sulfur dioxide | 1765 | 10,602,628 |
+| Propane | 1027 | 12,923,859 |
+| Sulfur dioxide | 1767 | 10,602,674 |
 | Carbon Dioxide | 36 | 8,464,318 |
-| Butane | 422 | 3,264,646 |
-| Nitrogen Oxides (NOx) | 1695 | 2,935,260 |
+| Butanes | 1392 | 5,367,483 |
+| Nitrogen Oxides (NOx) | 1705 | 2,944,963 |
+| Pentanes | 764 | 2,564,402 |
 | NATURAL GAS | 231 | 2,249,090 |
 | Non-Methane Non-Ethane Natural Gas | 196 | 2,144,871 |
-| Isobutane | 414 | 1,236,093 |
-| Ethylene (gaseous) | 298 | 1,230,306 |
-| Nitrogen oxide | 382 | 1,155,379 |
-| Isopentane | 174 | 1,124,818 |
-| Pentane | 218 | 1,093,949 |
-| Hydrogen Sulfide | 1481 | 799,561 |
-| VOC | 588 | 750,891 |
+| Ethylene | 503 | 1,678,858 |
+| VOC | 935 | 1,598,910 |
+| Nitrogen oxide | 367 | 1,013,397 |
+| Hydrogen Sulfide | 1566 | 801,437 |
 | Natural Gas VOCs | 102 | 694,673 |
-| VOCs | 122 | 668,984 |
-| Propane, N- | 71 | 619,112 |
-| Propylene | 310 | 518,605 |
+| Propylene | 477 | 662,738 |
+| Hexanes | 506 | 613,554 |
 | Methane | 67 | 495,790 |
+| Ethane | 96 | 356,721 |
+| Nitrogen dioxide | 134 | 326,578 |
+| VOC - NONMETHANE | 19 | 157,433 |
 
 ### 2023
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
 | Carbon Monoxide | 1680 | 9,635,192 |
-| Sulfur dioxide | 1383 | 7,361,428 |
+| Sulfur dioxide | 1386 | 7,365,613 |
 | Natural Gas VOCs | 480 | 4,119,304 |
+| Butanes | 1111 | 2,495,929 |
+| VOC | 584 | 2,205,757 |
 | NATURAL GAS | 75 | 2,175,854 |
-| Nitrogen Oxides (NOx) | 1246 | 1,828,008 |
-| Propane | 764 | 1,768,890 |
-| Isobutane | 315 | 1,681,260 |
-| VOC | 395 | 1,104,159 |
-| Ethylene (gaseous) | 245 | 752,057 |
-| VOC-unclassified | 3 | 691,620 |
-| Particulate Matter | 163 | 657,278 |
-| Ethylene | 176 | 544,610 |
-| Nitrogen oxide | 386 | 482,464 |
+| Nitrogen Oxides (NOx) | 1258 | 1,850,414 |
+| Propane | 806 | 1,826,951 |
+| Ethylene | 423 | 1,296,672 |
+| Particulate Matter | 274 | 678,395 |
+| Nitrogen oxide | 380 | 466,205 |
 | Carbon Dioxide | 24 | 421,373 |
-| VOCs | 101 | 360,490 |
+| Propylene | 407 | 405,265 |
+| Pentanes | 542 | 367,006 |
 | Methane | 35 | 309,535 |
-| Butane | 346 | 287,943 |
-| Propylene | 268 | 278,332 |
-| Butane, N- | 192 | 207,304 |
-| Butanes | 160 | 156,778 |
+| Hexanes | 337 | 191,552 |
+| Hydrogen Sulfide | 1202 | 155,140 |
+| VOC - NONMETHANE | 22 | 129,349 |
+| VOC GAS MIXTURE | 46 | 121,927 |
+| Nitrogen dioxide | 124 | 105,195 |
 
 ### 2024
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 1281 | 15,446,720 |
+| Sulfur dioxide | 1282 | 15,446,720 |
 | Carbon Monoxide | 1707 | 11,120,929 |
 | Natural Gas VOCs | 540 | 7,497,328 |
-| Nitrogen Oxides (NOx) | 1554 | 3,404,033 |
-| VOCs | 91 | 3,274,246 |
-| Ethylene (gaseous) | 171 | 834,591 |
-| Propane | 501 | 771,175 |
-| VOC | 378 | 754,134 |
-| Ethylene | 171 | 540,690 |
+| VOC | 587 | 4,167,702 |
+| Nitrogen Oxides (NOx) | 1564 | 3,408,147 |
+| Ethylene | 346 | 1,375,311 |
+| Butanes | 753 | 838,101 |
+| Propane | 518 | 800,842 |
 | VOC - NONMETHANE | 206 | 345,538 |
 | Non-Methane Non-Ethane Natural Gas | 150 | 326,924 |
-| Butane | 155 | 280,450 |
 | NATURAL GAS | 21 | 264,875 |
-| Isobutane | 274 | 221,496 |
-| Butanes | 111 | 197,544 |
+| Pentanes | 356 | 263,129 |
+| Propylene | 339 | 261,008 |
+| Hydrogen Sulfide | 1171 | 237,373 |
 | Diesel | 2 | 196,834 |
-| Hydrogen Sulfide | 947 | 190,430 |
 | Cyclohexane | 56 | 173,430 |
-| Propylene | 216 | 165,865 |
-| Particulate Matter | 179 | 158,277 |
+| Particulate Matter | 315 | 170,215 |
+| NMNE Natural Gas | 10 | 144,640 |
+| Benzene | 342 | 141,718 |
+| VOC Gas Mixture | 6 | 129,942 |
 
 ### 2025
 
@@ -854,23 +830,23 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon Monoxide | 1566 | 7,668,051 |
 | Sulfur dioxide | 1213 | 7,274,538 |
 | Natural Gas VOCs | 457 | 4,368,691 |
-| Nitrogen Oxides (NOx) | 1453 | 2,051,557 |
-| Propane | 632 | 822,088 |
-| Ethylene (gaseous) | 199 | 762,917 |
-| VOC | 325 | 597,204 |
+| Nitrogen Oxides (NOx) | 1464 | 2,058,109 |
+| VOC | 458 | 1,153,783 |
+| Ethylene | 391 | 1,084,966 |
+| Propane | 666 | 947,586 |
+| Butanes | 930 | 733,104 |
 | Non-Methane Non-Ethane Natural Gas | 115 | 539,336 |
-| VOCs | 43 | 437,451 |
-| Particulate Matter | 99 | 368,252 |
-| Ethylene | 189 | 320,563 |
-| Butanes | 168 | 312,057 |
-| Propylene | 218 | 188,836 |
+| Particulate Matter | 148 | 483,720 |
+| Propylene | 352 | 303,863 |
 | VOC GAS MIXTURE | 15 | 159,046 |
-| Propane, N- | 34 | 125,498 |
-| Propylene (Propene) | 132 | 114,957 |
-| Cement (wet or dry) | 1 | 114,000 |
-| Butane, N- | 190 | 110,076 |
-| Butane | 214 | 105,600 |
-| Hydrogen Sulfide | 927 | 96,703 |
+| Pentanes | 449 | 148,193 |
+| Hydrogen Sulfide | 1165 | 111,666 |
+| Cyclohexane | 74 | 94,324 |
+| Hexanes | 179 | 93,387 |
+| Methylene chloride | 2 | 81,033 |
+| NATURAL GAS | 15 | 75,534 |
+| Vinyl acetate | 7 | 69,406 |
+| Methanol | 20 | 61,689 |
 
 ### 2026
 
@@ -881,21 +857,21 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Carbon Monoxide | 384 | 2,256,609 |
 | Sulfur dioxide | 257 | 1,919,448 |
 | Natural Gas VOCs | 131 | 692,849 |
+| Propane | 158 | 576,257 |
 | Non-Methane Non-Ethane Natural Gas | 56 | 565,778 |
-| Nitrogen Oxides (NOx) | 331 | 361,706 |
-| Propane | 144 | 337,459 |
-| Particulate Matter | 44 | 296,692 |
+| Butanes | 255 | 513,230 |
+| Particulate Matter | 67 | 383,955 |
+| Nitrogen Oxides (NOx) | 333 | 362,560 |
 | Carbon Dioxide | 1 | 287,307 |
-| Propane, N- | 14 | 238,798 |
-| Isobutane | 97 | 150,560 |
-| Butane | 49 | 148,730 |
-| Ethylene (gaseous) | 54 | 123,309 |
-| Ethylene | 38 | 109,305 |
-| n-butane | 21 | 108,492 |
+| Ethylene | 96 | 232,667 |
+| Pentanes | 145 | 123,018 |
+| Hexanes | 58 | 104,670 |
+| Propylene | 101 | 98,304 |
 | VOC - NONMETHANE | 32 | 97,705 |
-| Butane, N- | 50 | 95,176 |
-| PM (unspeciated) | 6 | 86,258 |
-| VOC | 88 | 72,821 |
-| Propylene | 55 | 70,075 |
-| Isopentane | 47 | 58,844 |
+| VOC | 116 | 96,874 |
+| Ethanol | 5 | 50,287 |
+| Butyl alcohol, tert- | 4 | 42,473 |
+| Hydrogen Sulfide | 216 | 16,317 |
+| Hydrogen Chloride | 1 | 15,373 |
+| NATURAL GAS | 9 | 13,890 |
 
