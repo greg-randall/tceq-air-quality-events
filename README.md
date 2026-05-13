@@ -5,13 +5,14 @@ The reports are public record, but TCEQ buries them behind 102,551
 individual pages and Excel files. This pipeline pulls all of it into
 CSVs and JSONL so you can see who's dumping what into the air.
 
-The data covers 2004 through 2025: refineries in Harris County,
-compressor stations in Ector County, chemical plants in Gray County.
-Some locations are street addresses, others are driving directions for
-well pads and pipeline segments that don't have one. 1,373 operators.
-2,108 distinct contaminants. Releases range from under an hour to
-several weeks. It's a lot of sulfur dioxide, a lot of benzene, and a
-lot of things the state would rather you didn't think about.
+The data covers 2004 through 2025. Refineries, compressor stations,
+chemical plants, pipeline blowdowns, tank venting — if it released
+something in Texas, it's probably in here. Some locations are street
+addresses, others are driving directions for well pads and pipeline
+segments that don't have one. 1,373 operators. 2,108 distinct
+contaminants. Releases range from under an hour to several weeks.
+It's a lot of sulfur dioxide, a lot of benzene, and a lot of things
+the state would rather you didn't think about.
 
 A note on data quality: some of the reported numbers are clearly
 wrong. Sulfur dioxide is listed with an opacity of 127,807%. Opacity
