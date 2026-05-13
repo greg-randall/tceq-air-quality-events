@@ -47,7 +47,7 @@ def _write_contaminants_md(output_dir):
     lines = [
         "# Contaminants",
         "",
-        f"{len(data)} unique compounds tracked across {sum(v['count'] for v in data.values()):,} emission records.",
+        f"{len(data)} unique compounds tracked across {sum(v['count'] for v in data.values()):,} reported releases.",
         "",
     ]
 
@@ -71,7 +71,7 @@ def _write_contaminants_md(output_dir):
         lines.append(f"### {unit_key}")
         lines.append(f"{desc}.")
         lines.append("")
-        lines.append(f"| Contaminant | Records | {unit_key} |")
+        lines.append(f"| Contaminant | Releases | {unit_key} |")
         lines.append("|---|---|---|")
         for name, count, qty in sorted(unit_data, key=lambda x: x[2], reverse=True)[:50]:
             lines.append(f"| {name} | {count} | {qty:,.0f} |")

@@ -1,11 +1,11 @@
 # Contaminants
 
-2108 unique compounds tracked across 568,670 emission records.
+2108 unique compounds tracked across 568,670 reported releases.
 
 ### POUNDS
 Total mass released over the event.
 
-| Contaminant | Records | POUNDS |
+| Contaminant | Releases | POUNDS |
 |---|---|---|
 | Sulfur dioxide | 53391 | 556,076,864 |
 | Carbon Dioxide | 1350 | 273,984,745 |
@@ -61,7 +61,7 @@ Total mass released over the event.
 ### LBS/HR
 Instantaneous emission rate.
 
-| Contaminant | Records | LBS/HR |
+| Contaminant | Releases | LBS/HR |
 |---|---|---|
 | Carbon Monoxide | 59925 | 2,312,911 |
 | Acetylene | 2552 | 96,230 |
@@ -117,7 +117,7 @@ Instantaneous emission rate.
 ### TONS/YR
 Annualized estimate.
 
-| Contaminant | Records | TONS/YR |
+| Contaminant | Releases | TONS/YR |
 |---|---|---|
 | Carbon Monoxide | 59925 | 5,545 |
 | Carbon Dioxide | 1350 | 21 |
@@ -135,7 +135,7 @@ Annualized estimate.
 ### % OPACITY
 Visible plume density, not mass.
 
-| Contaminant | Records | % OPACITY |
+| Contaminant | Releases | % OPACITY |
 |---|---|---|
 | Opacity | 24446 | 1,153,837 |
 | Sulfur dioxide | 53391 | 611,710 |
