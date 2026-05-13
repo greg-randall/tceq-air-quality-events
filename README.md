@@ -17,7 +17,7 @@ A note on data quality: some of the reported numbers are clearly
 wrong. Sulfur dioxide is listed with an opacity of 127,807%. A few
 tons of xylene somehow became a single opacity percentage. Whether
 this is carelessness, an underfunded agency, or something less
-charitable — you'll have to decide for yourself. We pass the data
+charitable — who's to say. We pass the data
 through as TCEQ published it.
 
 The only columns we add are `latitude`, `longitude`, and
