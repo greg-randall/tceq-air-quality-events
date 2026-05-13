@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Intermediary downloads (regeneratable from scripts)
+eer_monthly_exports/
+incident_full_data/
+incident_emissions/
+
+# Archives
+*.7z
+
+# JSON caches and temp files (but keep JSONL output)
+*.json
+!*.jsonl
+geocode_cache.jsonl
+
+# Census gazetteer download (intermediary, regeneratable)
+gaz_place_48.txt
+
+# Per-file parse caches (regeneratable from HTML/XLS)
+*.html.json
+*.xls.csv
+
+# Uncompressed output files (too large for GitHub; use .gz versions)
+output/incidents.csv
+output/incidents.jsonl
+output/incident_contaminants.csv
+
+# Temp files
+wget-log
+eer_master_all.parquet
+eer_master_all.csv
