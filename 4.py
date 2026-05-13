@@ -49,21 +49,33 @@ def _write_contaminants_md(output_dir):
         "",
         f"{len(data)} unique compounds tracked across {sum(v['count'] for v in data.values()):,} emission records.",
         "",
-        "POUNDS is total mass released over the event. LBS/HR is an",
-        "instantaneous emission rate. TONS/YR is an annualized estimate.",
-        "These measure different things and can't be compared or summed.",
-        "% Opacity measures visible plume density, not mass.",
-        "",
-        "| Contaminant | Records | Quantity | Unit |",
-        "|---|---|---|---|",
     ]
-    for name, info in top:
-        for unit, qty in sorted(info["by_unit"].items(), key=lambda x: x[1], reverse=True):
-            if unit:
-                lines.append(f"| {name} | {info['count']} | {qty:,.0f} | {unit} |")
-            name = ""  # only show name on first row
 
-    lines.append("")
+    tables = [
+        ("POUNDS", "Total mass released over the event"),
+        ("LBS/HR", "Instantaneous emission rate"),
+        ("TONS/YR", "Annualized estimate"),
+        ("% OPACITY", "Visible plume density, not mass"),
+    ]
+
+    for unit_key, desc in tables:
+        # Gather contaminants that have this unit
+        unit_data = []
+        for name, info in top:
+            qty = info["by_unit"].get(unit_key)
+            if qty is not None and qty > 0:
+                unit_data.append((name, info["count"], qty))
+        if not unit_data:
+            continue
+
+        lines.append(f"### {unit_key}")
+        lines.append(f"{desc}.")
+        lines.append("")
+        lines.append(f"| Contaminant | Records | {unit_key} |")
+        lines.append("|---|---|---|")
+        for name, count, qty in sorted(unit_data, key=lambda x: x[2], reverse=True)[:50]:
+            lines.append(f"| {name} | {count} | {qty:,.0f} |")
+        lines.append("")
     md_path = Path("CONTAMINANTS.md")
     md_path.write_text("\n".join(lines))
     print(f"Wrote {len(data)} contaminants to {md_path}")
