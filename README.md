@@ -14,11 +14,16 @@ several weeks. It's a lot of sulfur dioxide, a lot of benzene, and a
 lot of things the state would rather you didn't think about.
 
 A note on data quality: some of the reported numbers are clearly
-wrong. Sulfur dioxide is listed with an opacity of 127,807%. A few
-tons of xylene somehow became a single opacity percentage. Whether
-this is carelessness, an underfunded agency, or something less
-charitable — who's to say. We pass the data
-through as TCEQ published it.
+wrong. Sulfur dioxide is listed with an opacity of 127,807%. Opacity
+is supposed to be a 0-100% measurement made by a trained observer
+under [EPA Method 9](https://www.epa.gov/emc/method-9-visual-opacity) —
+a human looking at the plume and estimating how much sky it blocks.
+TCEQ tracks [opacity events and emission events separately](
+https://www.tceq.texas.gov/airquality/emission-events/eventreporting),
+so a sulfur dioxide reading of 127,807% opacity means someone put
+pounds in the wrong column. Whether this is carelessness, an
+underfunded agency, or something less charitable — who's to say. We
+pass the data through as TCEQ published it.
 
 The only columns we add are `latitude`, `longitude`, and
 `geocode_source`. Everything else comes straight from TCEQ. Coordinates
