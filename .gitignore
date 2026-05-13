@@ -30,3 +30,4 @@ output/eer_master_all.csv
 
 # Temp files
 wget-log
+output/eer_master_all.parquet

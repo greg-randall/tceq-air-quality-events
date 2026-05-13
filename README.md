@@ -1,22 +1,23 @@
 # TCEQ Air Emission Event Reports
 
-TCEQ publishes air emission event reports on their website, but the
-data is split across 102,551 individual pages and Excel files with no
-bulk download. This pipeline scrapes, parses, and geocodes all of it
-into clean CSVs and JSONL.
+Texas requires companies to report unplanned air emissions to the TCEQ.
+The reports are public record, but TCEQ buries them behind 102,551
+individual pages and Excel files. This pipeline pulls all of it into
+CSVs and JSONL so you can see who's dumping what into the air.
 
-The reports cover incidents from 2004 to 2025: an oil refinery flare in
-Harris County, a compressor station upset in Ector County, a chemical
-plant shutdown in Gray County. Some addresses are street-level ("1221
-FULWILER RD; ABILENE, TX 79603"), others are driving directions for places with no street address. There are 1,373 operators,
-2,108 distinct contaminants, and events range from under an hour to
-several weeks.
+The data covers 2004 through 2025: refineries in Harris County,
+compressor stations in Ector County, chemical plants in Gray County.
+Some locations are street addresses, others are driving directions for
+well pads and pipeline segments that don't have one. 1,373 operators.
+2,108 distinct contaminants. Releases range from under an hour to
+several weeks. It's a lot of sulfur dioxide, a lot of benzene, and a
+lot of things the state would rather you didn't think about.
 
 The only columns we add are `latitude`, `longitude`, and
-`geocode_source`. Everything else comes straight from the TCEQ reports.
-Coordinates are geocoded at the best precision the source address
-allows — street-level when we can get it, city or county centroid when
-the address was a highway intersection or a rural description.
+`geocode_source`. Everything else comes straight from TCEQ. Coordinates
+are geocoded at the best precision the source address allows — street
+level when we can get it, city or county centroid when the address was
+a highway intersection or a lease road.
 
 Source: [TCEQ Air Emission Event Reports](https://www2.tceq.texas.gov/oce/eer/index.cfm)
 
