@@ -29,7 +29,7 @@
 | [2023](#2023) | 15,450 | Carbon Monoxide (1,536) |
 | [2024](#2024) | 13,482 | Carbon Monoxide (1,409) |
 | [2025](#2025) | 13,409 | Carbon Monoxide (1,311) |
-| [2026](#2026) | 3,353 | Carbon Monoxide (354) |
+| [2026](#2026) | 3,353 *(partial year)* | Carbon Monoxide (354) |
 
 ## All years
 
@@ -781,6 +781,8 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | VOC GAS MIXTURE | 15 | 159,046 |
 
 ### 2026
+
+*Data for 2026 is incomplete.*
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|

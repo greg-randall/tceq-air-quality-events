@@ -98,7 +98,8 @@ def _write_contaminants_md(output_dir):
         wname = worst[0]
         wcount = worst[1]["by_year"].get(y, {}).get("count", 0)
         wstr = f"{wname} ({wcount:,})" if wcount > 0 else ""
-        lines.append(f"| [{y}](#{y}) | {count:,} | {wstr} |")
+        note = " *(partial year)*" if y == max(years) else ""
+        lines.append(f"| [{y}](#{y}) | {count:,}{note} | {wstr} |")
     lines.append("")
 
     # ---- Overall unit tables ----
@@ -166,6 +167,9 @@ def _write_contaminants_md(output_dir):
             continue
         lines.append(f"### {y}")
         lines.append("")
+        if y == max(years):
+            lines.append(f"*Data for {y} is incomplete.*")
+            lines.append("")
         lines.append("| Contaminant | Releases | POUNDS |")
         lines.append("|---|---|---|")
         for name, yu in sorted(yr_data, key=lambda x: x[1]["total"], reverse=True)[:20]:
