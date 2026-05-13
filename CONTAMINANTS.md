@@ -137,7 +137,7 @@ Annualized estimate in tons per year. A small number here can mean either a smal
 
 ### % OPACITY
 
-How dense the visible plume was, as a percentage. This is about appearance, not mass — 100% means you can't see through it at all. Not comparable with the mass tables above.
+How dense the visible plume was, estimated by a trained observer comparing against the sky (EPA Method 9). 0% is invisible, 100% is completely opaque. TCEQ limits are typically 20-30%. Values above 100% are data entry errors — probably mass quantities entered in the wrong field. Not comparable with the mass tables.
 
 | Contaminant | Releases | Average | Min | Max |
 |---|---|---|---|---|
