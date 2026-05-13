@@ -2,140 +2,303 @@
 
 2108 unique compounds tracked across 568,670 emission records.
 
-| Contaminant | Records | Total Quantity | Units |
+Quantities are only comparable within the same unit. % Opacity is a
+measurement of visible emissions, not a mass.
+
+| Contaminant | Records | Quantity | Unit |
 |---|---|---|---|
-| Carbon Monoxide | 59925 | 245,165,680 | % OPACITY, LBS/HR, POUNDS, TONS/YR |
-| Sulfur dioxide | 53391 | 556,746,984 | % OPACITY, LBS/HR, POUNDS, TONS/YR |
-| Hydrogen Sulfide | 48563 | 10,644,548 | % OPACITY, LBS/HR, POUNDS |
-| Opacity | 24446 | 1,157,616 | % OPACITY, POUNDS |
-| Propane | 23447 | 60,293,864 | % OPACITY, LBS/HR, POUNDS |
-| NOX | 15519 | 14,860,586 | % OPACITY, POUNDS, TONS/YR |
-| Nitrogen oxide | 13548 | 13,684,970 | % OPACITY, LBS/HR, POUNDS, TONS/YR |
-| NATURAL GAS | 13384 | 102,107,189 | % OPACITY, LBS/HR, POUNDS |
-| Nitrogen dioxide | 13336 | 4,162,278 | % OPACITY, LBS/HR, POUNDS |
-| Benzene | 11246 | 2,788,450 | % OPACITY, LBS/HR, POUNDS |
-| Isobutane | 10689 | 11,605,841 | % OPACITY, GALLONS, LBS/HR, POUNDS |
-| Ethylene (gaseous) | 10536 | 25,588,204 | % OPACITY, LBS/HR, POUNDS |
-| Butane, N- | 10374 | 8,942,548 | % OPACITY, LBS/HR, POUNDS |
-| Oxides of Nitrogen (NOx) | 10013 | 7,910,655 | % OPACITY, LBS/HR, POUNDS, TONS/YR |
-| Non-Methane Non-Ethane Natural Gas | 9860 | 49,565,243 | % OPACITY, BARRELS, POUNDS |
-| Nitrogen Oxides | 9686 | 7,483,714 | % OPACITY, LBS/HR, POUNDS |
-| Nitrogen Oxides (NOx) | 9509 | 8,558,225 | % OPACITY, LBS/HR, POUNDS |
-| VOC | 9386 | 19,128,078 | % OPACITY, LBS/HR, POUNDS, TONS/YR |
-| Propylene (Propene) | 8712 | 12,603,041 | % OPACITY, LBS/HR, POUNDS |
-| Butane | 8653 | 14,255,620 | % OPACITY, LBS/HR, POUNDS |
-| Pentane, N- | 6836 | 3,367,616 | % OPACITY, LBS/HR, POUNDS |
-| Pentane | 6812 | 6,259,046 | % OPACITY, LBS/HR, POUNDS |
-| Hexane | 6578 | 4,540,967 | % OPACITY, LBS/HR, POUNDS |
-| Toluene | 6346 | 2,406,339 | % OPACITY, LBS/HR, POUNDS |
-| Isopentane | 5647 | 5,271,327 | % OPACITY, LBS/HR, POUNDS |
-| Particulate Matter | 5429 | 18,211,536 | % OPACITY, LBS/HR, POUNDS, TONS/YR |
-| 1,3-BUTADIENE | 4391 | 2,157,007 | % OPACITY, LBS/HR, POUNDS |
-| Butane, i | 3868 | 1,545,854 | LBS/HR, POUNDS |
-| pentane, iso- | 3763 | 1,527,822 | % OPACITY, POUNDS |
-| Propylene | 3577 | 3,356,859 | % OPACITY, LBS/HR, POUNDS |
-| Natural Gas VOCs | 3468 | 29,444,621 | % OPACITY, LBS/HR, POUNDS |
-| Ethylbenzene | 3212 | 217,535 | % OPACITY, LBS/HR, POUNDS |
-| Trans-2-butene | 3067 | 434,182 | % OPACITY, LBS/HR, POUNDS |
-| Xylene | 3017 | 1,256,853 | % OPACITY, POUNDS, TONS/YR |
-| Cis-2-butene | 2999 | 316,728 | % OPACITY, LBS/HR, POUNDS |
-| Ethane | 2916 | 9,584,809 | % OPACITY, LBS/HR, POUNDS |
-| CO | 2795 | 11,447,166 | % OPACITY, LBS/HR, POUNDS |
-| Nitrogen monoxide | 2760 | 891,957 | % OPACITY, LBS/HR, POUNDS |
-| hexanes + | 2724 | 1,425,267 | LBS/HR, POUNDS |
-| Butene | 2678 | 916,344 | % OPACITY, POUNDS |
-| Visible Emissions | 2666 | 21,036 | % OPACITY, POUNDS |
-| Methane | 2641 | 47,634,586 | % OPACITY, LBS/HR, POUNDS |
-| Acetylene | 2552 | 945,900 | LBS/HR, POUNDS |
-| Cyclohexane | 2381 | 926,705 | % OPACITY, LBS/HR, POUNDS |
-| 1-Butene | 2300 | 623,792 | % OPACITY, LBS/HR, POUNDS |
-| Octane | 2121 | 452,799 | % OPACITY, LBS/HR, POUNDS |
-| Isobutylene | 2090 | 471,893 | LBS/HR, POUNDS |
-| VOC - NONMETHANE | 2079 | 4,085,019 | % OPACITY, POUNDS |
-| Butanes | 1965 | 10,300,274 | % OPACITY, LBS/HR, POUNDS |
-| Hexanes | 1925 | 1,526,202 | % OPACITY, LBS/HR, POUNDS |
-| Nitric oxide | 1843 | 764,537 | LBS/HR, POUNDS |
-| Ammonia | 1770 | 777,056 | % OPACITY, LBS/HR, POUNDS |
-| VOCs | 1765 | 7,943,441 | % OPACITY, POUNDS |
-| Heptane (or n-) | 1568 | 680,906 | % OPACITY, POUNDS |
-| Ethylene | 1498 | 2,943,059 | LBS/HR, POUNDS |
-| Pentanes | 1466 | 1,505,901 | LBS/HR, POUNDS |
+| Carbon Monoxide | 59925 | 242,811,779 | POUNDS |
+|  | 59925 | 2,312,911 | LBS/HR |
+|  | 59925 | 35,151 | % OPACITY |
+|  | 59925 | 5,545 | TONS/YR |
+| Sulfur dioxide | 53391 | 556,076,864 | POUNDS |
+|  | 53391 | 611,710 | % OPACITY |
+|  | 53391 | 58,403 | LBS/HR |
+|  | 53391 | 0 | TONS/YR |
+| Hydrogen Sulfide | 48563 | 10,595,052 | POUNDS |
+|  | 48563 | 45,710 | LBS/HR |
+|  | 48563 | 3,785 | % OPACITY |
+| Opacity | 24446 | 1,153,837 | % OPACITY |
+|  | 24446 | 3,779 | POUNDS |
+| Propane | 23447 | 60,231,599 | POUNDS |
+|  | 23447 | 59,642 | LBS/HR |
+|  | 23447 | 1,996 | % OPACITY |
+| NOX | 15519 | 14,858,322 | POUNDS |
+|  | 15519 | 2,263 | % OPACITY |
+|  | 15519 | 1 | TONS/YR |
+| Nitrogen oxide | 13548 | 13,674,977 | POUNDS |
+|  | 13548 | 6,865 | LBS/HR |
+|  | 13548 | 3,127 | % OPACITY |
+|  | 13548 | 1 | TONS/YR |
+| NATURAL GAS | 13384 | 102,018,548 | POUNDS |
+|  | 13384 | 72,090 | % OPACITY |
+|  | 13384 | 16,551 | LBS/HR |
+| Nitrogen dioxide | 13336 | 4,160,454 | POUNDS |
+|  | 13336 | 1,482 | LBS/HR |
+|  | 13336 | 8 | % OPACITY |
+| Benzene | 11246 | 2,761,978 | POUNDS |
+|  | 11246 | 26,410 | LBS/HR |
+|  | 11246 | 63 | % OPACITY |
+| Isobutane | 10689 | 11,592,946 | POUNDS |
+|  | 10689 | 12,687 | LBS/HR |
+|  | 10689 | 202 | % OPACITY |
+|  | 10689 | 6 | GALLONS |
+| Ethylene (gaseous) | 10536 | 25,587,698 | POUNDS |
+|  | 10536 | 283 | LBS/HR |
+|  | 10536 | 222 | % OPACITY |
+| Butane, N- | 10374 | 8,917,970 | POUNDS |
+|  | 10374 | 24,380 | LBS/HR |
+|  | 10374 | 198 | % OPACITY |
+| Oxides of Nitrogen (NOx) | 10013 | 7,907,676 | POUNDS |
+|  | 10013 | 1,513 | % OPACITY |
+|  | 10013 | 1,466 | LBS/HR |
+|  | 10013 | 0 | TONS/YR |
+| Non-Methane Non-Ethane Natural Gas | 9860 | 49,529,663 | POUNDS |
+|  | 9860 | 29,325 | BARRELS |
+|  | 9860 | 6,255 | % OPACITY |
+| Nitrogen Oxides | 9686 | 7,481,302 | POUNDS |
+|  | 9686 | 1,790 | LBS/HR |
+|  | 9686 | 622 | % OPACITY |
+| Nitrogen Oxides (NOx) | 9509 | 8,550,874 | POUNDS |
+|  | 9509 | 7,330 | LBS/HR |
+|  | 9509 | 21 | % OPACITY |
+| VOC | 9386 | 19,115,004 | POUNDS |
+|  | 9386 | 10,285 | LBS/HR |
+|  | 9386 | 2,790 | % OPACITY |
+|  | 9386 | 0 | TONS/YR |
+| Propylene (Propene) | 8712 | 12,601,088 | POUNDS |
+|  | 8712 | 1,102 | LBS/HR |
+|  | 8712 | 851 | % OPACITY |
+| Butane | 8653 | 14,216,386 | POUNDS |
+|  | 8653 | 36,348 | LBS/HR |
+|  | 8653 | 2,842 | % OPACITY |
+| Pentane, N- | 6836 | 3,367,265 | POUNDS |
+|  | 6836 | 259 | % OPACITY |
+|  | 6836 | 92 | LBS/HR |
+| Pentane | 6812 | 6,245,402 | POUNDS |
+|  | 6812 | 12,204 | LBS/HR |
+|  | 6812 | 1,440 | % OPACITY |
+| Hexane | 6578 | 4,527,636 | POUNDS |
+|  | 6578 | 11,907 | LBS/HR |
+|  | 6578 | 1,424 | % OPACITY |
+| Toluene | 6346 | 2,406,283 | POUNDS |
+|  | 6346 | 39 | % OPACITY |
+|  | 6346 | 18 | LBS/HR |
+| Isopentane | 5647 | 5,262,599 | POUNDS |
+|  | 5647 | 7,521 | LBS/HR |
+|  | 5647 | 1,206 | % OPACITY |
+| Particulate Matter | 5429 | 18,195,430 | POUNDS |
+|  | 5429 | 14,013 | % OPACITY |
+|  | 5429 | 2,093 | LBS/HR |
+|  | 5429 | 0 | TONS/YR |
+| 1,3-BUTADIENE | 4391 | 2,155,886 | POUNDS |
+|  | 4391 | 1,118 | % OPACITY |
+|  | 4391 | 3 | LBS/HR |
+| Butane, i | 3868 | 1,545,853 | POUNDS |
+|  | 3868 | 2 | LBS/HR |
+| pentane, iso- | 3763 | 1,527,768 | POUNDS |
+|  | 3763 | 54 | % OPACITY |
+| Propylene | 3577 | 3,356,262 | POUNDS |
+|  | 3577 | 597 | LBS/HR |
+|  | 3577 | 0 | % OPACITY |
+| Natural Gas VOCs | 3468 | 29,432,747 | POUNDS |
+|  | 3468 | 10,097 | LBS/HR |
+|  | 3468 | 1,777 | % OPACITY |
+| Ethylbenzene | 3212 | 217,517 | POUNDS |
+|  | 3212 | 13 | % OPACITY |
+|  | 3212 | 5 | LBS/HR |
+| Trans-2-butene | 3067 | 434,168 | POUNDS |
+|  | 3067 | 13 | % OPACITY |
+|  | 3067 | 1 | LBS/HR |
+| Xylene | 3017 | 1,256,851 | POUNDS |
+|  | 3017 | 1 | TONS/YR |
+|  | 3017 | 1 | % OPACITY |
+| Cis-2-butene | 2999 | 316,705 | POUNDS |
+|  | 2999 | 18 | % OPACITY |
+|  | 2999 | 4 | LBS/HR |
+| Ethane | 2916 | 9,497,969 | POUNDS |
+|  | 2916 | 86,821 | LBS/HR |
+|  | 2916 | 19 | % OPACITY |
+| CO | 2795 | 11,444,484 | POUNDS |
+|  | 2795 | 1,437 | % OPACITY |
+|  | 2795 | 1,245 | LBS/HR |
+| Nitrogen monoxide | 2760 | 890,709 | POUNDS |
+|  | 2760 | 1,203 | LBS/HR |
+|  | 2760 | 17 | % OPACITY |
+| hexanes + | 2724 | 1,425,267 | POUNDS |
+|  | 2724 | 0 | LBS/HR |
+| Butene | 2678 | 916,339 | POUNDS |
+|  | 2678 | 5 | % OPACITY |
+| Visible Emissions | 2666 | 20,883 | % OPACITY |
+|  | 2666 | 153 | POUNDS |
+| Methane | 2641 | 47,634,562 | POUNDS |
+|  | 2641 | 14 | LBS/HR |
+|  | 2641 | 10 | % OPACITY |
+| Acetylene | 2552 | 849,669 | POUNDS |
+|  | 2552 | 96,230 | LBS/HR |
+| Cyclohexane | 2381 | 926,578 | POUNDS |
+|  | 2381 | 118 | % OPACITY |
+|  | 2381 | 9 | LBS/HR |
+| 1-Butene | 2300 | 623,771 | POUNDS |
+|  | 2300 | 19 | % OPACITY |
+|  | 2300 | 2 | LBS/HR |
+| Octane | 2121 | 451,998 | POUNDS |
+|  | 2121 | 770 | LBS/HR |
+|  | 2121 | 32 | % OPACITY |
+| Isobutylene | 2090 | 439,599 | POUNDS |
+|  | 2090 | 32,294 | LBS/HR |
+| VOC - NONMETHANE | 2079 | 4,084,956 | POUNDS |
+|  | 2079 | 63 | % OPACITY |
+| Butanes | 1965 | 10,296,695 | POUNDS |
+|  | 1965 | 3,403 | % OPACITY |
+|  | 1965 | 176 | LBS/HR |
+| Hexanes | 1925 | 1,526,200 | POUNDS |
+|  | 1925 | 1 | % OPACITY |
+|  | 1925 | 1 | LBS/HR |
+| Nitric oxide | 1843 | 764,388 | POUNDS |
+|  | 1843 | 149 | LBS/HR |
+| Ammonia | 1770 | 772,955 | POUNDS |
+|  | 1770 | 3,999 | LBS/HR |
+|  | 1770 | 102 | % OPACITY |
+| VOCs | 1765 | 7,934,625 | POUNDS |
+|  | 1765 | 8,816 | % OPACITY |
+| Heptane (or n-) | 1568 | 680,905 | POUNDS |
+|  | 1568 | 1 | % OPACITY |
+| Ethylene | 1498 | 2,943,039 | POUNDS |
+|  | 1498 | 19 | LBS/HR |
+| Pentanes | 1466 | 1,505,900 | POUNDS |
+|  | 1466 | 1 | LBS/HR |
 | Butadiene, 1-3 | 1371 | 359,443 | POUNDS |
-| Carbon Dioxide | 1350 | 273,985,072 | % OPACITY, LBS/HR, POUNDS, TONS/YR |
-| VOC (unspeciated) | 1337 | 3,029,454 | % OPACITY, LBS/HR, POUNDS |
+| Carbon Dioxide | 1350 | 273,984,745 | POUNDS |
+|  | 1350 | 280 | % OPACITY |
+|  | 1350 | 26 | LBS/HR |
+|  | 1350 | 21 | TONS/YR |
+| VOC (unspeciated) | 1337 | 3,029,197 | POUNDS |
+|  | 1337 | 240 | % OPACITY |
+|  | 1337 | 17 | LBS/HR |
 | Butenes, All Isomers | 1285 | 490,190 | POUNDS |
-| Nonane | 1277 | 176,508 | LBS/HR, POUNDS |
-| Propane, N- | 1241 | 7,879,503 | % OPACITY, POUNDS |
+| Nonane | 1277 | 174,223 | POUNDS |
+|  | 1277 | 2,286 | LBS/HR |
+| Propane, N- | 1241 | 7,872,458 | POUNDS |
+|  | 1241 | 7,045 | % OPACITY |
 | decane | 1195 | 125,386 | POUNDS |
-| VOC( unspeciated) | 1143 | 3,939,485 | % OPACITY, POUNDS |
-| Hexane, n | 1134 | 2,803,670 | LBS/HR, POUNDS |
-| PM10 | 1122 | 192,994 | % OPACITY, LBS/HR, POUNDS |
+| VOC( unspeciated) | 1143 | 3,939,484 | POUNDS |
+|  | 1143 | 1 | % OPACITY |
+| Hexane, n | 1134 | 2,803,670 | POUNDS |
+|  | 1134 | 0 | LBS/HR |
+| PM10 | 1122 | 191,823 | POUNDS |
+|  | 1122 | 712 | LBS/HR |
+|  | 1122 | 458 | % OPACITY |
 | C5+ (not including benzene) | 1064 | 256,020 | POUNDS |
-| Isobutene | 1047 | 150,153 | % OPACITY, POUNDS |
+| Isobutene | 1047 | 150,151 | POUNDS |
+|  | 1047 | 2 | % OPACITY |
 | Pentene | 962 | 511,121 | POUNDS |
-| VOC GAS MIXTURE | 945 | 4,105,292 | % OPACITY, POUNDS |
-| Ethylene, gaseous | 911 | 2,476,544 | % OPACITY, POUNDS |
-| Smoke | 881 | 8,306 | % OPACITY, POUNDS, TONS/YR |
-| SO2 | 880 | 12,153,191 | % OPACITY, POUNDS |
-| n-butane | 877 | 1,499,558 | LBS/HR, POUNDS |
-| H2S | 844 | 98,080 | % OPACITY, POUNDS |
+| VOC GAS MIXTURE | 945 | 4,101,214 | POUNDS |
+|  | 945 | 4,078 | % OPACITY |
+| Ethylene, gaseous | 911 | 2,476,444 | POUNDS |
+|  | 911 | 100 | % OPACITY |
+| Smoke | 881 | 8,055 | % OPACITY |
+|  | 881 | 250 | POUNDS |
+|  | 881 | 1 | TONS/YR |
+| SO2 | 880 | 12,144,728 | POUNDS |
+|  | 880 | 8,462 | % OPACITY |
+| n-butane | 877 | 1,499,558 | POUNDS |
+|  | 877 | 0 | LBS/HR |
+| H2S | 844 | 97,888 | POUNDS |
+|  | 844 | 193 | % OPACITY |
 | Hexane Plus | 823 | 1,338,179 | POUNDS |
 | Styrene | 810 | 165,621 | POUNDS |
 | VOC (light hydrocarbons) | 796 | 763,393 | POUNDS |
-| Volatile Organic Compounds | 794 | 1,474,379 | % OPACITY, LBS/HR, POUNDS |
+| Volatile Organic Compounds | 794 | 1,467,090 | POUNDS |
+|  | 794 | 6,163 | LBS/HR |
+|  | 794 | 1,126 | % OPACITY |
 | NITROGEN | 771 | 4,377,867 | POUNDS |
-| Hydrogen cyanide | 759 | 121,492 | % OPACITY, LBS/HR, POUNDS |
-| n-pentane | 759 | 394,804 | % OPACITY, LBS/HR, POUNDS |
-| Xylene (mixed isomers) | 752 | 334,718 | % OPACITY, LBS/HR, POUNDS |
+| Hydrogen cyanide | 759 | 121,436 | POUNDS |
+|  | 759 | 45 | LBS/HR |
+|  | 759 | 11 | % OPACITY |
+| n-pentane | 759 | 394,796 | POUNDS |
+|  | 759 | 8 | % OPACITY |
+|  | 759 | 0 | LBS/HR |
+| Xylene (mixed isomers) | 752 | 334,670 | POUNDS |
+|  | 752 | 45 | % OPACITY |
+|  | 752 | 2 | LBS/HR |
 | Methanol | 749 | 587,724 | POUNDS |
-| HEPTANE (OR N-) | 679 | 173,080 | LBS/HR, POUNDS |
-| Heptanes | 656 | 304,675 | % OPACITY, LBS/HR, POUNDS |
-| Calcined Alumina Dust | 606 | 26,614 | % OPACITY, POUNDS |
-| Ethylene oxide | 589 | 428,600 | % OPACITY, LBS/HR, POUNDS |
+| HEPTANE (OR N-) | 679 | 172,528 | POUNDS |
+|  | 679 | 553 | LBS/HR |
+| Heptanes | 656 | 303,739 | POUNDS |
+|  | 656 | 914 | % OPACITY |
+|  | 656 | 22 | LBS/HR |
+| Calcined Alumina Dust | 606 | 26,471 | POUNDS |
+|  | 606 | 143 | % OPACITY |
+| Ethylene oxide | 589 | 428,553 | POUNDS |
+|  | 589 | 33 | LBS/HR |
+|  | 589 | 13 | % OPACITY |
 | Hydrogen | 577 | 893,227 | POUNDS |
 | Vinyl Chloride | 573 | 56,291 | POUNDS |
 | Propadiene | 556 | 34,272 | POUNDS |
 | Butylene | 555 | 447,859 | POUNDS |
-| Xylenes | 547 | 30,243 | LBS/HR, POUNDS |
-| Alumina Hydrate Dust | 545 | 17,819 | % OPACITY, POUNDS |
+| Xylenes | 547 | 30,243 | POUNDS |
+|  | 547 | 0 | LBS/HR |
+| Alumina Hydrate Dust | 545 | 17,451 | POUNDS |
+|  | 545 | 368 | % OPACITY |
 | Hexene | 515 | 101,105 | POUNDS |
 | Carbon disulfide | 514 | 52,254 | POUNDS |
 | C6+ | 502 | 202,503 | POUNDS |
 | Cyclopentadiene | 490 | 72,137 | POUNDS |
-| C5+ | 470 | 191,633 | LBS/HR, POUNDS |
+| C5+ | 470 | 191,587 | POUNDS |
+|  | 470 | 46 | LBS/HR |
 | 1-Butene + Isobutylene | 467 | 15,162 | POUNDS |
-| Octanes | 461 | 201,330 | LBS/HR, POUNDS |
+| Octanes | 461 | 201,330 | POUNDS |
+|  | 461 | 0 | LBS/HR |
 | Pentenes | 449 | 164,467 | POUNDS |
 | Isoprene | 444 | 62,921 | POUNDS |
-| Cyclopentane | 443 | 159,100 | % OPACITY, LBS/HR, POUNDS |
+| Cyclopentane | 443 | 159,014 | POUNDS |
+|  | 443 | 84 | LBS/HR |
+|  | 443 | 2 | % OPACITY |
 | Unspeciated VOCs | 440 | 1,462,260 | POUNDS |
-| Other | 429 | 490,162 | % OPACITY, POUNDS |
+| Other | 429 | 489,602 | POUNDS |
+|  | 429 | 560 | % OPACITY |
 | VOC (unclassified) | 413 | 3,123,882 | POUNDS |
-| Carbonyl sulfide | 412 | 13,758 | % OPACITY, POUNDS |
+| Carbonyl sulfide | 412 | 13,658 | POUNDS |
+|  | 412 | 100 | % OPACITY |
 | Acetaldehyde | 405 | 98,941 | POUNDS |
 | N-Hexane | 402 | 230,653 | POUNDS |
 | Nitrous Oxides | 397 | 289,864 | POUNDS |
 | VCM | 394 | 91,868 | POUNDS |
-| Acetone | 376 | 51,146 | LBS/HR, POUNDS |
+| Acetone | 376 | 51,063 | POUNDS |
+|  | 376 | 83 | LBS/HR |
 | Methyl Acetylene | 370 | 33,841 | POUNDS |
-| Other material | 370 | 117,808 | % OPACITY, POUNDS |
+| Other material | 370 | 117,131 | POUNDS |
+|  | 370 | 677 | % OPACITY |
 | 2-Butene-cis | 350 | 22,632 | POUNDS |
 | SULFER DIOXIDE | 349 | 2,084,329 | POUNDS |
 | 2-Butene-trans | 347 | 33,831 | POUNDS |
 | Heptane,-n | 332 | 104,113 | POUNDS |
-| Cis-butene-2 | 330 | 43,757 | LBS/HR, POUNDS |
+| Cis-butene-2 | 330 | 43,709 | POUNDS |
+|  | 330 | 48 | LBS/HR |
 | Vinyl acetate | 326 | 370,904 | POUNDS |
-| Trans-butene-2 | 325 | 88,653 | LBS/HR, POUNDS |
-| Methylcyclohexane | 320 | 122,453 | LBS/HR, POUNDS |
-| Naphthalene | 317 | 379,353 | LBS/HR, POUNDS |
+| Trans-butene-2 | 325 | 88,583 | POUNDS |
+|  | 325 | 70 | LBS/HR |
+| Methylcyclohexane | 320 | 122,450 | POUNDS |
+|  | 320 | 3 | LBS/HR |
+| Naphthalene | 317 | 379,352 | POUNDS |
+|  | 317 | 1 | LBS/HR |
 | Butadiene | 314 | 181,124 | POUNDS |
-| PM (unspeciated) | 314 | 449,964 | % OPACITY, POUNDS |
-| Propylene oxide | 313 | 163,884 | % OPACITY, POUNDS |
-| Formaldehyde | 307 | 61,729 | % OPACITY, LBS/HR, POUNDS |
+| PM (unspeciated) | 314 | 449,721 | POUNDS |
+|  | 314 | 243 | % OPACITY |
+| Propylene oxide | 313 | 163,880 | POUNDS |
+|  | 313 | 4 | % OPACITY |
+| Formaldehyde | 307 | 60,975 | POUNDS |
+|  | 307 | 654 | LBS/HR |
+|  | 307 | 100 | % OPACITY |
 | Sulfuric acid | 307 | 53,690 | POUNDS |
-| Methylcyclopentane | 304 | 167,985 | % OPACITY, LBS/HR, POUNDS |
-| 1,2,4-Trimethylbenzene | 301 | 128,264 | LBS/HR, POUNDS |
-| Butene1_Isobutene | 300 | 21,703 | LBS/HR, POUNDS |
+| Methylcyclopentane | 304 | 167,656 | POUNDS |
+|  | 304 | 275 | LBS/HR |
+|  | 304 | 55 | % OPACITY |
+| 1,2,4-Trimethylbenzene | 301 | 128,050 | POUNDS |
+|  | 301 | 213 | LBS/HR |
+| Butene1_Isobutene | 300 | 21,625 | POUNDS |
+|  | 300 | 78 | LBS/HR |
 | Acetonitrile | 298 | 27,086 | POUNDS |
 | Acrolein | 297 | 8,231 | POUNDS |
 | Acetic acid | 293 | 74,009 | POUNDS |
@@ -145,67 +308,93 @@
 | Acrylonitrile | 276 | 180,833 | POUNDS |
 | Other VOCs | 275 | 36,135 | POUNDS |
 | Methylacetylene | 262 | 3,475 | POUNDS |
-| 1-Pentene | 254 | 73,090 | LBS/HR, POUNDS |
-| Cyclopentene | 251 | 62,868 | LBS/HR, POUNDS |
+| 1-Pentene | 254 | 73,034 | POUNDS |
+|  | 254 | 56 | LBS/HR |
+| Cyclopentene | 251 | 62,863 | POUNDS |
+|  | 251 | 5 | LBS/HR |
 | Vinyl acetylene | 241 | 16,221 | POUNDS |
-| PM10 C.I. DIRECT BLACK 38 | 239 | 76,090 | % OPACITY, POUNDS |
+| PM10 C.I. DIRECT BLACK 38 | 239 | 76,055 | POUNDS |
+|  | 239 | 35 | % OPACITY |
 | butenes | 232 | 51,972 | POUNDS |
 | Pentane Plus | 225 | 271,018 | POUNDS |
 | Nonanes | 220 | 18,158 | POUNDS |
-| 2,2,4-Trimethylpentane | 216 | 154,791 | LBS/HR, POUNDS |
+| 2,2,4-Trimethylpentane | 216 | 154,485 | POUNDS |
+|  | 216 | 305 | LBS/HR |
 | 2-Methyl-2-Butene | 215 | 115,229 | POUNDS |
 | VOC (Unspecified) | 208 | 2,290,978 | POUNDS |
 | i-pentane | 197 | 68,972 | POUNDS |
 | Ethylene dichloride | 192 | 62,202 | POUNDS |
-| PM2.5 | 187 | 197,868 | % OPACITY, POUNDS |
-| t-2-butene | 186 | 14,394 | % OPACITY, POUNDS |
-| NOx (Startup/Shutdown) | 186 | 163,569 | % OPACITY, POUNDS |
+| PM2.5 | 187 | 197,783 | POUNDS |
+|  | 187 | 85 | % OPACITY |
+| t-2-butene | 186 | 14,391 | POUNDS |
+|  | 186 | 4 | % OPACITY |
+| NOx (Startup/Shutdown) | 186 | 163,539 | POUNDS |
+|  | 186 | 30 | % OPACITY |
 | Methyl Acetate | 184 | 73,272 | POUNDS |
-| 3-Methyl-1-butene | 183 | 22,108 | LBS/HR, POUNDS |
+| 3-Methyl-1-butene | 183 | 22,107 | POUNDS |
+|  | 183 | 0 | LBS/HR |
 | Naphtha | 178 | 205,911 | POUNDS |
-| Decanes Plus | 175 | 138,643 | LBS/HR, POUNDS |
+| Decanes Plus | 175 | 138,643 | POUNDS |
+|  | 175 | 0 | LBS/HR |
 | 1,3 Butadiene | 169 | 70,830 | POUNDS |
 | n-Heptane | 168 | 43,807 | POUNDS |
-| Hydrogen fluoride | 162 | 66,955 | LBS/HR, POUNDS, TONS/YR |
+| Hydrogen fluoride | 162 | 66,927 | POUNDS |
+|  | 162 | 28 | LBS/HR |
+|  | 162 | 0 | TONS/YR |
 | P-Xylene | 161 | 158,363 | POUNDS |
-| 2-Methyl-1-butene | 161 | 73,868 | % OPACITY, LBS/HR, POUNDS |
-| Ammonia, anhydrous | 159 | 164,772 | GALLONS, POUNDS |
-| Ethanol | 157 | 994,446 | LBS/HR, POUNDS |
+| 2-Methyl-1-butene | 161 | 73,760 | POUNDS |
+|  | 161 | 106 | % OPACITY |
+|  | 161 | 2 | LBS/HR |
+| Ammonia, anhydrous | 159 | 164,472 | POUNDS |
+|  | 159 | 300 | GALLONS |
+| Ethanol | 157 | 994,445 | POUNDS |
+|  | 157 | 1 | LBS/HR |
 | Hexanes (any isomer) | 156 | 102,868 | POUNDS |
 | O-Xylene | 154 | 48,919 | POUNDS |
 | 3- methyl pentane | 151 | 48,547 | POUNDS |
 | Butyraldehyde | 150 | 43,798 | POUNDS |
-| Lead | 150 | 1,029 | % OPACITY, POUNDS |
+| Lead | 150 | 943 | POUNDS |
+|  | 150 | 86 | % OPACITY |
 | Octene | 148 | 33,221 | POUNDS |
-| Anhydrous ammonia | 143 | 182,691 | LBS/HR, POUNDS |
+| Anhydrous ammonia | 143 | 182,514 | POUNDS |
+|  | 143 | 177 | LBS/HR |
 | Xylene, o- | 142 | 15,242 | POUNDS |
 | Isobutyraldehyde | 140 | 7,732 | POUNDS |
 | i-Pentane | 138 | 139,829 | POUNDS |
-| M-Xylene | 137 | 122,832 | LBS/HR, POUNDS |
+| M-Xylene | 137 | 122,476 | POUNDS |
+|  | 137 | 356 | LBS/HR |
 | Chlorine | 135 | 35,126 | POUNDS |
 | Dimethylcyclopentane | 135 | 20,754 | POUNDS |
 | Propene | 133 | 84,464 | POUNDS |
-| 2-Methyl-Pentane | 131 | 105,820 | LBS/HR, POUNDS |
+| 2-Methyl-Pentane | 131 | 105,591 | POUNDS |
+|  | 131 | 230 | LBS/HR |
 | Ethyl acetate | 131 | 24,930 | POUNDS |
-| Hydrogen chloride | 130 | 407,334 | LBS/HR, POUNDS, TONS/YR |
+| Hydrogen chloride | 130 | 407,323 | POUNDS |
+|  | 130 | 11 | LBS/HR |
+|  | 130 | 0 | TONS/YR |
 | Nickel | 130 | 2,029 | POUNDS |
 | Dicyclopentadiene | 130 | 397,929 | POUNDS |
-| 2,2-DIMETHYLBUTANE | 130 | 13,328 | LBS/HR, POUNDS |
+| 2,2-DIMETHYLBUTANE | 130 | 13,321 | POUNDS |
+|  | 130 | 7 | LBS/HR |
 | Formic acid | 128 | 12,153 | POUNDS |
 | Dimethylethanolamine | 128 | 11,834 | POUNDS |
-| Methyl formate | 127 | 15,582 | LBS/HR, POUNDS |
+| Methyl formate | 127 | 15,454 | POUNDS |
+|  | 127 | 127 | LBS/HR |
 | Argon | 124 | 49,470 | POUNDS |
 | Pentadiene | 123 | 16,304 | POUNDS |
 | Xylene, m- | 123 | 36,806 | POUNDS |
-| 2-Butoxyethanol | 120 | 22,924 | LBS/HR, POUNDS |
+| 2-Butoxyethanol | 120 | 22,922 | POUNDS |
+|  | 120 | 2 | LBS/HR |
 | Sulfur dioxide (anhydrous) | 120 | 552,361 | POUNDS |
 | butene-1 | 118 | 70,319 | POUNDS |
-| C5 Plus | 117 | 30,201 | % OPACITY, POUNDS |
+| C5 Plus | 117 | 30,201 | POUNDS |
+|  | 117 | 0 | % OPACITY |
 | 2,3 Dimethylbutane | 116 | 3,629 | POUNDS |
 | neo-pentane | 113 | 13,137 | POUNDS |
 | +C5 hydrocarbon | 112 | 136,690 | POUNDS |
 | Xylene, p- | 111 | 21,082 | POUNDS |
-| Water (H2O) | 110 | 105,683 | % OPACITY, POUNDS |
+| Water (H2O) | 110 | 105,682 | POUNDS |
+|  | 110 | 1 | % OPACITY |
 | 2-Methylhexane | 110 | 41,520 | POUNDS |
 | CARBONAL SULFITE | 108 | 8,935 | POUNDS |
 | 1,2-Dichloroethane | 106 | 28,887 | POUNDS |
@@ -215,26 +404,34 @@
 | Chloroform | 103 | 5,684 | POUNDS |
 | t-Butyl Alcohol | 102 | 67,365 | POUNDS |
 | butene c-2 | 102 | 11,553 | POUNDS |
-| Alumina | 99 | 32,225 | % OPACITY, POUNDS |
-| Hydrochloric acid | 99 | 168,099 | LBS/HR, POUNDS |
+| Alumina | 99 | 31,538 | POUNDS |
+|  | 99 | 687 | % OPACITY |
+| Hydrochloric acid | 99 | 168,098 | POUNDS |
+|  | 99 | 0 | LBS/HR |
 | Hydrocarbons | 99 | 263,705 | POUNDS |
-| CARBON BLACK | 97 | 97,364 | % OPACITY, POUNDS |
+| CARBON BLACK | 97 | 97,060 | POUNDS |
+|  | 97 | 303 | % OPACITY |
 | NMNE Natural Gas | 97 | 800,708 | POUNDS |
 | Dimethyl ether | 95 | 13,459 | POUNDS |
 | VOC-unclassified | 95 | 1,087,462 | POUNDS |
 | NH3 | 95 | 457 | POUNDS |
 | Diethylene Glycol Monohexyl Ether | 94 | 6,643 | POUNDS |
 | Isobutanol | 93 | 3,760 | POUNDS |
-| Octane, n- | 93 | 14,582 | LBS/HR, POUNDS |
+| Octane, n- | 93 | 14,581 | POUNDS |
+|  | 93 | 1 | LBS/HR |
 | Tert Butylhydroperoxide | 92 | 15,603 | POUNDS |
-| 3 methyl hexane | 91 | 38,053 | LBS/HR, POUNDS |
-| Crude Oil | 91 | 768,236 | % OPACITY, POUNDS |
+| 3 methyl hexane | 91 | 37,560 | POUNDS |
+|  | 91 | 493 | LBS/HR |
+| Crude Oil | 91 | 768,226 | POUNDS |
+|  | 91 | 10 | % OPACITY |
 | Isopropyl alcohol | 89 | 15,087 | POUNDS |
 | Acrylic acid | 88 | 22,811 | POUNDS |
 | Methacrylic Acid | 87 | 18,377 | POUNDS |
 | total reduced sulfur | 87 | 1,350 | POUNDS |
-| Lube oil | 86 | 3,532 | GALLONS, POUNDS |
-| Pentenenitrile | 85 | 32,924 | LBS/HR, POUNDS |
+| Lube oil | 86 | 3,087 | POUNDS |
+|  | 86 | 445 | GALLONS |
+| Pentenenitrile | 85 | 32,734 | POUNDS |
+|  | 85 | 190 | LBS/HR |
 | VOC-light ends | 84 | 194,824 | POUNDS |
 | 1,2 - Butadiene | 83 | 8,600 | POUNDS |
 | CO (Startup/Shutdown) | 80 | 388,359 | POUNDS |
@@ -245,8 +442,11 @@
 | Catalyst fines | 77 | 392,473 | POUNDS |
 | C5 | 77 | 81,645 | POUNDS |
 | 2-methylpentane | 77 | 110,840 | POUNDS |
-| Gasoline | 76 | 266,495 | % OPACITY, LBS/HR, POUNDS |
-| Propionitrile | 75 | 10 | % OPACITY, POUNDS |
+| Gasoline | 76 | 266,305 | POUNDS |
+|  | 76 | 170 | LBS/HR |
+|  | 76 | 20 | % OPACITY |
+| Propionitrile | 75 | 10 | POUNDS |
+|  | 75 | 0 | % OPACITY |
 | Ethyl chloride | 74 | 5,025 | POUNDS |
 | Other Organics | 74 | 8,189 | POUNDS |
 | Methyl mercaptan | 73 | 77,324 | POUNDS |
@@ -254,8 +454,10 @@
 | Heptanes/C7 Hydrocarbons | 73 | 67,620 | POUNDS |
 | Nitrous Oxide | 72 | 385,211 | POUNDS |
 | Tert Butanol | 71 | 47,474 | POUNDS |
-| Ethylene glycol | 71 | 35,781 | LBS/HR, POUNDS |
-| Indene | 70 | 3,276 | LBS/HR, POUNDS |
+| Ethylene glycol | 71 | 35,780 | POUNDS |
+|  | 71 | 2 | LBS/HR |
+| Indene | 70 | 3,268 | POUNDS |
+|  | 70 | 8 | LBS/HR |
 | 2,4-dimethylpentane | 70 | 5,939 | POUNDS |
 | Iso-octane | 70 | 52,945 | POUNDS |
 | Vinylacetylene | 69 | 1,919 | POUNDS |
@@ -263,7 +465,9 @@
 | Nonanes/C9 Hydrocarbons | 69 | 4,936 | POUNDS |
 | MTBE | 68 | 63,687 | POUNDS |
 | Napthalene | 67 | 33,491 | POUNDS |
-| VOC MIXTURE | 67 | 472,162 | % OPACITY, LBS/HR, POUNDS |
+| VOC MIXTURE | 67 | 472,160 | POUNDS |
+|  | 67 | 2 | LBS/HR |
+|  | 67 | 0 | % OPACITY |
 | VOC (C6+) | 67 | 41,225 | POUNDS |
 | Alumina Silica Catalyst Fines | 66 | 4,514 | POUNDS |
 | Carbon tetrachloride | 65 | 12,352 | POUNDS |
@@ -286,13 +490,15 @@
 | VOC - Sour Cracked Light Ends | 58 | 28,970 | POUNDS |
 | cis-2-Pentene | 58 | 42,615 | POUNDS |
 | tert-butyl alcohol | 57 | 73,265 | POUNDS |
-| 2-Pentene,(E) | 57 | 33,848 | LBS/HR, POUNDS |
+| 2-Pentene,(E) | 57 | 33,846 | POUNDS |
+|  | 57 | 2 | LBS/HR |
 | Methyl acetylene propadiene | 57 | 4,677 | POUNDS |
 | 1,3,5-trimethylbenzene | 57 | 105,958 | POUNDS |
 | 2,2-Dimethylpentane | 56 | 47,075 | POUNDS |
 | Ethylene (liquid) | 55 | 49,838 | POUNDS |
 | Methyl ethyl ketone (MEK) | 53 | 6,390 | POUNDS |
-| C-2 butene | 53 | 793 | LBS/HR, POUNDS |
+| C-2 butene | 53 | 792 | POUNDS |
+|  | 53 | 1 | LBS/HR |
 | Butanol | 53 | 20,536 | POUNDS |
 | 2 methyl pentane | 52 | 11,858 | POUNDS |
 | Octanes/C8 Hydrocarbons | 52 | 16,842 | POUNDS |
@@ -300,7 +506,8 @@
 | Hydrofluoric acid | 51 | 3,837 | POUNDS |
 | Isohexane | 50 | 30,460 | POUNDS |
 | n-octane | 50 | 22,375 | POUNDS |
-| Trimethylpentane, 2,2,4- | 49 | 9,850 | LBS/HR, POUNDS |
+| Trimethylpentane, 2,2,4- | 49 | 9,850 | POUNDS |
+|  | 49 | 0 | LBS/HR |
 | 1,4-Pentadiene | 49 | 3,654 | POUNDS |
 | Aluminum (fume or dust) | 49 | 1,519 | POUNDS |
 | 3-methylpentane | 49 | 12,677 | POUNDS |
@@ -329,18 +536,21 @@
 | 3-Methylheptane | 43 | 825 | POUNDS |
 | 2 methyl heptane | 42 | 4,320 | POUNDS |
 | Polyethylene | 42 | 6,291 | POUNDS |
-| 1-hexene | 42 | 29,440 | LBS/HR, POUNDS |
+| 1-hexene | 42 | 29,416 | POUNDS |
+|  | 42 | 25 | LBS/HR |
 | Sulfur trioxide | 41 | 8,234 | POUNDS |
 | trans-1,3-pentadiene | 41 | 811 | POUNDS |
 | 2,3-Dimethylpentane | 41 | 76,214 | POUNDS |
-| Other (VOCs) | 41 | 52,805 | % OPACITY, POUNDS |
+| Other (VOCs) | 41 | 52,805 | POUNDS |
+|  | 41 | 0 | % OPACITY |
 | Isoamyl Alcohol | 41 | 13,104 | POUNDS |
 | 2-hexene | 40 | 3,044 | POUNDS |
 | paraxylene | 40 | 6,172 | POUNDS |
 | 3-methylhexane | 40 | 10,277 | POUNDS |
 | Mineral Spirit | 39 | 139,951 | POUNDS |
 | Orthoxylene | 39 | 8,345 | POUNDS |
-| 2-methylbutene-2 | 39 | 44,800 | LBS/HR, POUNDS |
+| 2-methylbutene-2 | 39 | 44,745 | POUNDS |
+|  | 39 | 55 | LBS/HR |
 | Hexamethylenediamine | 39 | 12,137 | POUNDS |
 | C8s | 39 | 62,480 | POUNDS |
 | Chlorodifluoromethane | 37 | 52,840 | POUNDS |
@@ -349,19 +559,23 @@
 | 1,3 Pentadiene | 37 | 4,563 | POUNDS |
 | metaxylene | 37 | 7,609 | POUNDS |
 | Isopropyl Ether | 36 | 24,106 | POUNDS |
-| Undecane | 36 | 27,836 | LBS/HR, POUNDS |
+| Undecane | 36 | 27,813 | POUNDS |
+|  | 36 | 23 | LBS/HR |
 | Heptene | 36 | 27,550 | POUNDS |
 | Isobutylene Oxide | 36 | 527 | POUNDS |
-| Silicon dioxide (PM) | 36 | 6,279 | % OPACITY, POUNDS |
+| Silicon dioxide (PM) | 36 | 6,244 | POUNDS |
+|  | 36 | 35 | % OPACITY |
 | C9s | 36 | 62,968 | POUNDS |
-| n-butanol | 35 | 18,037 | % OPACITY, POUNDS |
+| n-butanol | 35 | 17,934 | POUNDS |
+|  | 35 | 103 | % OPACITY |
 | Nitrobenzene | 35 | 4,321 | POUNDS |
 | 1,3-Pentadiene | 34 | 2,518 | POUNDS |
 | Naptha | 34 | 11,370 | POUNDS |
 | Methyl Benzyl Alcohol | 34 | 8,874 | POUNDS |
 | Decenes | 34 | 1,956 | POUNDS |
 | C12s | 34 | 15,015 | POUNDS |
-| 3 methylpentane | 33 | 2,454 | LBS/HR, POUNDS |
+| 3 methylpentane | 33 | 2,289 | POUNDS |
+|  | 33 | 165 | LBS/HR |
 | trans-2-pentene | 33 | 72,145 | POUNDS |
 | C10s | 32 | 34,077 | POUNDS |
 | C11s | 32 | 8,806 | POUNDS |
@@ -379,7 +593,8 @@
 | 4-methyl-1-pentene | 29 | 198 | POUNDS |
 | Halon 1301 (Bromotrifluoromethane) | 29 | 8,414 | POUNDS |
 | Mesitylene | 29 | 28 | POUNDS |
-| trans-2-Pentene | 29 | 7,115 | % OPACITY, POUNDS |
+| trans-2-Pentene | 29 | 7,103 | POUNDS |
+|  | 29 | 12 | % OPACITY |
 | 1,2-Butadiene | 28 | 15,286 | POUNDS |
 | Dimethylformamide | 28 | 5,627 | POUNDS |
 | Sulfur oxide | 28 | 3,456 | POUNDS |
@@ -390,22 +605,28 @@
 | 2 methylbutane | 27 | 1,494 | POUNDS |
 | Ethylacetylene | 27 | 52 | POUNDS |
 | Propanol, n- | 27 | 28,646 | POUNDS |
-| 2-methylbutene-1 | 27 | 516 | % OPACITY, LBS/HR, POUNDS |
+| 2-methylbutene-1 | 27 | 498 | POUNDS |
+|  | 27 | 17 | LBS/HR |
+|  | 27 | 2 | % OPACITY |
 | Process fuel gas | 26 | 6,833 | POUNDS |
 | PM10 Calcium carbonate-CaCO3 | 26 | 14,850 | POUNDS |
-| 2,3-dimethylbutane | 26 | 184,452 | LBS/HR, POUNDS |
+| 2,3-dimethylbutane | 26 | 184,245 | POUNDS |
+|  | 26 | 207 | LBS/HR |
 | Propylene Glycol | 25 | 1,682 | POUNDS |
-| Sulfur | 25 | 2,701 | GALLONS, POUNDS |
+| Sulfur | 25 | 2,501 | POUNDS |
+|  | 25 | 200 | GALLONS |
 | 2-Butene | 25 | 21,069 | POUNDS |
 | Ethyltoluene | 25 | 27,435 | POUNDS |
 | Methyl propionate | 25 | 14 | POUNDS |
-| Ethylcyclopentane | 25 | 1,506 | LBS/HR, POUNDS |
+| Ethylcyclopentane | 25 | 1,356 | POUNDS |
+|  | 25 | 150 | LBS/HR |
 | 2,2-Dimethylpropane | 25 | 393 | POUNDS |
 | n-undecane | 25 | 30,570 | POUNDS |
 | VOC Gas Mixture | 25 | 225,266 | POUNDS |
 | Flare Gas | 25 | 5,475 | POUNDS |
 | Vinyl cyclohexene | 24 | 14,746 | POUNDS |
-| Gas Oil | 24 | 54,695 | % OPACITY, POUNDS |
+| Gas Oil | 24 | 54,665 | POUNDS |
+|  | 24 | 30 | % OPACITY |
 | cis-Piperylene | 24 | 180 | POUNDS |
 | Polypropylene glycol ether | 24 | 523 | POUNDS |
 | Nonene | 24 | 4,964 | POUNDS |
@@ -413,9 +634,11 @@
 | C5 - C9s | 24 | 12,826 | POUNDS |
 | 1,2,4 Trimethylbenzene | 24 | 553 | POUNDS |
 | Silica | 23 | 40,836 | POUNDS |
-| Mercury | 23 | 5 | GALLONS, POUNDS |
+| Mercury | 23 | 5 | POUNDS |
+|  | 23 | 0 | GALLONS |
 | Dimethyl sulfide | 23 | 9,207 | POUNDS |
-| 2,3,4-trimethylpentane | 23 | 23,435 | LBS/HR, POUNDS |
+| 2,3,4-trimethylpentane | 23 | 23,293 | POUNDS |
+|  | 23 | 142 | LBS/HR |
 | PM10 Cement(Portland) | 23 | 93,607 | POUNDS |
 | Ethyl 3-ethoxypropionate | 23 | 6,348 | POUNDS |
 | Aluminum oxide | 23 | 27,021 | POUNDS |
@@ -460,18 +683,23 @@
 | Methylene chloride | 19 | 196,737 | POUNDS |
 | C8 Parafins | 19 | 12,669 | POUNDS |
 | Cyclopentane, methyl- | 19 | 51,279 | POUNDS |
-| Cement Dust | 19 | 5,838 | % OPACITY, POUNDS |
+| Cement Dust | 19 | 5,061 | POUNDS |
+|  | 19 | 777 | % OPACITY |
 | Sulfur oxides | 19 | 12,512 | POUNDS |
-| Pentene (CIS), 2- | 19 | 2,207 | LBS/HR, POUNDS |
+| Pentene (CIS), 2- | 19 | 2,206 | POUNDS |
+|  | 19 | 1 | LBS/HR |
 | n-dodecane | 19 | 8,332 | POUNDS |
 | Chlorotrifluoroethylene (CTFE) | 19 | 36,975 | POUNDS |
 | Propylbenzene | 19 | 243 | POUNDS |
 | PM 2.5 | 19 | 8,417 | POUNDS |
 | Epichlorohydrin | 18 | 4,033 | POUNDS |
-| Cement (wet or dry) | 18 | 169,228 | % OPACITY, POUNDS |
+| Cement (wet or dry) | 18 | 169,223 | POUNDS |
+|  | 18 | 5 | % OPACITY |
 | Total Sulfur | 18 | 4,027 | POUNDS |
 | 2-methyl-1,3-butadiene | 18 | 4,266 | POUNDS |
-| 2-methyl-butane | 18 | 5,465 | % OPACITY, LBS/HR, POUNDS |
+| 2-methyl-butane | 18 | 5,387 | POUNDS |
+|  | 18 | 77 | % OPACITY |
+|  | 18 | 1 | LBS/HR |
 | Cadmium | 18 | 32 | POUNDS |
 | Chromium | 18 | 14 | POUNDS |
 | Benzaldehyde | 18 | 179 | POUNDS |
@@ -480,7 +708,8 @@
 | Pseudocumene | 18 | 4,387 | POUNDS |
 | Natural Gas Liquid (Mixture) | 18 | 1,718,310 | POUNDS |
 | 1,2,3-trimethylbenzene | 18 | 8,620 | POUNDS |
-| Tetradecane | 18 | 3,526 | LBS/HR, POUNDS |
+| Tetradecane | 18 | 3,525 | POUNDS |
+|  | 18 | 0 | LBS/HR |
 | 3,3-Dimethylpentane | 18 | 2,634 | POUNDS |
 | Methylpentane | 18 | 10,750 | POUNDS |
 | Anhydrous Ammonia | 18 | 42,588 | POUNDS |
@@ -494,7 +723,8 @@
 | Cyclohexane, methyl- | 17 | 3,309 | POUNDS |
 | n-Hexadecane | 17 | 3,682 | POUNDS |
 | C12+ hydrocarbons | 17 | 4,856 | POUNDS |
-| Ethyl Lactate | 16 | 2,063 | LBS/HR, POUNDS |
+| Ethyl Lactate | 16 | 2,054 | POUNDS |
+|  | 16 | 9 | LBS/HR |
 | undecane | 16 | 769 | POUNDS |
 | 2-butyne | 16 | 345 | POUNDS |
 | butenes/butanes | 16 | 50,075 | POUNDS |
@@ -505,7 +735,8 @@
 | Petroleum Naphtha; Light Steam-Cracked Aromatic | 16 | 9,616 | POUNDS |
 | Mixed Xylene | 16 | 12,718 | POUNDS |
 | Furaldehyde, 2- | 16 | 305 | POUNDS |
-| Tridecane | 16 | 741 | LBS/HR, POUNDS |
+| Tridecane | 16 | 734 | POUNDS |
+|  | 16 | 8 | LBS/HR |
 | Methyl Styrene | 16 | 133 | POUNDS |
 | SOx | 16 | 4,172 | POUNDS |
 | C6 (not including benzene) | 16 | 15,498 | POUNDS |
@@ -513,9 +744,11 @@
 | Trimethylpentanes | 15 | 2,303 | POUNDS |
 | Trimethylcyclopentane | 15 | 9,946 | POUNDS |
 | Crude oil light | 15 | 142,822 | POUNDS |
-| 1-Decene | 15 | 1,124 | LBS/HR, POUNDS |
+| 1-Decene | 15 | 1,124 | POUNDS |
+|  | 15 | 0 | LBS/HR |
 | FLY ASH | 15 | 26,636 | POUNDS |
-| Phosgene | 15 | 419 | LBS/HR, POUNDS |
+| Phosgene | 15 | 419 | POUNDS |
+|  | 15 | 0 | LBS/HR |
 | EGME | 15 | 1,260 | POUNDS |
 | R-22 (Monochlorodifluoromethane) | 15 | 61,648 | POUNDS |
 | Methyl Pentane | 15 | 705 | POUNDS |
@@ -530,10 +763,12 @@
 | C14s | 15 | 2,966 | POUNDS |
 | 2-Methyl-3-butenenitrile | 15 | 161 | POUNDS |
 | N-Butyl acetate | 14 | 1,404 | POUNDS |
-| 2,3-dimethylhexane | 14 | 715 | LBS/HR, POUNDS |
+| 2,3-dimethylhexane | 14 | 683 | POUNDS |
+|  | 14 | 32 | LBS/HR |
 | trans-piperylene | 14 | 172 | POUNDS |
 | 1-trans-3-pentadiene | 14 | 626 | POUNDS |
-| Dodecene | 14 | 476 | LBS/HR, POUNDS |
+| Dodecene | 14 | 472 | POUNDS |
+|  | 14 | 4 | LBS/HR |
 | Isopropyl alcohol (mfg.-strong acid processes) | 14 | 4,590 | POUNDS |
 | Alcohols | 14 | 51,020 | POUNDS |
 | dimethyl butane | 14 | 174 | POUNDS |
@@ -564,7 +799,8 @@
 | 1-Undecene | 13 | 84 | POUNDS |
 | Neopentane | 13 | 520 | POUNDS |
 | 2 Methylhexane | 12 | 922 | POUNDS |
-| 2 methyl decane | 12 | 142 | LBS/HR, POUNDS |
+| 2 methyl decane | 12 | 128 | POUNDS |
+|  | 12 | 15 | LBS/HR |
 | Ethyl mercaptan | 12 | 125 | POUNDS |
 | GASOLINE, AUTOMOTIVE OR AVIATION | 12 | 63,826 | POUNDS |
 | Liquefied petroleum gas (LPG) | 12 | 13,779 | POUNDS |
@@ -588,7 +824,8 @@
 | Other C5s | 12 | 924 | POUNDS |
 | 1,2-Propadiene | 11 | 801 | POUNDS |
 | Kerosene | 11 | 4,946 | POUNDS |
-| Vinyl acetate monomer | 11 | 144,753 | GALLONS, POUNDS |
+| Vinyl acetate monomer | 11 | 134,874 | POUNDS |
+|  | 11 | 9,879 | GALLONS |
 | c-2-Pentene | 11 | 2,083 | POUNDS |
 | 1,2,4-Triazole | 11 | 64 | POUNDS |
 | HMDS | 11 | 183 | POUNDS |
@@ -598,7 +835,8 @@
 | 4-Vinylcyclohexene | 11 | 1,015 | POUNDS |
 | C10 Aromatics | 11 | 410 | POUNDS |
 | Ethyl tert-butyl ether | 11 | 34,038 | POUNDS |
-| Wash Oil | 11 | 159 | % OPACITY, POUNDS |
+| Wash Oil | 11 | 139 | POUNDS |
+|  | 11 | 20 | % OPACITY |
 | 1,2,3-Trichloropropane, | 11 | 55 | POUNDS |
 | PM10 Sand | 11 | 7,970 | POUNDS |
 | alpha methyl styrene | 11 | 5,978 | POUNDS |
@@ -608,10 +846,12 @@
 | Maleic Acid Monoethyl Ester | 11 | 29 | POUNDS |
 | Ethene, chlorotrifluoro- | 11 | 4,188 | POUNDS |
 | 2,2,5-trimethylhexane | 11 | 696 | POUNDS |
-| decane-n | 11 | 1,709 | LBS/HR, POUNDS |
+| decane-n | 11 | 1,709 | POUNDS |
+|  | 11 | 0 | LBS/HR |
 | 2-methylheptane | 11 | 38,921 | POUNDS |
 | pentadecane | 11 | 3,359 | POUNDS |
-| 2-methylnaphthalene | 11 | 62 | LBS/HR, POUNDS |
+| 2-methylnaphthalene | 11 | 62 | POUNDS |
+|  | 11 | 0 | LBS/HR |
 | cis-2-Methyl-2-butenenitrile | 11 | 76 | POUNDS |
 | Amylenes | 11 | 1,153 | POUNDS |
 | Dimethylpentane | 10 | 2,121 | POUNDS |
@@ -628,7 +868,8 @@
 | Halocarbons | 10 | 41 | POUNDS |
 | Ketones | 10 | 6,706 | POUNDS |
 | Methyl Acrylic Acid | 10 | 1,479 | POUNDS |
-| PM10 Silica,crystalline | 10 | 70 | % OPACITY, POUNDS |
+| PM10 Silica,crystalline | 10 | 54 | POUNDS |
+|  | 10 | 16 | % OPACITY |
 | C6 Parafins | 10 | 1,251 | POUNDS |
 | Orthodichlorobenzene | 10 | 2,687 | POUNDS |
 | Dimethyl Disulfide | 10 | 3,065 | POUNDS |
@@ -645,14 +886,16 @@
 | Dimethylhexanes | 9 | 590 | POUNDS |
 | Methyl iodide | 9 | 22,464 | POUNDS |
 | Mineral oil | 9 | 1,708 | POUNDS |
-| Butyl Alcohol, n- | 9 | 2,739 | % OPACITY, POUNDS |
+| Butyl Alcohol, n- | 9 | 2,738 | POUNDS |
+|  | 9 | 1 | % OPACITY |
 | Alpha-pinene | 9 | 2,851 | POUNDS |
 | Monomethylamine | 9 | 5,961 | POUNDS |
 | Naphtha (petroleum), catalytic reformed | 9 | 11,541 | POUNDS |
 | 2-Methylbutene | 9 | 745 | POUNDS |
 | VinylCyclohexane | 9 | 433 | POUNDS |
 | Trans-2-butylene | 9 | 285 | POUNDS |
-| 1-heptene | 9 | 201 | BARRELS, POUNDS |
+| 1-heptene | 9 | 195 | POUNDS |
+|  | 9 | 6 | BARRELS |
 | Technical White Oil | 9 | 275 | POUNDS |
 | Xylobenzene | 9 | 255 | POUNDS |
 | Organic Salts | 9 | 10 | POUNDS |
@@ -684,10 +927,12 @@
 | Propylene Glycol Monomethyl Ether | 8 | 3,814 | POUNDS |
 | 2,2,3-trimethylpentane | 8 | 1,813 | POUNDS |
 | Cis-2-butylene | 8 | 479 | POUNDS |
-| PM10 Carbon-C | 8 | 446 | % OPACITY, POUNDS |
+| PM10 Carbon-C | 8 | 376 | POUNDS |
+|  | 8 | 70 | % OPACITY |
 | Butyl methacrylate | 8 | 385 | POUNDS |
 | Ethane, 1,1,1,2-tetrafluoro | 8 | 21,030 | POUNDS |
-| 2,5-Dimethylhexane | 8 | 449 | LBS/HR, POUNDS |
+| 2,5-Dimethylhexane | 8 | 361 | POUNDS |
+|  | 8 | 88 | LBS/HR |
 | Dibutyl Ether | 8 | 4,501 | POUNDS |
 | Chloroprene | 8 | 0 | POUNDS |
 | 1-Butanol | 8 | 498 | POUNDS |
@@ -748,14 +993,17 @@
 | 3-methyloctane | 7 | 78 | POUNDS |
 | Cyclododecane | 7 | 695 | POUNDS |
 | Methylacetylene Propadiene | 7 | 677 | POUNDS |
-| Sodium hypochlorite | 7 | 105 | % OPACITY, POUNDS |
+| Sodium hypochlorite | 7 | 101 | POUNDS |
+|  | 7 | 4 | % OPACITY |
 | PM Calcium Carbonate | 7 | 4,882 | POUNDS |
 | Propyl Acetate | 7 | 4,954 | POUNDS |
 | VOC (C4's) | 7 | 118 | POUNDS |
 | Chloromethane | 7 | 393 | POUNDS |
-| methyl tert-butyl ether (MTBE) | 7 | 15,822 | LBS/HR, POUNDS |
+| methyl tert-butyl ether (MTBE) | 7 | 15,820 | POUNDS |
+|  | 7 | 2 | LBS/HR |
 | 2-methyl 1-butene | 7 | 47 | POUNDS |
-| 2,2,3-trimethylbutane | 7 | 109 | LBS/HR, POUNDS |
+| 2,2,3-trimethylbutane | 7 | 94 | LBS/HR |
+|  | 7 | 15 | POUNDS |
 | Diesel #2 | 7 | 66,220 | POUNDS |
 | HPV VOLATILE ORGANIC COMPOUNDS | 7 | 6,124 | POUNDS |
 | N-Hexylamine | 7 | 30 | POUNDS |
@@ -781,7 +1029,8 @@
 | Methyl Cyclopropane | 6 | 3 | POUNDS |
 | Ethylidenenorbornene (ENB) | 6 | 3,858 | POUNDS |
 | Chlorine dioxide | 6 | 2,956 | POUNDS |
-| Unknown | 6 | 367 | % OPACITY, POUNDS |
+| Unknown | 6 | 337 | POUNDS |
+|  | 6 | 30 | % OPACITY |
 | Gasoline Blend Stock | 6 | 46,175 | POUNDS |
 | Propyl Propionate, n- | 6 | 2 | POUNDS |
 | Magnesium oxide | 6 | 4,480 | POUNDS |
@@ -810,7 +1059,8 @@
 | Natural gasoline | 6 | 90,585 | POUNDS |
 | 1-methyl-3-ethylbenzene | 6 | 106 | POUNDS |
 | C8 Compounds | 6 | 565 | POUNDS |
-| HAPS (5) | 6 | 480 | % OPACITY, POUNDS |
+| HAPS (5) | 6 | 380 | POUNDS |
+|  | 6 | 100 | % OPACITY |
 | C19 | 6 | 279 | POUNDS |
 | Ethene oxide | 6 | 197 | POUNDS |
 | 4-methylheptane | 6 | 898 | POUNDS |
@@ -821,7 +1071,8 @@
 | Pentadecanes/C15 Hydrocarbons | 6 | 83 | POUNDS |
 | C12s+ | 6 | 1,720 | POUNDS |
 | 2-pentene | 6 | 75,031 | POUNDS |
-| Cyclohexene | 6 | 673 | LBS/HR, POUNDS |
+| Cyclohexene | 6 | 501 | POUNDS |
+|  | 6 | 171 | LBS/HR |
 | 1,4-dimethylnaphthalene | 6 | 0 | POUNDS |
 | Tetrafluoropropane,2-Chloro-1,1,1,2 | 6 | 11,797 | POUNDS |
 | Decanes/Decenes | 6 | 333 | POUNDS |
@@ -836,7 +1087,8 @@
 | Tert-amyl-methl ether (TAME) | 5 | 1 | POUNDS |
 | Chlorothalonil | 5 | 142 | POUNDS |
 | Isopar E | 5 | 2,702 | POUNDS |
-| Benzene, (2-methylpropyl)- | 5 | 528 | LBS/HR, POUNDS |
+| Benzene, (2-methylpropyl)- | 5 | 527 | POUNDS |
+|  | 5 | 1 | LBS/HR |
 | Acetic anhydride | 5 | 2,935 | POUNDS |
 | Beta-pinene | 5 | 852 | POUNDS |
 | 2-Heptanone | 5 | 84 | POUNDS |
@@ -847,7 +1099,8 @@
 | 1,2-Butylene oxide | 5 | 1,436 | POUNDS |
 | Natural (casing head) gasoline | 5 | 79,802 | POUNDS |
 | Imides | 5 | 8 | POUNDS |
-| Calcium oxide | 5 | 801 | % OPACITY, POUNDS |
+| Calcium oxide | 5 | 601 | POUNDS |
+|  | 5 | 200 | % OPACITY |
 | Aldehydes | 5 | 506 | POUNDS |
 | Fluorene | 5 | 228 | POUNDS |
 | Ethylene dibromide | 5 | 542 | POUNDS |
@@ -857,7 +1110,8 @@
 | C11+ (paraffin, olefin & aromatic compounds) | 5 | 949 | POUNDS |
 | Tert-Butyl Formate | 5 | 266 | POUNDS |
 | P-Cresol | 5 | 590 | POUNDS |
-| DIMETHYLETHYLBENZENE | 5 | 509 | LBS/HR, POUNDS |
+| DIMETHYLETHYLBENZENE | 5 | 384 | POUNDS |
+|  | 5 | 125 | LBS/HR |
 | C11 Aromatics | 5 | 118 | POUNDS |
 | Diphenyl Oxide | 5 | 483 | POUNDS |
 | dicyclopentadiene | 5 | 165 | POUNDS |
@@ -884,7 +1138,8 @@
 | C20 | 5 | 174 | POUNDS |
 | CONDENSATE | 5 | 9,539,301 | POUNDS |
 | Dimethyl Acetylene | 5 | 126 | POUNDS |
-| Indan | 5 | 150 | LBS/HR, POUNDS |
+| Indan | 5 | 146 | POUNDS |
+|  | 5 | 4 | LBS/HR |
 | pentane-unspeciated | 5 | 24 | POUNDS |
 | Tetradecanes/C14 Hydrocarbons | 5 | 315 | POUNDS |
 | Tridecanes/C13 Hydrocarbons | 5 | 165 | POUNDS |
@@ -902,7 +1157,8 @@
 | 1,1,1,2 Tetrafluoroethane | 4 | 7,940 | POUNDS |
 | Alkane | 4 | 4,229 | POUNDS |
 | Bromotrifluoromethane | 4 | 965 | POUNDS |
-| Polydimethylsiloxane | 4 | 1,562 | GALLONS, POUNDS |
+| Polydimethylsiloxane | 4 | 1,412 | POUNDS |
+|  | 4 | 150 | GALLONS |
 | Benzo(a)anthacene | 4 | 1 | POUNDS |
 | Freon | 4 | 1,001 | POUNDS |
 | HCFC-123 | 4 | 2,700 | POUNDS |
@@ -956,7 +1212,8 @@
 | Isooctene | 4 | 44,207 | POUNDS |
 | HYDROBROMIC ACID | 4 | 257 | POUNDS |
 | 2-methyl hexane | 4 | 70 | POUNDS |
-| SULFUR-S | 4 | 200 | % OPACITY, POUNDS |
+| SULFUR-S | 4 | 200 | % OPACITY |
+|  | 4 | 0 | POUNDS |
 | Amine | 4 | 1,613 | POUNDS |
 | Tripropylene Glycol | 4 | 1,369 | POUNDS |
 | Butane, 2-methyl- | 4 | 461 | POUNDS |
@@ -966,11 +1223,15 @@
 | Vacuum Gas Oil | 4 | 2,589 | POUNDS |
 | C9's | 4 | 213 | POUNDS |
 | Hydrogen Iodide | 4 | 1,754 | POUNDS |
-| 1,3-diethylbenzene | 4 | 13 | LBS/HR, POUNDS |
+| 1,3-diethylbenzene | 4 | 12 | POUNDS |
+|  | 4 | 1 | LBS/HR |
 | 1,3 hexadiene | 4 | 18 | POUNDS |
-| 2-methyl-3-ethylpentane | 4 | 6 | LBS/HR, POUNDS |
-| 3,4-dimethylhexane | 4 | 10 | LBS/HR, POUNDS |
-| 4-methylnonane | 4 | 159 | LBS/HR, POUNDS |
+| 2-methyl-3-ethylpentane | 4 | 4 | LBS/HR |
+|  | 4 | 2 | POUNDS |
+| 3,4-dimethylhexane | 4 | 6 | POUNDS |
+|  | 4 | 3 | LBS/HR |
+| 4-methylnonane | 4 | 157 | POUNDS |
+|  | 4 | 1 | LBS/HR |
 | C10 Hydrocarbons | 4 | 583 | POUNDS |
 | secondary butyl mercaptan | 4 | 364 | POUNDS |
 | 2,3,4-trimethylhexane | 4 | 25 | POUNDS |
@@ -978,7 +1239,8 @@
 | 1-methylcyclohexane | 4 | 134 | POUNDS |
 | Methylal | 4 | 5 | POUNDS |
 | 1-Pentylene | 4 | 168 | POUNDS |
-| fire water and smoke | 4 | 252 | % OPACITY, POUNDS |
+| fire water and smoke | 4 | 250 | % OPACITY |
+|  | 4 | 2 | POUNDS |
 | 1-methylcyclopentene | 4 | 7 | POUNDS |
 | 2-methylnonane | 4 | 57 | POUNDS |
 | C10 Isoparaffins | 4 | 228 | POUNDS |
@@ -1020,7 +1282,8 @@
 | butyl cyclohexane | 3 | 29 | POUNDS |
 | alkylphenol | 3 | 12,833 | POUNDS |
 | Benzo[b]fluoranthene | 3 | 1 | POUNDS |
-| Calcium Carbonate | 3 | 202 | LBS/HR, POUNDS |
+| Calcium Carbonate | 3 | 200 | LBS/HR |
+|  | 3 | 2 | POUNDS |
 | Ethanol Amine | 3 | 165 | POUNDS |
 | Cadmium compounds | 3 | 344 | POUNDS |
 | Polyisobutylene byproduct | 3 | 1,358 | POUNDS |
@@ -1033,7 +1296,8 @@
 | Methyl n-Amyl Ketone | 3 | 839 | POUNDS |
 | cis,trans-2,4-hexadiene | 3 | 6 | POUNDS |
 | Cyanide | 3 | 128 | POUNDS |
-| Dust | 3 | 360 | % OPACITY, POUNDS |
+| Dust | 3 | 300 | POUNDS |
+|  | 3 | 60 | % OPACITY |
 | Propyl alcohol | 3 | 303 | POUNDS |
 | Iodine | 3 | 1,745 | POUNDS |
 | Furan, tetrahydro- | 3 | 7 | POUNDS |
@@ -1077,7 +1341,8 @@
 | 2,4dimethylheptane | 3 | 5,081 | POUNDS |
 | 3-ethylheptane | 3 | 10 | POUNDS |
 | 3-ethylpentene-2 | 3 | 409 | POUNDS |
-| 3-methyl-t-hexene-2 | 3 | 68 | LBS/HR, POUNDS |
+| 3-methyl-t-hexene-2 | 3 | 68 | POUNDS |
+|  | 3 | 0 | LBS/HR |
 | n-pentylbenzene | 3 | 188 | POUNDS |
 | t-octene-2 | 3 | 3 | POUNDS |
 | 1,1-methylcyclohexane | 3 | 81 | POUNDS |
@@ -1090,19 +1355,23 @@
 | Dinormal Propyl Sulfide | 3 | 31 | POUNDS |
 | Octane, 2-methyl | 3 | 233 | POUNDS |
 | Hexanoic Acid | 3 | 358 | POUNDS |
-| OIL | 3 | 670 | % OPACITY, POUNDS |
+| OIL | 3 | 570 | POUNDS |
+|  | 3 | 100 | % OPACITY |
 | Other C6-C9s | 3 | 120 | POUNDS |
 | Sec Butyl Alcohol | 3 | 1,613 | POUNDS |
 | Methyl acetylene / propadiene | 3 | 44 | POUNDS |
-| 3-methyl-Heptane | 3 | 817 | LBS/HR, POUNDS |
+| 3-methyl-Heptane | 3 | 699 | LBS/HR |
+|  | 3 | 119 | POUNDS |
 | Butyl acetate, iso- | 3 | 340 | POUNDS |
 | Dichlorobromomethane | 3 | 2 | POUNDS |
 | Xylenol | 3 | 971 | POUNDS |
-| Isopar H - Heavy Naphtha | 3 | 2,301 | LBS/HR, POUNDS |
+| Isopar H - Heavy Naphtha | 3 | 1,236 | LBS/HR |
+|  | 3 | 1,065 | POUNDS |
 | Chlorodibromomethane | 3 | 2 | POUNDS |
 | 1-methyl-4-ethylbenzene | 3 | 23 | POUNDS |
 | 1c,2t,4c-trimethylcyclohexane | 3 | 48 | POUNDS |
-| 1t,3-dimethylcyclopentane | 3 | 135 | LBS/HR, POUNDS |
+| 1t,3-dimethylcyclopentane | 3 | 134 | POUNDS |
+|  | 3 | 1 | LBS/HR |
 | 4-ethylheptane | 3 | 21 | POUNDS |
 | 2-methyl-1-pentene | 3 | 153 | POUNDS |
 | 2,2,3-thrimethylhexane | 3 | 49 | POUNDS |
@@ -1146,7 +1415,8 @@
 | n-Eicosane | 3 | 1,407 | POUNDS |
 | ethylene glycol diacetate | 3 | 13 | POUNDS |
 | Alkylaryl Sulfonate | 3 | 7 | POUNDS |
-| 1-methyl-3-isopropylbenzene | 3 | 195 | LBS/HR, POUNDS |
+| 1-methyl-3-isopropylbenzene | 3 | 129 | LBS/HR |
+|  | 3 | 66 | POUNDS |
 | DIISOPROPYL | 3 | 230 | POUNDS |
 | Sodium hydrosulfide | 3 | 475 | POUNDS |
 | Ecyclohexane | 3 | 8 | POUNDS |
@@ -1235,7 +1505,8 @@
 | 1,2,3,5-tetramethylbenzene | 2 | 9 | POUNDS |
 | 1,2,4,5-tetramethylbenzene | 2 | 7 | POUNDS |
 | 1,2-dimethylbenzene | 2 | 16 | POUNDS |
-| 1,2-ethyl-i-propylbenzene | 2 | 3 | LBS/HR, POUNDS |
+| 1,2-ethyl-i-propylbenzene | 2 | 3 | POUNDS |
+|  | 2 | 0 | LBS/HR |
 | 1,3-dimethylbenzene | 2 | 32 | POUNDS |
 | 1,4-dimethylbenzene | 2 | 10 | POUNDS |
 | 2,2,4-trimethylhexane | 2 | 12 | POUNDS |
@@ -1244,7 +1515,8 @@
 | 3-methyl-c-pentene-2 | 2 | 14 | POUNDS |
 | 3c-ethylmethylcyclopentane | 2 | 4 | POUNDS |
 | 3t-ethylmethylcyclopentane | 2 | 44 | POUNDS |
-| c-heptene-3 | 2 | 5 | LBS/HR, POUNDS |
+| c-heptene-3 | 2 | 5 | POUNDS |
+|  | 2 | 0 | LBS/HR |
 | c-hexene-2 | 2 | 8 | POUNDS |
 | sec-butylbenzene | 2 | 2 | POUNDS |
 | t-hexene-2 | 2 | 7 | POUNDS |
@@ -1309,9 +1581,12 @@
 | C12 | 2 | 4 | POUNDS |
 | C7 Aromatic | 2 | 50 | POUNDS |
 | methyl hexadiene | 2 | 1 | POUNDS |
-| 1,3-di-i-propylbenzene | 2 | 0 | LBS/HR, POUNDS |
-| 1c,2t,4t-trimethylcyclohexane | 2 | 1 | LBS/HR, POUNDS |
-| 3-methyl-3-ethylpentane | 2 | 6 | LBS/HR, POUNDS |
+| 1,3-di-i-propylbenzene | 2 | 0 | LBS/HR |
+|  | 2 | 0 | POUNDS |
+| 1c,2t,4t-trimethylcyclohexane | 2 | 1 | LBS/HR |
+|  | 2 | 1 | POUNDS |
+| 3-methyl-3-ethylpentane | 2 | 6 | LBS/HR |
+|  | 2 | 0 | POUNDS |
 | 1c,3c,5c-trimethylcyclohexane | 2 | 22 | POUNDS |
 | 1-methylcyclopentane | 2 | 77 | POUNDS |
 | 1,2-Dibromoethane | 2 | 27 | POUNDS |
@@ -1342,7 +1617,8 @@
 | 3-ethylpentene-1 | 2 | 69 | POUNDS |
 | n-propanol | 2 | 82 | POUNDS |
 | Benzene, 1,2,3-trimethyl | 2 | 128 | POUNDS |
-| Sodium sulfate (solution) | 2 | 6 | % OPACITY, POUNDS |
+| Sodium sulfate (solution) | 2 | 5 | POUNDS |
+|  | 2 | 1 | % OPACITY |
 | C11+ aromatics | 2 | 102 | POUNDS |
 | Pentachloroethane | 2 | 3 | POUNDS |
 | 2,2,3 trimethylpentane | 2 | 541 | POUNDS |
@@ -1365,7 +1641,8 @@
 | Ethyl Methyl Disulfide | 2 | 14 | POUNDS |
 | 2,4-Dichlorophenol | 2 | 2,109 | POUNDS |
 | Trichlorobenzene, 1,2,4- | 2 | 4,816 | POUNDS |
-| PM10 Wood dust (nonallergenic) | 2 | 228 | % OPACITY, POUNDS |
+| PM10 Wood dust (nonallergenic) | 2 | 168 | POUNDS |
+|  | 2 | 60 | % OPACITY |
 | Methyl amyl ketone | 2 | 76 | POUNDS |
 | 1-phenylnaphthalene | 2 | 2,978 | POUNDS |
 | Nonadecanes/C19 Hydrocarbons | 2 | 15 | POUNDS |
@@ -1374,8 +1651,10 @@
 | 2-Ethylhexanal | 2 | 373 | POUNDS |
 | F039 | 2 | 72 | POUNDS |
 | Maleic anhydride | 2 | 2,989 | POUNDS |
-| 1,3-Butadiene,2-methyl- | 2 | 0 | LBS/HR, POUNDS |
-| 2,3-dimethyloctane | 2 | 543 | LBS/HR, POUNDS |
+| 1,3-Butadiene,2-methyl- | 2 | 0 | LBS/HR |
+|  | 2 | 0 | POUNDS |
+| 2,3-dimethyloctane | 2 | 500 | LBS/HR |
+|  | 2 | 43 | POUNDS |
 | 1,2-DIMETHYLCYCLOPENTANE | 2 | 144 | POUNDS |
 | 1,3-DIMETHYLCYCLOPENTANE | 2 | 388 | POUNDS |
 | Ethyltoluenes | 2 | 1,009 | POUNDS |
@@ -1427,7 +1706,6 @@
 | methylstyrene | 2 | 66 | POUNDS |
 | Heavy Aromatics | 2 | 82 | POUNDS |
 | tetracosane | 2 | 0 | POUNDS |
-| Boric acid | 1 |  |  |
 | polyethylene powder | 1 | 91 | POUNDS |
 | n Nonane | 1 | 12 | POUNDS |
 | silica catalyst fines | 1 | 7 | POUNDS |
@@ -1537,7 +1815,6 @@
 | Pyridine | 1 | 452 | POUNDS |
 | Toluene, 2,4-Diamine | 1 | 1,195 | POUNDS |
 | Hydrocal B Base | 1 | 1,500 | POUNDS |
-| ODORS | 1 |  |  |
 | 2-Phenyl-2-Propanol | 1 | 121 | POUNDS |
 | Chemical Mixture | 1 | 250 | POUNDS |
 | Trichloroethane, 1,1,1- | 1 | 0 | POUNDS |

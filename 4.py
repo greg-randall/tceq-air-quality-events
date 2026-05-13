@@ -29,15 +29,16 @@ def _write_contaminants_md(output_dir):
         print("incident_contaminants.csv not found, run 4.py first")
         return
 
-    data = defaultdict(lambda: {"count": 0, "total": 0, "units": set()})
+    data = defaultdict(lambda: {"count": 0, "by_unit": defaultdict(lambda: 0)})
     with cont_csv.open() as f:
         reader = csv.DictReader(f)
         for row in reader:
             name = row.get("contaminant", "")
+            unit = row.get("units", "").strip()
             data[name]["count"] += 1
-            data[name]["units"].add(row.get("units", ""))
             try:
-                data[name]["total"] += float(row.get("est_quantity", 0) or 0)
+                qty = float(row.get("est_quantity", 0) or 0)
+                data[name]["by_unit"][unit] += qty
             except (ValueError, TypeError):
                 pass
 
@@ -48,13 +49,17 @@ def _write_contaminants_md(output_dir):
         "",
         f"{len(data)} unique compounds tracked across {sum(v['count'] for v in data.values()):,} emission records.",
         "",
-        "| Contaminant | Records | Total Quantity | Units |",
+        "Quantities are only comparable within the same unit. % Opacity is a",
+        "measurement of visible emissions, not a mass.",
+        "",
+        "| Contaminant | Records | Quantity | Unit |",
         "|---|---|---|---|",
     ]
     for name, info in top:
-        units = ", ".join(sorted(info["units"] - {""}))
-        qty = f"{info['total']:,.0f}" if info["total"] > 0 else ""
-        lines.append(f"| {name} | {info['count']} | {qty} | {units} |")
+        for unit, qty in sorted(info["by_unit"].items(), key=lambda x: x[1], reverse=True):
+            if unit:
+                lines.append(f"| {name} | {info['count']} | {qty:,.0f} | {unit} |")
+            name = ""  # only show name on first row
 
     lines.append("")
     md_path = Path("CONTAMINANTS.md")
