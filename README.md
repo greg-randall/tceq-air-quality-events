@@ -9,8 +9,8 @@ The data covers 2004 through 2025. Refineries, compressor stations,
 chemical plants, pipeline blowdowns, tank venting — if it released
 something in Texas, it's probably in here. Some locations are street
 addresses, others are driving directions for well pads and pipeline
-segments that don't have one. 1,373 operators. 2,108 distinct
-contaminants. Releases range from under an hour to several weeks.
+segments that don't have one. 1,373 operators. [2,108 distinct
+contaminants](CONTAMINANTS.md). Releases range from under an hour to several weeks.
 It's a lot of sulfur dioxide, a lot of benzene, and a lot of things
 the state would rather you didn't think about.
 
