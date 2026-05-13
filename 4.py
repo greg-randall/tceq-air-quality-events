@@ -28,8 +28,8 @@ def _xls_to_csv(xls_path, csv_path):
     df.to_csv(csv_path, index=False)
 
 
-def _write_contaminants_md(output_dir):
-    """Generate CONTAMINANTS.md from the contaminant CSV."""
+def _write_contaminants_md(output_dir, full=False):
+    """Generate CONTAMINANTS.md (top 50) or CONTAMINANTS-full.md (all)."""
     cont_csv = output_dir / "incident_contaminants.csv"
     if not cont_csv.exists():
         print("incident_contaminants.csv not found, run 4.py first")
@@ -163,13 +163,14 @@ def _write_contaminants_md(output_dir):
         if unit_key == "% OPACITY":
             lines.append("| Contaminant | Releases | Average | Min | Max |")
             lines.append("|---|---|---|---|---|")
-            for name, ud in sorted(unit_data, key=lambda x: x[1]["count"], reverse=True)[:30]:
+            for name, ud in sorted(unit_data, key=lambda x: x[1]["count"], reverse=True):
                 avg = ud["total"] / ud["count"] if ud["count"] else 0
                 lines.append(f"| {name} | {ud['count']} | {avg:.0f}% | {ud['min']:.0f}% | {ud['max']:.0f}% |")
         else:
             lines.append(f"| Contaminant | Releases | {unit_key} |")
             lines.append("|---|---|---|")
-            for name, ud in sorted(unit_data, key=lambda x: x[1]["total"], reverse=True)[:50]:
+            ud_sorted = sorted(unit_data, key=lambda x: x[1]["total"], reverse=True)
+            for name, ud in (ud_sorted if full else ud_sorted[:50]):
                 lines.append(f"| {name} | {ud['count']} | {ud['total']:,.0f} |")
         lines.append("")
 
@@ -191,12 +192,13 @@ def _write_contaminants_md(output_dir):
             lines.append("")
         lines.append("| Contaminant | Releases | POUNDS |")
         lines.append("|---|---|---|")
-        for name, yu in sorted(yr_data, key=lambda x: x[1]["total"], reverse=True)[:20]:
+        yr_sorted = sorted(yr_data, key=lambda x: x[1]["total"], reverse=True)
+        for name, yu in (yr_sorted if full else yr_sorted[:20]):
             lines.append(f"| {name} | {yu['count']} | {yu['total']:,.0f} |")
         lines.append("")
 
     lines.append("")
-    md_path = Path("CONTAMINANTS.md")
+    md_path = Path("CONTAMINANTS-full.md" if full else "CONTAMINANTS.md")
     md_path.write_text("\n".join(lines))
     print(f"Wrote {len(data)} contaminants to {md_path}")
 
@@ -450,6 +452,7 @@ def process_all():
     debug = False
     force_regen = "--force-regen" in sys.argv
     gen_contaminants = "--contaminants" in sys.argv
+    gen_contaminants_full = "--contaminants-full" in sys.argv
     args = sys.argv[1:]
     if "--debug" in args:
         limit = 10
@@ -462,9 +465,8 @@ def process_all():
             break
     if force_regen:
         print("[--force-regen] ignoring cached .html.json and .xls.csv\n")
-    if gen_contaminants:
-        # Just regenerate CONTAMINANTS.md from existing output, then exit
-        _write_contaminants_md(output_dir)
+    if gen_contaminants or gen_contaminants_full:
+        _write_contaminants_md(output_dir, full=gen_contaminants_full)
         return
 
     input_dir = Path("incident_full_data")

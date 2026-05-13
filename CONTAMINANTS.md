@@ -201,6 +201,99 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | CARBON BLACK | 6 | 51% | 18% | 70% |
 | Ethylene (gaseous) | 5 | 64% | 0% | 173% |
 | Propylene (Propene) | 5 | 170% | 0% | 798% |
+| PM (unspeciated) | 5 | 49% | 25% | 100% |
+| Diesel fuel 2-D | 5 | 40% | 35% | 49% |
+| Butane | 4 | 710% | 0% | 2093% |
+| Hexane | 4 | 356% | 0% | 892% |
+| Calcined Alumina Dust | 4 | 36% | 0% | 86% |
+| Sodium hypochlorite | 4 | 1% | 0% | 1% |
+| Opacity No.1 - 2323 | 4 | 65% | 30% | 100% |
+| Nitrogen dioxide | 3 | 3% | 0% | 8% |
+| Pentane, N- | 3 | 86% | 0% | 205% |
+| Toluene | 3 | 13% | 0% | 38% |
+| Trans-2-butene | 3 | 4% | 0% | 10% |
+| Ethane | 3 | 6% | 1% | 11% |
+| Ammonia | 3 | 34% | 0% | 101% |
+| VOCs | 3 | 2939% | 1% | 8739% |
+| Carbon Dioxide | 3 | 93% | 90% | 100% |
+| Lead | 3 | 29% | 1% | 80% |
+| Calcium oxide | 3 | 67% | 50% | 100% |
+| fire water and smoke | 3 | 83% | 75% | 100% |
+| Benzene | 2 | 31% | 23% | 40% |
+| Butane, N- | 2 | 99% | 75% | 123% |
+| pentane, iso- | 2 | 27% | 2% | 52% |
+| Propylene | 2 | 0% | 0% | 0% |
+| Ethylbenzene | 2 | 7% | 0% | 13% |
+| Xylene | 2 | 0% | 0% | 0% |
+| 1-Butene | 2 | 10% | 5% | 14% |
+| Octane | 2 | 16% | 0% | 32% |
+| Isobutene | 2 | 1% | 0% | 2% |
+| H2S | 2 | 96% | 91% | 102% |
+| PM2.5 | 2 | 42% | 10% | 75% |
+| n-butanol | 2 | 51% | 6% | 97% |
+| PM10 Carbon-C | 2 | 35% | 20% | 50% |
+| SULFUR-S | 2 | 100% | 100% | 100% |
+| Dust | 2 | 30% | 25% | 35% |
+| Baghouse Dust (K061) | 2 | 41% | 35% | 46% |
+| Isopentane | 1 | 1206% | 1206% | 1206% |
+| Cis-2-butene | 1 | 18% | 18% | 18% |
+| Butene | 1 | 5% | 5% | 5% |
+| Methane | 1 | 10% | 10% | 10% |
+| Cyclohexane | 1 | 118% | 118% | 118% |
+| Butanes | 1 | 3403% | 3403% | 3403% |
+| Hexanes | 1 | 1% | 1% | 1% |
+| Heptane (or n-) | 1 | 1% | 1% | 1% |
+| Propane, N- | 1 | 7045% | 7045% | 7045% |
+| Volatile Organic Compounds | 1 | 1126% | 1126% | 1126% |
+| Hydrogen cyanide | 1 | 11% | 11% | 11% |
+| n-pentane | 1 | 8% | 8% | 8% |
+| Xylene (mixed isomers) | 1 | 45% | 45% | 45% |
+| Heptanes | 1 | 914% | 914% | 914% |
+| Ethylene oxide | 1 | 13% | 13% | 13% |
+| Cyclopentane | 1 | 2% | 2% | 2% |
+| Carbonyl sulfide | 1 | 100% | 100% | 100% |
+| Propylene oxide | 1 | 4% | 4% | 4% |
+| Formaldehyde | 1 | 100% | 100% | 100% |
+| Methylcyclopentane | 1 | 55% | 55% | 55% |
+| PM10 C.I. DIRECT BLACK 38 | 1 | 35% | 35% | 35% |
+| t-2-butene | 1 | 4% | 4% | 4% |
+| NOx (Startup/Shutdown) | 1 | 30% | 30% | 30% |
+| 2-Methyl-1-butene | 1 | 106% | 106% | 106% |
+| C5 Plus | 1 | 0% | 0% | 0% |
+| Water (H2O) | 1 | 1% | 1% | 1% |
+| Crude Oil | 1 | 10% | 10% | 10% |
+| Gasoline | 1 | 20% | 20% | 20% |
+| Propionitrile | 1 | 0% | 0% | 0% |
+| VOC MIXTURE | 1 | 0% | 0% | 0% |
+| Other (VOCs) | 1 | 0% | 0% | 0% |
+| Silicon dioxide (PM) | 1 | 35% | 35% | 35% |
+| trans-2-Pentene | 1 | 12% | 12% | 12% |
+| 2-methylbutene-1 | 1 | 2% | 2% | 2% |
+| Gas Oil | 1 | 30% | 30% | 30% |
+| Cement (wet or dry) | 1 | 5% | 5% | 5% |
+| 2-methyl-butane | 1 | 77% | 77% | 77% |
+| Wash Oil | 1 | 20% | 20% | 20% |
+| Butyl Alcohol, n- | 1 | 1% | 1% | 1% |
+| Unknown | 1 | 30% | 30% | 30% |
+| HAPS (5) | 1 | 100% | 100% | 100% |
+| OIL | 1 | 100% | 100% | 100% |
+| Sodium sulfate (solution) | 1 | 1% | 1% | 1% |
+| PM10 Wood dust (nonallergenic) | 1 | 60% | 60% | 60% |
+| Green Petroleum Coke Fly Ash | 1 | 46% | 46% | 46% |
+| Cement Kiln Dust | 1 | 54% | 54% | 54% |
+| PM10 Carbon black | 1 | 40% | 40% | 40% |
+| Wood dust (nonallergenic) | 1 | 2% | 2% | 2% |
+| Paint waste | 1 | 20% | 20% | 20% |
+| Rust scale | 1 | 95% | 95% | 95% |
+| HPV VISIBLE EMISSIONS | 1 | 100% | 100% | 100% |
+| 1,2,3 trimethyl indene | 1 | 10% | 10% | 10% |
+| Smoking Emission | 1 | 5% | 5% | 5% |
+| Heavy crude oil | 1 | 25% | 25% | 25% |
+| Water contaminated by firefighting foam | 1 | 40% | 40% | 40% |
+| Crude oil / Produced Water | 1 | 50% | 50% | 50% |
+| crude oil | 1 | 50% | 50% | 50% |
+| Oxyalkylated alkyphenolic resin | 1 | 2% | 2% | 2% |
+| polycarbonate | 1 | 100% | 100% | 100% |
 
 ## By year (POUNDS, top 20)
 
