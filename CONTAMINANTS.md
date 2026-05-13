@@ -2,8 +2,10 @@
 
 2108 unique compounds tracked across 568,670 emission records.
 
-Quantities are only comparable within the same unit. % Opacity is a
-measurement of visible emissions, not a mass.
+POUNDS is total mass released over the event. LBS/HR is an
+instantaneous emission rate. TONS/YR is an annualized estimate.
+These measure different things and can't be compared or summed.
+% Opacity measures visible plume density, not mass.
 
 | Contaminant | Records | Quantity | Unit |
 |---|---|---|---|
