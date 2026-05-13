@@ -22,14 +22,11 @@ gaz_place_48.txt
 *.html.json
 *.xls.csv
 
-# Uncompressed output files (too large for GitHub; use .gz versions)
+# Uncompressed output files (too large for GitHub; use .zip versions)
 output/incidents.csv
 output/incidents.jsonl
 output/incident_contaminants.csv
+output/eer_master_all.csv
 
 # Temp files
 wget-log
-eer_master_all.parquet
-eer_master_all.csv
-output/eer_master_all.parquet
-output/eer_master_all.parquet.gz

@@ -1,16 +1,18 @@
-"""Compress output files that exceed GitHub's 100 MB file size limit."""
+"""Compress output files that exceed GitHub's 100 MB file size limit.
 
-import gzip
-import shutil
+Uses zip so non-technical folks can open them without installing anything.
+"""
+
+import zipfile
 from pathlib import Path
 
 
 def compress_file(path, keep_original=False):
-    """Gzip a file in place, removing the original unless keep_original."""
-    gz_path = path.with_suffix(path.suffix + ".gz")
-    print(f"  {path.name} ({path.stat().st_size / 1024**2:.0f} MB) -> {gz_path.name}")
-    with path.open("rb") as src, gzip.open(gz_path, "wb", compresslevel=6) as dst:
-        shutil.copyfileobj(src, dst)
+    """Zip a file in place, removing the original unless keep_original."""
+    zip_path = path.with_suffix(path.suffix + ".zip")
+    print(f"  {path.name} ({path.stat().st_size / 1024**2:.0f} MB) -> {zip_path.name}")
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED, compresslevel=6) as zf:
+        zf.write(path, path.name)
     if not keep_original:
         path.unlink()
 
@@ -27,10 +29,9 @@ def main():
     print("Compressing output files...\n")
     for name in targets:
         path = output_dir / name
-        gz_path = output_dir / (name + ".gz")
+        zip_path = path.with_suffix(path.suffix + ".zip")
         if not path.exists():
-            # Already compressed — skip or decompress then recompress
-            if gz_path.exists():
+            if zip_path.exists():
                 print(f"  {name} already compressed, skipping")
                 continue
             print(f"  {name} not found, skipping")
