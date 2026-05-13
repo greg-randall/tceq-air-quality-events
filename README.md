@@ -3,25 +3,23 @@
 TCEQ publishes air emission event reports on their website, but the
 data is split across 102,551 individual pages and Excel files with no
 bulk download. This pipeline scrapes, parses, and geocodes all of it
-into clean CSVs you can actually work with.
+into clean CSVs.
 
-Locations are geocoded at varying precision — some are street-level
-hits, others are city or county centroids where the address was a
-driving direction or a rural description. It's the best you can get
-from the source data, but don't expect survey-grade coordinates.
+The reports cover incidents from 2004 to 2025: an oil refinery flare in
+Harris County, a compressor station upset in Ector County, a chemical
+plant shutdown in Gray County. Some addresses are street-level ("1221
+FULWILER RD; ABILENE, TX 79603"), others are driving directions
+("TURN LEFT ONTO W UNIVERSITY BLVD..."). There are 1,373 operators,
+2,108 distinct contaminants, and events range from under an hour to
+several weeks.
 
-## Scope
+The only columns we add are `latitude`, `longitude`, and
+`geocode_source`. Everything else comes straight from the TCEQ reports.
+Coordinates are geocoded at the best precision the source address
+allows — street-level when we can get it, city or county centroid when
+the address was a highway intersection or a rural description.
 
-| | |
-|---|---|
-| **Incidents** | 102,551 (May 2026) |
-| **Date range** | Jan 2004 to Dec 2025 |
-| **Counties** | 211 |
-| **Event types** | 5 (air startup, air shutdown, emissions event, excess opacity, maintenance) |
-| **Operators** | 1,373 |
-| **Contaminants** | 2,108 unique compounds |
-| **Geocode coverage** | All incidents have lat/lon; precision varies by address quality |
-| **Source** | [TCEQ Air Emission Event Reports](https://www2.tceq.texas.gov/oce/eer/index.cfm) |
+Source: [TCEQ Air Emission Event Reports](https://www2.tceq.texas.gov/oce/eer/index.cfm)
 
 ## Output files
 
@@ -33,7 +31,7 @@ open them without extra software.
 | `output/eer_master_all.csv.zip` | CSV | 102,551 | Merged dataset from monthly exports |
 | `output/incidents.csv.zip` | CSV | 102,551 | Flat metadata, narrative text, lat/lon |
 | `output/incidents.jsonl.zip` | JSONL | 102,551 | Parsed incidents with nested emissions and lat/lon |
-| `output/incident_contaminants.csv.zip` | CSV | 568,661 | One row per contaminant, denormalized |
+| `output/incident_contaminants.csv.zip` | CSV | 568,661 | One row per contaminant, incident columns repeated |
 
 ### incidents.csv (24 columns)
 
@@ -69,9 +67,11 @@ can have embedded newlines.
 
 ### incident_contaminants.csv (21 columns)
 
-Denormalized, one row per contaminant per emission point. An incident
-with three contaminants at two emission points produces six rows. Join
-to `incidents.csv` on `incident_id`.
+One row per contaminant per emission point — an incident with three
+contaminants at two emission points produces six rows. The incident
+metadata columns are repeated on each row, so you can filter by county
+or date without joining. If you need the narrative text, join to
+`incidents.csv` on `incident_id`.
 
 | Column | Description |
 |---|---|
@@ -89,74 +89,50 @@ to `incidents.csv` on `incident_id`.
 
 ### incidents.jsonl
 
-One JSON object per line. Same metadata fields as `incidents.csv`, plus
-nested arrays:
+One JSON object per line. Same fields as `incidents.csv`, plus nested
+`facilities`, `process_units`, and `emission_points`. A real entry
+looks roughly like:
 
-- `facilities`: `[{"name": "...", "fin": "..."}, ...]`
-- `process_units`: `["Unit 1", "Unit 2", ...]`
-- `emission_points`: `[{"name": "...", "epn": "...", "contaminants": [{"description": "...", "est_quantity": ..., "units": "...", "emission_limit": ..., "limit_units": "...", "authorization": "..."}, ...]}, ...]`
+```json
+{
+  "incident_id": "159622",
+  "county": "HARRISON",
+  "event_type": "AIR SHUTDOWN",
+  "event_start": "10/14/2011 11:00 PM",
+  "owner_name": "SOUTHWESTERN ELECTRIC POWER COMPANY",
+  "physical_location": "2400 FM 3251; HALLSVILLE, TX 75650",
+  "latitude": 32.472652887918,
+  "longitude": -94.47314906774,
+  "geocode_source": "census",
+  "facilities": [
+    {"name": "Unit #1 Boiler", "fin": "P-16"}
+  ],
+  "emission_points": [
+    {
+      "name": "Boiler Stack",
+      "epn": "16",
+      "contaminants": [
+        {
+          "description": "Opacity",
+          "est_quantity": 20.0,
+          "units": "% OPACITY",
+          "emission_limit": 20.0,
+          "limit_units": "% OPACITY",
+          "authorization": "R6269"
+        }
+      ]
+    }
+  ]
+}
+```
 
 ## Pipeline
 
-```
-1.py
-  Download monthly Excel exports (2003–present)
-  POST monthly search, GET Excel download
-
-  -> eer_monthly_exports/
-       eer_2003-02.xls
-       eer_2003-02.csv
-       ...
-
-2.py
-  Combine all monthly exports
-  Merge + deduplicate, write per-file CSV
-
-  -> output/
-       eer_master_all.csv      102,551 rows (May 2026)
-       eer_master_all.parquet
-
-3.py
-  Download per-incident detail HTML + emission XLS
-  8 threads, adaptive rate limiting, 404 log
-
-  -> incident_full_data/
-       2003-02/
-         2003-02-01_13981.html
-         2003-02-01_13981.xls
-         ...
-
-4.py
-  Parse HTML into structured data, geocode addresses inline
-  15 threads (cores-1). Caches parsed results as .html.json
-  beside each HTML file; converts XLS to .xls.csv on first run.
-  --debug (random 10), --limit N, --force-regen
-
-  -> incident_full_data/
-       *.html.json              per-file parse caches
-       *.xls.csv                per-file emissions CSVs
-  -> output/
-       incidents.jsonl          nested, with lat/lon
-       incidents.csv            flat metadata, with lat/lon
-       incident_contaminants.csv denormalized, with lat/lon
-  -> geocode_cache.jsonl        address cache (JSONL)
-  -> texas_city_coords.json     1,841 Texas place coords
-
-5.py
-  Zip output files for GitHub (uncompressed they're 150-300 MB)
-
-  -> output/
-       incidents.csv.zip         ~37 MB
-       incidents.jsonl.zip       ~55 MB
-       incident_contaminants.csv.zip  ~12 MB
-       eer_master_all.csv.zip    ~3 MB
-```
-
-- **1.py** — POSTs a monthly search to TCEQ, downloads Excel results. Skips already-downloaded months unless they're recent.
-- **2.py** — Merges all monthly Excel files into a master dataset, writes a CSV next to each `.xls`.
-- **3.py** — Downloads each incident's detail HTML and emission XLS. 8 threads, throttles itself against TCEQ's rate limits, logs 404s so the next run skips nonexistent incidents.
-- **4.py** — Parses HTML with BeautifulSoup, geocodes addresses. `--debug` pulls 10 random files. `--limit N` takes the first N. `--force-regen` ignores `.html.json` caches and re-parses everything.
-- **5.py** — Zips output files so they fit under GitHub's 100 MB file size limit.
+1. **1.py** — POSTs a monthly search to TCEQ, downloads the Excel results. Skips months that are already downloaded unless they're recent. Output: `eer_monthly_exports/`.
+2. **2.py** — Merges all 279 monthly files into one dataset (102,551 rows), deduplicates, writes `output/eer_master_all.csv` and a matching `.parquet`.
+3. **3.py** — Downloads each incident's detail HTML and emission XLS from TCEQ. 8 threads, adaptive rate limiting, logs 404s so the next run skips nonexistent incidents. Output: `incident_full_data/{month}/`.
+4. **4.py** — Parses every HTML file with BeautifulSoup, geocodes addresses inline (15 threads). Caches parsed results as `.html.json` alongside each HTML so subsequent runs skip the parse. Converts XLS to `.xls.csv` on first encounter. Output: `output/incidents.jsonl`, `output/incidents.csv`, `output/incident_contaminants.csv`.
+5. **5.py** — Zips the four output files so they slide under GitHub's 100 MB file size limit. Output: `.zip` versions in `output/`.
 
 ## Geocoding
 
