@@ -29,7 +29,7 @@ def _write_contaminants_md(output_dir):
         print("incident_contaminants.csv not found, run 4.py first")
         return
 
-    data = defaultdict(lambda: {"count": 0, "by_unit": defaultdict(lambda: 0)})
+    data = defaultdict(lambda: {"count": 0, "by_unit": defaultdict(lambda: {"count": 0, "total": 0})})
     with cont_csv.open() as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -38,7 +38,8 @@ def _write_contaminants_md(output_dir):
             data[name]["count"] += 1
             try:
                 qty = float(row.get("est_quantity", 0) or 0)
-                data[name]["by_unit"][unit] += qty
+                data[name]["by_unit"][unit]["total"] += qty
+                data[name]["by_unit"][unit]["count"] += 1
             except (ValueError, TypeError):
                 pass
 
@@ -62,9 +63,9 @@ def _write_contaminants_md(output_dir):
         # Gather contaminants that have this unit
         unit_data = []
         for name, info in top:
-            qty = info["by_unit"].get(unit_key)
-            if qty is not None and qty > 0:
-                unit_data.append((name, info["count"], qty))
+            ud = info["by_unit"].get(unit_key)
+            if ud is not None and ud["total"] > 0:
+                unit_data.append((name, ud["count"], ud["total"]))
         if not unit_data:
             continue
 
@@ -73,8 +74,8 @@ def _write_contaminants_md(output_dir):
         lines.append("")
         lines.append(f"| Contaminant | Releases | {unit_key} |")
         lines.append("|---|---|---|")
-        for name, count, qty in sorted(unit_data, key=lambda x: x[2], reverse=True)[:50]:
-            lines.append(f"| {name} | {count} | {qty:,.0f} |")
+        for name, count, total in sorted(unit_data, key=lambda x: x[2], reverse=True)[:50]:
+            lines.append(f"| {name} | {count} | {total:,.0f} |")
         lines.append("")
     md_path = Path("CONTAMINANTS.md")
     md_path.write_text("\n".join(lines))
