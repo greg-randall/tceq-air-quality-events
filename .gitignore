@@ -31,3 +31,5 @@ output/incident_contaminants.csv
 wget-log
 eer_master_all.parquet
 eer_master_all.csv
+output/eer_master_all.parquet
+output/eer_master_all.parquet.gz

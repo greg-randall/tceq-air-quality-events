@@ -22,7 +22,6 @@ def main():
         "incidents.jsonl",
         "incident_contaminants.csv",
         "eer_master_all.csv",
-        "eer_master_all.parquet",
     ]
 
     print("Compressing output files...\n")
