@@ -29,7 +29,8 @@ def _write_contaminants_md(output_dir):
         print("incident_contaminants.csv not found, run 4.py first")
         return
 
-    data = defaultdict(lambda: {"count": 0, "by_unit": defaultdict(lambda: {"count": 0, "total": 0})})
+    data = defaultdict(lambda: {"count": 0, "by_unit": defaultdict(
+        lambda: {"count": 0, "total": 0, "min": None, "max": None})})
     with cont_csv.open() as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -38,8 +39,13 @@ def _write_contaminants_md(output_dir):
             data[name]["count"] += 1
             try:
                 qty = float(row.get("est_quantity", 0) or 0)
-                data[name]["by_unit"][unit]["total"] += qty
-                data[name]["by_unit"][unit]["count"] += 1
+                ud = data[name]["by_unit"][unit]
+                ud["total"] += qty
+                ud["count"] += 1
+                if ud["min"] is None or qty < ud["min"]:
+                    ud["min"] = qty
+                if ud["max"] is None or qty > ud["max"]:
+                    ud["max"] = qty
             except (ValueError, TypeError):
                 pass
 
@@ -53,29 +59,49 @@ def _write_contaminants_md(output_dir):
     ]
 
     tables = [
-        ("POUNDS", "Total mass released over the event"),
-        ("LBS/HR", "Instantaneous emission rate"),
-        ("TONS/YR", "Annualized estimate"),
-        ("% OPACITY", "Visible plume density, not mass"),
+        ("POUNDS",
+         "Total mass released across all events. Each row shows the sum of all "
+         "reported quantities for that contaminant in pounds, plus how many "
+         "individual releases made up that total."),
+        ("LBS/HR",
+         "Instantaneous emission rate in pounds per hour. This is a rate at a "
+         "moment in time, not a total — you can't compare these directly with "
+         "the POUNDS table without knowing how long each release lasted."),
+        ("TONS/YR",
+         "Annualized estimate in tons per year. A small number here can mean "
+         "either a small release or a short-duration event annualized. These "
+         "are estimates, not measured totals."),
+        ("% OPACITY",
+         "How dense the visible plume was, as a percentage. This is about "
+         "appearance, not mass — 100% means you can't see through it at all. "
+         "Not comparable with the mass tables above."),
     ]
 
     for unit_key, desc in tables:
-        # Gather contaminants that have this unit
         unit_data = []
         for name, info in top:
             ud = info["by_unit"].get(unit_key)
-            if ud is not None and ud["total"] > 0:
-                unit_data.append((name, ud["count"], ud["total"]))
+            if ud is not None and ud["count"] > 0:
+                unit_data.append((name, ud))
         if not unit_data:
             continue
 
         lines.append(f"### {unit_key}")
-        lines.append(f"{desc}.")
         lines.append("")
-        lines.append(f"| Contaminant | Releases | {unit_key} |")
-        lines.append("|---|---|---|")
-        for name, count, total in sorted(unit_data, key=lambda x: x[2], reverse=True)[:50]:
-            lines.append(f"| {name} | {count} | {total:,.0f} |")
+        lines.append(desc)
+        lines.append("")
+
+        if unit_key == "% OPACITY":
+            lines.append("| Contaminant | Releases | Average | Min | Max |")
+            lines.append("|---|---|---|---|---|")
+            for name, ud in sorted(unit_data, key=lambda x: x[1]["count"], reverse=True)[:30]:
+                avg = ud["total"] / ud["count"] if ud["count"] else 0
+                lines.append(f"| {name} | {ud['count']} | {avg:.0f}% | {ud['min']:.0f}% | {ud['max']:.0f}% |")
+        else:
+            lines.append(f"| Contaminant | Releases | {unit_key} |")
+            lines.append("|---|---|---|")
+            for name, ud in sorted(unit_data, key=lambda x: x[1]["total"], reverse=True)[:50]:
+                lines.append(f"| {name} | {ud['count']} | {ud['total']:,.0f} |")
         lines.append("")
     md_path = Path("CONTAMINANTS.md")
     md_path.write_text("\n".join(lines))

@@ -3,7 +3,8 @@
 2108 unique compounds tracked across 568,670 reported releases.
 
 ### POUNDS
-Total mass released over the event.
+
+Total mass released across all events. Each row shows the sum of all reported quantities for that contaminant in pounds, plus how many individual releases made up that total.
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
@@ -59,7 +60,8 @@ Total mass released over the event.
 | Butane, i | 3867 | 1,545,853 |
 
 ### LBS/HR
-Instantaneous emission rate.
+
+Instantaneous emission rate in pounds per hour. This is a rate at a moment in time, not a total — you can't compare these directly with the POUNDS table without knowing how long each release lasted.
 
 | Contaminant | Releases | LBS/HR |
 |---|---|---|
@@ -115,7 +117,8 @@ Instantaneous emission rate.
 | Butanes | 2 | 176 |
 
 ### TONS/YR
-Annualized estimate.
+
+Annualized estimate in tons per year. A small number here can mean either a small release or a short-duration event annualized. These are estimates, not measured totals.
 
 | Contaminant | Releases | TONS/YR |
 |---|---|---|
@@ -133,57 +136,38 @@ Annualized estimate.
 | Oxides of Nitrogen (NOx) | 1 | 0 |
 
 ### % OPACITY
-Visible plume density, not mass.
 
-| Contaminant | Releases | % OPACITY |
-|---|---|---|
-| Opacity | 24337 | 1,153,837 |
-| Sulfur dioxide | 106 | 611,710 |
-| NATURAL GAS | 12 | 72,090 |
-| Carbon Monoxide | 44 | 35,151 |
-| Visible Emissions | 2640 | 20,883 |
-| Particulate Matter | 78 | 14,013 |
-| VOCs | 3 | 8,816 |
-| SO2 | 2 | 8,462 |
-| Smoke | 876 | 8,055 |
-| Propane, N- | 1 | 7,045 |
-| Non-Methane Non-Ethane Natural Gas | 17 | 6,255 |
-| VOC GAS MIXTURE | 11 | 4,078 |
-| Hydrogen Sulfide | 49 | 3,785 |
-| Butanes | 1 | 3,403 |
-| Nitrogen oxide | 13 | 3,127 |
-| Butane | 4 | 2,842 |
-| VOC | 23 | 2,790 |
-| NOX | 24 | 2,263 |
-| Propane | 12 | 1,996 |
-| Natural Gas VOCs | 12 | 1,777 |
-| Oxides of Nitrogen (NOx) | 7 | 1,513 |
-| Pentane | 7 | 1,440 |
-| CO | 4 | 1,437 |
-| Hexane | 4 | 1,424 |
-| Isopentane | 1 | 1,206 |
-| Volatile Organic Compounds | 1 | 1,126 |
-| 1,3-BUTADIENE | 6 | 1,118 |
-| Heptanes | 1 | 914 |
-| Propylene (Propene) | 5 | 851 |
-| Cement Dust | 14 | 777 |
-| Alumina | 12 | 687 |
-| Other material | 13 | 677 |
-| Nitrogen Oxides | 14 | 622 |
-| Other | 9 | 560 |
-| PM10 | 17 | 458 |
-| Alumina Hydrate Dust | 7 | 368 |
-| Soda Ash | 8 | 310 |
-| CARBON BLACK | 6 | 303 |
-| Carbon Dioxide | 3 | 280 |
-| Opacity No.1 - 2323 | 4 | 260 |
-| Pentane, N- | 3 | 259 |
-| fire water and smoke | 3 | 250 |
-| PM (unspeciated) | 5 | 243 |
-| VOC (unspeciated) | 3 | 240 |
-| Ethylene (gaseous) | 3 | 222 |
-| Isobutane | 6 | 202 |
-| Diesel fuel 2-D | 5 | 202 |
-| Calcium oxide | 3 | 200 |
-| SULFUR-S | 2 | 200 |
-| Butane, N- | 2 | 198 |
+How dense the visible plume was, as a percentage. This is about appearance, not mass — 100% means you can't see through it at all. Not comparable with the mass tables above.
+
+| Contaminant | Releases | Average | Min | Max |
+|---|---|---|---|---|
+| Opacity | 24337 | 47% | 0% | 5458% |
+| Visible Emissions | 2640 | 8% | 0% | 100% |
+| Smoke | 876 | 9% | 0% | 100% |
+| Sulfur dioxide | 106 | 5771% | 0% | 127807% |
+| Particulate Matter | 78 | 180% | 0% | 7839% |
+| Hydrogen Sulfide | 49 | 77% | 0% | 854% |
+| Carbon Monoxide | 44 | 799% | 0% | 12041% |
+| NOX | 24 | 94% | 0% | 544% |
+| VOC | 23 | 121% | 0% | 1015% |
+| VOC - NONMETHANE | 20 | 3% | 0% | 37% |
+| Non-Methane Non-Ethane Natural Gas | 17 | 368% | 34% | 2989% |
+| PM10 | 17 | 27% | 0% | 100% |
+| Nitrogen Oxides | 14 | 44% | 0% | 207% |
+| Cement Dust | 14 | 55% | 20% | 100% |
+| Nitrogen oxide | 13 | 241% | 0% | 2145% |
+| Other material | 13 | 52% | 9% | 100% |
+| Propane | 12 | 166% | 0% | 1027% |
+| NATURAL GAS | 12 | 6008% | 6% | 53777% |
+| Natural Gas VOCs | 12 | 148% | 52% | 595% |
+| Alumina | 12 | 57% | 20% | 100% |
+| VOC GAS MIXTURE | 11 | 371% | 10% | 3351% |
+| Other | 9 | 62% | 15% | 100% |
+| PM10 Silica,crystalline | 9 | 2% | 0% | 10% |
+| Soda Ash | 8 | 39% | 5% | 90% |
+| Oxides of Nitrogen (NOx) | 7 | 216% | 5% | 525% |
+| Pentane | 7 | 206% | 0% | 797% |
+| Alumina Hydrate Dust | 7 | 53% | 0% | 85% |
+| Isobutane | 6 | 34% | 0% | 79% |
+| 1,3-BUTADIENE | 6 | 186% | 1% | 579% |
+| CARBON BLACK | 6 | 51% | 18% | 70% |
