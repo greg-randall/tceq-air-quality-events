@@ -4,6 +4,7 @@ import os
 import random
 import re
 import sys
+from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
@@ -22,21 +23,29 @@ def _xls_to_csv(xls_path, csv_path):
 
 def _write_contaminants_md(output_dir):
     """Generate CONTAMINANTS.md from the contaminant CSV."""
-    from collections import defaultdict
-
     cont_csv = output_dir / "incident_contaminants.csv"
     if not cont_csv.exists():
         print("incident_contaminants.csv not found, run 4.py first")
         return
 
-    data = defaultdict(lambda: {"count": 0, "by_unit": defaultdict(
-        lambda: {"count": 0, "total": 0, "min": None, "max": None})})
+    # {name: {count, by_unit: {unit: {count, total, min, max}},
+    #          by_year: {year: {count, by_unit: {unit: {...}}}}}}
+    data = defaultdict(lambda: {
+        "count": 0,
+        "by_unit": defaultdict(lambda: {"count": 0, "total": 0, "min": None, "max": None}),
+        "by_year": defaultdict(lambda: {
+            "count": 0,
+            "by_unit": defaultdict(lambda: {"count": 0, "total": 0, "min": None, "max": None})
+        }),
+    })
+
     with cont_csv.open() as f:
         reader = csv.DictReader(f)
         for row in reader:
             name = row.get("contaminant", "")
             unit = row.get("units", "").strip()
             data[name]["count"] += 1
+            # Overall unit stats
             try:
                 qty = float(row.get("est_quantity", 0) or 0)
                 ud = data[name]["by_unit"][unit]
@@ -48,15 +57,53 @@ def _write_contaminants_md(output_dir):
                     ud["max"] = qty
             except (ValueError, TypeError):
                 pass
+            # Yearly breakdown
+            # event_start is MM/DD/YYYY HH:MM AM/PM
+            ds = (row.get("event_start", "") or "").split("/")
+            year = ds[-1][:4] if len(ds) >= 3 else ""
+            if year.isdigit():
+                data[name]["by_year"][year]["count"] += 1
+                try:
+                    qty2 = float(row.get("est_quantity", 0) or 0)
+                    yud = data[name]["by_year"][year]["by_unit"][unit]
+                    yud["total"] += qty2
+                    yud["count"] += 1
+                    if yud["min"] is None or qty2 < yud["min"]:
+                        yud["min"] = qty2
+                    if yud["max"] is None or qty2 > yud["max"]:
+                        yud["max"] = qty2
+                except (ValueError, TypeError):
+                    pass
 
     top = sorted(data.items(), key=lambda x: x[1]["count"], reverse=True)
+    total_releases = sum(v["count"] for v in data.values())
+    years = sorted({y for d in data.values() for y in d["by_year"]})
 
     lines = [
         "# Contaminants",
         "",
-        f"{len(data)} unique compounds tracked across {sum(v['count'] for v in data.values()):,} reported releases.",
+        f"{len(data)} unique compounds tracked across {total_releases:,} "
+        f"reported releases, {years[0]} to {years[-1]}.",
         "",
     ]
+
+    # ---- Yearly index ----
+    lines.append("## By year")
+    lines.append("")
+    lines.append("| Year | Releases | Worst contaminant |")
+    lines.append("|---|---|---|")
+    for y in years:
+        count = sum(d["by_year"].get(y, {}).get("count", 0) for d in data.values())
+        worst = max(data.items(), key=lambda x: x[1]["by_year"].get(y, {}).get("count", 0))
+        wname = worst[0]
+        wcount = worst[1]["by_year"].get(y, {}).get("count", 0)
+        wstr = f"{wname} ({wcount:,})" if wcount > 0 else ""
+        lines.append(f"| [{y}](#{y}) | {count:,} | {wstr} |")
+    lines.append("")
+
+    # ---- Overall unit tables ----
+    lines.append("## All years")
+    lines.append("")
 
     tables = [
         ("POUNDS",
@@ -105,6 +152,27 @@ def _write_contaminants_md(output_dir):
             for name, ud in sorted(unit_data, key=lambda x: x[1]["total"], reverse=True)[:50]:
                 lines.append(f"| {name} | {ud['count']} | {ud['total']:,.0f} |")
         lines.append("")
+
+    # ---- Per-year POUNDS tables ----
+    lines.append("## By year (POUNDS, top 20)")
+    lines.append("")
+    for y in years:
+        yr_data = []
+        for name, info in top:
+            yu = info["by_year"].get(y, {}).get("by_unit", {}).get("POUNDS")
+            if yu is not None and yu["count"] > 0:
+                yr_data.append((name, yu))
+        if not yr_data:
+            continue
+        lines.append(f"### {y}")
+        lines.append("")
+        lines.append("| Contaminant | Releases | POUNDS |")
+        lines.append("|---|---|---|")
+        for name, yu in sorted(yr_data, key=lambda x: x[1]["total"], reverse=True)[:20]:
+            lines.append(f"| {name} | {yu['count']} | {yu['total']:,.0f} |")
+        lines.append("")
+
+    lines.append("")
     md_path = Path("CONTAMINANTS.md")
     md_path.write_text("\n".join(lines))
     print(f"Wrote {len(data)} contaminants to {md_path}")
