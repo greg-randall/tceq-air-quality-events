@@ -79,13 +79,13 @@ def generate(output_dir, full=False):
 
     top = sorted(data.items(), key=lambda x: x[1]["count"], reverse=True)
     total_releases = sum(v["count"] for v in data.values())
-    years = sorted({y for d in data.values() for y in d["by_year"]})
+    years = sorted({y for d in data.values() for y in d["by_year"]}, reverse=True)
 
     lines = [
         "# Contaminants",
         "",
         f"{len(data)} unique compounds tracked across {total_releases:,} "
-        f"reported releases, {years[0]} to {years[-1]}.",
+        f"reported releases, {years[-1]} to {years[0]}.",
         "",
     ]
 
