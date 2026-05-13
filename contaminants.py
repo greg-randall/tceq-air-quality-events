@@ -94,9 +94,11 @@ def generate(output_dir, full=False):
     lines.append("")
     lines.append("| Year | Releases | Worst contaminant |")
     lines.append("|---|---|---|")
+    _non_contaminants = {"Opacity", "Visible Emissions", "Smoke", "Smoking Emission"}
     for y in years:
         count = sum(d["by_year"].get(y, {}).get("count", 0) for d in data.values())
-        worst = max(data.items(), key=lambda x: x[1]["by_year"].get(y, {}).get("count", 0))
+        worst = max((d for d in data.items() if d[0] not in _non_contaminants),
+                    key=lambda x: x[1]["by_year"].get(y, {}).get("count", 0))
         wname = worst[0]
         wcount = worst[1]["by_year"].get(y, {}).get("count", 0)
         wstr = f"{wname} ({wcount:,})" if wcount > 0 else ""
