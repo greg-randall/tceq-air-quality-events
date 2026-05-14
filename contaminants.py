@@ -92,7 +92,7 @@ def generate(output_dir, full=False):
     # ---- Yearly index ----
     lines.append("## By year")
     lines.append("")
-    lines.append("| Year | Releases | Worst contaminant |")
+    lines.append("| Year | Releases | Most releases |")
     lines.append("|---|---|---|")
     _non_contaminants = {"Opacity", "Visible Emissions", "Smoke", "Smoking Emission"}
     for y in years:

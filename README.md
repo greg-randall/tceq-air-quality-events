@@ -6,13 +6,18 @@ individual pages and Excel files. This pipeline pulls all of it into
 CSVs and JSONL so you can see who's dumping what into the air.
 
 The data covers 2004 through 2025. Refineries, compressor stations,
-chemical plants, pipeline blowdowns, tank venting — if it released
-something in Texas, it's probably in here. Some locations are street
+chemical plants, pipeline blowdowns, tank venting — if a facility put something in the air over Texas, it's probably in here. Some locations are street
 addresses, others are driving directions for well pads and pipeline
 segments that don't have one. 1,373 operators. [2,108 distinct
-contaminants](CONTAMINANTS.md). Releases range from under an hour to several weeks.
+contaminants](CONTAMINANTS.md) (top 50; [full table](CONTAMINANTS-full.md)). Some lasted under an hour. Others ran for weeks.
 It's a lot of sulfur dioxide, a lot of benzene, and a lot of things
 the state would rather you didn't think about.
+
+Most of these aren't accidents in any meaningful sense. The cause,
+actions, and basis columns are where operators explain, in clinical
+language, why the equipment that failed had been failing for months —
+or why the backup that should have caught it was offline, or never
+installed. The confessions are in the data if you read the narratives.
 
 A note on data quality: some of the reported numbers are clearly
 wrong. Sulfur dioxide is listed with an opacity of 127,807%. Opacity
