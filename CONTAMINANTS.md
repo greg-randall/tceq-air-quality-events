@@ -1,12 +1,12 @@
 # Contaminants
 
-1518 unique compounds tracked across 568,670 reported releases, 2003 to 2026.
+1524 unique compounds tracked across 574,250 reported releases, 2003 to 2026.
 
 ## By year
 
-| Year | Releases | Worst contaminant |
+| Year | Releases | Most releases |
 |---|---|---|
-| [2026](#2026) | 3,353 *(partial year)* | Carbon Monoxide (385) |
+| [2026](#2026) | 8,933 *(partial year)* | Carbon Monoxide (1,069) |
 | [2025](#2025) | 13,409 | Carbon Monoxide (1,570) |
 | [2024](#2024) | 13,482 | Carbon Monoxide (1,710) |
 | [2023](#2023) | 15,450 | Carbon Monoxide (1,682) |
@@ -39,56 +39,56 @@ Total mass released across all events. Each row shows the sum of all reported qu
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Sulfur dioxide | 54611 | 570,862,454 |
+| Sulfur dioxide | 55208 | 574,861,514 |
 | Carbon Dioxide | 1343 | 273,984,745 |
-| Carbon Monoxide | 62679 | 254,644,622 |
-| Natural Gas | 13386 | 103,845,428 |
-| Propane | 24662 | 68,104,057 |
-| Non-Methane Non-Ethane Natural Gas | 9841 | 49,529,663 |
-| Butanes | 36815 | 48,480,888 |
-| Methane | 2639 | 47,634,562 |
-| VOC | 16038 | 44,495,813 |
-| Nitrogen Oxides (NOx) | 45237 | 39,255,886 |
-| Ethylene | 13048 | 31,318,912 |
-| Natural Gas VOCs | 3453 | 29,432,747 |
-| Particulate Matter | 8733 | 19,856,168 |
-| Pentanes | 26298 | 18,999,854 |
-| Propylene | 12403 | 16,041,814 |
-| Nitrogen oxide | 13508 | 13,674,977 |
-| Hexanes | 14300 | 12,353,215 |
-| Hydrogen Sulfide | 49456 | 10,698,594 |
+| Carbon Monoxide | 63363 | 265,173,388 |
+| Natural Gas | 13389 | 103,851,394 |
+| Propane | 24905 | 68,784,047 |
+| Non-Methane Non-Ethane Natural Gas | 9927 | 49,664,321 |
+| Butanes | 37165 | 48,852,009 |
+| Methane | 2641 | 47,635,199 |
+| VOC | 16211 | 45,346,395 |
+| Nitrogen Oxides (NOx) | 45769 | 41,828,734 |
+| Ethylene | 13201 | 31,614,803 |
+| Natural Gas VOCs | 3545 | 30,102,017 |
+| Particulate Matter | 8851 | 19,945,632 |
+| Pentanes | 26474 | 19,177,683 |
+| Propylene | 12569 | 16,222,814 |
+| Nitrogen oxide | 13585 | 13,698,905 |
+| Hexanes | 14377 | 12,387,354 |
+| Hydrogen Sulfide | 49972 | 10,752,026 |
 | CONDENSATE | 11 | 9,679,065 |
-| Ethane | 2911 | 9,497,969 |
+| Ethane | 2914 | 9,500,321 |
 | Nitrogen | 771 | 4,377,867 |
-| Nitrogen dioxide | 13304 | 4,160,454 |
-| VOC GAS MIXTURE | 934 | 4,101,214 |
-| VOC - NONMETHANE | 2059 | 4,084,956 |
-| Butenes | 8384 | 2,799,151 |
-| Butadiene | 6235 | 2,767,283 |
-| Benzene | 11235 | 2,762,038 |
-| Toluene | 6342 | 2,407,801 |
-| Xylenes | 5286 | 2,066,999 |
-| Heptanes | 3629 | 1,513,584 |
+| VOC - NONMETHANE | 2276 | 4,237,633 |
+| Nitrogen dioxide | 13388 | 4,201,062 |
+| VOC GAS MIXTURE | 943 | 4,126,163 |
+| Butenes | 8480 | 2,822,944 |
+| Butadiene | 6306 | 2,781,486 |
+| Benzene | 11357 | 2,779,658 |
+| Toluene | 6398 | 2,412,454 |
+| Crude Oil | 125 | 2,265,840 |
+| Xylenes | 5343 | 2,070,464 |
+| Heptanes | 3680 | 1,540,966 |
 | Propylene Glycol Monomethyl Ether Acetate | 65 | 1,383,863 |
-| Ammonia | 2153 | 1,120,399 |
-| Ethanol | 164 | 996,518 |
-| Crude Oil | 123 | 956,160 |
-| Cyclohexane | 2401 | 926,943 |
-| Pentenes | 1892 | 910,585 |
+| Ammonia | 2177 | 1,131,176 |
+| Ethanol | 166 | 998,605 |
+| Cyclohexane | 2408 | 927,621 |
+| Pentenes | 1906 | 912,430 |
 | Hydrogen | 577 | 893,227 |
 | Nitrogen monoxide | 2755 | 890,709 |
-| n-hexane - 110543 | 105 | 875,592 |
-| Acetylene | 2542 | 849,713 |
+| n-hexane - 110543 | 106 | 875,597 |
+| Acetylene | 2569 | 850,472 |
 | NMNE Natural Gas | 97 | 800,708 |
 | Nitric oxide | 1839 | 764,388 |
 | VOC (light hydrocarbons) | 796 | 763,393 |
-| Unknown | 984 | 738,230 |
-| Ethylbenzene | 3496 | 712,193 |
-| Octanes | 2732 | 704,415 |
-| Methanol | 762 | 598,082 |
-| Cumene | 314 | 593,270 |
-| Isobutylene | 3180 | 592,070 |
-| Distillates (petroleum), alkylate | 6 | 590,753 |
+| Unknown | 990 | 740,473 |
+| LPG | 38 | 720,606 |
+| Ethylbenzene | 3526 | 712,972 |
+| Octanes | 2754 | 705,726 |
+| Isobutylene | 3227 | 606,006 |
+| Methanol | 769 | 598,529 |
+| Cumene | 316 | 593,271 |
 
 ### LBS/HR
 
@@ -171,7 +171,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | Average | Min | Max |
 |---|---|---|---|---|
-| Opacity | 27859 | 42% | 0% | 5458% |
+| Opacity | 27951 | 43% | 0% | 5458% |
 | Particulate Matter | 180 | 101% | 0% | 7839% |
 | Sulfur dioxide | 108 | 5742% | 0% | 127807% |
 | Hydrogen Sulfide | 51 | 78% | 0% | 854% |
@@ -250,26 +250,26 @@ How dense the visible plume was, estimated by a trained observer comparing again
 
 | Contaminant | Releases | POUNDS |
 |---|---|---|
-| Carbon Monoxide | 384 | 2,256,609 |
-| Sulfur dioxide | 257 | 1,919,448 |
-| Natural Gas VOCs | 131 | 692,849 |
-| Propane | 158 | 576,257 |
-| Non-Methane Non-Ethane Natural Gas | 56 | 565,778 |
-| Butanes | 258 | 513,277 |
-| Particulate Matter | 69 | 384,126 |
-| Nitrogen Oxides (NOx) | 336 | 370,333 |
+| Carbon Monoxide | 1068 | 12,785,375 |
+| Sulfur dioxide | 854 | 5,918,508 |
+| Nitrogen Oxides (NOx) | 868 | 2,943,181 |
+| Natural Gas VOCs | 223 | 1,362,118 |
+| Crude Oil | 3 | 1,311,376 |
+| Propane | 401 | 1,256,246 |
+| VOC | 290 | 949,052 |
+| Butanes | 608 | 884,397 |
+| Non-Methane Non-Ethane Natural Gas | 142 | 700,436 |
+| LPG | 1 | 563,700 |
+| Ethylene | 249 | 528,558 |
+| Particulate Matter | 187 | 473,590 |
+| Pentanes | 326 | 301,961 |
 | Carbon Dioxide | 1 | 287,307 |
-| Ethylene | 96 | 232,667 |
-| Pentanes | 150 | 124,132 |
-| Hexanes | 63 | 104,676 |
-| VOC | 117 | 98,470 |
-| Propylene | 101 | 98,304 |
-| VOC - NONMETHANE | 32 | 97,705 |
-| Ethanol | 5 | 50,287 |
-| Butanol | 11 | 47,239 |
-| Hydrogen Sulfide | 216 | 16,317 |
-| Hydrogen Chloride | 1 | 15,373 |
-| Natural Gas | 9 | 13,890 |
+| Propylene | 267 | 279,303 |
+| VOC - NONMETHANE | 249 | 250,382 |
+| Hexanes | 140 | 138,815 |
+| Hydrogen Sulfide | 732 | 69,749 |
+| Ethanol | 7 | 52,374 |
+| Butanol | 18 | 50,251 |
 
 ### 2025
 
@@ -692,7 +692,7 @@ How dense the visible plume was, estimated by a trained observer comparing again
 | Hydrogen Sulfide | 2221 | 379,901 |
 | Hexanes | 453 | 209,647 |
 | Methane | 110 | 178,425 |
-| #NAME? | 23 | 143,336 |
+| +C6 hydrocarbom | 7 | 133,680 |
 | Butenes | 495 | 109,156 |
 | Octanes | 79 | 108,475 |
 
